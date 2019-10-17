@@ -29,6 +29,7 @@ import sys #required to cancel script if blocked by Yahoo
 import shutil #required for deletung an old folder
 import glob #required to find the most recent message downloaded
 import time #required to log the date and time of run
+from lxml import html
 
 def archive_group(groupName, mode="update"):
 	log("\nArchiving group '" + groupName + "', mode: " + mode + " , on " + time.strftime("%c"), groupName)
@@ -56,7 +57,10 @@ def archive_group(groupName, mode="update"):
 		if os.path.exists(groupName):
 			shutil.rmtree(groupName)
 		min = 1
-		
+	elif mode == "files":
+		archive_group_files(groupName)
+		log("files archive finished", groupName)
+		return
 	else:
 		print ("You have specified an invalid mode (" + mode + ").")
 		print ("Valid modes are:\nupdate - add any new messages to the archive\nretry - attempt to get all messages that are not in the archive\nrestart - delete archive and start from scratch")
@@ -73,7 +77,68 @@ def archive_group(groupName, mode="update"):
 				msgsArchived = msgsArchived + 1
 	
 	log("Archive finished, archived " + str(msgsArchived) + ", time taken is " + str(time.time() - startTime) + " seconds", groupName)
-		
+
+def archive_group_files(groupName):
+	fileDir = os.path.join(os.curdir, groupName, 'files')
+	if not os.path.exists(fileDir):
+		os.makedirs(fileDir)
+	for file in yield_walk_files(groupName):
+		if file['fileType'] == 'data':
+			save_file(os.path.join(fileDir, file['parentDir'], file['name']), file['url'])
+		elif file['fileType'] == 'dir':
+			dirPath = os.path.join(fileDir, file['parentDir'], file['name'])
+			print(dirPath)
+			if not os.path.exists(dirPath):
+				os.makedirs(dirPath)
+
+def save_file(filePath, url):
+	s = requests.Session()
+	resp = s.get(url, cookies={'T': cookie_T, 'Y': cookie_Y})
+	
+	with open(filePath, "wb") as writeFile:
+		writeFile.write(resp.content)
+
+def yield_walk_files(groupName, urlPath='.', parentDir='.'):
+	url = f'https://groups.yahoo.com/neo/groups/{groupName}/files/{urlPath}/'
+	s = requests.Session()
+	resp = s.get(url, cookies={'T': cookie_T, 'Y': cookie_Y})
+	
+	tree = html.fromstring(resp.text)
+	
+	for el in tree.xpath('//*[@data-file]'):
+		data = json.loads('{%s}' % el.attrib['data-file'].encode('utf-8').decode('unicode-escape'))
+		if data['fileType'] == 'f':
+			yield {
+				'fileType': 'data',
+				'name': el.xpath('.//a/text()')[0],
+				'description': first_or_empty(el.xpath('.//span/text()')),
+				'parentDir': parentDir,
+				'profile': first_or_empty(el.xpath('.//*[@class="yg-list-auth"]/text()')), #author of the file
+				'date': first_or_empty(el.xpath('.//*[@class="yg-list-date"]/text()')), #upload date
+				
+				'url': el.xpath('.//@href')[0],
+				'mime': data['mime'],
+				'size': float(data['size']),
+			}
+		elif data['fileType'] == 'd':
+			name = el.xpath('.//a/text()')[0]
+			yield {
+				'fileType': 'dir',
+				'name': name,
+				'description': first_or_empty(el.xpath('.//span/text()')),
+				'parentDir': parentDir,
+				'profile': first_or_empty(el.xpath('.//*[@class="yg-list-auth"]/text()')), #author of the file
+				'date': first_or_empty(el.xpath('.//*[@class="yg-list-date"]/text()')), #upload date
+			}
+			yield from yield_walk_files(groupName, data['filePath'], os.path.join(parentDir, name))
+		else:
+			raise NotImplementedError("Unknown fileType %s, data was %s" % (
+				data['fileType'], json.dumps(data),
+			))
+	return resp
+
+def first_or_empty(l):
+	return l[0] if l else ''
 
 def group_messages_max(groupName):
 	s = requests.Session()
