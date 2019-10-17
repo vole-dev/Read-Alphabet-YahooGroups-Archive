@@ -23,39 +23,33 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 '''
 import email
-import HTMLParser
+from email import policy
+import html.parser
 import json
 import os
 import sys
 from datetime import datetime
 from natsort import natsorted, ns
 
-#To avoid Unicode Issues
-reload(sys)
-sys.setdefaultencoding('utf-8')
 
 def archiveYahooMessage(file, archiveFile, messageYear, format):
-     try:
-          f = open(archiveFile, 'a')
-          f.write(loadYahooMessage(file, format))
-          f.close()
-          print 'Yahoo Message: ' + file + ' archived to: archive-' + str(messageYear) + '.html'
-     except Exception as e:
-          print 'Yahoo Message: ' + file + ' had an error:'
-          print e
+    with open(archiveFile, 'a', encoding='utf-8') as f:
+        tmessage = loadYahooMessage(file, format)
+        f.write(tmessage)
+    print('Yahoo Message: ' + file + ' archived to: archive-' + str(messageYear) + '.html')
 
 def loadYahooMessage(file, format):
-    f1 = open(file,'r')
+    f1 = open(file, 'r', encoding='utf-8')
     fileContents=f1.read()
     f1.close()
     jsonDoc = json.loads(fileContents)
     emailMessageID = jsonDoc['ygData']['msgId']
-    emailMessageSender = HTMLParser.HTMLParser().unescape(jsonDoc['ygData']['from']).decode(format).encode('utf-8')
+    emailMessageSender = html.unescape(jsonDoc['ygData']['from'])
     emailMessageTimeStamp = jsonDoc['ygData']['postDate']
     emailMessageDateTime = datetime.fromtimestamp(float(emailMessageTimeStamp)).strftime('%Y-%m-%d %H:%M:%S')
-    emailMessageSubject = HTMLParser.HTMLParser().unescape(jsonDoc['ygData']['subject']).decode(format).encode('utf-8')
-    emailMessageString = HTMLParser.HTMLParser().unescape(jsonDoc['ygData']['rawEmail']).decode(format).encode('utf-8')
-    message = email.message_from_string(emailMessageString)
+    emailMessageSubject = html.unescape(jsonDoc['ygData'].get('subject', ''))
+    emailMessageString = html.unescape(jsonDoc['ygData']['rawEmail'])
+    message = email.message_from_string(emailMessageString, policy=policy.default)
     messageBody = getEmailBody(message)
     
     messageText = '-----------------------------------------------------------------------------------<br>'
@@ -69,7 +63,7 @@ def loadYahooMessage(file, format):
     return messageText
     
 def getYahooMessageYear(file):
-    f1 = open(file,'r')
+    f1 = open(file, 'r', encoding='utf-8')
     fileContents=f1.read()
     f1.close()
     jsonDoc = json.loads(fileContents)
@@ -88,7 +82,7 @@ def getEmailBody(message):
             # skip any text/plain (txt) attachments
             if ctype == 'text/plain' and 'attachment' not in cdispo:
                 body += '<pre>'
-                body += part.get_payload(decode=True)  # decode
+                body += part.get_content()
                 body += '</pre>'
                 break
     # not multipart - i.e. plain text, no attachments, keeping fingers crossed
@@ -96,7 +90,7 @@ def getEmailBody(message):
         ctype = message.get_content_type()
         if ctype != 'text/html':
              body += '<pre>'
-        body += message.get_payload(decode=True)
+        body += message.get_content()
         if ctype != 'text/html':
              body += '</pre>'
     return body
