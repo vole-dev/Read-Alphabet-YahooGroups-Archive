@@ -84,14 +84,23 @@ def archive_group_files(groupName):
 	fileDir = os.path.join(os.curdir, groupName, 'files')
 	if not os.path.exists(fileDir):
 		os.makedirs(fileDir)
+	
+	metadata = {'.': {'fileType': 'dir', 'description': '', 'author': '', 'date': '', 'children': {}}}
+	
 	for file in yield_walk_files(groupName):
+		update_file_meta(metadata, file)
+		
+		filePath = os.path.join(fileDir, *file['parentDir'], file['name'])
 		if file['fileType'] == 'data':
-			save_file(os.path.join(fileDir, file['parentDir'], file['name']), file['url'])
+			if not os.path.isfile(filePath):
+				print(f'Archiving file: {filePath}')
+				save_file(filePath, file['url'])
 		elif file['fileType'] == 'dir':
-			dirPath = os.path.join(fileDir, file['parentDir'], file['name'])
-			print(dirPath)
-			if not os.path.exists(dirPath):
-				os.makedirs(dirPath)
+			print(f'Archiving directory: {filePath}')
+			if not os.path.exists(filePath):
+				os.makedirs(filePath)
+	
+	save_file_meta(groupName, metadata)
 
 def save_file(filePath, url):
 	s = requests.Session()
@@ -100,7 +109,37 @@ def save_file(filePath, url):
 	with open(filePath, "wb") as writeFile:
 		writeFile.write(resp.content)
 
-def yield_walk_files(groupName, urlPath='.', parentDir='.'):
+def update_file_meta(metadata, file):
+	parentMeta = metadata['.']
+	for dir in file['parentDir']:
+		parentMeta = parentMeta['children'][dir]
+	
+	if file['fileType'] == 'data':
+		meta = {
+			'fileType': 'data',
+			'description': file['description'],
+			'author': file['author'],
+			'date': file['date'],
+			'mime': file['mime'],
+			'size': file['size'],
+		}
+		
+		parentMeta['children'][file['name']] = meta
+	elif file['fileType'] == 'dir':
+		meta = {
+			'fileType': 'dir',
+			'description': file['description'],
+			'author': file['author'],
+			'date': file['date'],
+			'children': {},
+		}
+		parentMeta['children'][file['name']] = meta
+
+def save_file_meta(groupName, metadata):
+	with open(os.path.join(os.curdir, groupName, 'files-meta.json'), 'w') as writeFile:
+		json.dump(metadata, writeFile, indent=2)
+
+def yield_walk_files(groupName, urlPath='.', parentDir=[]):
 	url = f'https://groups.yahoo.com/neo/groups/{groupName}/files/{urlPath}/'
 	s = requests.Session()
 	resp = s.get(url, cookies={'T': cookie_T, 'Y': cookie_Y})
@@ -115,7 +154,7 @@ def yield_walk_files(groupName, urlPath='.', parentDir='.'):
 				'name': el.xpath('.//a/text()')[0],
 				'description': first_or_empty(el.xpath('.//span/text()')),
 				'parentDir': parentDir,
-				'profile': first_or_empty(el.xpath('.//*[@class="yg-list-auth"]/text()')), #author of the file
+				'author': first_or_empty(el.xpath('.//*[@class="yg-list-auth"]/text()')), #author of the file
 				'date': first_or_empty(el.xpath('.//*[@class="yg-list-date"]/text()')), #upload date
 				
 				'url': el.xpath('.//@href')[0],
@@ -129,10 +168,10 @@ def yield_walk_files(groupName, urlPath='.', parentDir='.'):
 				'name': name,
 				'description': first_or_empty(el.xpath('.//span/text()')),
 				'parentDir': parentDir,
-				'profile': first_or_empty(el.xpath('.//*[@class="yg-list-auth"]/text()')), #author of the file
+				'author': first_or_empty(el.xpath('.//*[@class="yg-list-auth"]/text()')), #author of the file
 				'date': first_or_empty(el.xpath('.//*[@class="yg-list-date"]/text()')), #upload date
 			}
-			yield from yield_walk_files(groupName, data['filePath'], os.path.join(parentDir, name))
+			yield from yield_walk_files(groupName, data['filePath'], [*parentDir, name])
 		else:
 			raise NotImplementedError("Unknown fileType %s, data was %s" % (
 				data['fileType'], json.dumps(data),
