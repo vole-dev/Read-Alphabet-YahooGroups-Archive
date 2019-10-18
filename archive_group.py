@@ -80,6 +80,49 @@ def archive_group(groupName, mode="update"):
 	
 	log("Archive finished, archived " + str(msgsArchived) + ", time taken is " + str(time.time() - startTime) + " seconds", groupName)
 
+def group_messages_max(groupName):
+	s = requests.Session()
+	resp = s.get('https://groups.yahoo.com/api/v1/groups/' + groupName + '/messages?count=1&sortOrder=desc&direction=-1', cookies={'T': cookie_T, 'Y': cookie_Y})
+	try:
+		pageHTML = resp.text
+		pageJson = json.loads(pageHTML)
+	except ValueError:
+		if "Stay signed in" in pageHTML and "Trouble signing in" in pageHTML:
+			#the user needs to be signed in to Yahoo
+			print ("Error. The group you are trying to archive is a private group. To archive a private group using this tool, login to a Yahoo account that has access to the private groups, then extract the data from the cookies Y and T from the domain yahoo.com . Paste this data into the appropriate variables (cookie_Y and cookie_T) at the top of this script, and run the script again.")
+			sys.exit()
+	return pageJson["ygData"]["totalRecords"]
+
+def archive_message(groupName, msgNumber, depth=0):
+	global failed
+	failed = False
+	s = requests.Session()
+	resp = s.get('https://groups.yahoo.com/api/v1/groups/' + groupName + '/messages/' + str(msgNumber) + '', cookies={'T': cookie_T, 'Y': cookie_Y})
+	if resp.status_code != 200:
+		#some other problem, perhaps being refused access by Yahoo?
+		#retry for a max of 3 times anyway
+		if depth < 3:
+			print ("Cannot get message " + str(msgNumber) + ", attempt " + str(depth+1) + " of 3 due to HTTP status code " + str(resp.status_code))
+			time.sleep(0.1)
+			archive_message(groupName,msgNumber,depth+1)
+		else:
+			if resp.status_code == 500:
+				#we are most likely being blocked by Yahoo
+				log("Archive halted - it appears Yahoo has blocked you.", groupName)
+				log("Check if you can access the group's homepage from your browser. If you can't, you have been blocked.", groupName)
+				log("Don't worry, in a few hours (normally less than 3) you'll be unblocked and you can run this script again - it'll continue where you left off." ,groupName)
+				sys.exit()
+			log("Failed to retrive message " + str(msgNumber) + " due to HTTP status code " + str(resp.status_code), groupName )
+			failed = True
+	
+	if failed == True:
+		return False
+	
+	msgJson = resp.text
+	with open(os.path.join(groupName, 'messages',  str(msgNumber) + ".json"), "w", encoding='utf-8') as writeFile:
+		writeFile.write(msgJson)
+	return True
+
 def archive_group_files(groupName):
 	fileDir = os.path.join(os.curdir, groupName, 'files')
 	if not os.path.exists(fileDir):
@@ -181,49 +224,6 @@ def yield_walk_files(groupName, urlPath='.', parentDir=[]):
 def first_or_empty(l):
 	return l[0] if l else ''
 
-def group_messages_max(groupName):
-	s = requests.Session()
-	resp = s.get('https://groups.yahoo.com/api/v1/groups/' + groupName + '/messages?count=1&sortOrder=desc&direction=-1', cookies={'T': cookie_T, 'Y': cookie_Y})
-	try:
-		pageHTML = resp.text
-		pageJson = json.loads(pageHTML)
-	except ValueError:
-		if "Stay signed in" in pageHTML and "Trouble signing in" in pageHTML:
-			#the user needs to be signed in to Yahoo
-			print ("Error. The group you are trying to archive is a private group. To archive a private group using this tool, login to a Yahoo account that has access to the private groups, then extract the data from the cookies Y and T from the domain yahoo.com . Paste this data into the appropriate variables (cookie_Y and cookie_T) at the top of this script, and run the script again.")
-			sys.exit()
-	return pageJson["ygData"]["totalRecords"]
-
-def archive_message(groupName, msgNumber, depth=0):
-	global failed
-	failed = False
-	s = requests.Session()
-	resp = s.get('https://groups.yahoo.com/api/v1/groups/' + groupName + '/messages/' + str(msgNumber) + '/raw', cookies={'T': cookie_T, 'Y': cookie_Y})
-	if resp.status_code != 200:
-		#some other problem, perhaps being refused access by Yahoo?
-		#retry for a max of 3 times anyway
-		if depth < 3:
-			print ("Cannot get message " + str(msgNumber) + ", attempt " + str(depth+1) + " of 3 due to HTTP status code " + str(resp.status_code))
-			time.sleep(0.1)
-			archive_message(groupName,msgNumber,depth+1)
-		else:
-			if resp.status_code == 500:
-				#we are most likely being blocked by Yahoo
-				log("Archive halted - it appears Yahoo has blocked you.", groupName)
-				log("Check if you can access the group's homepage from your browser. If you can't, you have been blocked.", groupName)
-				log("Don't worry, in a few hours (normally less than 3) you'll be unblocked and you can run this script again - it'll continue where you left off." ,groupName)
-				sys.exit()
-			log("Failed to retrive message " + str(msgNumber) + " due to HTTP status code " + str(resp.status_code), groupName )
-			failed = True
-	
-	if failed == True:
-		return False
-	
-	msgJson = resp.text
-	with open(os.path.join(groupName, 'messages',  str(msgNumber) + ".json"), "w", encoding='utf-8') as writeFile:
-		writeFile.write(msgJson)
-	return True
-			
 
 global writeLogFile
 def log(msg, groupName):
