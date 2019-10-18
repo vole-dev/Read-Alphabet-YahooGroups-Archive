@@ -63,6 +63,10 @@ def archive_group(groupName, mode="update"):
 		archive_group_files(groupName)
 		log("files archive finished", groupName)
 		return
+	elif mode == "attachments":
+		archive_group_attachments(groupName)
+		log("attachment archive finished", groupName)
+		return
 	else:
 		print ("You have specified an invalid mode (" + mode + ").")
 		print ("Valid modes are:\nupdate - add any new messages to the archive\nretry - attempt to get all messages that are not in the archive\nrestart - delete archive and start from scratch")
@@ -143,7 +147,7 @@ def archive_group_files(groupName):
 			if not os.path.exists(filePath):
 				os.makedirs(filePath)
 	
-	save_file_meta(groupName, metadata)
+	save_meta(groupName, 'files-meta', metadata)
 
 def save_file(filePath, url):
 	s = requests.Session()
@@ -178,8 +182,8 @@ def update_file_meta(metadata, file):
 		}
 		parentMeta['children'][file['name']] = meta
 
-def save_file_meta(groupName, metadata):
-	with open(os.path.join(os.curdir, groupName, 'files-meta.json'), 'w') as writeFile:
+def save_meta(groupName, name, metadata):
+	with open(os.path.join(os.curdir, groupName, f'{name}.json'), 'w') as writeFile:
 		json.dump(metadata, writeFile, indent=2)
 
 def yield_walk_files(groupName, urlPath='.', parentDir=[]):
@@ -219,7 +223,89 @@ def yield_walk_files(groupName, urlPath='.', parentDir=[]):
 			raise NotImplementedError("Unknown fileType %s, data was %s" % (
 				data['fileType'], json.dumps(data),
 			))
-	return resp
+	return
+
+def archive_group_attachments(groupName):
+	attDir = os.path.join(os.curdir, groupName, 'attachments')
+	if not os.path.exists(attDir):
+		os.makedirs(attDir)
+	
+	metadata = {}
+	
+	for att in yield_walk_attachments(groupName):
+		update_attachment_meta(metadata, att)
+		
+		if att['attType'] == 'file':
+			filePath = os.path.join(attDir, str(att['attachmentId']), att['filename'])
+			if not os.path.isfile(filePath):
+				print(f'Archiving attachment: {filePath}')
+				url = ""
+				if att['type'] == 'photo':
+					url = att['photoInfo']['displayURL']
+				elif att['type'] == 'file':
+					url = att['link']
+				url = f'{url}?download=1'
+				save_file(filePath, url)
+		elif att['attType'] == 'group':
+			attPath = os.path.join(attDir, str(att['attachmentId']))
+			if not os.path.exists(attPath):
+				os.makedirs(attPath)
+	
+	save_meta(groupName, 'attachments-meta', metadata)
+
+def update_attachment_meta(metadata, att):
+	if att['attType'] == 'group':
+		metadata[att['attachmentId']] = att
+		metadata[att['attachmentId']]['files'] = []
+	elif att['attType'] == 'file':
+		metadata[att['attachmentId']]['files'].append(att)
+	
+def yield_walk_attachments(groupName):
+	url = f'https://groups.yahoo.com/api/v1/groups/{groupName}/attachments'
+	s = requests.Session()
+	resp = s.get(url, cookies={'T': cookie_T, 'Y': cookie_Y})
+	
+	attListJson = json.loads(resp.text)
+	
+	for att in attListJson['ygData']['attachments']:
+		attachmentId = att['attachmentId']
+		yield {
+			'attType': 'group',
+			'groupId': att['groupId'],
+			'attachmentId': attachmentId,
+			'msgTitle': att['title'],
+			'author': att['creatorNickname'],
+			'modificationDate': att['modificationDate'],
+			'total': att['total'],
+			'referenceId': att['referenceId'],
+		}
+		
+		attUrl = f'https://groups.yahoo.com/api/v1/groups/{groupName}/attachments/{attachmentId}'
+		resp = s.get(attUrl, cookies={'T': cookie_T, 'Y': cookie_Y})
+		attJson = json.loads(resp.text)['ygData']
+		
+		for file in attJson['files']:
+			yieldData = {
+				'attType': 'file',
+				'attachmentId': file['attachmentId'],
+				'fileId': file['fileId'],
+				'title': file['title'],
+				'size': file['size'],
+				'filename': file['filename'],
+				'fileType': file['fileType'],
+				'type': file['type'],
+			}
+			
+			if file['type'] == 'photo':
+				# The last photoInfo seems to hold the original image, but this might be wrong
+				# has 5 fields: displayURL, height, width, size, photoType
+				photoInfo = file['photoInfo'][-1]
+				yieldData['photoInfo'] = photoInfo
+			elif file['type'] == 'file':
+				yieldData['link'] = file['link']
+			
+			yield yieldData
+	return
 
 def first_or_empty(l):
 	return l[0] if l else ''
