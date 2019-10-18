@@ -30,10 +30,13 @@ import os
 import sys
 from datetime import datetime
 from natsort import natsorted, ns
+import cgi
 
 
 def archiveYahooMessage(file, archiveFile, messageYear, format):
     with open(archiveFile, 'a', encoding='utf-8') as f:
+        if f.tell() == 0:
+            f.write("<style>pre {white-space: pre-wrap;}</style>\n");
         tmessage = loadYahooMessage(file, format)
         f.write(tmessage)
     print('Yahoo Message: ' + file + ' archived to: archive-' + str(messageYear) + '.html')
@@ -52,14 +55,14 @@ def loadYahooMessage(file, format):
     message = email.message_from_string(emailMessageString, policy=policy.default)
     messageBody = getEmailBody(message)
     
-    messageText = '-----------------------------------------------------------------------------------<br>'
-    messageText += 'Post ID:' + str(emailMessageID) + '<br>'
-    messageText += 'Sender:' + emailMessageSender + '<br>'
-    messageText += 'Post Date/Time:' + emailMessageDateTime + '<br>'
-    messageText += 'Subject:' + emailMessageSubject + '<br>'
-    messageText += 'Message:' + '<br><br>'
+    messageText = '-----------------------------------------------------------------------------------<br>' + "\n"
+    messageText += 'Post ID:' + str(emailMessageID) + '<br>' + "\n"
+    messageText += 'Sender:' + cgi.escape(emailMessageSender) + '<br>' + "\n"
+    messageText += 'Post Date/Time:' + cgi.escape(emailMessageDateTime) + '<br>' + "\n"
+    messageText += 'Subject:' + cgi.escape(emailMessageSubject) + '<br>' + "\n"
+    messageText += 'Message:' + '<br><br>' + "\n"
     messageText += messageBody
-    messageText += '<br><br><br><br><br>'
+    messageText += '<br><br><br><br><br>' + "\n"
     return messageText
     
 def getYahooMessageYear(file):
@@ -82,17 +85,18 @@ def getEmailBody(message):
             # skip any text/plain (txt) attachments
             if ctype == 'text/plain' and 'attachment' not in cdispo:
                 body += '<pre>'
-                body += part.get_content()
+                body += cgi.escape(part.get_content())
                 body += '</pre>'
                 break
     # not multipart - i.e. plain text, no attachments, keeping fingers crossed
     else:
         ctype = message.get_content_type()
         if ctype != 'text/html':
-             body += '<pre>'
-        body += message.get_content()
-        if ctype != 'text/html':
+            body += '<pre>'
+            body += cgi.escape(message.get_content())
              body += '</pre>'
+        else:
+             body += message.get_content()
     return body
 
 ## This is where the script starts
