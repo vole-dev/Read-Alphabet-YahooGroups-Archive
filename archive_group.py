@@ -152,9 +152,13 @@ def archive_group_files(groupName):
 	
 	save_meta(groupName, 'files-meta', metadata)
 
-def save_file(filePath, url):
-	s = requests.Session()
-	resp = s.get(url, cookies={'T': cookie_T, 'Y': cookie_Y})
+def save_file(filePath, url, s = None, cookies=None, referer = ''):
+	if not s:
+		s = requests.Session()
+	
+	if not cookies:
+		cookies = {'T': cookie_T, 'Y': cookie_Y}
+	resp = s.get(url, cookies=cookies, headers={'referer': referer})
 	
 	with open(filePath, "wb") as writeFile:
 		writeFile.write(resp.content)
@@ -232,6 +236,10 @@ def archive_group_attachments(groupName):
 	attDir = os.path.join(os.curdir, groupName, 'attachments')
 	if not os.path.exists(attDir):
 		os.makedirs(attDir)
+		
+	s = requests.Session()
+	infoUrl = f'https://groups.yahoo.com/neo/groups/{groupName}/info'
+	cookies = cookies={'T': cookie_T, 'Y': cookie_Y}
 	
 	metadata = {}
 	
@@ -248,7 +256,15 @@ def archive_group_attachments(groupName):
 				elif att['type'] == 'file':
 					url = att['link']
 				url = f'{url}?download=1'
-				save_file(filePath, url)
+				attachmentId = att['attachmentId']
+				referer = f'https://groups.yahoo.com/neo/groups/{groupName}/attachments/{attachmentId}'
+				
+				# Sometimes yahoo responds that it won't serve files if you're not coming from a Yahoo Groups page
+				# Getting the attachment page, saving the cookies, and using the page as a referer MIGHT help prevent that
+				# I do not know for sure
+				cookies = s.get(referer, cookies=cookies).cookies
+				
+				save_file(filePath, url, s=s, cookies=cookies, referer=referer)
 		elif att['attType'] == 'group':
 			attPath = os.path.join(attDir, str(att['attachmentId']))
 			if not os.path.exists(attPath):
