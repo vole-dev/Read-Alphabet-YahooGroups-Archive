@@ -35,6 +35,8 @@ def archive_group(groupName, mode="update"):
 	log("\nArchiving group '" + groupName + "', mode: " + mode + " , on " + time.strftime("%c"), groupName)
 	startTime = time.time()
 	msgsArchived = 0
+	
+	messageDir = os.path.join(os.curdir, groupName, 'messages')
 	if mode == "retry":
 		#don't archive any messages we already have
 		#but try to archive ones that we don't, and may have
@@ -43,9 +45,9 @@ def archive_group(groupName, mode="update"):
 	elif mode == "update":
 		#start archiving at the last+1 message message we archived
 		mostRecent = 1
-		if os.path.exists(groupName):
+		if os.path.exists(messageDir):
 			oldDir = os.getcwd()
-			os.chdir(groupName)
+			os.chdir(messageDir)
 			for file in glob.glob("*.json"):
 				if int(file[0:-5]) > mostRecent:
 					mostRecent = int(file[0:-5])
@@ -54,8 +56,8 @@ def archive_group(groupName, mode="update"):
 		min = mostRecent
 	elif mode == "restart":
 		#delete all previous archival attempts and archive everything again
-		if os.path.exists(groupName):
-			shutil.rmtree(groupName)
+		if os.path.exists(messageDir):
+			shutil.rmtree(messageDir)
 		min = 1
 	elif mode == "files":
 		archive_group_files(groupName)
@@ -66,11 +68,11 @@ def archive_group(groupName, mode="update"):
 		print ("Valid modes are:\nupdate - add any new messages to the archive\nretry - attempt to get all messages that are not in the archive\nrestart - delete archive and start from scratch")
 		sys.exit()
 	
-	if not os.path.exists(groupName):
-		os.makedirs(groupName)
+	if not os.path.exists(messageDir):
+		os.makedirs(messageDir)
 	max = group_messages_max(groupName)
 	for x in range(min,max+1):
-		if not os.path.isfile(groupName + '/' + str(x) + ".json"):
+		if not os.path.isfile(os.path.join(messageDir, str(x) + ".json")):
 			print ("Archiving message " + str(x) + " of " + str(max))
 			sucsess = archive_message(groupName, x)
 			if sucsess == True:
@@ -179,9 +181,8 @@ def archive_message(groupName, msgNumber, depth=0):
 		return False
 	
 	msgJson = resp.text
-	writeFile = open((groupName + "/" + str(msgNumber) + ".json"), "w", encoding='utf-8')
-	writeFile.write(msgJson)
-	writeFile.close()
+	with open(os.path.join(groupName, 'messages',  str(msgNumber) + ".json"), "w", encoding='utf-8') as writeFile:
+		writeFile.write(msgJson)
 	return True
 			
 
