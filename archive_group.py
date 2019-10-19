@@ -18,8 +18,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 '''
 
-cookie_T = 'COOKIE_T_DATA_GOES_HERE'
-cookie_Y = 'COOKIE_Y_DATA_GOES_HERE'
+user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0'
 
 import json #required for reading various JSON attributes from the content
 import requests #required for fetching the raw messages
@@ -30,6 +29,7 @@ import shutil #required for deletung an old folder
 import glob #required to find the most recent message downloaded
 import time #required to log the date and time of run
 from lxml import html
+import mechanize
 
 def archive_group(groupName, mode="update"):
 	log("\nArchiving group '" + groupName + "', mode: " + mode + " , on " + time.strftime("%c"), groupName)
@@ -337,6 +337,32 @@ def log(msg, groupName):
 		logF = open(groupName + ".txt", "a")
 		logF.write("\n" + msg)
 		logF.close()
+
+def generateCookies(username, password):
+	br = mechanize.Browser()
+	br.set_handle_robots(False)
+	br.addheaders = [('User-agent', user_agent)]
+
+	## Open login page
+	br.open('https://login.yahoo.com/')
+	
+	## Submit username
+	br.select_form(nr=0)
+	br['username'] = username
+	br.submit()
+	
+	## Submit password
+	br.select_form(nr=0)
+	br['password'] = password
+	br.submit()
+	
+	## Convert to cookies that the requests library can use
+	requestsCookies = {}
+	for brCookie in br.cookiejar:
+		if brCookie.domain == '.yahoo.com':
+			requestsCookies[brCookie.name] = brCookie.value
+	
+	return requestsCookies
 
 
 if __name__ == "__main__":
