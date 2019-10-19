@@ -138,41 +138,48 @@ def group_messages_max(s, group_name):
     return page_json["ygData"]["totalRecords"]
 
 
-def archive_message(s, group_name, msg_number, depth=0):
-    failed = False
-    resp = s.get('https://groups.yahoo.com/api/v1/groups/' + group_name + '/messages/' + str(msg_number) + '')
-    if resp.status_code != 200:
-        # some other problem, perhaps being refused access by Yahoo?
-        # retry for a max of 3 times anyway
-        if depth < 3:
-            print("Cannot get message " + str(msg_number) + ", attempt " + str(
-                depth + 1) + " of 3 due to HTTP status code " + str(resp.status_code))
-            time.sleep(0.1)
-            archive_message(s, group_name, msg_number, depth + 1)
-        else:
-            if resp.status_code == 500:
-                # we are most likely being blocked by Yahoo
-                log("Archive halted - it appears Yahoo has blocked you.", group_name)
-                log(
-                    "Check if you can access the group's homepage from your browser. If you can't, you have been "
-                    "blocked.",
-                    group_name)
-                log(
-                    "Don't worry, in a few hours (normally less than 3) you'll be unblocked and you can run this "
-                    "script again - it'll continue where you left off.",
-                    group_name)
-                sys.exit()
-            log("Failed to retrieve message " + str(msg_number) + " due to HTTP status code " + str(resp.status_code),
-                group_name)
-            failed = True
+def archive_message(s, group_name, msg_number):
+    resp, failed = retrieve_url(s, f'https://groups.yahoo.com/api/v1/groups/{group_name}/messages/{msg_number}',
+                                group_name)
 
     if failed:
         return False
 
-    msg_json = resp.text
+    resp_raw, failed = retrieve_url(s, f'https://groups.yahoo.com/api/v1/groups/{group_name}/messages/{msg_number}/raw',
+                                    group_name)
+
+    if failed:
+        return False
+
+    msg_json = json.loads(resp.text)
+    msg_raw_json = json.loads(resp_raw.text)
+    msg_json['ygData']['rawEmail'] = msg_raw_json['ygData']['rawEmail']
+
     with open(os.path.join(group_name, 'messages', str(msg_number) + ".json"), "w", encoding='utf-8') as writeFile:
-        writeFile.write(msg_json)
+        json.dump(msg_json, writeFile)
     return True
+
+
+def retrieve_url(s, url, group_name):
+    failed = False
+    resp = s.get(url)
+    if resp.status_code != 200:
+        if resp.status_code == 500:
+            # we are most likely being blocked by Yahoo
+            log("Archive halted - it appears Yahoo has blocked you.", group_name)
+            log(
+                "Check if you can access the group's homepage from your browser. If you can't, you have been "
+                "blocked.",
+                group_name)
+            log(
+                "Don't worry, in a few hours (normally less than 3) you'll be unblocked and you can run this "
+                "script again - it'll continue where you left off.",
+                group_name)
+            sys.exit()
+        log("Failed to retrieve url " + url + " due to HTTP status code " + str(resp.status_code),
+            group_name)
+        failed = True
+    return resp, failed
 
 
 def archive_group_files(s, group_name):
