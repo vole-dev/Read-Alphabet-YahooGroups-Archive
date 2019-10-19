@@ -55,7 +55,7 @@ def login_session(username, password):
     br['password'] = password
     br.submit()
 
-    # Convert to cookies that the requests library can use
+    # Create a session with the cookies obtained by signing in
     s = requests.Session()
     s.cookies = br.cookiejar
     return s
