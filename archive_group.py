@@ -29,12 +29,39 @@ import mechanize
 import requests  # required for fetching the raw messages
 from lxml import html
 
-cookie_T = 'COOKIE_T_DATA_GOES_HERE'
-cookie_Y = 'COOKIE_Y_DATA_GOES_HERE'
 user_agent = 'Mozilla/4.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0'
 
 
-def archive_group(group_name, mode="update"):
+def login_and_archive(group_name, action, username, password):
+    s = login_session(username, password)
+    archive_group(s, group_name, action)
+
+
+def login_session(username, password):
+    br = mechanize.Browser()
+    br.set_handle_robots(False)
+    br.addheaders = [('User-agent', user_agent)]
+
+    # Open login page
+    br.open('https://login.yahoo.com/')
+
+    # Submit username
+    br.select_form(nr=0)
+    br['username'] = username
+    br.submit()
+
+    # Submit password
+    br.select_form(nr=0)
+    br['password'] = password
+    br.submit()
+
+    # Convert to cookies that the requests library can use
+    s = requests.Session()
+    s.cookies = br.cookiejar
+    return s
+
+
+def archive_group(s, group_name, mode="update"):
     log("\nArchiving group '" + group_name + "', mode: " + mode + " , on " + time.strftime("%c"), group_name)
     start_time = time.time()
     msgs_archived = 0
@@ -63,11 +90,11 @@ def archive_group(group_name, mode="update"):
             shutil.rmtree(message_dir)
         min_msg = 1
     elif mode == "files":
-        archive_group_files(group_name)
+        archive_group_files(s, group_name)
         log("files archive finished", group_name)
         return
     elif mode == "attachments":
-        archive_group_attachments(group_name)
+        archive_group_attachments(s, group_name)
         log("attachment archive finished", group_name)
         return
     else:
@@ -79,11 +106,11 @@ def archive_group(group_name, mode="update"):
 
     if not os.path.exists(message_dir):
         os.makedirs(message_dir)
-    max_msg = group_messages_max(group_name)
+    max_msg = group_messages_max(s, group_name)
     for x in range(min_msg, max_msg + 1):
         if not os.path.isfile(os.path.join(message_dir, str(x) + ".json")):
             print("Archiving message " + str(x) + " of " + str(max_msg))
-            success = archive_message(group_name, x)
+            success = archive_message(s, group_name, x)
             if success:
                 msgs_archived = msgs_archived + 1
 
@@ -91,11 +118,9 @@ def archive_group(group_name, mode="update"):
         time.time() - start_time) + " seconds", group_name)
 
 
-def group_messages_max(group_name):
-    s = requests.Session()
+def group_messages_max(s, group_name):
     resp = s.get(
-        'https://groups.yahoo.com/api/v1/groups/' + group_name + '/messages?count=1&sortOrder=desc&direction=-1',
-        cookies={'T': cookie_T, 'Y': cookie_Y})
+        'https://groups.yahoo.com/api/v1/groups/' + group_name + '/messages?count=1&sortOrder=desc&direction=-1')
     page_html = resp.text
     try:
         page_json = json.loads(page_html)
@@ -113,11 +138,9 @@ def group_messages_max(group_name):
     return page_json["ygData"]["totalRecords"]
 
 
-def archive_message(group_name, msg_number, depth=0):
+def archive_message(s, group_name, msg_number, depth=0):
     failed = False
-    s = requests.Session()
-    resp = s.get('https://groups.yahoo.com/api/v1/groups/' + group_name + '/messages/' + str(msg_number) + '',
-                 cookies={'T': cookie_T, 'Y': cookie_Y})
+    resp = s.get('https://groups.yahoo.com/api/v1/groups/' + group_name + '/messages/' + str(msg_number) + '')
     if resp.status_code != 200:
         # some other problem, perhaps being refused access by Yahoo?
         # retry for a max of 3 times anyway
@@ -125,7 +148,7 @@ def archive_message(group_name, msg_number, depth=0):
             print("Cannot get message " + str(msg_number) + ", attempt " + str(
                 depth + 1) + " of 3 due to HTTP status code " + str(resp.status_code))
             time.sleep(0.1)
-            archive_message(group_name, msg_number, depth + 1)
+            archive_message(s, group_name, msg_number, depth + 1)
         else:
             if resp.status_code == 500:
                 # we are most likely being blocked by Yahoo
@@ -152,21 +175,21 @@ def archive_message(group_name, msg_number, depth=0):
     return True
 
 
-def archive_group_files(group_name):
+def archive_group_files(s, group_name):
     file_dir = os.path.join(os.curdir, group_name, 'files')
     if not os.path.exists(file_dir):
         os.makedirs(file_dir)
 
     metadata = {'.': {'fileType': 'dir', 'description': '', 'author': '', 'date': '', 'children': {}}}
 
-    for file in yield_walk_files(group_name):
+    for file in yield_walk_files(s, group_name):
         update_file_meta(metadata, file)
 
         file_path = os.path.join(file_dir, *file['parentDir'], file['name'])
         if file['fileType'] == 'data':
             if not os.path.isfile(file_path):
                 print(f'Archiving file: {file_path}')
-                save_file(file_path, file['url'])
+                save_file(s, file_path, file['url'])
         elif file['fileType'] == 'dir':
             print(f'Archiving directory: {file_path}')
             if not os.path.exists(file_path):
@@ -175,13 +198,8 @@ def archive_group_files(group_name):
     save_meta(group_name, 'files-meta', metadata)
 
 
-def save_file(file_path, url, s=None, cookies=None, referer=''):
-    if not s:
-        s = requests.Session()
-
-    if not cookies:
-        cookies = {'T': cookie_T, 'Y': cookie_Y}
-    resp = s.get(url, cookies=cookies, headers={'referer': referer})
+def save_file(s, file_path, url, referer=''):
+    resp = s.get(url, headers={'referer': referer})
 
     with open(file_path, "wb") as writeFile:
         writeFile.write(resp.content)
@@ -219,13 +237,12 @@ def save_meta(group_name, name, metadata):
         json.dump(metadata, writeFile, indent=2)
 
 
-def yield_walk_files(group_name, url_path='.', parent_dir=None):
+def yield_walk_files(s, group_name, url_path='.', parent_dir=None):
     if parent_dir is None:
         parent_dir = []
 
     url = f'https://groups.yahoo.com/neo/groups/{group_name}/files/{url_path}/'
-    s = requests.Session()
-    resp = s.get(url, cookies={'T': cookie_T, 'Y': cookie_Y})
+    resp = s.get(url)
 
     tree = html.fromstring(resp.text)
 
@@ -254,7 +271,7 @@ def yield_walk_files(group_name, url_path='.', parent_dir=None):
                 'author': first_or_empty(el.xpath('.//*[@class="yg-list-auth"]/text()')),  # author of the file
                 'date': first_or_empty(el.xpath('.//*[@class="yg-list-date"]/text()')),  # upload date
             }
-            yield from yield_walk_files(group_name, data['filePath'], [*parent_dir, name])
+            yield from yield_walk_files(s, group_name, data['filePath'], [*parent_dir, name])
         else:
             raise NotImplementedError("Unknown fileType %s, data was %s" % (
                 data['fileType'], json.dumps(data),
@@ -262,17 +279,14 @@ def yield_walk_files(group_name, url_path='.', parent_dir=None):
     return
 
 
-def archive_group_attachments(group_name):
+def archive_group_attachments(s, group_name):
     att_dir = os.path.join(os.curdir, group_name, 'attachments')
     if not os.path.exists(att_dir):
         os.makedirs(att_dir)
 
-    s = requests.Session()
-    cookies = {'T': cookie_T, 'Y': cookie_Y}
-
     metadata = {}
 
-    for att in yield_walk_attachments(group_name):
+    for att in yield_walk_attachments(s, group_name):
         update_attachment_meta(metadata, att)
 
         if att['attType'] == 'file':
@@ -292,9 +306,9 @@ def archive_group_attachments(group_name):
                 # Sometimes yahoo responds that it won't serve files if you're not coming from a Yahoo Groups page
                 # Getting the attachment page, saving the cookies, and using the page as a referer MIGHT help prevent
                 # that. I do not know for sure
-                cookies = s.get(referer, cookies=cookies).cookies
+                s.get(referer)
 
-                save_file(file_path, url, s=s, cookies=cookies, referer=referer)
+                save_file(s, file_path, url, referer=referer)
         elif att['attType'] == 'group':
             att_path = os.path.join(att_dir, str(att['attachmentId']))
             if not os.path.exists(att_path):
@@ -311,10 +325,9 @@ def update_attachment_meta(metadata, att):
         metadata[att['attachmentId']]['files'].append(att)
 
 
-def yield_walk_attachments(group_name):
+def yield_walk_attachments(s, group_name):
     url = f'https://groups.yahoo.com/api/v1/groups/{group_name}/attachments'
-    s = requests.Session()
-    resp = s.get(url, cookies={'T': cookie_T, 'Y': cookie_Y})
+    resp = s.get(url)
 
     att_list_json = json.loads(resp.text)
 
@@ -332,7 +345,7 @@ def yield_walk_attachments(group_name):
         }
 
         att_url = f'https://groups.yahoo.com/api/v1/groups/{group_name}/attachments/{attachment_id}'
-        resp = s.get(att_url, cookies={'T': cookie_T, 'Y': cookie_Y})
+        resp = s.get(att_url)
         att_json = json.loads(resp.text)['ygData']
 
         for file in att_json['files']:
@@ -371,33 +384,6 @@ def log(msg, group_name):
         log_f.close()
 
 
-def generate_cookies(username, password):
-    br = mechanize.Browser()
-    br.set_handle_robots(False)
-    br.addheaders = [('User-agent', user_agent)]
-
-    # Open login page
-    br.open('https://login.yahoo.com/')
-
-    # Submit username
-    br.select_form(nr=0)
-    br['username'] = username
-    br.submit()
-
-    # Submit password
-    br.select_form(nr=0)
-    br['password'] = password
-    br.submit()
-
-    # Convert to cookies that the requests library can use
-    requests_cookies = {}
-    for brCookie in br.cookiejar:
-        if brCookie.domain == '.yahoo.com':
-            requests_cookies[brCookie.name] = brCookie.value
-
-    return requests_cookies
-
-
 writeLogFile = True
 if __name__ == "__main__":
     os.chdir(os.path.dirname(os.path.abspath(__file__)))
@@ -405,7 +391,9 @@ if __name__ == "__main__":
         print("Logging mode OFF")
         writeLogFile = False
         sys.argv.remove("nologs")
-    if len(sys.argv) > 2:
-        archive_group(sys.argv[1], sys.argv[2])
-    elif len(sys.argv) == 2:
-        archive_group(sys.argv[1])
+    if len(sys.argv) >= 5:
+        login_and_archive(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4])
+    else:
+        print('This script requires parameters to run:')
+        print('python archive_group.py <groupName> <action> <username> <password> [nologs]')
+        print('Available actions are: update, retry, restart, files, attachments')
