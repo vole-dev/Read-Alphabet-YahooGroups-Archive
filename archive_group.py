@@ -113,6 +113,10 @@ def archive_group(s, group_name, mode="update"):
         archive_group_attachments(s, group_name)
         log("attachment archive finished", group_name)
         return
+    elif mode == "photos":
+        archive_group_photos(s, group_name)
+        log("photo archive finished", group_name)
+        return
     else:
         print("You have specified an invalid mode (" + mode + ").")
         print(
@@ -392,6 +396,66 @@ def yield_walk_attachments(s, group_name):
                 yield_data['link'] = file['link']
 
             yield yield_data
+    return
+
+
+def archive_group_photos(s, group_name):
+    photo_dir = os.path.join(os.curdir, group_name, 'photos')
+    if not os.path.exists(photo_dir):
+        os.makedirs(photo_dir)
+
+    metadata = {}
+
+    for photo in yield_walk_photos(s, group_name):
+        photo_id = photo['photoId']
+        metadata[photo_id] = photo
+
+        photo_filename = photo['photoFilename'].split('.')
+        file_ext = "" if len(photo_filename) < 2 else '.' + photo_filename[-1]
+        file_path = os.path.join(photo_dir, str(photo['photoId']) + file_ext)
+        if not os.path.isfile(file_path):
+            print(f'Archiving photo: {photo_id}')
+            url = photo_info_url(photo['photoInfo']) + '?download=1'
+            save_file(s, file_path, url)
+
+    save_meta(group_name, 'photos-meta', metadata)
+
+
+def photo_info_url(photo_info):
+    quality_rank = {'tn': 1, 'sn': 2, 'hr': 3, 'or': 4}
+    best_rank = 0
+    best_url = ""
+    for info in photo_info:
+        rank = quality_rank[info['photoType']]
+        if rank > best_rank:
+            best_rank = rank
+            best_url = info['displayURL']
+    return best_url
+
+
+def yield_walk_photos(s, group_name):
+    url = f'https://groups.yahoo.com/api/v1/groups/{group_name}/photos'
+    resp, failure = retrieve_url(s, url, group_name)
+
+    if failure:
+        log(f'Unable to obtain photo list from {url}', group_name)
+        return
+
+    try:
+        photo_list_json = json.loads(resp.text)
+    except ValueError as valueError:
+        if 'mbr-login-greeting' in resp.text:
+            # the user needs to be signed in to Yahoo
+            print("Error. Yahoo login is not working")
+            sys.exit()
+        else:
+            raise valueError
+
+    for photo in photo_list_json['ygData']:
+        source = photo['source']
+        if source == 'MAIL':
+            continue  # Do not download attachments as a photo
+        yield photo
     return
 
 
