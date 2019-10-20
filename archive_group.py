@@ -34,6 +34,8 @@ user_agent = 'Mozilla/4.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 
 
 def login_and_archive(group_name, action, username, password):
     s = login_session(username, password)
+    if not s:
+        return
     archive_group(s, group_name, action)
 
 
@@ -45,19 +47,33 @@ def login_session(username, password):
     # Open login page
     br.open('https://login.yahoo.com/')
 
+    time.sleep(0.1)
     # Submit username
     br.select_form(nr=0)
     br['username'] = username
-    br.submit()
+    resp = br.submit()
+    if 'messages.ERROR_INVALID_IDENTIFIER' in str(resp.get_data()):
+        print("Error. Username not accepted. 'Sorry, we don't recognize this account' message from Yahoo.")
+        return None
+    if 'messages.ERROR_INVALID_USERNAME' in str(resp.get_data()):
+        print("Error. Username not accepted. 'Sorry, we don't recognize this email' message from Yahoo.")
+        return None
 
+    time.sleep(0.1)
     # Submit password
     br.select_form(nr=0)
     br['password'] = password
-    br.submit()
+    resp = br.submit()
+    if 'messages.ERROR_INVALID_PASSWORD' in str(resp.get_data()):
+        print("Error. Password not accepted. 'Invalid password' message from Yahoo.")
+        return None
 
     # Create a session with the cookies obtained by signing in
     s = requests.Session()
     s.cookies = br.cookiejar
+    s.headers['User-Agent'] = user_agent
+
+    br.close()
     return s
 
 
