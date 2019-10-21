@@ -15,10 +15,10 @@ where *`<groupName>`* is the name of the group you wish to archive (e.g: hyperca
 
 **Action**
 * *`update`* - the default., Archive all new messages since the last time the script was run
-* *`retry`* - Archive any new messages, and attempt to archive any messages that could not be downloaded last time
-* *`restart`* - Delete all previously archived messages and archive again from scratch
 * *`files`* - Download all files from the group, any previously downloaded file will not be downloaded again
 * *`attachments`* - Download all attachments, any previously downloaded attachments will not be downloaded again
+* *`photos`* - Download all photos, will not download photos that are from attachments
+* *`info`* - Downloads general info about the group, like the description and cover photo
 
 By default a log file called <groupname>.txt is created and stores information such as what messages could not be received. This is entirely for the benefit of the user: it's not needed at all by the script during any re-runs (although re-runs will append new information to the log file). If you don't want a log file to be created or added to, add the `nologs` keyword when you call the script.
 
