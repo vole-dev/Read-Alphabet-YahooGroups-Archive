@@ -18,10 +18,8 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 """
 
-import glob  # required to find the most recent message downloaded
 import json  # required for reading various JSON attributes from the content
 import os  # required for checking if a file exists locally
-import shutil  # required for deleting an old folder
 import sys  # required to cancel script if blocked by Yahoo
 import time  # required to log the date and time of run
 
@@ -97,86 +95,44 @@ def archive_group(s, group_name, mode="update"):
     msgs_archived = 0
 
     message_dir = os.path.join(os.curdir, group_name, 'messages')
-    if mode == "retry":
-        # don't archive any messages we already have
-        # but try to archive ones that we don't, and may have
-        # already attempted to archive
-        min_msg = 1
-    elif mode == "update":
-        # start archiving at the last+1 message message we archived
-        most_recent = 1
-        if os.path.exists(message_dir):
-            old_dir = os.getcwd()
-            os.chdir(message_dir)
-            for file in glob.glob("*.json"):
-                if int(file[0:-5]) > most_recent:
-                    most_recent = int(file[0:-5])
-            os.chdir(old_dir)
-
-        min_msg = most_recent
-    elif mode == "restart":
-        # delete all previous archival attempts and archive everything again
-        if os.path.exists(message_dir):
-            shutil.rmtree(message_dir)
-        min_msg = 1
+    if mode == "update":
+        archive_group_messages(s, group_name)
+        log("message archive finished", group_name)
     elif mode == "files":
         archive_group_files(s, group_name)
         log("files archive finished", group_name)
-        return
     elif mode == "attachments":
         archive_group_attachments(s, group_name)
         log("attachment archive finished", group_name)
-        return
     elif mode == "photos":
         archive_group_photos(s, group_name)
         log("photo archive finished", group_name)
-        return
     elif mode == "info":
         archive_group_info(s, group_name)
         log("info archive finished", group_name)
-        return
     else:
         print("You have specified an invalid mode (" + mode + ").")
-        print(
-            "Valid modes are:\nupdate - add any new messages to the archive\nretry - attempt to get all messages that "
-            "are not in the archive\nrestart - delete archive and start from scratch")
         sys.exit()
 
+    log("Time taken is " + str(time.time() - start_time) + " seconds", group_name)
+
+
+def archive_group_messages(s, group_name):
+    message_dir = os.path.join(os.curdir, group_name, 'messages')
     if not os.path.exists(message_dir):
         os.makedirs(message_dir)
-    max_msg = group_messages_max(s, group_name)
-    for x in range(min_msg, max_msg + 1):
-        if not os.path.isfile(os.path.join(message_dir, str(x) + ".json")):
-            print("Archiving message " + str(x) + " of " + str(max_msg))
-            success = archive_message(s, group_name, x)
-            if success:
-                msgs_archived = msgs_archived + 1
 
-    log("Archive finished, archived " + str(msgs_archived) + ", time taken is " + str(
-        time.time() - start_time) + " seconds", group_name)
-
-
-def group_messages_max(s, group_name):
-    resp = s.get(
-        'https://groups.yahoo.com/api/v1/groups/' + group_name + '/messages?count=1&sortOrder=desc&direction=-1')
-    page_html = resp.text
-    try:
-        page_json = json.loads(page_html)
-    except ValueError as valueError:
-        if "Stay signed in" in page_html and "Trouble signing in" in page_html:
-            # the user needs to be signed in to Yahoo
-            print(
-                "Error. The group you are trying to archive is a private group. To archive a private group using this "
-                "tool, login to a Yahoo account that has access to the private groups, then extract the data from the "
-                "cookies Y and T from the domain yahoo.com . Paste this data into the appropriate variables (cookie_Y "
-                "and cookie_T) at the top of this script, and run the script again.")
-            sys.exit()
-        else:
-            raise valueError
-    return page_json["ygData"]["totalRecords"]
+    for msg_number in yield_walk_messages(s, group_name):
+        archive_message(s, group_name, msg_number)
+    return
 
 
 def archive_message(s, group_name, msg_number):
+    message_dir = os.path.join(os.curdir, group_name, 'messages')
+    if os.path.isfile(os.path.join(message_dir, str(msg_number) + ".json")):
+        return  # skip messages that have already been downloaded
+
+    print("Archiving message " + str(msg_number))
     resp, failed = retrieve_url(s, f'https://groups.yahoo.com/api/v1/groups/{group_name}/messages/{msg_number}',
                                 group_name)
 
@@ -189,13 +145,56 @@ def archive_message(s, group_name, msg_number):
     if failed:
         return False
 
-    msg_json = json.loads(resp.text)
-    msg_raw_json = json.loads(resp_raw.text)
-    msg_json['ygData']['rawEmail'] = msg_raw_json['ygData']['rawEmail']
+    try:
+        msg_json = json.loads(resp.text)['ygData']
+        msg_raw_json = json.loads(resp_raw.text)['ygData']
+    except ValueError as valueError:
+        if 'mbr-login-greeting' in resp.text:
+            # the user needs to be signed in to Yahoo
+            print("Error. Yahoo login is not working")
+            sys.exit()
+        else:
+            raise valueError
 
-    with open(os.path.join(group_name, 'messages', str(msg_number) + ".json"), "w", encoding='utf-8') as writeFile:
+    msg_json['rawEmail'] = msg_raw_json['rawEmail']
+
+    with open(os.path.join(message_dir, str(msg_number) + ".json"), "w", encoding='utf-8') as writeFile:
         json.dump(msg_json, writeFile)
     return True
+
+
+def yield_walk_messages(s, group_name):
+    url_base = f'https://groups.yahoo.com/api/v1/groups/{group_name}/messages?start=%s&count=1000&sortOrder=asc&direction=1'
+
+    first_message = 1
+    while first_message:
+        resp, failure = retrieve_url(s, url_base % first_message, group_name)
+
+        if failure:
+            log(f'FAILURE. Unable to obtain message list from %s' % url_base % first_message, group_name)
+            return
+
+        try:
+            message_list = json.loads(resp.text)['ygData']['messages']
+        except ValueError as valueError:
+            if 'mbr-login-greeting' in resp.text:
+                # the user needs to be signed in to Yahoo
+                print("Error. Yahoo login is not working")
+                sys.exit()
+            else:
+                raise valueError
+
+        if not message_list or message_list[0]['messageId'] < first_message:
+            # Once first_message passes the end message, the api will always return the last message
+            first_message = None
+            break
+        else:
+            first_message = message_list[-1]['messageId'] + 1
+
+        for message in message_list:
+            yield message['messageId']
+
+    return
 
 
 def retrieve_url(s, url, group_name):
@@ -559,4 +558,4 @@ if __name__ == "__main__":
     else:
         print('This script requires parameters to run:')
         print('python archive_group.py <groupName> <action> <username> <password> [nologs]')
-        print('Available actions are: update, retry, restart, files, attachments')
+        print('Available actions are: update, files, attachments, photos, info')
