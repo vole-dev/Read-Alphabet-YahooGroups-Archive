@@ -131,6 +131,10 @@ def archive_group(s, group_name, mode="update"):
         archive_group_photos(s, group_name)
         log("photo archive finished", group_name)
         return
+    elif mode == "info":
+        archive_group_info(s, group_name)
+        log("info archive finished", group_name)
+        return
     else:
         print("You have specified an invalid mode (" + mode + ").")
         print(
@@ -471,6 +475,64 @@ def yield_walk_photos(s, group_name):
             continue  # Do not download attachments as a photo
         yield photo
     return
+
+
+def archive_group_info(s, group_name):
+    info_path = os.path.join(os.curdir, group_name, 'info')
+    if not os.path.exists(info_path):
+        os.makedirs(info_path)
+
+    info_url = f'https://groups.yahoo.com/api/v1/groups/{group_name}'
+    resp, failure = retrieve_url(s, info_url, group_name)
+
+    if failure:
+        log(f'FAILURE. Unable to obtain info from {info_url}', group_name)
+        return
+
+    try:
+        info_json = json.loads(resp.text)['ygData']
+    except ValueError as valueError:
+        if 'mbr-login-greeting' in resp.text:
+            # the user needs to be signed in to Yahoo
+            print("Error. Yahoo login is not working")
+            sys.exit()
+        else:
+            raise valueError
+
+    with open(os.path.join(info_path, 'info.json'), 'w', encoding='utf-8') as writeFile:
+        json.dump(info_json, writeFile, indent=2)
+
+    statistics_url = f'https://groups.yahoo.com/api/v1/groups/{group_name}/statistics'
+    resp, failure = retrieve_url(s, statistics_url, group_name)
+
+    if failure:
+        log(f'FAILURE. Unable to obtain info from {statistics_url}', group_name)
+        return
+
+    try:
+        statistics_json = json.loads(resp.text)['ygData']
+    except ValueError as valueError:
+        if 'mbr-login-greeting' in resp.text:
+            # the user needs to be signed in to Yahoo
+            print("Error. Yahoo login is not working")
+            sys.exit()
+        else:
+            raise valueError
+
+    with open(os.path.join(info_path, 'statistics.json'), 'w', encoding='utf-8') as writeFile:
+        json.dump(statistics_json, writeFile, indent=2)
+
+    # download group photo
+    group_photo_url = photo_info_url(statistics_json['groupHomePage']['photoInfo'])
+    group_photo_filename = group_photo_url.split('?')[0].split('.')
+    group_photo_ext = "" if len(group_photo_filename) < 2 else '.' + group_photo_filename[-1]
+    save_file(s, os.path.join(info_path, f'groupPhoto{group_photo_ext}'), group_photo_url)
+
+    # download group cover photo
+    cover_photo_url = photo_info_url(statistics_json['groupCoverPhoto']['photoInfo'])
+    cover_photo_filename = cover_photo_url.split('?')[0].split('.')
+    cover_photo_ext = "" if len(cover_photo_filename) < 2 else '.' + cover_photo_filename[-1]
+    save_file(s, os.path.join(info_path, f'coverPhoto{cover_photo_ext}'), cover_photo_url)
 
 
 def first_or_empty(l):
