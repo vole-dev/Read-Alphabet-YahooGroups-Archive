@@ -39,10 +39,23 @@ def login_and_archive(group_name, action, username, password):
     archive_group(s, group_name, action)
 
 
-def login_session(username, password):
+def login_session(username, password, save_and_load_cookies=True):
+    s = requests.Session()
+    s.headers['User-Agent'] = user_agent
+
+    # load cookies from file if we can
+    cookie_file = 'PRIVATE_DATA_DO_NOT_SHARE.cookies'
+    if save_and_load_cookies:
+        if os.path.isfile(cookie_file):
+            s.cookies = mechanize.MozillaCookieJar()
+            s.cookies.load(cookie_file)
+            return s
+
+    # if not loading cookies from file, get them by logging in
     br = mechanize.Browser()
     br.set_handle_robots(False)
     br.addheaders = [('User-agent', user_agent)]
+    br.set_cookiejar(mechanize.MozillaCookieJar())
 
     # Open login page
     br.open('https://login.yahoo.com/')
@@ -68,10 +81,11 @@ def login_session(username, password):
         print("Error. Password not accepted. 'Invalid password' message from Yahoo.")
         return None
 
-    # Create a session with the cookies obtained by signing in
-    s = requests.Session()
+    # Give sign in cookies to the session
     s.cookies = br.cookiejar
-    s.headers['User-Agent'] = user_agent
+
+    if save_and_load_cookies:
+        br.cookiejar.save(cookie_file)
 
     br.close()
     return s
