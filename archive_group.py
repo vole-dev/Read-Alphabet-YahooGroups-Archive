@@ -92,9 +92,6 @@ def login_session(username, password, save_and_load_cookies=True):
 def archive_group(s, group_name, mode="update"):
     log("\nArchiving group '" + group_name + "', mode: " + mode + " , on " + time.strftime("%c"), group_name)
     start_time = time.time()
-    msgs_archived = 0
-
-    message_dir = os.path.join(os.curdir, group_name, 'messages')
     if mode == "update":
         archive_group_messages(s, group_name)
         log("message archive finished", group_name)
@@ -167,7 +164,7 @@ def yield_walk_messages(s, group_name):
     url_base = f'https://groups.yahoo.com/api/v1/groups/{group_name}/messages?start=%s&count=1000&sortOrder=asc&direction=1'
 
     first_message = 1
-    while first_message:
+    while True:
         resp, failure = retrieve_url(s, url_base % first_message, group_name)
 
         if failure:
@@ -186,7 +183,6 @@ def yield_walk_messages(s, group_name):
 
         if not message_list or message_list[0]['messageId'] < first_message:
             # Once first_message passes the end message, the api will always return the last message
-            first_message = None
             break
         else:
             first_message = message_list[-1]['messageId'] + 1
