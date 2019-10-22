@@ -91,9 +91,9 @@ def save_meta(group_name, name, metadata):
         json.dump(metadata, writeFile, indent=2)
 
 
-def retrieve_url(s, url, group_name):
+def retrieve_url(s, url, group_name, params=None):
     failed = False
-    resp = s.get(url)
+    resp = s.get(url, params=params)
     if resp.status_code != 200:
         if resp.status_code == 500:
             # we are most likely being blocked by Yahoo
@@ -111,6 +111,25 @@ def retrieve_url(s, url, group_name):
             group_name)
         failed = True
     return resp, failed
+
+
+def retrieve_json(s, url, group_name, params=None):
+    resp, failure = retrieve_url(s, url, group_name, params=params)
+
+    if failure:
+        return None
+
+    try:
+        data_json = json.loads(resp.text)['ygData']
+    except ValueError as valueError:
+        if 'mbr-login-greeting' in resp.text:
+            # the user needs to be signed in to Yahoo
+            print("Error. Yahoo login is not working")
+            sys.exit()
+        else:
+            raise valueError
+
+    return data_json
 
 
 def photo_info_url(photo_info):

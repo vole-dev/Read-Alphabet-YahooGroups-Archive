@@ -18,11 +18,10 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 """
 
-import json
 import os
-from lxml import html
+from urllib.parse import unquote
 
-from arc_utilities import save_file, save_meta
+from arc_utilities import save_file, save_meta, retrieve_json, log
 
 
 def archive_group_files(s, group_name):
@@ -30,17 +29,19 @@ def archive_group_files(s, group_name):
     if not os.path.exists(file_dir):
         os.makedirs(file_dir)
 
-    metadata = {'.': {'fileType': 'dir', 'description': '', 'author': '', 'date': '', 'children': {}}}
+    metadata = {'dirEntries': {}}
 
     for file in yield_walk_files(s, group_name):
         update_file_meta(metadata, file)
 
-        file_path = os.path.join(file_dir, *file['parentDir'], file['name'])
-        if file['fileType'] == 'data':
+        file_path = os.path.join(file_dir, *file['parent_dirs'], file['fileName'])
+        if file['type'] == 0:
+            # file handling
             if not os.path.isfile(file_path):
                 print(f'Archiving file: {file_path}')
-                save_file(s, file_path, file['url'])
-        elif file['fileType'] == 'dir':
+                save_file(s, file_path, file['downloadURL'])
+        elif file['type'] == 1:
+            # dir handing
             print(f'Archiving directory: {file_path}')
             if not os.path.exists(file_path):
                 os.makedirs(file_path)
@@ -49,73 +50,33 @@ def archive_group_files(s, group_name):
 
 
 def update_file_meta(metadata, file):
-    parent_meta = metadata['.']
-    for file_dir in file['parentDir']:
-        parent_meta = parent_meta['children'][file_dir]
+    parent_meta = metadata
+    for file_dir in file['parent_dirs']:
+        parent_meta = parent_meta['dirEntries'][file_dir]
 
-    if file['fileType'] == 'data':
-        meta = {
-            'fileType': 'data',
-            'description': file['description'],
-            'author': file['author'],
-            'date': file['date'],
-            'mime': file['mime'],
-            'size': file['size'],
-        }
+    if file['type'] == 1:
+        file['dirEntries'] = {}
 
-        parent_meta['children'][file['name']] = meta
-    elif file['fileType'] == 'dir':
-        meta = {
-            'fileType': 'dir',
-            'description': file['description'],
-            'author': file['author'],
-            'date': file['date'],
-            'children': {},
-        }
-        parent_meta['children'][file['name']] = meta
+    parent_meta['dirEntries'][file['fileName']] = file
 
 
-def first_or_empty(l):
-    return l[0] if l else ''
+def yield_walk_files(s, group_name, path_uri=''):
+    url = f'https://groups.yahoo.com/api/v2/groups/{group_name}/files'
+    params = {'sort': 'FILENAME', 'order': 'ASC'}
+    if path_uri:
+        params['sfpath'] = unquote(path_uri)
+    folder_json = retrieve_json(s, url, group_name, params=params)
 
+    if not folder_json:
+        log(f'FAILURE. Unable to obtain data from {url}', group_name)
+        return
 
-def yield_walk_files(s, group_name, url_path='.', parent_dir=None):
-    if parent_dir is None:
-        parent_dir = []
+    for entry in folder_json['dirEntries']:
+        entry['parent_dirs'] = list(map(lambda crumb: crumb['dirDisplayName'], folder_json['breadCrumb']))
+        yield entry
 
-    url = f'https://groups.yahoo.com/neo/groups/{group_name}/files/{url_path}/'
-    resp = s.get(url)
-
-    tree = html.fromstring(resp.text)
-
-    for el in tree.xpath('//*[@data-file]'):
-        data = json.loads('{%s}' % el.attrib['data-file'].encode('utf-8').decode('unicode-escape'))
-        if data['fileType'] == 'f':
-            yield {
-                'fileType': 'data',
-                'name': el.xpath('.//a/text()')[0],
-                'description': first_or_empty(el.xpath('.//span/text()')),
-                'parentDir': parent_dir,
-                'author': first_or_empty(el.xpath('.//*[@class="yg-list-auth"]/text()')),  # author of the file
-                'date': first_or_empty(el.xpath('.//*[@class="yg-list-date"]/text()')),  # upload date
-
-                'url': el.xpath('.//@href')[0],
-                'mime': data['mime'],
-                'size': float(data['size']),
-            }
-        elif data['fileType'] == 'd':
-            name = el.xpath('.//a/text()')[0]
-            yield {
-                'fileType': 'dir',
-                'name': name,
-                'description': first_or_empty(el.xpath('.//span/text()')),
-                'parentDir': parent_dir,
-                'author': first_or_empty(el.xpath('.//*[@class="yg-list-auth"]/text()')),  # author of the file
-                'date': first_or_empty(el.xpath('.//*[@class="yg-list-date"]/text()')),  # upload date
-            }
-            yield from yield_walk_files(s, group_name, data['filePath'], [*parent_dir, name])
-        else:
-            raise NotImplementedError("Unknown fileType %s, data was %s" % (
-                data['fileType'], json.dumps(data),
-            ))
-    return
+        if entry['type'] == 1:
+            # type == 1 for directories
+            yield from yield_walk_files(s, group_name, entry['pathURI'])
+        elif entry['type'] != 0:
+            raise NotImplementedError('Unknown file entry type %s' % entry['type'])
