@@ -15,9 +15,9 @@ where *`<groupName>`* is the name of the group you wish to archive (e.g: hyperca
 
 **Action**
 * *`all`* - Archive all of the following
-* *`update`* - the default., Archive all new messages since the last time the script was run
-* *`files`* - Download all files from the group, any previously downloaded file will not be downloaded again
-* *`attachments`* - Download all attachments, any previously downloaded attachments will not be downloaded again
+* *`messages`* - Archive messages
+* *`files`* - Download all files
+* *`attachments`* - Download all attachments
 * *`photos`* - Download all photos, will not download photos that are from attachments
 * *`info`* - Downloads general info about the group, like the description and cover photo
 
