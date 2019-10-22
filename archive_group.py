@@ -21,6 +21,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 import os  # required for checking if a file exists locally
 import sys  # required to cancel script if blocked by Yahoo
 import time  # required to log the date and time of run
+import traceback
 
 from arc_utilities import login_session, log, set_no_logging
 from archive_attachments import archive_group_attachments
@@ -75,7 +76,8 @@ def archive_group(s, group_name, mode):
 def try_archive(s, group_name, archiving_fun, archive_type):
     try:
         archiving_fun(s, group_name)
-    except Exception as e:
+    except:
+        e = traceback.format_exc()
         log(f'Failure. {archive_type} archive exception: {e}', group_name)
     else:
         log(f'Success. {archive_type} archive finished', group_name)
