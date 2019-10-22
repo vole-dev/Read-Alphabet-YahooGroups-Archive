@@ -72,12 +72,14 @@ def archive_group_info(s, group_name):
 
     # download group photo
     group_photo_url = photo_info_url(statistics_json['groupHomePage']['photoInfo'])
-    group_photo_filename = group_photo_url.split('?')[0].split('.')
-    group_photo_ext = "" if len(group_photo_filename) < 2 else '.' + group_photo_filename[-1]
-    save_file(s, os.path.join(info_path, f'groupPhoto{group_photo_ext}'), group_photo_url)
+    if group_photo_url:
+        group_photo_filename = group_photo_url.split('?')[0].split('.')
+        group_photo_ext = "" if len(group_photo_filename) < 2 else '.' + group_photo_filename[-1]
+        save_file(s, os.path.join(info_path, f'groupPhoto{group_photo_ext}'), group_photo_url)
 
     # download group cover photo
     cover_photo_url = photo_info_url(statistics_json['groupCoverPhoto']['photoInfo'])
-    cover_photo_filename = cover_photo_url.split('?')[0].split('.')
-    cover_photo_ext = "" if len(cover_photo_filename) < 2 else '.' + cover_photo_filename[-1]
-    save_file(s, os.path.join(info_path, f'coverPhoto{cover_photo_ext}'), cover_photo_url)
+    if cover_photo_url:
+        cover_photo_filename = cover_photo_url.split('?')[0].split('.')
+        cover_photo_ext = "" if len(cover_photo_filename) < 2 else '.' + cover_photo_filename[-1]
+        save_file(s, os.path.join(info_path, f'coverPhoto{cover_photo_ext}'), cover_photo_url)
