@@ -21,62 +21,82 @@ import json
 import os
 import sys
 import time
+from http.cookiejar import MozillaCookieJar
 
-import mechanize
 import requests
+from bs4 import BeautifulSoup
 
 
 def login_session(username, password, save_and_load_cookies=True):
     s = requests.Session()
-    user_agent = 'Mozilla/4.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0'
-    s.headers['User-Agent'] = user_agent
+    s.headers['User-Agent'] = 'Mozilla/4.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0'
+    s.cookies = MozillaCookieJar()
 
     # load cookies from file if we can
     cookie_file = 'PRIVATE_DATA_DO_NOT_SHARE.cookies'
     if save_and_load_cookies:
         if os.path.isfile(cookie_file):
-            s.cookies = mechanize.MozillaCookieJar()
             s.cookies.load(cookie_file)
             return s
 
     # if not loading cookies from file, get them by logging in
-    br = mechanize.Browser()
-    br.set_handle_robots(False)
-    br.addheaders = [('User-agent', user_agent)]
-    br.set_cookiejar(mechanize.MozillaCookieJar())
 
     # Open login page
-    br.open('https://login.yahoo.com/')
+    resp = s.get('https://login.yahoo.com/')
+    if resp.status_code != 200:
+        print('Error. Login page returned with status code %s' % resp.status_code)
+        return None
 
-    time.sleep(0.1)
     # Submit username
-    br.select_form(nr=0)
-    br['username'] = username
-    resp = br.submit()
-    if 'messages.ERROR_INVALID_IDENTIFIER' in str(resp.get_data()):
+    time.sleep(0.1)
+    soup = BeautifulSoup(resp.text, "html5lib")
+    post_data = {'username': username}
+    set_post_param(post_data, soup, 'acrumb')
+    set_post_param(post_data, soup, 'sessionIndex')
+    set_post_param(post_data, soup, 'passwd')
+    set_post_param(post_data, soup, 'signin')
+    set_post_param(post_data, soup, 'persistent')
+
+    resp = s.post(resp.url, data=post_data)
+    if resp.status_code != 200:
+        print('Error. Username POST message returned with status code %s' % resp.status_code)
+        return None
+    if 'messages.ERROR_INVALID_IDENTIFIER' in resp.text:
         print("Error. Username not accepted. 'Sorry, we don't recognize this account' message from Yahoo.")
         return None
-    if 'messages.ERROR_INVALID_USERNAME' in str(resp.get_data()):
+    if 'messages.ERROR_INVALID_USERNAME' in resp.text:
         print("Error. Username not accepted. 'Sorry, we don't recognize this email' message from Yahoo.")
         return None
 
-    time.sleep(0.1)
     # Submit password
-    br.select_form(nr=0)
-    br['password'] = password
-    resp = br.submit()
-    if 'messages.ERROR_INVALID_PASSWORD' in str(resp.get_data()):
+    time.sleep(0.1)
+    soup = BeautifulSoup(resp.text, "html5lib")
+    post_data = {'password': password}
+    set_post_param(post_data, soup, 'browser-fp-data')
+    set_post_param(post_data, soup, 'crumb')
+    set_post_param(post_data, soup, 'acrumb')
+    set_post_param(post_data, soup, 'sessionIndex')
+    set_post_param(post_data, soup, 'displayName')
+    set_post_param(post_data, soup, 'username')
+    set_post_param(post_data, soup, 'passwordContext')
+    set_post_param(post_data, soup, 'verifyPassword')
+
+    resp = s.post(resp.url, data=post_data)
+    if resp.status_code != 200:
+        print('Error. Password POST message returned with status code %s' % resp.status_code)
+        return None
+    if 'messages.ERROR_INVALID_PASSWORD' in resp.text:
         print("Error. Password not accepted. 'Invalid password' message from Yahoo.")
         return None
 
-    # Give sign in cookies to the session
-    s.cookies = br.cookiejar
-
     if save_and_load_cookies:
-        br.cookiejar.save(cookie_file)
+        s.cookies.save(cookie_file)
 
-    br.close()
     return s
+
+
+def set_post_param(post_data, soup, param):
+    post_data[param] = soup.find(attrs={'name': param}).attrs.get('value', None)
 
 
 def save_file(s, file_path, url, referer=''):
