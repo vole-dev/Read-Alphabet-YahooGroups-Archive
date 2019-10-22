@@ -47,35 +47,38 @@ def archive_group(s, group_name, mode):
 
     if mode == "messages" or do_all:
         valid_mode = True
-        archive_group_messages(s, group_name)
-        log("message archive finished", group_name)
+        try_archive(s, group_name, archive_group_messages, 'message')
     if mode == "files" or do_all:
         valid_mode = True
-        archive_group_files(s, group_name)
-        log("files archive finished", group_name)
+        try_archive(s, group_name, archive_group_files, 'file')
     if mode == "attachments" or do_all:
         valid_mode = True
-        archive_group_attachments(s, group_name)
-        log("attachment archive finished", group_name)
+        try_archive(s, group_name, archive_group_attachments, 'attachment')
     if mode == "photos" or do_all:
         valid_mode = True
-        archive_group_photos(s, group_name)
-        log("photo archive finished", group_name)
+        try_archive(s, group_name, archive_group_photos, 'photo')
     if mode == "info" or do_all:
         valid_mode = True
-        archive_group_info(s, group_name)
-        log("info archive finished", group_name)
+        try_archive(s, group_name, archive_group_info, 'info')
     if mode == "polls" or do_all:
         valid_mode = True
-        archive_group_polls(s, group_name)
-        log("poll archive finished", group_name)
+        try_archive(s, group_name, archive_group_polls, 'poll')
 
     if not valid_mode:
-        print("You have specified an invalid mode (" + mode + ").")
+        print(f'You have specified an invalid mode ({mode}).')
         sys.exit()
 
     log("Time taken is " + str(time.time() - start_time) + " seconds", group_name)
     return
+
+
+def try_archive(s, group_name, archiving_fun, archive_type):
+    try:
+        archiving_fun(s, group_name)
+    except Exception as e:
+        log(f'Failure. {archive_type} archive exception: {e}', group_name)
+    else:
+        log(f'Success. {archive_type} archive finished', group_name)
 
 
 if __name__ == "__main__":
