@@ -28,6 +28,7 @@ from archive_files import archive_group_files
 from archive_info import archive_group_info
 from archive_messages import archive_group_messages
 from archive_photos import archive_group_photos
+from archive_polls import archive_group_polls
 
 
 def login_and_archive(group_name, action, username, password):
@@ -64,6 +65,10 @@ def archive_group(s, group_name, mode):
         valid_mode = True
         archive_group_info(s, group_name)
         log("info archive finished", group_name)
+    if mode == "polls" or do_all:
+        valid_mode = True
+        archive_group_polls(s, group_name)
+        log("poll archive finished", group_name)
 
     if not valid_mode:
         print("You have specified an invalid mode (" + mode + ").")
