@@ -22,7 +22,7 @@ import json
 import os
 import sys
 
-from arc_utilities import retrieve_url, log, photo_info_url, save_file
+from arc_utilities import retrieve_url, log, photo_info_url, save_file, retrieve_json
 
 
 def archive_group_info(s, group_name):
@@ -83,3 +83,12 @@ def archive_group_info(s, group_name):
         cover_photo_filename = cover_photo_url.split('?')[0].split('.')
         cover_photo_ext = "" if len(cover_photo_filename) < 2 else '.' + cover_photo_filename[-1]
         save_file(s, os.path.join(info_path, f'coverPhoto{cover_photo_ext}'), cover_photo_url)
+
+    # archive links
+    link_url = f'https://groups.yahoo.com/api/v1/groups/{group_name}/links'
+    link_json = retrieve_json(s, link_url, group_name)
+    if link_json:
+        for link in link_json['links']:
+            link['owner'] = link['owner'].split('@')[0]
+        with open(os.path.join(info_path, 'links.json'), 'w', encoding='utf-8') as writeFile:
+            json.dump(link_json, writeFile, indent=2)
