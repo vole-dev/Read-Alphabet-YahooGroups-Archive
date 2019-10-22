@@ -40,19 +40,21 @@ def login_and_archive(group_name, action, username, password):
 def archive_group(s, group_name, mode="update"):
     log("\nArchiving group '" + group_name + "', mode: " + mode + " , on " + time.strftime("%c"), group_name)
     start_time = time.time()
-    if mode == "update":
+    do_all = mode == "all"
+
+    if mode == "update" or do_all:
         archive_group_messages(s, group_name)
         log("message archive finished", group_name)
-    elif mode == "files":
+    if mode == "files" or do_all:
         archive_group_files(s, group_name)
         log("files archive finished", group_name)
-    elif mode == "attachments":
+    if mode == "attachments" or do_all:
         archive_group_attachments(s, group_name)
         log("attachment archive finished", group_name)
-    elif mode == "photos":
+    if mode == "photos" or do_all:
         archive_group_photos(s, group_name)
         log("photo archive finished", group_name)
-    elif mode == "info":
+    if mode == "info" or do_all:
         archive_group_info(s, group_name)
         log("info archive finished", group_name)
     else:
@@ -74,4 +76,4 @@ if __name__ == "__main__":
     else:
         print('This script requires parameters to run:')
         print('python archive_group.py <groupName> <action> <username> <password> [nologs]')
-        print('Available actions are: update, files, attachments, photos, info')
+        print('Available actions are: all, update, files, attachments, photos, info')
