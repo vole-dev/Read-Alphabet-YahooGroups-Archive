@@ -30,6 +30,7 @@ from archive_info import archive_group_info
 from archive_messages import archive_group_messages
 from archive_photos import archive_group_photos
 from archive_polls import archive_group_polls
+from archive_topics import archive_group_topics
 
 
 def login_and_archive(group_name, action, username, password):
@@ -49,6 +50,7 @@ def archive_group(s, group_name, mode):
     if mode == "messages" or do_all:
         valid_mode = True
         try_archive(s, group_name, archive_group_messages, 'message')
+        try_archive(s, group_name, archive_group_topics, 'topic')
     if mode == "files" or do_all:
         valid_mode = True
         try_archive(s, group_name, archive_group_files, 'file')

@@ -107,8 +107,19 @@ def save_file(s, file_path, url, referer=''):
 
 
 def save_meta(group_name, name, metadata):
-    with open(os.path.join(os.curdir, group_name, f'{name}.json'), 'w') as writeFile:
+    with open(os.path.join(os.curdir, group_name, f'{name}.json'), 'w', encoding='utf-8') as writeFile:
         json.dump(metadata, writeFile, indent=2)
+
+
+def load_meta(group_name, name):
+    meta_path = os.path.join(os.curdir, group_name, f'{name}.json')
+    metadata = None
+
+    if os.path.isfile(meta_path):
+        with open(meta_path, 'r', encoding='utf-8') as readFile:
+            metadata = json.load(readFile)
+
+    return metadata
 
 
 def retrieve_url(s, url, group_name, params=None):
