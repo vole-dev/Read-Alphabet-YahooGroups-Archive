@@ -66,7 +66,7 @@ def archive_poll(s, group_name, poll_id):
             del response['email']
 
     with open(poll_path, 'w', encoding='utf-8') as writeFile:
-        json.dump(poll_json, writeFile)
+        json.dump(poll_json, writeFile, indent=2)
 
 
 def yield_walk_polls(s, group_name):
