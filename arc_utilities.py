@@ -102,8 +102,12 @@ def set_post_param(post_data, soup, param):
 def save_file(s, file_path, url, referer=''):
     resp = s.get(url, headers={'referer': referer})
 
+    if resp.status_code != 200:
+        return False
+
     with open(file_path, "wb") as writeFile:
         writeFile.write(resp.content)
+    return True
 
 
 def save_meta(group_name, name, metadata):

@@ -23,6 +23,7 @@ import os
 import sys
 
 from arc_utilities import retrieve_url, log
+from archive_embedded_images import archive_embedded_images
 
 
 def archive_group_messages(s, group_name):
@@ -32,13 +33,15 @@ def archive_group_messages(s, group_name):
 
     for msg_number in yield_walk_messages(s, group_name):
         archive_message(s, group_name, msg_number)
+
+    archive_embedded_images(s, group_name)
     return
 
 
 def archive_message(s, group_name, msg_number):
     message_dir = os.path.join(os.curdir, group_name, 'messages')
     if os.path.isfile(os.path.join(message_dir, str(msg_number) + ".json")):
-        return  # skip messages that have already been downloaded
+        return True  # skip messages that have already been downloaded
 
     print("Archiving message " + str(msg_number))
     resp, failed = retrieve_url(s, f'https://groups.yahoo.com/api/v1/groups/{group_name}/messages/{msg_number}',
