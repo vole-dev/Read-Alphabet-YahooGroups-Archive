@@ -67,7 +67,7 @@ def archive_message(s, group_name, msg_number):
     msg_json['rawEmail'] = msg_raw_json['rawEmail']
 
     with open(os.path.join(message_dir, str(msg_number) + ".json"), "w", encoding='utf-8') as writeFile:
-        json.dump(msg_json, writeFile)
+        json.dump(msg_json, writeFile, indent=2)
     return True
 
 
