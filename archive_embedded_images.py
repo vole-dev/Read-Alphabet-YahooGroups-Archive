@@ -67,10 +67,11 @@ def archive_embedded_images(s, group_name):
 
 def parse_message_embedded_imgs(msg):
     soup = BeautifulSoup(msg, 'html5lib')
-    img_srcs = map(lambda x: x.attrs['src'], soup.findAll('img'))
+    img_srcs = map(lambda x: x.attrs.get('src', None), soup.findAll('img'))
+    img_srcs_non_none = filter(None, img_srcs)
 
-    banned_substrings = ['adserver.yahoo.com', 'cid:', 'yimg.com%2Fa%2F', 'ads.x10.com']
-    imgs = filter(lambda x: not any(ban_str in x for ban_str in banned_substrings), img_srcs)
+    banned_substrings = ['data:', 'cid:', 'adserver.yahoo.com', 'yimg.com%2Fa%2F', 'ads.x10.com']
+    imgs = filter(lambda x: not any(ban_str in x for ban_str in banned_substrings), img_srcs_non_none)
 
     # deal with ec.yimg.com redirection
     redir_imgs = map(lambda img: redirect_ecyimg(img), imgs)
