@@ -78,6 +78,9 @@ def archive_group(s, group_name, mode):
 def try_archive(s, group_name, archiving_fun, archive_type):
     try:
         archiving_fun(s, group_name)
+    except KeyboardInterrupt as e:
+        print("Halting due to Keyboard Interrupt")
+        sys.exit(1)
     except:
         e = traceback.format_exc()
         log(f'Failure. {archive_type} archive exception: {e}', group_name)
