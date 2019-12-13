@@ -46,7 +46,7 @@ def archive_embedded_images(s, group_name):
 
     for img in imgs:
         if img not in meta['imgs']:
-            img_extension = img.split('.')[-1]
+            img_extension = img.split('?')[0].split('.')[-1]
             meta['imgs'][img] = str(uuid.uuid4()) + f'.{img_extension}'
 
     save_meta(group_name, 'embedded_images', meta)
