@@ -1,4 +1,4 @@
 [submodule "Read_Alphabet"]
 	path = Read_Alphabet
-	url = ./
+	url = https://github.com/vole-dev/Read-Alphabet-YahooGroups-Archive.git
 	branch = archive-download
