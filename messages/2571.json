@@ -1,0 +1,31 @@
+{
+  "userId": 542880843,
+  "authorName": "",
+  "from": "&lt;scott@...&gt;",
+  "profile": "guanolto",
+  "replyTo": "LIST",
+  "senderId": "N42PTDOd-vNYAZxSc_BdlPupKiZqDJbtwQggHfS2rjuywLQcZqmx7NThXWw5uhYdelEogtsDoEGMbg",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "3"
+  },
+  "subject": "new font: Suave",
+  "postDate": "1383447527",
+  "msgId": 2571,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGw1NGRuZysxanA2ZDdsQFlhaG9vR3JvdXBzLmNvbT4="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 2572,
+  "prevInTime": 2570,
+  "nextInTime": 2572,
+  "topicId": 2571,
+  "numMessagesInTopic": 4,
+  "msgSnippet": "Dear All, I just uploaded an OpenType font I made that I named Suave. It has kerning, and some additions, which you might find useful. You are free to use",
+  "messageBody": "<div id=\"ygrps-yiv-1123340553\">Dear All,<p></p><div><br></div><div>I just uploaded an OpenType font I made that I named Suave. It has kerning, and some additions, which you might find useful.&nbsp;</div><div><br></div><div>You are free to use whatever features of it you want, or modify it in whatever way you want. Bear in mind that if you want to change its keyboard mapping, you&#39;ll have to update the kerning pairs to account for that (or delete them, if you prefer). It&#39;s now in the Fonts folder of the Files section, together with a document which explains the rationale for some of its special features, and which shows its keyboard layout. The font is optimized for American English spelling. It is not a Unicode font -- I chose not to go that route for personal reasons. I hope it will be of use to some of you.&nbsp;</div></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;scott@...&gt;\r\nX-Sender: scott@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 74742 invoked by uid 102); 3 Nov 2013 02:58:47 -0000\r\nX-Received: from unknown (HELO mtaq3.grp.bf1.yahoo.com) (10.193.84.142)\n  by m1.grp.bf1.yahoo.com with SMTP; 3 Nov 2013 02:58:47 -0000\r\nX-Received: (qmail 1825 invoked from network); 3 Nov 2013 02:58:47 -0000\r\nX-Received: from unknown (HELO n1-vm9.bullet.mail.bf1.yahoo.com) (72.30.235.141)\n  by mtaq3.grp.bf1.yahoo.com with SMTP; 3 Nov 2013 02:58:47 -0000\r\nX-Received: from [72.30.235.67] by n1.bullet.mail.bf1.yahoo.com with NNFMP; 03 Nov 2013 02:58:47 -0000\r\nX-Received: from [10.193.75.127] by t4.bullet.mail.bf1.yahoo.com with NNFMP; 03 Nov 2013 02:58:47 -0000\r\nDate: 02 Nov 2013 19:58:47 -0700\r\nX-Received: from [127.0.0.1] by gapi5.grp.bf1.yahoo.com with NNFMP; 03 Nov 2013 02:51:28 -0000\r\nTo: &lt;Read_Alphabet@yahoogroups.com&gt;\r\nMessage-ID: &lt;l54dng+1jp6d7l@...&gt;\r\nMIME-Version: 1.0\r\nX-Mailer: Yahoo Groups Message Poster\r\nX-Yahoo-Newman-Property: groups-compose\r\nContent-Type: multipart/alternative; boundary=&quot;9nlWnTS9ocNmxdhsK3FKVLWiM6a5jwOaA8HvrLV&quot;\r\nX-eGroups-Msg-Info: 2:3:4:0:0\r\nFrom: &lt;scott@...&gt;\r\nSubject: new font: Suave\r\nX-Yahoo-Group-Post: member; u=542880843; y=VSDEBmbYWyTImRLASqdwfLY7c8fos2cRVVe8Pf9LoT8XTSQ\r\nX-Yahoo-Profile: guanolto\r\n\r\n\r\n--9nlWnTS9ocNmxdhsK3FKVLWiM6a5jwOaA8HvrLV\r\nContent-Type:  text/plain;  charset=utf-8 \r\nContent-Transfer-Encoding: base64\r\n\r\nRGVhciBBbGwsIA0KIA0KDQogSSBqdXN0IHVwbG9hZGVkIGFuIE9wZW5UeXBlIGZvbnQgSSBtYWRl\r\nIHRoYXQgSSBuYW1lZCBTdWF2ZS4gSXQgaGFzIGtlcm5pbmcsIGFuZCBzb21lIGFkZGl0aW9ucywg\r\nd2hpY2ggeW91IG1pZ2h0IGZpbmQgdXNlZnVsLiANCiANCg0KIFlvdSBhcmUgZnJlZSB0byB1c2Ug\r\nd2hhdGV2ZXIgZmVhdHVyZXMgb2YgaXQgeW91IHdhbnQsIG9yIG1vZGlmeSBpdCBpbiB3aGF0ZXZl\r\nciB3YXkgeW91IHdhbnQuIEJlYXIgaW4gbWluZCB0aGF0IGlmIHlvdSB3YW50IHRvIGNoYW5nZSBp\r\ndHMga2V5Ym9hcmQgbWFwcGluZywgeW91J2xsIGhhdmUgdG8gdXBkYXRlIHRoZSBrZXJuaW5nIHBh\r\naXJzIHRvIGFjY291bnQgZm9yIHRoYXQgKG9yIGRlbGV0ZSB0aGVtLCBpZiB5b3UgcHJlZmVyKS4g\r\nSXQncyBub3cgaW4gdGhlIEZvbnRzIGZvbGRlciBvZiB0aGUgRmlsZXMgc2VjdGlvbiwgdG9nZXRo\r\nZXIgd2l0aCBhIGRvY3VtZW50IHdoaWNoIGV4cGxhaW5zIHRoZSByYXRpb25hbGUgZm9yIHNvbWUg\r\nb2YgaXRzIHNwZWNpYWwgZmVhdHVyZXMsIGFuZCB3aGljaCBzaG93cyBpdHMga2V5Ym9hcmQgbGF5\r\nb3V0LiBUaGUgZm9udCBpcyBvcHRpbWl6ZWQgZm9yIEFtZXJpY2FuIEVuZ2xpc2ggc3BlbGxpbmcu\r\nIEl0IGlzIG5vdCBhIFVuaWNvZGUgZm9udCAtLSBJIGNob3NlIG5vdCB0byBnbyB0aGF0IHJvdXRl\r\nIGZvciBwZXJzb25hbCByZWFzb25zLiBJIGhvcGUgaXQgd2lsbCBiZSBvZiB1c2UgdG8gc29tZSBv\r\nZiB5b3UuIA0K\r\n\r\n\r\n--9nlWnTS9ocNmxdhsK3FKVLWiM6a5jwOaA8HvrLV\r\nContent-Type:  text/html;  charset=utf-8 \r\nContent-Transfer-Encoding: base64\r\n\r\nRGVhciBBbGwsPHA+PC9wPjxkaXY+PGJyPjwvZGl2PjxkaXY+SSBqdXN0IHVwbG9hZGVkIGFuIE9w\r\nZW5UeXBlIGZvbnQgSSBtYWRlIHRoYXQgSSBuYW1lZCBTdWF2ZS4gSXQgaGFzIGtlcm5pbmcsIGFu\r\nZCBzb21lIGFkZGl0aW9ucywgd2hpY2ggeW91IG1pZ2h0IGZpbmQgdXNlZnVsLiZuYnNwOzwvZGl2\r\nPjxkaXY+PGJyPjwvZGl2PjxkaXY+WW91IGFyZSBmcmVlIHRvIHVzZSB3aGF0ZXZlciBmZWF0dXJl\r\ncyBvZiBpdCB5b3Ugd2FudCwgb3IgbW9kaWZ5IGl0IGluIHdoYXRldmVyIHdheSB5b3Ugd2FudC4g\r\nQmVhciBpbiBtaW5kIHRoYXQgaWYgeW91IHdhbnQgdG8gY2hhbmdlIGl0cyBrZXlib2FyZCBtYXBw\r\naW5nLCB5b3UmIzM5O2xsIGhhdmUgdG8gdXBkYXRlIHRoZSBrZXJuaW5nIHBhaXJzIHRvIGFjY291\r\nbnQgZm9yIHRoYXQgKG9yIGRlbGV0ZSB0aGVtLCBpZiB5b3UgcHJlZmVyKS4gSXQmIzM5O3Mgbm93\r\nIGluIHRoZSBGb250cyBmb2xkZXIgb2YgdGhlIEZpbGVzIHNlY3Rpb24sIHRvZ2V0aGVyIHdpdGgg\r\nYSBkb2N1bWVudCB3aGljaCBleHBsYWlucyB0aGUgcmF0aW9uYWxlIGZvciBzb21lIG9mIGl0cyBz\r\ncGVjaWFsIGZlYXR1cmVzLCBhbmQgd2hpY2ggc2hvd3MgaXRzIGtleWJvYXJkIGxheW91dC4gVGhl\r\nIGZvbnQgaXMgb3B0aW1pemVkIGZvciBBbWVyaWNhbiBFbmdsaXNoIHNwZWxsaW5nLiBJdCBpcyBu\r\nb3QgYSBVbmljb2RlIGZvbnQgLS0gSSBjaG9zZSBub3QgdG8gZ28gdGhhdCByb3V0ZSBmb3IgcGVy\r\nc29uYWwgcmVhc29ucy4gSSBob3BlIGl0IHdpbGwgYmUgb2YgdXNlIHRvIHNvbWUgb2YgeW91LiZu\r\nYnNwOzwvZGl2Pg==\r\n\r\n\r\n--9nlWnTS9ocNmxdhsK3FKVLWiM6a5jwOaA8HvrLV--\r\n\n"
+}

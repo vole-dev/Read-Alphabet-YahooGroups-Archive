@@ -1,0 +1,31 @@
+{
+  "userId": 106270364,
+  "authorName": "Jean-Fran\u00e7ois Colson",
+  "from": "&quot;Jean-Fran\u00e7ois Colson&quot; &lt;jfcolson@...&gt;",
+  "profile": "j_f_colson",
+  "replyTo": "LIST",
+  "senderId": "2tKpH1V4TgfCj0rlIguY7sAMb-BnbA9UhJ2NzuN3oPCa1dQeK6S1enwiqyb86q6kw8GFXGM-JpmjXKl-bgJwiuYry9XhcR9etOBpPKsjXOLSKgInFRk",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Can the Quickscript (QS) letter p be linked to the previous letter?",
+  "postDate": "1172144077",
+  "msgId": 903,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDJhZDUwMWM3NTY3NSQ2ZjNmNGJkMCQwMjAyYThjMEB3aW4+"
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 904,
+  "prevInTime": 902,
+  "nextInTime": 904,
+  "topicId": 903,
+  "numMessagesInTopic": 2,
+  "msgSnippet": "Hello. I m making a QS Keyman driver which could handle the half forms and alternate forms automatically. I ve got a problem with the letter Pea (letter n\u00b0",
+  "messageBody": "<div id=\"ygrps-yiv-930034965\">Hello.<br/>\n<br/>\nI&#39;m making a QS Keyman driver which could handle the half forms and<br/>\nalternate forms automatically.<br/>\n<br/>\nI&#39;ve got a problem with the letter Pea (letter n\u00b0 1).<br/>\n<br/>\nIf I write something about judo and I use the Japanese words &quot;ippon seoi<br/>\nnage&quot;, how should I write &quot;ippon&quot; in senior QS? Should I use two separate<br/>\nPea&#39;s, or should I use a half Pea linked to a following full Pea?<br/>\n<br/>\nThe &quot;p&quot; is geminated and I pronounce the two &quot;p&quot;&#39;s separately, the 1st one<br/>\nat the end of the 1st syllable and the 2nd one at the beginning of the<br/>\nfollowing syllable.<br/>\n<br/>\nThanks<br/>\n<br/>\nJF</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;jfcolson@...&gt;\r\nX-Sender: jfcolson@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 35201 invoked from network); 22 Feb 2007 11:32:28 -0000\r\nReceived: from unknown (66.218.66.166)\n  by m40.grp.scd.yahoo.com with QMQP; 22 Feb 2007 11:32:28 -0000\r\nReceived: from unknown (HELO outmx016.isp.belgacom.be) (195.238.4.115)\n  by mta5.grp.scd.yahoo.com with SMTP; 22 Feb 2007 11:32:28 -0000\r\nReceived: from outmx016.isp.belgacom.be (localhost [127.0.0.1])\n        by outmx016.isp.belgacom.be (8.12.11.20060308/8.12.11/Skynet-OUT-2.22) with ESMTP id l1MBV3s3008296\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Thu, 22 Feb 2007 12:31:03 +0100\n        (envelope-from &lt;jfcolson@...&gt;)\r\nReceived: from win (156.140-201-80.adsl-dyn.isp.belgacom.be [80.201.140.156])\n        by outmx016.isp.belgacom.be (8.12.11.20060308/8.12.11/Skynet-OUT-2.22) with SMTP id l1MBUx5t008249\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Thu, 22 Feb 2007 12:30:59 +0100\n        (envelope-from &lt;jfcolson@...&gt;)\r\nMessage-ID: &lt;2ad501c75675$6f3f4bd0$0202a8c0@win&gt;\r\nTo: &lt;Read_Alphabet@yahoogroups.com&gt;\r\nDate: Thu, 22 Feb 2007 12:34:37 +0100\r\nMIME-Version: 1.0\r\nContent-Type: text/plain;\n\tformat=flowed;\n\tcharset=&quot;iso-8859-1&quot;;\n\treply-type=original\r\nContent-Transfer-Encoding: 8bit\r\nX-Priority: 3\r\nX-MSMail-Priority: Normal\r\nX-Mailer: Microsoft Outlook Express 6.00.2900.3028\r\nX-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.3028\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: &quot;Jean-Fran\ufffdois Colson&quot; &lt;jfcolson@...&gt;\r\nSubject: Can the Quickscript (QS) letter p be linked to the previous letter?\r\nX-Yahoo-Group-Post: member; u=106270364; y=VvkRjgcJkCXdCcYPaXZSiAEISP5rL-6IHLWN7oXeJjB1fo9Leg\r\nX-Yahoo-Profile: j_f_colson\r\n\r\nHello.\n\nI&#39;m making a QS Keyman driver which could handle the half forms and\nalternate forms automatically.\n\nI&#39;ve got a problem with the letter Pea (letter n\ufffd 1).\n\nIf I write something about judo and I use the Japanese words &quot;ippon seoi\nnage&quot;, how should I write &quot;ippon&quot; in senior QS? Should I use two separate\nPea&#39;s, or should I use a half Pea linked to a following full Pea?\n\nThe &quot;p&quot; is geminated and I pronounce the two &quot;p&quot;&#39;s separately, the 1st one\nat the end of the 1st syllable and the 2nd one at the beginning of the\nfollowing syllable.\n\nThanks\n\nJF \n\n\n"
+}

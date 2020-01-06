@@ -1,0 +1,32 @@
+{
+  "userId": 106105278,
+  "authorName": "ouphrontis",
+  "from": "&quot;ouphrontis&quot; &lt;allen_rouse@...&gt;",
+  "profile": "ouphrontis",
+  "replyTo": "LIST",
+  "senderId": "V6paasMcZdjos9gp-9w81H_xYPyOMOBno0swJY9MZ9Y1tRq6GJw2J3P4bwYTemkBXcbyq7pn49JPfxWgZduJfFDrFw_87HQ7pnm7",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: keyboard map uploaded",
+  "postDate": "1091888580",
+  "msgId": 491,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGNmMm9rNCszODlvQGVHcm91cHMuY29tPg==",
+    "inReplyToHeader": "PDAwMDAwMWM0NjEzMiQ3MjU2M2Q1MCQyMjQ3OGE0MUBjaGFqbz4="
+  },
+  "prevInTopic": 473,
+  "nextInTopic": 492,
+  "prevInTime": 490,
+  "nextInTime": 492,
+  "topicId": 472,
+  "numMessagesInTopic": 15,
+  "msgSnippet": "Hi, (I have not examined nor found any texts regarding the proposed keyboard mapping not the unicode submission. So the following may not be appropiate.) I am",
+  "messageBody": "<div id=\"ygrps-yiv-386733801\">Hi,<br/>\n<br/>\n(I have not examined nor found any texts regarding the proposed<br/>\nkeyboard mapping not the unicode submission. So the following may not<br/>\nbe appropiate.)<br/>\n<br/>\nI am curious about the keyboard mapping and related matters. Since<br/>\nthere are twice as many symbols in QS as in Orthodox some of the<br/>\nassingments will seem arbitrary. So it would be a good idea to get<br/>\nsome mileage out it.<br/>\n<br/>\nTo me an ideal keyboard mapping would put as many of the of the very<br/>\ncommon symbols on the querty home row. Those which are merely common<br/>\non other rows (above and below home row) accessible without modifier<br/>\nkeys. Those which are less common would be accessible by the shift key<br/>\n(or whatever). In addition, some balance between the left and right<br/>\nend of the keyboard would be nice also. <br/>\n<br/>\nSince K. Read did not impose an official order on the characters,<br/>\nother than for convenience of referral in his manuscript, it would<br/>\nseem to me a great opportunity to create one that had some nice<br/>\nproperties. <br/>\n<br/>\nA property of an ideal lexicographic order is that the order<br/>\ncorrespond with the usage frequency of the symbol in written english<br/>\ntexts. Thus, the first symbol would be the most common. For example,<br/>\nin Orthodox the lexicographic order would be<br/>\ne-t-a-o-i-n-s-h-r-d-l-u-... instead of the current situation<br/>\n(a-b-c-d-e-...).<br/>\n<br/>\nA symbol frequency analysis of many texts is necessary for these two<br/>\nideas to<br/>\nbe implemented.</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;allen_rouse@...&gt;\r\nX-Sender: allen_rouse@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 13945 invoked from network); 7 Aug 2004 14:23:18 -0000\r\nReceived: from unknown (66.218.66.216)\n  by m24.grp.scd.yahoo.com with QMQP; 7 Aug 2004 14:23:18 -0000\r\nReceived: from unknown (HELO n7.grp.scd.yahoo.com) (66.218.66.91)\n  by mta1.grp.scd.yahoo.com with SMTP; 7 Aug 2004 14:23:18 -0000\r\nReceived: from [66.218.67.149] by n7.grp.scd.yahoo.com with NNFMP; 07 Aug 2004 14:23:02 -0000\r\nDate: Sat, 07 Aug 2004 14:23:00 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;cf2ok4+389o@...&gt;\r\nIn-Reply-To: &lt;000001c46132$72563d50$22478a41@chajo&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 1394\r\nX-Mailer: Yahoo Groups Message Poster\r\nX-Yahoo-Newman-Property: groups-compose\r\nX-eGroups-Remote-IP: 66.218.66.91\r\nFrom: &quot;ouphrontis&quot; &lt;allen_rouse@...&gt;\r\nSubject: Re: keyboard map uploaded\r\nX-Yahoo-Group-Post: member; u=106105278\r\nX-Yahoo-Profile: ouphrontis\r\n\r\nHi,\n\n(I have not examined nor found any texts regarding the proposed\nkeyboard mapping not the unicode submission. So the following may not\nbe appropiate.)\n\nI am curious about the keyboard mapping and related matters. Since\nthere are twice as many symbols in QS as in Orthodox some of the\nassingments will seem arbitrary. So it would be a good idea to get\nsome mileage out it.\n\nTo me an ideal keyboard mapping would put as many of the of the very\ncommon symbols on the querty home row. Those which are merely common\non other rows (above and below home row) accessible without modifier\nkeys. Those which are less common would be accessible by the shift key\n(or whatever). In addition, some balance between the left and right\nend of the keyboard would be nice also. \n\nSince K. Read did not impose an official order on the characters,\nother than for convenience of referral in his manuscript, it would\nseem to me a great opportunity to create one that had some nice\nproperties. \n\nA property of an ideal lexicographic order is that the order\ncorrespond with the usage frequency of the symbol in written english\ntexts. Thus, the first symbol would be the most common. For example,\nin Orthodox the lexicographic order would be\ne-t-a-o-i-n-s-h-r-d-l-u-... instead of the current situation\n(a-b-c-d-e-...).\n\nA symbol frequency analysis of many texts is necessary for these two\nideas to\nbe implemented. \n\n\n"
+}

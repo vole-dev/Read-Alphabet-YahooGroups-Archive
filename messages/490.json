@@ -1,0 +1,31 @@
+{
+  "userId": 6166478,
+  "authorName": "jeff_smith_8992",
+  "from": "&quot;jeff_smith_8992&quot; &lt;jeff_smith_8992@...&gt;",
+  "profile": "jeff_smith_8992",
+  "replyTo": "LIST",
+  "senderId": "iKZea1tfReknxMk1KJSr69x3rt5PyvjbQDs8GcOEl02qxqCPFrYCt-zxy6eH78AjqqrDXcVFG1m1jPra2Fbma4TFENtRFFl2N5akX8QjKLs2whSJ",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "QsConverter Correction",
+  "postDate": "1091755610",
+  "msgId": 490,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGNldW1vcStqN2g5QGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 0,
+  "prevInTime": 489,
+  "nextInTime": 491,
+  "topicId": 490,
+  "numMessagesInTopic": 1,
+  "msgSnippet": "Oops... I ve already spotted a problem in my QsConverter program (placed in the files section earlier this week)... it isn t handling hyphenated words",
+  "messageBody": "<div id=\"ygrps-yiv-1724932156\">Oops... I&#39;ve already spotted a problem in my QsConverter program<br/>\n(placed in the files section earlier this week)... it isn&#39;t handling<br/>\nhyphenated words properly.  I&#39;ll try to find some time this coming<br/>\nweekend to correct it and I&#39;ll upload the revision.  If anyone else<br/>\nfinds any other bugs, please let me know.<br/>\nThanks,<br/>\nJeff</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;jeff_smith_8992@...&gt;\r\nX-Sender: jeff_smith_8992@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 53867 invoked from network); 6 Aug 2004 01:26:51 -0000\r\nReceived: from unknown (66.218.66.218)\n  by m6.grp.scd.yahoo.com with QMQP; 6 Aug 2004 01:26:51 -0000\r\nReceived: from unknown (HELO n35.grp.scd.yahoo.com) (66.218.66.103)\n  by mta3.grp.scd.yahoo.com with SMTP; 6 Aug 2004 01:26:51 -0000\r\nReceived: from [66.218.67.166] by n35.grp.scd.yahoo.com with NNFMP; 06 Aug 2004 01:26:51 -0000\r\nDate: Fri, 06 Aug 2004 01:26:50 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;ceumoq+j7h9@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 324\r\nX-Mailer: Yahoo Groups Message Poster\r\nX-Yahoo-Newman-Property: groups-compose\r\nX-eGroups-Remote-IP: 66.218.66.103\r\nFrom: &quot;jeff_smith_8992&quot; &lt;jeff_smith_8992@...&gt;\r\nSubject: QsConverter Correction\r\nX-Yahoo-Group-Post: member; u=6166478\r\nX-Yahoo-Profile: jeff_smith_8992\r\n\r\nOops... I&#39;ve already spotted a problem in my QsConverter program\n(placed in the files section earlier this week)... it isn&#39;t handling\nhyphenated words properly.  I&#39;ll try to find some time this coming\nweekend to correct it and I&#39;ll upload the revision.  If anyone else\nfinds any other bugs, please let me know.\nThanks,\nJeff\n\n\n"
+}

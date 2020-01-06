@@ -1,0 +1,32 @@
+{
+  "userId": 179647995,
+  "authorName": "Jerry",
+  "from": "&quot;Jerry&quot; &lt;nieuwsgroep222@...&gt;",
+  "profile": "nieuwsgroep222",
+  "replyTo": "LIST",
+  "senderId": "Dvbl-n7Qto4Fe1BnYYFINo_1VqnbNIlqOK4xn4pVv5ptoYBdDnjq6KqyQKfpAjqfsxDe7Ugsdn2hFsU1mcejj0ULgV2z03U_5g",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "RE: [Read_Alphabet] Re: Quickscript practice site",
+  "postDate": "1085489932",
+  "msgId": 452,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDQwNTI1MTI1OC5pNFBDd0xIajA0NDYxNUBzbXRwLW91dDMueHM0YWxsLm5sPg==",
+    "inReplyToHeader": "PDAwMDAwMWM0NDFmNiQ2Y2NiNzU5MCRkZDFlZmVhOUB5b3VyNW9sbmIyOG9hbz4="
+  },
+  "prevInTopic": 450,
+  "nextInTopic": 621,
+  "prevInTime": 451,
+  "nextInTime": 453,
+  "topicId": 445,
+  "numMessagesInTopic": 6,
+  "msgSnippet": "Hi Jon, ... Thank you very much! This was indeed a major part of the problem. The other part is Mozilla s very different approach to javascript, but it works",
+  "messageBody": "<div id=\"ygrps-yiv-537177912\">Hi Jon,<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;I&#39;ve taken the liberty of balancing the tags, so if you upload this<br/>\n&gt;code below, it should work ok.  Mozilla is known for being very<br/>\n&gt;insistent on &quot;well-formed&quot; HTML.<br/>\n<br/>\n </span></blockquote>Thank you very much! This was indeed a major part of the problem. The<br/>\nother part is Mozilla&#39;s very different approach to javascript, but it<br/>\nworks fine now. (I&#39;ve tested it in Netscape 7.1 and Internet Explorer<br/>\n6.)<br/>\n<br/>\nThanks again!<br/>\n<br/>\n-- <br/>\nJerry<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.xs4all.nl/~ransau/quickscript/letters_oefenen/\">http://www.xs4all.nl/~ransau/quickscript/letters_oefenen/</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;nieuwsgroep222@...&gt;\r\nX-Sender: nieuwsgroep222@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 39424 invoked from network); 25 May 2004 12:59:03 -0000\r\nReceived: from unknown (66.218.66.172)\n  by m22.grp.scd.yahoo.com with QMQP; 25 May 2004 12:59:03 -0000\r\nReceived: from unknown (HELO smtp-out3.xs4all.nl) (194.109.24.13)\n  by mta4.grp.scd.yahoo.com with SMTP; 25 May 2004 12:59:02 -0000\r\nReceived: from yourjfjm8kzdfj (a80-127-8-111.adsl.xs4all.nl [80.127.8.111])\n\tby smtp-out3.xs4all.nl (8.12.10/8.12.10) with ESMTP id i4PCwLHj044615\n\tfor &lt;Read_Alphabet@yahoogroups.com&gt;; Tue, 25 May 2004 14:58:21 +0200 (CEST)\r\nMessage-Id: &lt;200405251258.i4PCwLHj044615@...&gt;\r\nTo: &lt;Read_Alphabet@yahoogroups.com&gt;\r\nDate: Tue, 25 May 2004 14:58:52 +0200\r\nMIME-Version: 1.0\r\nContent-Type: text/plain;\n\tcharset=&quot;us-ascii&quot;\r\nContent-Transfer-Encoding: 7bit\r\nX-Mailer: Microsoft Office Outlook, Build 11.0.5510\r\nThread-Index: AcRB9m//n2h+XC7sSaKAHbxXUsHVyAAYV53w\r\nIn-Reply-To: &lt;000001c441f6$6ccb7590$dd1efea9@your5olnb28oao&gt;\r\nX-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1409\r\nX-eGroups-Remote-IP: 194.109.24.13\r\nFrom: &quot;Jerry&quot; &lt;nieuwsgroep222@...&gt;\r\nSubject: RE: [Read_Alphabet] Re: Quickscript practice site\r\nX-Yahoo-Group-Post: member; u=179647995\r\nX-Yahoo-Profile: nieuwsgroep222\r\n\r\nHi Jon,\n\n&gt;I&#39;ve taken the liberty of balancing the tags, so if you upload this\n&gt;code below, it should work ok.  Mozilla is known for being very\n&gt;insistent on &quot;well-formed&quot; HTML.\n\nThank you very much! This was indeed a major part of the problem. The\nother part is Mozilla&#39;s very different approach to javascript, but it\nworks fine now. (I&#39;ve tested it in Netscape 7.1 and Internet Explorer\n6.)\n\nThanks again!\n\n-- \nJerry\n\nhttp://www.xs4all.nl/~ransau/quickscript/letters_oefenen/\n\n\n"
+}

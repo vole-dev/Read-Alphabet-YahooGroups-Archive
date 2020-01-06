@@ -1,0 +1,33 @@
+{
+  "userId": 82638473,
+  "authorName": "Michael Everson",
+  "from": "Michael Everson &lt;everson@...&gt;",
+  "profile": "evertype",
+  "replyTo": "LIST",
+  "senderId": "HVD9akJ3XtrOPNObaItdNkhqSjHtgA2nKro6ue2qylceYaoH1ImfloSCcWIGx8Th6-r-m0iEF52vP0byBvZJLTY_F4JfQEybHKn1nAw",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Unicode proposal again.",
+  "postDate": "1180617726",
+  "msgId": 983,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PHAwNjI0MDgwY2MyODQ3YzVhYjQyM0BbMTAuMC4xLjJdPg==",
+    "inReplyToHeader": "PDAwOTgwMWM3YTM4NCQ4N2JkNzcyMCQwMzAwMDAwYUB1bGIxaT4=",
+    "referencesHeader": "PGYzZjU2OCtuc2MwQGVHcm91cHMuY29tPiA8MDA1MDAxYzdhMWIzJDc4MTFkMTQwJDAzMDAwMDBhQHVsYjFpPiA8cDA2MjQwODAzYzI4MThjNWNhNzY3QFsxOTIuMTY4LjEuMTM0XT4gPDQ2NUM2Rjg3LjcwNzA4QG1lbHJvY2guc2U+IDxwMDYyNDA4MDhjMjgyNDUzZjIwN2NAWzEwLjAuMS4yXT4gPDQ2NUQ2NjE2LjYwNTAwMDVAbWVscm9jaC5zZT4gPDQ2NURCOTg3LjEwMzAzMDZAeWFob28uY28udWs+IDwyMDA3MDUzMDIxMTAzOS5HRzk3MTJAbWVyY3VyeS5jY2lsLm9yZz4gPDQ2NURFQUU3LjgwNTA1MDZAeWFob28uY28udWs+IDwyMDA3MDUzMDIxMjc0MC5HQjExODYyQG1lcmN1cnkuY2NpbC5vcmc+IDwwMDk4MDFjN2EzODQkODdiZDc3MjAkMDMwMDAwMGFAdWxiMWk+"
+  },
+  "prevInTopic": 982,
+  "nextInTopic": 984,
+  "prevInTime": 982,
+  "nextInTime": 984,
+  "topicId": 947,
+  "numMessagesInTopic": 45,
+  "msgSnippet": "... Shavian is already encoded in Plane 1. From what I have seen so far, some extensions to Shavian may be added in order to support QS. -- Michael Everson *",
+  "messageBody": "<div id=\"ygrps-yiv-288250850\">At 09:06 -0400 2007-05-31, Ph.D. wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;We&#39;re talking about assigning QS and Shavian to code points in Plane 1, right?<br/>\n<br/>\n </span></blockquote>Shavian is already encoded in Plane 1. From what I have seen so far, <br/>\nsome extensions to Shavian may be added in order to support QS.<br/>\n-- <br/>\nMichael Everson * <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.evertype.com\">http://www.evertype.com</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;everson@...&gt;\r\nX-Sender: everson@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 81685 invoked from network); 1 Jun 2007 19:37:51 -0000\r\nReceived: from unknown (66.218.66.71)\n  by m47.grp.scd.yahoo.com with QMQP; 1 Jun 2007 19:37:51 -0000\r\nReceived: from unknown (HELO white.dnsireland.com) (67.15.182.33)\n  by mta13.grp.scd.yahoo.com with SMTP; 1 Jun 2007 19:37:49 -0000\r\nReceived: from localhost ([127.0.0.1]:34889 helo=[10.0.1.2])\n\tby white.dnsireland.com with esmtp (Exim 4.63)\n\t(envelope-from &lt;everson@...&gt;)\n\tid 1HtkcU-0000pB-13\n\tfor Read_Alphabet@yahoogroups.com; Thu, 31 May 2007 14:23:14 +0100\r\nMime-Version: 1.0\r\nMessage-Id: &lt;p0624080cc2847c5ab423@[10.0.1.2]&gt;\r\nIn-Reply-To: &lt;009801c7a384$87bd7720$0300000a@ulb1i&gt;\r\nReferences: &lt;f3f568+nsc0@...&gt;\n &lt;005001c7a1b3$7811d140$0300000a@ulb1i&gt;\n &lt;p06240803c2818c5ca767@[192.168.1.134]&gt; &lt;465C6F87.70708@...&gt;\n &lt;p06240808c282453f207c@[10.0.1.2]&gt; &lt;465D6616.6050005@...&gt;\n &lt;465DB987.1030306@...&gt; &lt;20070530211039.GG9712@...&gt;\n &lt;465DEAE7.8050506@...&gt; &lt;20070530212740.GB11862@...&gt;\n &lt;009801c7a384$87bd7720$0300000a@ulb1i&gt;\r\nDate: Thu, 31 May 2007 16:52:06 +0330\r\nTo: Read_Alphabet@yahoogroups.com\r\nContent-Type: text/plain; charset=&quot;us-ascii&quot; ; format=&quot;flowed&quot;\r\nX-AntiAbuse: This header was added to track abuse, please include it with any abuse report\r\nX-AntiAbuse: Primary Hostname - white.dnsireland.com\r\nX-AntiAbuse: Original Domain - yahoogroups.com\r\nX-AntiAbuse: Originator/Caller UID/GID - [0 0] / [47 12]\r\nX-AntiAbuse: Sender Address Domain - evertype.com\r\nX-Source: \r\nX-Source-Args: \r\nX-Source-Dir: \r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: Michael Everson &lt;everson@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Unicode proposal again.\r\nX-Yahoo-Group-Post: member; u=82638473; y=0rZWzAsOWbo8Ztrzgn5MIO8uEUPDGRedS4NQ28c_qgu-KIo\r\nX-Yahoo-Profile: evertype\r\n\r\nAt 09:06 -0400 2007-05-31, Ph.D. wrote:\n\n&gt;We&#39;re talking about assigning QS and Shavian to code points in Plane 1, right?\n\nShavian is already encoded in Plane 1. From what I have seen so far, \nsome extensions to Shavian may be added in order to support QS.\n-- \nMichael Everson * http://www.evertype.com\n\n"
+}

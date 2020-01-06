@@ -1,0 +1,30 @@
+{
+  "userId": 0,
+  "authorName": "",
+  "from": "Read_Alphabet@yahoogroups.com ",
+  "replyTo": "LIST",
+  "senderId": "8TREPNBR1MTPU1RdOh6Y6GlmqF8Lpfm3wPs3ZF21S0FyFjAi1EcgftR4YBrA0I7T9E_vzU2yBR7MULnVZFJ6wMflArWq",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "New file uploaded to Read_Alphabet",
+  "postDate": "1365980197",
+  "msgId": 2395,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": true,
+  "headers": {
+    "messageIdInHeader": "PDEzNjU5ODAxOTcuMTM2NC44OTU3OC53NUB5YWhvb2dyb3Vwcy5jb20+"
+  },
+  "prevInTopic": 2336,
+  "nextInTopic": 2484,
+  "prevInTime": 2394,
+  "nextInTime": 2396,
+  "topicId": 3,
+  "numMessagesInTopic": 91,
+  "msgSnippet": "Hello, This email message is a notification to let you know that a file has been uploaded to the Files area of the Read_Alphabet group. File        : /Unicode",
+  "messageBody": "<div id=\"ygrps-yiv-87901788\">Hello,<br/>\n<br/>\nThis email message is a notification to let you know that<br/>\na file has been uploaded to the Files area of the Read_Alphabet <br/>\ngroup.<br/>\n<br/>\n  File        : /Unicode Proposal/shavian-quikscript-draft2.pdf <br/>\n  Uploaded by : evertype &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:everson@...\">everson@...</a>&gt; <br/>\n  Description : Michael Everson&#39;s 2013 chart for discussion of unification between Shavian and QS  <br/>\n<br/>\nYou can access this file at the URL:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/Read_Alphabet/files/Unicode%20Proposal/shavian-quikscript-draft2.pdf\">http://groups.yahoo.com/group/Read_Alphabet/files/Unicode%20Proposal/shavian-quikscript-draft2.pdf</a> <br/>\n<br/>\nTo learn more about file sharing for your group, please visit:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://help.yahoo.com/l/us/yahoo/groups/original/members/web/index.html\">http://help.yahoo.com/l/us/yahoo/groups/original/members/web/index.html</a><br/>\nRegards,<br/>\n<br/>\nevertype &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:everson@...\">everson@...</a>&gt;</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;notify@yahoogroups.com&gt;\r\nReceived: (qmail 22520 invoked from network); 14 Apr 2013 22:56:38 -0000\r\nReceived: from unknown (10.193.84.131)\n  by m9.grp.bf1.yahoo.com with QMQP; 14 Apr 2013 22:56:38 -0000\r\nReceived: from unknown (HELO ng13-ip2.bullet.mail.bf1.yahoo.com) (98.139.165.108)\n  by mta4.grp.bf1.yahoo.com with SMTP; 14 Apr 2013 22:56:38 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=echoe; t=1365980198; bh=nM2MwZju4+bt/IB9o761Q0I3ZlYwTyWYEG3DWL/69xE=; h=Received:Received:Date:Message-ID:X-Yahoo-Newman-Property:X-eGroups-Auth:X-eGroups-Application:X-Yahoo-Group-Post:From:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding; b=sMPGEgtOYYWtOjp0Owkimadz0UKoO88pWRkKXpUu9zIRN605KHQcPZwbkeDAA8xWJ6Ho9DFJEh9f9yaX6dR/59HfBXeupAm/0H1T8vzXub/FBooV++lYyhx0iVCAQv/BdEJrVu5OVEFxczL1TJAeVpilGoWJ3nmPC//bfkPfsFU=\r\nReceived: from [98.139.164.120] by ng13.bullet.mail.bf1.yahoo.com with NNFMP; 14 Apr 2013 22:56:38 -0000\r\nReceived: from [10.193.94.43] by tg1.bullet.mail.bf1.yahoo.com with NNFMP; 14 Apr 2013 22:56:37 -0000\r\nDate: 14 Apr 2013 22:56:37 -0000\r\nMessage-ID: &lt;1365980197.1364.89578.w5@yahoogroups.com&gt;\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Application: files \r\nX-Yahoo-Group-Post: system\r\nFrom: Read_Alphabet@yahoogroups.com \r\nTo: Read_Alphabet@yahoogroups.com \r\nSubject: New file uploaded to Read_Alphabet \r\nMIME-Version: 1.0\r\nContent-Type: text/plain\r\nContent-Transfer-Encoding: 7bit\r\n\r\n\nHello,\n\nThis email message is a notification to let you know that\na file has been uploaded to the Files area of the Read_Alphabet \ngroup.\n\n  File        : /Unicode Proposal/shavian-quikscript-draft2.pdf \n  Uploaded by : evertype &lt;everson@...&gt; \n  Description : Michael Everson&#39;s 2013 chart for discussion of unification between Shavian and QS  \n\nYou can access this file at the URL:\nhttp://groups.yahoo.com/group/Read_Alphabet/files/Unicode%20Proposal/shavian-quikscript-draft2.pdf \n\nTo learn more about file sharing for your group, please visit:\nhttp://help.yahoo.com/l/us/yahoo/groups/original/members/web/index.html\nRegards,\n\nevertype &lt;everson@...&gt;\n \n\n\n\n\n"
+}

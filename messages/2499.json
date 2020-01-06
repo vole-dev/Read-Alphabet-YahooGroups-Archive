@@ -1,0 +1,33 @@
+{
+  "userId": 458641688,
+  "authorName": "Nathan Sharfi",
+  "from": "Nathan Sharfi &lt;bonusfrogs@...&gt;",
+  "profile": "dipartite",
+  "replyTo": "LIST",
+  "senderId": "xbBmlwkJ-7La0sobXYVisFxei3WA1pbMVDNVpGcRvVzRK_jMloG-CwwuwQ7vvoNAFnTkGJIbjm0nOSNrueSGu2I4YYYMcbnA8uKQ",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Call of Cthulhu fixes",
+  "postDate": "1368398765",
+  "msgId": 2499,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PEYyODZGMURBLTkzM0YtNDk3Qy1BRjk0LTM4OEE2QkM1MTQ3QUBnbWFpbC5jb20+",
+    "inReplyToHeader": "PGttbXJqcCtxcTd1QGVHcm91cHMuY29tPg==",
+    "referencesHeader": "PGttbXJqcCtxcTd1QGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 2498,
+  "nextInTopic": 0,
+  "prevInTime": 2498,
+  "nextInTime": 2500,
+  "topicId": 2493,
+  "numMessagesInTopic": 7,
+  "msgSnippet": "Either that or MediaWiki markup (added at or before 4.0.3) would be best here. There s not a whole lot of air between LibreOffice s MediaWiki exports and my",
+  "messageBody": "<div id=\"ygrps-yiv-1042777130\">Either that or MediaWiki markup (added at or before 4.0.3) would be best here. There&#39;s not a whole lot of air between LibreOffice&#39;s MediaWiki exports and my Markdown files, other than:<br/>\n<br/>\n- subhead changes<br/>\n- s/\u2014/ \u2014 /g<br/>\n- s/(&#92;d)-(&#92;d)/&#92;1\u2013&#92;2/ for date ranges<br/>\n- vertical whitespace changes<br/>\n- fixed-but-unlogged typographical changes<br/>\n- 70something-column lines, not 1-paragraph lines<br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\"> On May 11, 2013, at 6:34 PM, Timothy &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:tim_rice09@...\">tim_rice09@...</a>&gt; wrote:<br/>\n<br/>\n&gt; LibreOffice can output HTML. Quite clean HTML, at that.<br/>\n&gt; <br/>\n&gt; --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Read_Alphabet@yahoogroups.com\">Read_Alphabet@yahoogroups.com</a>, Nathan Sharfi &lt;bonusfrogs@...&gt; wrote:<br/>\n&gt;&gt; <br/>\n&gt;&gt; On May 11, 2013, at 6:27 AM, Timothy &lt;tim_rice09@...&gt; wrote:<br/>\n&gt;&gt; <br/>\n&gt;&gt;&gt; Awesome. I fixed the typo (and another besides, &quot;moment&quot; was transferred as &quot;movement&quot; further down in the file) and am in the process of uploading the corrected set to qs-classics.<br/>\n&gt;&gt; <br/>\n&gt;&gt; I tried to run it (and the previous .odt) through Pandoc, and this is what I got:<br/>\n&gt;&gt; <br/>\n&gt;&gt; $ pandoc -t html Call&#92; of&#92; Cthulhu-QS.odt <br/>\n&gt;&gt; pandoc: Cannot decode byte &#39;&#92;xab&#39;: Data.Text.Encoding.decodeUtf8: Invalid UTF-8 stream<br/>\n&gt;&gt; <br/>\n&gt;&gt; What&#39;re you using to generate it? Is generating HTML (the plainer, the better) an option? </span></blockquote></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;bonusfrogs@...&gt;\r\nX-Sender: bonusfrogs@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 39862 invoked by uid 102); 12 May 2013 22:46:08 -0000\r\nX-Received: from unknown (HELO mtaq4.grp.bf1.yahoo.com) (10.193.84.143)\n  by m11.grp.bf1.yahoo.com with SMTP; 12 May 2013 22:46:08 -0000\r\nX-Received: (qmail 27088 invoked from network); 12 May 2013 22:46:08 -0000\r\nX-Received: from unknown (HELO mail-ia0-f173.google.com) (209.85.210.173)\n  by mtaq4.grp.bf1.yahoo.com with SMTP; 12 May 2013 22:46:08 -0000\r\nX-Received: by mail-ia0-f173.google.com with SMTP id h8so587844iaa.32\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Sun, 12 May 2013 15:46:08 -0700 (PDT)\r\nX-Received: by 10.50.2.97 with SMTP id 1mr8284527igt.3.1368398768491;\n        Sun, 12 May 2013 15:46:08 -0700 (PDT)\r\nReturn-Path: &lt;bonusfrogs@...&gt;\r\nX-Received: from spreadthinly.localdomain (pool-74-100-97-239.lsanca.fios.verizon.net. [74.100.97.239])\n        by mx.google.com with ESMTPSA id ua6sm13618160igb.0.2013.05.12.15.46.07\n        for &lt;Read_Alphabet@yahoogroups.com&gt;\n        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);\n        Sun, 12 May 2013 15:46:07 -0700 (PDT)\r\nContent-Type: text/plain; charset=windows-1252\r\nMime-Version: 1.0 (Mac OS X Mail 6.3 &#92;(1503&#92;))\r\nIn-Reply-To: &lt;kmmrjp+qq7u@...&gt;\r\nDate: Sun, 12 May 2013 15:46:05 -0700\r\nContent-Transfer-Encoding: quoted-printable\r\nMessage-Id: &lt;F286F1DA-933F-497C-AF94-388A6BC5147A@...&gt;\r\nReferences: &lt;kmmrjp+qq7u@...&gt;\r\nTo: Read_Alphabet@yahoogroups.com\r\nX-Mailer: Apple Mail (2.1503)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Nathan Sharfi &lt;bonusfrogs@...&gt;\r\nSubject: Re: [Read_Alphabet] Call of Cthulhu fixes\r\nX-Yahoo-Group-Post: member; u=458641688; y=6X5Z8mZVZMT5jbVIYgF47gOLUlKm_zwV6Xp2gB5YSJhml90E\r\nX-Yahoo-Profile: dipartite\r\n\r\nEither that or MediaWiki markup (added at or before 4.0.3) would be best he=\r\nre. There&#39;s not a whole lot of air between LibreOffice&#39;s MediaWiki exports =\r\nand my Markdown files, other than:\n\n- subhead changes\n- s/=97/ =97 /g\n- s/(=\r\n&#92;d)-(&#92;d)/&#92;1=96&#92;2/ for date ranges\n- vertical whitespace changes\n- fixed-but=\r\n-unlogged typographical changes\n- 70something-column lines, not 1-paragraph=\r\n lines\n\n\nOn May 11, 2013, at 6:34 PM, Timothy &lt;tim_rice09@...&gt; wrote:=\r\n\n\n&gt; LibreOffice can output HTML. Quite clean HTML, at that.\n&gt; \n&gt; --- In Rea=\r\nd_Alphabet@yahoogroups.com, Nathan Sharfi &lt;bonusfrogs@...&gt; wrote:\n&gt;&gt; \n&gt;&gt; On=\r\n May 11, 2013, at 6:27 AM, Timothy &lt;tim_rice09@...&gt; wrote:\n&gt;&gt; \n&gt;&gt;&gt; Awesome.=\r\n I fixed the typo (and another besides, &quot;moment&quot; was transferred as &quot;moveme=\r\nnt&quot; further down in the file) and am in the process of uploading the correc=\r\nted set to qs-classics.\n&gt;&gt; \n&gt;&gt; I tried to run it (and the previous .odt) th=\r\nrough Pandoc, and this is what I got:\n&gt;&gt; \n&gt;&gt; $ pandoc -t html Call&#92; of&#92; Cth=\r\nulhu-QS.odt \n&gt;&gt; pandoc: Cannot decode byte &#39;&#92;xab&#39;: Data.Text.Encoding.decod=\r\neUtf8: Invalid UTF-8 stream\n&gt;&gt; \n&gt;&gt; What&#39;re you using to generate it? Is gen=\r\nerating HTML (the plainer, the better) an option?\n\n\n"
+}

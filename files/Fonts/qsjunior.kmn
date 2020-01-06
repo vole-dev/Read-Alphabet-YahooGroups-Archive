@@ -1,0 +1,48 @@
+c  Shavian Keyboard
+c  May be used for any of the shavian alphabets or the
+c  quickscript alphabets
+c
+c  This is an experimental version by Rick Allnutt
+c (geoflyfisher@yahoo.com)
+c
+c  Written March 2002
+c  The attempt was to map several of the Shavian lettergroups
+c  I always have trouble remembering to their letter pattern
+c  and also to eliminate most of the capital lettering
+
+c  The good news is that this pattern is purely personal
+c  You chan change this file in any way that fits your style
+
+NAME "Shavian Keyboard"
+
+BITMAPS QSOFF QSON
+c To use this you need to have the files qsoff.bmp and 
+c qson.bmp in your directory
+
+HOTKEY [SHIFT ALT K_S]
+
+VERSION 3.0
+
+begin > use(main)
+group(main) using keys
+
+"s" + "h"  > "S"
+"n" + "g"  > "N"
+"z" + "z"  > "Z"
+"j"  > "J"
+"y"  > "j"
+"a" + "a"  > "A"
+"o" + "o"  > "U"
+"o" + "w"  > "Q"
+"a" + "h"  > "y"
+"e" + "a"  > "I"
+"a" + "i"  > "E"
+"I"   > "F"
+"o" + "u"  > "M"
+"o" + "y"  > "q"
+"a" + "w"  > "Y"
+"o" + "r"  > "P"
+"e" + "r"  > "x"
+"U"  > "V"
+
+c Rick

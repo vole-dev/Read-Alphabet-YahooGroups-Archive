@@ -1,0 +1,32 @@
+{
+  "userId": 274193773,
+  "authorName": "Timothy",
+  "from": "&quot;Timothy&quot; &lt;tim_rice09@...&gt;",
+  "profile": "tim_rice09",
+  "replyTo": "LIST",
+  "senderId": "z6aA_Erf44MzSL_mfk0USbEp6Mm1mDIqQAbLUysOqNBUkVzBP40M5C-fQZXQfAhDzIDpRBkVl_nOQarrm6duigrvZbsap7A",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Adapt-It&#39;s Output Formats (was: Re: Call of Cthulhu, now in modern HTML)",
+  "postDate": "1364090947",
+  "msgId": 2342,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGtpbG44MysxMWN2aEBlR3JvdXBzLmNvbT4=",
+    "inReplyToHeader": "PGtpbDdocCtsYXY2QGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 2341,
+  "nextInTopic": 0,
+  "prevInTime": 2341,
+  "nextInTime": 2343,
+  "topicId": 2339,
+  "numMessagesInTopic": 4,
+  "msgSnippet": "It was originally designed to handle USFM-formatted documents, but works amazingly with flat text documents.",
+  "messageBody": "<div id=\"ygrps-yiv-732862731\">It was originally designed to handle USFM-formatted documents, but works amazingly with flat text documents.<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Read_Alphabet@yahoogroups.com\">Read_Alphabet@yahoogroups.com</a>, &quot;dipartite&quot; &lt;bonusfrogs@...&gt; wrote:<br/>\n&gt;<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; What sorts of files does Adapt-It output by default?<br/>\n&gt; <br/>\n&gt; When copying and pasting from PDF to Markdown I had to go back and remove line breaks that were between pages. If Adapt-It could spit out text (in UTF-8, of course!) with two line breaks between paragraphs, that takes me 99% of the way to something like &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"https://raw.github.com/adiabatic/qs-literature/gh-pages/call-of-cthulhu/index.markdown\">https://raw.github.com/adiabatic/qs-literature/gh-pages/call-of-cthulhu/index.markdown</a>&gt;, which is what I feed into Jekyll/Github Pages to turn into a nicely-formatted HTML page.<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Read_Alphabet@yahoogroups.com\">Read_Alphabet@yahoogroups.com</a>, &quot;Timothy&quot; &lt;tim_rice09@&gt; wrote:<br/>\n&gt; &gt;<br/>\n&gt; &gt; Thank you. Thank you very much. PDFs are great and all, but resizing is wonderful.<br/>\n&gt; </span></blockquote></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;tim_rice09@...&gt;\r\nX-Sender: tim_rice09@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 67811 invoked by uid 102); 24 Mar 2013 02:09:07 -0000\r\nX-Received: from unknown (HELO mta1.grp.bf1.yahoo.com) (10.193.84.135)\n  by m2.grp.bf1.yahoo.com with SMTP; 24 Mar 2013 02:09:07 -0000\r\nX-Received: (qmail 26744 invoked from network); 24 Mar 2013 02:09:07 -0000\r\nX-Received: from unknown (HELO ng11-ip2.bullet.mail.bf1.yahoo.com) (98.139.165.88)\n  by mta1.grp.bf1.yahoo.com with SMTP; 24 Mar 2013 02:09:07 -0000\r\nX-Received: from [98.139.164.121] by ng11.bullet.mail.bf1.yahoo.com with NNFMP; 24 Mar 2013 02:09:07 -0000\r\nX-Received: from [10.193.94.107] by tg2.bullet.mail.bf1.yahoo.com with NNFMP; 24 Mar 2013 02:09:07 -0000\r\nDate: Sun, 24 Mar 2013 02:09:07 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;kiln83+11cvh@...&gt;\r\nIn-Reply-To: &lt;kil7hp+lav6@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=&quot;ISO-8859-1&quot;\r\nContent-Transfer-Encoding: quoted-printable\r\nX-Mailer: Yahoo Groups Message Poster\r\nX-Yahoo-Newman-Property: groups-compose\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: &quot;Timothy&quot; &lt;tim_rice09@...&gt;\r\nSubject: Adapt-It&#39;s Output Formats (was: Re: Call of Cthulhu, now in modern HTML)\r\nX-Yahoo-Group-Post: member; u=274193773; y=7alpWDeSzt9oZSyo6W7-sOQB8NSz2xFUH0OROwExF4E2I3_PxQ\r\nX-Yahoo-Profile: tim_rice09\r\n\r\nIt was originally designed to handle USFM-formatted documents, but works am=\r\nazingly with flat text documents.\n\n--- In Read_Alphabet@yahoogroups.com, &quot;d=\r\nipartite&quot; &lt;bonusfrogs@...&gt; wrote:\n&gt;\n&gt; \n&gt; \n&gt; What sorts of files does Adapt-=\r\nIt output by default?\n&gt; \n&gt; When copying and pasting from PDF to Markdown I =\r\nhad to go back and remove line breaks that were between pages. If Adapt-It =\r\ncould spit out text (in UTF-8, of course!) with two line breaks between par=\r\nagraphs, that takes me 99% of the way to something like &lt;https://raw.github=\r\n.com/adiabatic/qs-literature/gh-pages/call-of-cthulhu/index.markdown&gt;, whic=\r\nh is what I feed into Jekyll/Github Pages to turn into a nicely-formatted H=\r\nTML page.\n&gt; \n&gt; \n&gt; --- In Read_Alphabet@yahoogroups.com, &quot;Timothy&quot; &lt;tim_rice=\r\n09@&gt; wrote:\n&gt; &gt;\n&gt; &gt; Thank you. Thank you very much. PDFs are great and all,=\r\n but resizing is wonderful.\n&gt;\n\n\n\n"
+}

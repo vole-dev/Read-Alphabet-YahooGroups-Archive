@@ -1,0 +1,33 @@
+{
+  "userId": 82638473,
+  "authorName": "Michael Everson",
+  "from": "Michael Everson &lt;everson@...&gt;",
+  "profile": "evertype",
+  "replyTo": "LIST",
+  "senderId": "OHWT4xrJFn7-L1fNc_1IsU2AEpDNz9f_YMLthQ2sqoXSbpASrnBgcAesOLCrNDbdCVVbF72ARYjhWUNksIP6TeVu5eHc_4FCS9ae10k",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Unicode proposal again.",
+  "postDate": "1180425314",
+  "msgId": 952,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PHAwNjI0MDgwM2MyODE4YzVjYTc2N0BbMTkyLjE2OC4xLjEzNF0+",
+    "inReplyToHeader": "PDAwNTAwMWM3YTFiMyQ3ODExZDE0MCQwMzAwMDAwYUB1bGIxaT4=",
+    "referencesHeader": "PGYzZjU2OCtuc2MwQGVHcm91cHMuY29tPiA8MDA1MDAxYzdhMWIzJDc4MTFkMTQwJDAzMDAwMDBhQHVsYjFpPg=="
+  },
+  "prevInTopic": 951,
+  "nextInTopic": 953,
+  "prevInTime": 951,
+  "nextInTime": 953,
+  "topicId": 947,
+  "numMessagesInTopic": 45,
+  "msgSnippet": "... Except that Quikscript is a revision of Shavian made by the deviser of Shavian. ... Most certainly not that. You might have ligatures in your font but turn",
+  "messageBody": "<div id=\"ygrps-yiv-685819326\">At 01:37 -0400 2007-05-29, Ph.D. wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;I&#39;ve been very busy lately, and I don&#39;t have time to look into this <br/>\n&gt;right now, but my first impression is that unifying Quikscript with <br/>\n&gt;Shavian makes the<br/>\n&gt;same mistake originally made in unifying Coptic with Greek.<br/>\n<br/>\n </span></blockquote>Except that Quikscript is a revision of Shavian made by the deviser of Shavian.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;And would we need two different encodings for some characters so as <br/>\n&gt;to have a regular character and a combining character for Junior <br/>\n&gt;versus Senior Quikscript?<br/>\n<br/>\n </span></blockquote>Most certainly not that. You might have ligatures in your font but <br/>\nturn them on or off.<br/>\n<br/>\n-- <br/>\nMichael Everson * <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.evertype.com\">http://www.evertype.com</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;everson@...&gt;\r\nX-Sender: everson@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 22713 invoked from network); 29 May 2007 07:58:18 -0000\r\nReceived: from unknown (66.218.67.35)\n  by m46.grp.scd.yahoo.com with QMQP; 29 May 2007 07:58:18 -0000\r\nReceived: from unknown (HELO white.dnsireland.com) (67.15.182.33)\n  by mta9.grp.scd.yahoo.com with SMTP; 29 May 2007 07:58:18 -0000\r\nReceived: from murrisk2.westnet.ie ([88.81.100.235]:51792 helo=[192.168.1.134])\n\tby white.dnsireland.com with esmtp (Exim 4.63)\n\t(envelope-from &lt;everson@...&gt;)\n\tid 1Hswao-0006aT-Sb\n\tfor Read_Alphabet@yahoogroups.com; Tue, 29 May 2007 08:58:14 +0100\r\nMime-Version: 1.0\r\nMessage-Id: &lt;p06240803c2818c5ca767@[192.168.1.134]&gt;\r\nIn-Reply-To: &lt;005001c7a1b3$7811d140$0300000a@ulb1i&gt;\r\nReferences: &lt;f3f568+nsc0@...&gt;\n &lt;005001c7a1b3$7811d140$0300000a@ulb1i&gt;\r\nDate: Tue, 29 May 2007 08:55:14 +0100\r\nTo: Read_Alphabet@yahoogroups.com\r\nContent-Type: text/plain; charset=&quot;us-ascii&quot; ; format=&quot;flowed&quot;\r\nX-AntiAbuse: This header was added to track abuse, please include it with any abuse report\r\nX-AntiAbuse: Primary Hostname - white.dnsireland.com\r\nX-AntiAbuse: Original Domain - yahoogroups.com\r\nX-AntiAbuse: Originator/Caller UID/GID - [0 0] / [47 12]\r\nX-AntiAbuse: Sender Address Domain - evertype.com\r\nX-Source: \r\nX-Source-Args: \r\nX-Source-Dir: \r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: Michael Everson &lt;everson@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Unicode proposal again.\r\nX-Yahoo-Group-Post: member; u=82638473; y=ThXZK2nHoqmK1H1lnUOft4PkxSoPa2In73D0Jy-mY9HAfWQ\r\nX-Yahoo-Profile: evertype\r\n\r\nAt 01:37 -0400 2007-05-29, Ph.D. wrote:\n&gt;I&#39;ve been very busy lately, and I don&#39;t have time to look into this \n&gt;right now, but my first impression is that unifying Quikscript with \n&gt;Shavian makes the\n&gt;same mistake originally made in unifying Coptic with Greek.\n\nExcept that Quikscript is a revision of Shavian made by the deviser of Shavian.\n\n&gt;And would we need two different encodings for some characters so as \n&gt;to have a regular character and a combining character for Junior \n&gt;versus Senior Quikscript?\n\nMost certainly not that. You might have ligatures in your font but \nturn them on or off.\n\n-- \nMichael Everson * http://www.evertype.com\n\n"
+}

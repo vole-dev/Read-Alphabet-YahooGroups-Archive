@@ -1,0 +1,32 @@
+{
+  "userId": 70439622,
+  "authorName": "fctarbox3",
+  "from": "&quot;fctarbox3&quot; &lt;rtarbox@...&gt;",
+  "profile": "fctarbox3",
+  "replyTo": "LIST",
+  "senderId": "n6vrZAkPw_Tydawmkr_lHWEKT2ZSCgmKsoWC7LSbU1mklxDPdWJ8F9KZtubDlx0TxaQEISJxl3hAclMLsV_S_67GrD0I9eJCZfxCa9E",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: Text Conversion",
+  "postDate": "1058802350",
+  "msgId": 344,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGJmaDFyZStqOTUwQGVHcm91cHMuY29tPg==",
+    "inReplyToHeader": "PDIwMDMwNzIxMDE0NTU0Ljg5ODUzLnFtYWlsQHdlYjEyNTA1Lm1haWwueWFob28uY29tPg=="
+  },
+  "prevInTopic": 342,
+  "nextInTopic": 345,
+  "prevInTime": 343,
+  "nextInTime": 345,
+  "topicId": 342,
+  "numMessagesInTopic": 10,
+  "msgSnippet": "Be careful using the dictionaries on this group.  They re very susceptible to regional accent.  I d also like to refer you to ",
+  "messageBody": "<div id=\"ygrps-yiv-786244618\">Be careful using the dictionaries on this group.  They&#39;re very <br/>\nsusceptible to regional accent.  I&#39;d also like to refer you to <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/Read_Alphabet/message/292\">http://groups.yahoo.com/group/Read_Alphabet/message/292</a> , where I <br/>\nverbosely and antagonistically suggest a rather large and extensive <br/>\nproject for creating a &quot;universal&quot; dialect of quickscript that <br/>\nsacrifices regional variation in favor of legibility.<br/>\n<br/>\n--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Read_Alphabet@yahoogroups.com\">Read_Alphabet@yahoogroups.com</a>, Chuck Peck &lt;chuck091956@y...&gt; <br/>\nwrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; Hello All,<br/>\n&gt;  <br/>\n&gt; I&#39;m in the process of building a Perl Script to convert Orthodox <br/>\n </span></blockquote>character text files into QuickScript ones. It will use the database <br/>\nthat generated the dictionary that is in the Files section. I&#39;m <br/>\ncurrently working on the grammar/phonics rules that will try to <br/>\nconvert works not in the database into their phonic equivalent. I <br/>\nthink I have someone who will convert the formatted MS Word docs <br/>\ninto Adobe PDF for me.<br/>\n<blockquote><span title=\"ireply\"> &gt;  <br/>\n&gt; Once its done... hopefully sometime next month, I&#39;m going to start <br/>\n </span></blockquote>converting some of the Gutenberg classic text pieces into QS. If <br/>\nanyone has any recommendations of writings they&#39;d like to see in QS <br/>\nplease let me know.<br/>\n<blockquote><span title=\"qreply\"> &gt;  <br/>\n&gt; I&#39;ll update the group as I get closer to completing it.<br/>\n&gt;  <br/>\n&gt;  <br/>\n&gt; Chuck<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; ---------------------------------<br/>\n&gt; Do you Yahoo!?<br/>\n&gt; SBC Yahoo! DSL - Now only $29.95 per month! </span></blockquote></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;rtarbox@...&gt;\r\nX-Sender: rtarbox@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 96279 invoked from network); 21 Jul 2003 15:45:51 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m20.grp.scd.yahoo.com with QMQP; 21 Jul 2003 15:45:51 -0000\r\nReceived: from unknown (HELO n20.grp.scd.yahoo.com) (66.218.66.76)\n  by mta2.grp.scd.yahoo.com with SMTP; 21 Jul 2003 15:45:51 -0000\r\nReceived: from [66.218.67.169] by n20.grp.scd.yahoo.com with NNFMP; 21 Jul 2003 15:45:51 -0000\r\nDate: Mon, 21 Jul 2003 15:45:50 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nSubject: Re: Text Conversion\r\nMessage-ID: &lt;bfh1re+j950@...&gt;\r\nIn-Reply-To: &lt;20030721014554.89853.qmail@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 1315\r\nX-Mailer: Yahoo Groups Message Poster\r\nFrom: &quot;fctarbox3&quot; &lt;rtarbox@...&gt;\r\nX-Yahoo-Group-Post: member; u=70439622\r\nX-Yahoo-Profile: fctarbox3\r\n\r\nBe careful using the dictionaries on this group.  They&#39;re very \nsusceptible to regional accent.  I&#39;d also like to refer you to \nhttp://groups.yahoo.com/group/Read_Alphabet/message/292 , where I \nverbosely and antagonistically suggest a rather large and extensive \nproject for creating a &quot;universal&quot; dialect of quickscript that \nsacrifices regional variation in favor of legibility.\n\n--- In Read_Alphabet@yahoogroups.com, Chuck Peck &lt;chuck091956@y...&gt; \nwrote:\n&gt; Hello All,\n&gt;  \n&gt; I&#39;m in the process of building a Perl Script to convert Orthodox \ncharacter text files into QuickScript ones. It will use the database \nthat generated the dictionary that is in the Files section. I&#39;m \ncurrently working on the grammar/phonics rules that will try to \nconvert works not in the database into their phonic equivalent. I \nthink I have someone who will convert the formatted MS Word docs \ninto Adobe PDF for me.\n&gt;  \n&gt; Once its done... hopefully sometime next month, I&#39;m going to start \nconverting some of the Gutenberg classic text pieces into QS. If \nanyone has any recommendations of writings they&#39;d like to see in QS \nplease let me know.\n&gt;  \n&gt; I&#39;ll update the group as I get closer to completing it.\n&gt;  \n&gt;  \n&gt; Chuck\n&gt; \n&gt; \n&gt; \n&gt; ---------------------------------\n&gt; Do you Yahoo!?\n&gt; SBC Yahoo! DSL - Now only $29.95 per month!\n\n\n"
+}

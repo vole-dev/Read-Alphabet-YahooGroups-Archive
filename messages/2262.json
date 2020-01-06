@@ -1,0 +1,31 @@
+{
+  "userId": 316394232,
+  "authorName": "Mark Atwood",
+  "from": "Mark Atwood &lt;me@...&gt;",
+  "profile": "mark_atwood",
+  "replyTo": "LIST",
+  "senderId": "0hkE-YnfsCZ6yztJrKS_QRqxVnAaPND_es2Bn-dPiX4oCtyakHPknaTAmmAvdqud1KOCjO3f8d0D_QxtGFp56F-Y3pad8VIk",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Mappings of the Read Alphabet to IPA and to various non-English languages",
+  "postDate": "1333563541",
+  "msgId": 2262,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PENBTlc1Q1lWSE5MN2Z1RThhVU5LR1kxaD11d1c1Q3FVLTc1OVlkd0hpcVArWU1EbW9wZ0BtYWlsLmdtYWlsLmNvbT4="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 2263,
+  "prevInTime": 2261,
+  "nextInTime": 2263,
+  "topicId": 2262,
+  "numMessagesInTopic": 2,
+  "msgSnippet": "Has anyone created a working mapping between the Read Alphabet and IPA? And various non-English languages have a much closer association between the written",
+  "messageBody": "<div id=\"ygrps-yiv-511900501\">Has anyone created a working mapping between the Read Alphabet and IPA?<br/>\n<br/>\nAnd various non-English languages have a much closer association<br/>\nbetween the written and spoken languages, such as Spanish.  And<br/>\nvarious others have much more straightforward vowels, such as<br/>\nJapanese.<br/>\n<br/>\nHas anyone done any work on mapping the Read Alphabet onto those languages?<br/>\n<br/>\n..m</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;fallenpegasus@...&gt;\r\nX-Sender: fallenpegasus@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 13507 invoked from network); 4 Apr 2012 18:19:22 -0000\r\nX-Received: from unknown (98.137.35.162)\n  by m8.grp.sp2.yahoo.com with QMQP; 4 Apr 2012 18:19:22 -0000\r\nX-Received: from unknown (HELO mail-qc0-f173.google.com) (209.85.216.173)\n  by mta6.grp.sp2.yahoo.com with SMTP; 4 Apr 2012 18:19:22 -0000\r\nX-Received: by qcsc20 with SMTP id c20so419411qcs.32\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Wed, 04 Apr 2012 11:19:21 -0700 (PDT)\r\nX-Received: by 10.224.111.5 with SMTP id q5mr23972786qap.41.1333563561500; Wed,\n 04 Apr 2012 11:19:21 -0700 (PDT)\r\nMIME-Version: 1.0\r\nX-Received: by 10.224.59.81 with HTTP; Wed, 4 Apr 2012 11:19:01 -0700 (PDT)\r\nDate: Wed, 4 Apr 2012 11:19:01 -0700\r\nX-Google-Sender-Auth: fk2MFeKMeUFs1kJtb4xg1L6Iixs\r\nMessage-ID: &lt;CANW5CYVHNL7fuE8aUNKGY1h=uwW5CqU-759YdwHiqP+YMDmopg@...&gt;\r\nTo: Read_Alphabet@yahoogroups.com\r\nContent-Type: text/plain; charset=UTF-8\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Mark Atwood &lt;me@...&gt;\r\nSubject: Mappings of the Read Alphabet to IPA and to various non-English languages\r\nX-Yahoo-Group-Post: member; u=316394232; y=XOmXIzNbvq0K8CfOHEPAVMvqm0I5y33kkVxzRHI0u4QfWGRPVnI\r\nX-Yahoo-Profile: mark_atwood\r\n\r\nHas anyone created a working mapping between the Read Alphabet and IPA?\n\nAnd various non-English languages have a much closer association\nbetween the written and spoken languages, such as Spanish.  And\nvarious others have much more straightforward vowels, such as\nJapanese.\n\nHas anyone done any work on mapping the Read Alphabet onto those languages?\n\n..m\n\n"
+}

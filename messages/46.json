@@ -1,0 +1,30 @@
+{
+  "userId": 0,
+  "authorName": "teraiten@yahoo.com",
+  "from": "teraiten@...",
+  "replyTo": "LIST",
+  "senderId": "Wk3EJW4O80nD6UaOvBOC4MgUIjVxMh_TVaaXfmOKn8kHciKHC2Y791THLSyO38VSmGN6w6JjwuMR",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "any automatic QS convertors around?",
+  "postDate": "994791712",
+  "msgId": 46,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDlpZmpmMCtvZmEzQGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 47,
+  "prevInTime": 45,
+  "nextInTime": 47,
+  "topicId": 46,
+  "numMessagesInTopic": 5,
+  "msgSnippet": "Greetings, I was messing around with Rosetta lately (the program can be downloaded from the Shavian Yahoo-group at http://groups.yahoo.com/group/shavian ) and",
+  "messageBody": "<div id=\"ygrps-yiv-337546988\">Greetings,<br/>\n<br/>\nI was messing around with Rosetta lately (the program can be <br/>\ndownloaded from the Shavian Yahoo-group at <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/shavian\">http://groups.yahoo.com/group/shavian</a> ) and I was wondering if there <br/>\nwould be a dictionary for Quikscript (Senior Quikscript). If not, <br/>\nwould some people be interested in creating such a dictionary? I <br/>\nwould also like to help. But keep in mind that I am Dutch myself and <br/>\ntry to pronounce everything the posh British way. If such a <br/>\ndictionary is going to be created, we&#39;d have to stick to one way of <br/>\npronouncing. The phonetic dictionary included with Rosetta is <br/>\nAmerican. With this I mean that can&#39;t is pronounced like &quot;kaent&quot;, and <br/>\nnot &#39;kahn&#39;t&quot;.<br/>\n<br/>\nThen again the phonetic dictionary isn&#39;t optimised for the shortened <br/>\nletter-forms of QS.<br/>\n<br/>\n(If you don&#39;t know what I mean by the files, download rosetta and <br/>\nopen the files with a text editor such as notepad or wordpad)<br/>\n<br/>\nIf such a dictionary is going to be created, how exactly? Perhaps we <br/>\ncan edit the c0.6 file. I don&#39;t understand how a &#39;.index&#39;-file works, <br/>\nbut a &#39;.vocabulary&#39;-file should be editable.<br/>\n<br/>\nEditing the c0.6 files seems to be the easiest thing to do, for it <br/>\nalready includes all phonetic transcriptions of the words. We just <br/>\nhave to look for situations where the shortened forms are required, <br/>\nand replace them. When that&#39;s done, some editing of the <br/>\n&#39;phones_6.txt&#39;-should make everything work.<br/>\n<br/>\nPlease tell me what you think.<br/>\n<br/>\n<br/>\nEwout</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;teraiten@...&gt;\r\nX-Sender: teraiten@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (EGP: mail-7_2_0); 10 Jul 2001 19:02:51 -0000\r\nReceived: (qmail 50277 invoked from network); 10 Jul 2001 19:01:52 -0000\r\nReceived: from unknown (10.1.10.26) by l9.egroups.com with QMQP; 10 Jul 2001 19:01:52 -0000\r\nReceived: from unknown (HELO mq.egroups.com) (10.1.1.36) by mta1 with SMTP; 10 Jul 2001 19:01:52 -0000\r\nX-eGroups-Return: teraiten@...\r\nReceived: from [10.1.2.30] by mq.egroups.com with NNFMP; 10 Jul 2001 19:01:52 -0000\r\nDate: Tue, 10 Jul 2001 19:01:52 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nSubject: any automatic QS convertors around?\r\nMessage-ID: &lt;9ifjf0+ofa3@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 1424\r\nX-Mailer: eGroups Message Poster\r\nFrom: teraiten@...\r\n\r\nGreetings,\n\nI was messing around with Rosetta lately (the program can be \ndownloaded from the Shavian Yahoo-group at \nhttp://groups.yahoo.com/group/shavian ) and I was wondering if there \nwould be a dictionary for Quikscript (Senior Quikscript). If not, \nwould some people be interested in creating such a dictionary? I \nwould also like to help. But keep in mind that I am Dutch myself and \ntry to pronounce everything the posh British way. If such a \ndictionary is going to be created, we&#39;d have to stick to one way of \npronouncing. The phonetic dictionary included with Rosetta is \nAmerican. With this I mean that can&#39;t is pronounced like &quot;kaent&quot;, and \nnot &#39;kahn&#39;t&quot;.\n\nThen again the phonetic dictionary isn&#39;t optimised for the shortened \nletter-forms of QS.\n\n(If you don&#39;t know what I mean by the files, download rosetta and \nopen the files with a text editor such as notepad or wordpad)\n\nIf such a dictionary is going to be created, how exactly? Perhaps we \ncan edit the c0.6 file. I don&#39;t understand how a &#39;.index&#39;-file works, \nbut a &#39;.vocabulary&#39;-file should be editable.\n\nEditing the c0.6 files seems to be the easiest thing to do, for it \nalready includes all phonetic transcriptions of the words. We just \nhave to look for situations where the shortened forms are required, \nand replace them. When that&#39;s done, some editing of the \n&#39;phones_6.txt&#39;-should make everything work.\n\nPlease tell me what you think.\n\n\nEwout\n\n\n"
+}

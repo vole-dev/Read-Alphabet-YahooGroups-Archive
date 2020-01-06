@@ -1,0 +1,31 @@
+{
+  "userId": 3379436,
+  "authorName": "C. Paige Gabhart",
+  "from": "&quot;C. Paige Gabhart&quot; &lt;pgabhart@...&gt;",
+  "profile": "pgabhart",
+  "replyTo": "LIST",
+  "senderId": "f6ZE-s8FGQSZVuT3-WOzpGjgHJOTAQ9WaejJIC85cgu9hK66N334xSXEdJXDhst1LJys_c3x40oKP_H_p7UNeAGT1fyJvfHcmxStVF-pMoB4",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "test",
+  "postDate": "1020554508",
+  "msgId": 146,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDNDRDQ2RDBDLjY4NzU1Qjc1QGNvcmVjb21tLm5ldD4="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 147,
+  "prevInTime": 145,
+  "nextInTime": 147,
+  "topicId": 146,
+  "numMessagesInTopic": 4,
+  "msgSnippet": "2 is this working?",
+  "messageBody": "<div id=\"ygrps-yiv-19413453\">2 is this working?</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;pgabhart@...&gt;\r\nX-Sender: pgabhart@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (EGP: mail-8_0_3_2); 4 May 2002 23:26:44 -0000\r\nReceived: (qmail 54847 invoked from network); 4 May 2002 23:26:44 -0000\r\nReceived: from unknown (66.218.66.216)\n  by m5.grp.scd.yahoo.com with QMQP; 4 May 2002 23:26:44 -0000\r\nReceived: from unknown (HELO mail3.mx.voyager.net) (216.93.66.202)\n  by mta1.grp.scd.yahoo.com with SMTP; 4 May 2002 23:26:43 -0000\r\nReceived: from corecomm.net (d207.as0.lsvl.ky.voyager.net [216.127.12.208])\n\tby mail3.mx.voyager.net (8.11.6/8.10.2) with ESMTP id g44NQgl27752\n\tfor &lt;Read_Alphabet@yahoogroups.com&gt;; Sat, 4 May 2002 19:26:42 -0400 (EDT)\r\nSender: pgabhart@...\r\nMessage-ID: &lt;3CD46D0C.68755B75@...&gt;\r\nDate: Sat, 04 May 2002 19:21:48 -0400\r\nOrganization: Gabhart Law Office\r\nX-Mailer: Mozilla 4.75 [en] (X11; U; Linux 2.2.16-22 i686)\r\nX-Accept-Language: en\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nSubject: test\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Transfer-Encoding: 7bit\r\nFrom: &quot;C. Paige Gabhart&quot; &lt;pgabhart@...&gt;\r\nX-Yahoo-Group-Post: member; u=3379436\r\nX-Yahoo-Profile: pgabhart\r\n\r\n2 is this working?\n\n\n"
+}

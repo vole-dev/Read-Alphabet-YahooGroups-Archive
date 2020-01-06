@@ -1,0 +1,33 @@
+{
+  "userId": 168229681,
+  "authorName": "oliver langan",
+  "from": "oliver langan &lt;oliverlangan@...&gt;",
+  "profile": "oliverlangan",
+  "replyTo": "LIST",
+  "senderId": "en4bDmsJaUy2SOsjHWcE5TBZa76G8ol24pJ7p4VIXEoS1LWdzmEvT1EmY-1FMvy2w-yBmUN5p73yJBFNbNuHIz30KkALZbqU-IhdqY-u93g",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Another Test",
+  "postDate": "1095118725",
+  "msgId": 565,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDBEODgxMkY3LTA1REUtMTFEOS04Mzk0LTAwMEE5NUIxRDBGRUB5YWhvby5jb20uc2c+",
+    "inReplyToHeader": "PDIwMDQwOTEzMTg0NTMzLjE5OTcucW1haWxAd2ViNTE0MDkubWFpbC55YWhvby5jb20+",
+    "referencesHeader": "PDIwMDQwOTEzMTg0NTMzLjE5OTcucW1haWxAd2ViNTE0MDkubWFpbC55YWhvby5jb20+"
+  },
+  "prevInTopic": 564,
+  "nextInTopic": 566,
+  "prevInTime": 564,
+  "nextInTime": 566,
+  "topicId": 564,
+  "numMessagesInTopic": 4,
+  "msgSnippet": "This is great!  I like the practice at reading QS, but I don t think I can write it: the Mac OS X Mail program only supports plain or rich text for sending",
+  "messageBody": "<div id=\"ygrps-yiv-466126954\">This is great!  I like the practice at reading QS, but I don&#39;t think I <br/>\ncan write it: the Mac OS X &quot;Mail&quot; program only supports plain or rich <br/>\ntext for sending messages.  This is what happens when I try to send a <br/>\nrich text message: Hs z ` hApaz `eG F trF t seGd a ric [ekt mesag.<br/>\n<br/>\n<blockquote><span title=\"qreply\"> On 13 Sep 2004, at 11:45, Jeff Smith wrote:<br/>\n&gt; His iz a fynt test. </span></blockquote></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;oliverlangan@...&gt;\r\nX-Sender: oliverlangan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 84600 invoked from network); 13 Sep 2004 23:38:51 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m10.grp.scd.yahoo.com with QMQP; 13 Sep 2004 23:38:51 -0000\r\nReceived: from unknown (HELO smtp206.mail.sc5.yahoo.com) (216.136.129.96)\n  by mta2.grp.scd.yahoo.com with SMTP; 13 Sep 2004 23:38:51 -0000\r\nReceived: from unknown (HELO ?192.168.0.12?) (oliverlangan@66.126.248.139 with plain)\n  by smtp206.mail.sc5.yahoo.com with SMTP; 13 Sep 2004 23:38:47 -0000\r\nMime-Version: 1.0 (Apple Message framework v619)\r\nIn-Reply-To: &lt;20040913184533.1997.qmail@...&gt;\r\nReferences: &lt;20040913184533.1997.qmail@...&gt;\r\nContent-Type: multipart/alternative; boundary=Apple-Mail-45-847408266\r\nMessage-Id: &lt;0D8812F7-05DE-11D9-8394-000A95B1D0FE@...&gt;\r\nDate: Mon, 13 Sep 2004 16:38:45 -0700\r\nTo: Read_Alphabet@yahoogroups.com\r\nX-Mailer: Apple Mail (2.619)\r\nX-eGroups-Remote-IP: 216.136.129.96\r\nFrom: oliver langan &lt;oliverlangan@...&gt;\r\nSubject: Re: [Read_Alphabet] Another Test\r\nX-Yahoo-Group-Post: member; u=168229681\r\nX-Yahoo-Profile: oliverlangan\r\n\r\n\r\n--Apple-Mail-45-847408266\r\nContent-Transfer-Encoding: 7bit\r\nContent-Type: text/plain;\n\tcharset=US-ASCII;\n\tformat=flowed\r\n\r\nThis is great!  I like the practice at reading QS, but I don&#39;t think I \ncan write it: the Mac OS X &quot;Mail&quot; program only supports plain or rich \ntext for sending messages.  This is what happens when I try to send a \nrich text message: Hs z ` hApaz `eG F trF t seGd a ric [ekt mesag.\n\nOn 13 Sep 2004, at 11:45, Jeff Smith wrote:\n&gt; His iz a fynt test.\n\r\n--Apple-Mail-45-847408266\r\nContent-Transfer-Encoding: 7bit\r\nContent-Type: text/enriched;\n\tcharset=US-ASCII\r\n\r\nThis is great!  I like the practice at reading QS, but I don&#39;t think I\ncan write it: the Mac OS X &quot;Mail&quot; program only supports plain or rich\ntext for sending messages.  This is what happens when I try to send a\nrich text message: &lt;fontfamily&gt;&lt;param&gt;&lt;/param&gt;Hs z ` hApaz `eG F trF t\nseGd a ric [ekt mesag.&lt;/fontfamily&gt;\n\n\nOn 13 Sep 2004, at 11:45, Jeff Smith wrote:\n\n&lt;excerpt&gt;&lt;fontfamily&gt;&lt;param&gt;&lt;/param&gt;His iz a fynt test.\n\n&lt;/fontfamily&gt;&lt;/excerpt&gt;\r\n--Apple-Mail-45-847408266--\r\n\n"
+}

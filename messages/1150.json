@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "yN0BJVOwDzMUiNqGyyQAsChncGZ3zkfOYHHcDCDtOj8CygPh8UhuQzPY6UInyyin7M-iQ33lJqmDBOJjOBb9LJQA",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Unicode proposal, yet again.",
+  "postDate": "1193701694",
+  "msgId": 1150,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMDI5MjM0ODE0LkdBMzE0NjJAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PGZnNWdzOCsyZDZjQGVHcm91cHMuY29tPg==",
+    "referencesHeader": "PDQ3MjRGMTM5LjMwNTAzMDVAeWFob28uY28udWs+IDxmZzVnczgrMmQ2Y0BlR3JvdXBzLmNvbT4="
+  },
+  "prevInTopic": 1149,
+  "nextInTopic": 1158,
+  "prevInTime": 1149,
+  "nextInTime": 1151,
+  "topicId": 1010,
+  "numMessagesInTopic": 20,
+  "msgSnippet": "... For Unicode purposes, the issue is not how many variants there are, but how many *free* variants there are, that is, those which are (a) unpredictable and",
+  "messageBody": "<div id=\"ygrps-yiv-685272406\">othermale scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;   That is excellent news and this maybe beside the point but I did<br/>\n&gt; just want to point out that there are more variations to characters<br/>\n&gt; than those listed in the proposal and that some characters have more<br/>\n&gt; than one variation. <br/>\n<br/>\n </span></blockquote>For Unicode purposes, the issue is not how many variants there are,<br/>\nbut how many *free* variants there are, that is, those which are<br/>\n(a) unpredictable and (b) make a difference.  A Latin script font<br/>\nneeds at least three glyphs for &quot;i&quot; (initial, medial, final) but<br/>\nonly one character, because which one to use is predictable from the<br/>\nsurrounding characters.  On the other hand, it needs a separate &quot;&&quot;<br/>\ncharacter even though that was originally a ligature for &quot;et&quot;, because<br/>\nthe font renderer cannot predict when to use &quot;et&quot; and when to use &quot;&&quot;.<br/>\nand they have completely different meanings.<br/>\n<br/>\n-- <br/>\nOverhead, without any fuss, the stars were going out.<br/>\n        --Arthur C. Clarke, &quot;The Nine Billion Names of God&quot;<br/>\n                John Cowan &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>&gt;</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 30072 invoked from network); 29 Oct 2007 23:48:15 -0000\r\nX-Received: from unknown (66.218.67.96)\n  by m56.grp.scd.yahoo.com with QMQP; 29 Oct 2007 23:48:15 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta17.grp.scd.yahoo.com with SMTP; 29 Oct 2007 23:48:15 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1ImeL8-0001EW-Uz\n\tfor Read_Alphabet@yahoogroups.com; Mon, 29 Oct 2007 19:48:14 -0400\r\nDate: Mon, 29 Oct 2007 19:48:14 -0400\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20071029234814.GA31462@...&gt;\r\nReferences: &lt;4724F139.3050305@...&gt; &lt;fg5gs8+2d6c@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;fg5gs8+2d6c@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Unicode proposal, yet again.\r\nX-Yahoo-Group-Post: member; u=212516; y=zGYOdsUenzarMXZF7QFdcEWJkNpFhtY31n4uki41CFlj9-11kQ\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nothermale scripsit:\n\n&gt;   That is excellent news and this maybe beside the point but I did\n&gt; just want to point out that there are more variations to characters\n&gt; than those listed in the proposal and that some characters have more\n&gt; than one variation. \n\nFor Unicode purposes, the issue is not how many variants there are,\nbut how many *free* variants there are, that is, those which are\n(a) unpredictable and (b) make a difference.  A Latin script font\nneeds at least three glyphs for &quot;i&quot; (initial, medial, final) but\nonly one character, because which one to use is predictable from the\nsurrounding characters.  On the other hand, it needs a separate &quot;&&quot;\ncharacter even though that was originally a ligature for &quot;et&quot;, because\nthe font renderer cannot predict when to use &quot;et&quot; and when to use &quot;&&quot;.\nand they have completely different meanings.\n\n-- \nOverhead, without any fuss, the stars were going out.\n        --Arthur C. Clarke, &quot;The Nine Billion Names of God&quot;\n                John Cowan &lt;cowan@...&gt;\n\n"
+}

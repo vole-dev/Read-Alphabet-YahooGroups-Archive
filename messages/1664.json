@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "V-ZNe6dgoxMBf5gLK0p8rAjL7hYWimNBAaIsJrYiRri40P4xVPbYsBJVdLMfh8xsOa_BGPEAs-8kGBxxywlaeY1R",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Utter/Ado",
+  "postDate": "1196052702",
+  "msgId": 1664,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMTI2MDQ1MTQyLkdBMTQyNDBAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PGZpY3Y3byszczduQGVHcm91cHMuY29tPg==",
+    "referencesHeader": "PDQ3NDlFNDJELjMwOTA2MDBAc2JjZ2xvYmFsLm5ldD4gPGZpY3Y3byszczduQGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 1661,
+  "nextInTopic": 1668,
+  "prevInTime": 1663,
+  "nextInTime": 1665,
+  "topicId": 1571,
+  "numMessagesInTopic": 85,
+  "msgSnippet": "... Of course, modern typography can manage SQS fine: it s no more complicated than Arabic, after all.  That will take more than just creating a font; for full",
+  "messageBody": "<div id=\"ygrps-yiv-873369307\">Anthony Grahn scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; I absolutely, full heartedly agree; junior is the from typographers<br/>\n&gt; are limited for technical reasons not aesthetic, it is a mere stepping<br/>\n&gt; stone to something considerably more aesthetically appealing. <br/>\n<br/>\n </span></blockquote>Of course, modern typography can manage SQS fine: it&#39;s no more complicated<br/>\nthan Arabic, after all.  That will take more than just creating a font;<br/>\nfor full generality, the font will have to provide for ligaturing,<br/>\nand in Windows the Uniscribe DLL (a library shipped with Windows that<br/>\nunderstands the issues around layout of various scripts) will have to<br/>\nbe updated.  That presumes the assignment of Unicode codepoints.<br/>\n<br/>\nAlternatively someone can write a QS-specific text editor/ word processor.<br/>\n<br/>\n-- <br/>\nThe first thing you learn in a lawin&#39; family    John Cowan<br/>\nis that there ain&#39;t no definite answers         <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a><br/>\nto anything.  --Calpurnia in To Kill A Mockingbird</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 25951 invoked from network); 26 Nov 2007 04:51:43 -0000\r\nX-Received: from unknown (66.218.67.97)\n  by m50.grp.scd.yahoo.com with QMQP; 26 Nov 2007 04:51:43 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta18.grp.scd.yahoo.com with SMTP; 26 Nov 2007 04:51:43 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1IwVwc-0004mU-Je\n\tfor Read_Alphabet@yahoogroups.com; Sun, 25 Nov 2007 23:51:42 -0500\r\nDate: Sun, 25 Nov 2007 23:51:42 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20071126045142.GA14240@...&gt;\r\nReferences: &lt;4749E42D.3090600@...&gt; &lt;ficv7o+3s7n@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;ficv7o+3s7n@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Utter/Ado\r\nX-Yahoo-Group-Post: member; u=212516; y=7F2-pz19alZih2CWaCsX0ZtkXEo5syFNDeJZUhbpi0AqWLj5GQ\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nAnthony Grahn scripsit:\n\n&gt; I absolutely, full heartedly agree; junior is the from typographers\n&gt; are limited for technical reasons not aesthetic, it is a mere stepping\n&gt; stone to something considerably more aesthetically appealing. \n\nOf course, modern typography can manage SQS fine: it&#39;s no more complicated\nthan Arabic, after all.  That will take more than just creating a font;\nfor full generality, the font will have to provide for ligaturing,\nand in Windows the Uniscribe DLL (a library shipped with Windows that\nunderstands the issues around layout of various scripts) will have to\nbe updated.  That presumes the assignment of Unicode codepoints.\n\nAlternatively someone can write a QS-specific text editor/ word processor.\n\n-- \nThe first thing you learn in a lawin&#39; family    John Cowan\nis that there ain&#39;t no definite answers         cowan@...\nto anything.  --Calpurnia in To Kill A Mockingbird\n\n"
+}

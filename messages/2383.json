@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "sJrQF_b5VVbSZ-xQSd0GShwVJiGdzqoaRjVPVSkdwCahFozcUWeCdPSdIKwvUjYEumieE8pEkeazgRdteLre62NS",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Unicode Status",
+  "postDate": "1365792178",
+  "msgId": 2383,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMTMwNDEyMTg0MjU3LkdEMTY2ODNAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PDAwRDkwRkEwLTI2Q0MtNENBRi04RkUxLTA3MDFDQUY4MDM5NkBsYW5nYW4ubmV0Pg==",
+    "referencesHeader": "PGtrN3I0dit0c2hkQGVHcm91cHMuY29tPiA8MDU1QkEyODAtNUQzNy00MTYzLUJFNTYtRTFGNEU1OTdBMDY0QGV2ZXJ0eXBlLmNvbT4gPDAwRDkwRkEwLTI2Q0MtNENBRi04RkUxLTA3MDFDQUY4MDM5NkBsYW5nYW4ubmV0Pg=="
+  },
+  "prevInTopic": 2381,
+  "nextInTopic": 2384,
+  "prevInTime": 2382,
+  "nextInTime": 2384,
+  "topicId": 2365,
+  "numMessagesInTopic": 34,
+  "msgSnippet": "... Unification cannot provide automatic transliteration, except in very special cases like Serbian Cyrillic to Latin, and even then it requires the font to",
+  "messageBody": "<div id=\"ygrps-yiv-1254462237\">oliver langan scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Almost as easy, except for the key differences in orthography: Shavian<br/>\n&gt; uses two characters for schwa (ADO and UP), where Quickscript uses<br/>\n&gt; only UTTER: which code point do we use? Do we encode UTTER at both<br/>\n&gt; code points?<br/>\n<br/>\n </span></blockquote>Unification cannot provide automatic transliteration, except in very<br/>\nspecial cases like Serbian Cyrillic to Latin, and even then it requires<br/>\nthe font to have special digraphs for &quot;lj&quot;, &quot;nj&quot;, and &quot;d\u017e&quot; on the<br/>\nLatin side that exist in Unicode but aren&#39;t normally used.  Unification<br/>\nreduces the number of code points while still allowing bare legibility.<br/>\nFor example, Spanish \u00f3 and Polish \u00f3 are unified in Unicode because<br/>\nit is possible to use the same shape for the letter in both languages,<br/>\nthough in fine Polish typography the \u00b4 is stubbier and shorter than in<br/>\nSpanish, a problem that can be solved by using Polish fonts for Polish<br/>\nand Spanish fonts for Spanish.<br/>\n<br/>\nBy that standard, UTTER should be unified with ADO, not with UP.  Per<br/>\ncontra, HAVE should not be unified with HA-HA: the shapes are too<br/>\ndifferent for that.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; That would lead to the same word having two different<br/>\n&gt; (but visually indistinguishable) spellings, which would be problematic<br/>\n&gt; for machine translation.<br/>\n<br/>\n </span></blockquote>Actually, machine translation could handle it with ease.  It&#39;s searching<br/>\nthat would require special treatment.<br/>\n<br/>\n-- <br/>\nNo,  John.  I want formats that are actually       John Cowan<br/>\nuseful, rather than over-featured megaliths that   <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a><br/>\naddress all questions by piling on ridiculous      <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a><br/>\ninternal links in forms which are hideously<br/>\nover-complex. --Simon St. Laurent on xml-dev</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 31618 invoked from network); 12 Apr 2013 18:43:00 -0000\r\nX-Received: from unknown (10.193.84.151)\n  by m4.grp.bf1.yahoo.com with QMQP; 12 Apr 2013 18:43:00 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta5.grp.bf1.yahoo.com with SMTP; 12 Apr 2013 18:43:00 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.72)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1UQiw6-0001oh-My\n\tfor Read_Alphabet@yahoogroups.com; Fri, 12 Apr 2013 14:42:59 -0400\r\nDate: Fri, 12 Apr 2013 14:42:58 -0400\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20130412184257.GD16683@...&gt;\r\nReferences: &lt;kk7r4v+tshd@...&gt;\n &lt;055BA280-5D37-4163-BE56-E1F4E597A064@...&gt;\n &lt;00D90FA0-26CC-4CAF-8FE1-0701CAF80396@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=utf-8\r\nContent-Disposition: inline\r\nContent-Transfer-Encoding: 8bit\r\nIn-Reply-To: &lt;00D90FA0-26CC-4CAF-8FE1-0701CAF80396@...&gt;\r\nUser-Agent: Mutt/1.5.20 (2009-06-14)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nX-eGroups-From: John Cowan &lt;cowan@...&gt;\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Unicode Status\r\nX-Yahoo-Group-Post: member; u=212516; y=nso5GXC5nIb7YpOOBUyMU9fGn392wUJS5NoM6KpoaNIaj1n1hw\r\nX-Yahoo-Profile: johnwcowan\r\n\r\noliver langan scripsit:\n\n&gt; Almost as easy, except for the key differences in orthography: Shavian\n&gt; uses two characters for schwa (ADO and UP), where Quickscript uses\n&gt; only UTTER: which code point do we use? Do we encode UTTER at both\n&gt; code points?\n\nUnification cannot provide automatic transliteration, except in very\nspecial cases like Serbian Cyrillic to Latin, and even then it requires\nthe font to have special digraphs for &quot;lj&quot;, &quot;nj&quot;, and &quot;d\u017e&quot; on the\nLatin side that exist in Unicode but aren&#39;t normally used.  Unification\nreduces the number of code points while still allowing bare legibility.\nFor example, Spanish \u00f3 and Polish \u00f3 are unified in Unicode because\nit is possible to use the same shape for the letter in both languages,\nthough in fine Polish typography the \u00b4 is stubbier and shorter than in\nSpanish, a problem that can be solved by using Polish fonts for Polish\nand Spanish fonts for Spanish.\n\nBy that standard, UTTER should be unified with ADO, not with UP.  Per\ncontra, HAVE should not be unified with HA-HA: the shapes are too\ndifferent for that.\n\n&gt; That would lead to the same word having two different\n&gt; (but visually indistinguishable) spellings, which would be problematic\n&gt; for machine translation.\n\nActually, machine translation could handle it with ease.  It&#39;s searching\nthat would require special treatment.\n\n-- \nNo,  John.  I want formats that are actually       John Cowan\nuseful, rather than over-featured megaliths that   http://www.ccil.org/~cowan\naddress all questions by piling on ridiculous      cowan@...\ninternal links in forms which are hideously\nover-complex. --Simon St. Laurent on xml-dev\n\n"
+}

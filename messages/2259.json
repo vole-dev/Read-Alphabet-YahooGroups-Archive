@@ -1,0 +1,31 @@
+{
+  "userId": 274193773,
+  "authorName": "Timothy",
+  "from": "&quot;Timothy&quot; &lt;tim_rice09@...&gt;",
+  "profile": "tim_rice09",
+  "replyTo": "LIST",
+  "senderId": "tJNkaAL1mYmzj17r8AvSRjBhnAyLPX9DA0sGyvSbdJAvh5lJHol0bJ3FyREIRguVIIRrwpv4Ztspwg6ZH6Abjl_FP9XH178",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "WEB Project moving foreward",
+  "postDate": "1333410468",
+  "msgId": 2259,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGpsZGRyNCthYzl1QGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 2260,
+  "prevInTime": 2258,
+  "nextInTime": 2260,
+  "topicId": 2259,
+  "numMessagesInTopic": 9,
+  "msgSnippet": "After much delay and technical hurdles, getting the WEB translation of the Bible into Quikscript is finally getting on its way. The work is being hosted on",
+  "messageBody": "<div id=\"ygrps-yiv-1769609812\">After much delay and technical hurdles, getting the WEB translation of the Bible into Quikscript is finally getting on its way. The work is being hosted on Sourceforge and anyone who is interested in helping is more than welcome to help. The tool that&#39;s been selected to finish out the project is Bibledit, which works perfectly on any Debian-based Linux and, according to the developer, on Windows and OSX.<br/>\n<br/>\nEvery word will have to be checked, which is probably a good thing. Let&#39;s get the world&#39;s bestseller into this awesome alphabet, and go from there.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://sourceforge.net/projects/web-qs/\">http://sourceforge.net/projects/web-qs/</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;tim_rice09@...&gt;\r\nX-Sender: tim_rice09@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 55509 invoked from network); 2 Apr 2012 23:47:49 -0000\r\nX-Received: from unknown (98.137.35.162)\n  by m1.grp.sp2.yahoo.com with QMQP; 2 Apr 2012 23:47:49 -0000\r\nX-Received: from unknown (HELO ng7-vm5.bullet.mail.gq1.yahoo.com) (98.136.219.83)\n  by mta6.grp.sp2.yahoo.com with SMTP; 2 Apr 2012 23:47:49 -0000\r\nX-Received: from [98.137.0.82] by ng7.bullet.mail.gq1.yahoo.com with NNFMP; 02 Apr 2012 23:47:49 -0000\r\nX-Received: from [98.137.34.72] by tg2.bullet.mail.gq1.yahoo.com with NNFMP; 02 Apr 2012 23:47:49 -0000\r\nDate: Mon, 02 Apr 2012 23:47:48 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;jlddr4+ac9u@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=&quot;ISO-8859-1&quot;\r\nContent-Transfer-Encoding: quoted-printable\r\nX-Mailer: Yahoo Groups Message Poster\r\nX-Yahoo-Newman-Property: groups-compose\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: &quot;Timothy&quot; &lt;tim_rice09@...&gt;\r\nSubject: WEB Project moving foreward\r\nX-Yahoo-Group-Post: member; u=274193773; y=qLGhRczA-5A7P-wbNkpPg_lr6iIpse5Ni5qYM3LbugeYrvK7uA\r\nX-Yahoo-Profile: tim_rice09\r\n\r\nAfter much delay and technical hurdles, getting the WEB translation of the =\r\nBible into Quikscript is finally getting on its way. The work is being host=\r\ned on Sourceforge and anyone who is interested in helping is more than welc=\r\nome to help. The tool that&#39;s been selected to finish out the project is Bib=\r\nledit, which works perfectly on any Debian-based Linux and, according to th=\r\ne developer, on Windows and OSX.\n\nEvery word will have to be checked, which=\r\n is probably a good thing. Let&#39;s get the world&#39;s bestseller into this aweso=\r\nme alphabet, and go from there.\n\nhttp://sourceforge.net/projects/web-qs/\n\n\n"
+}

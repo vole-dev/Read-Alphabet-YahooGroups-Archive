@@ -1,0 +1,509 @@
+ Benct Philip Jonsson's Quikscript key mapping
+ proposals (Revised)
+
+  Revision history:
+
+   Date: 20.12.2007
+
+|      |             | Jerome      | BPJ 2| BPJ 2.1     |
+|------|-------------|-------------|------|-------------|
+| 36   | Utter       | a           | `    | u           |
+| 39   | Foot        | U           | u *  | V *         |
+| 36.2 | Up          | u           | V *  | C *         |
+|      | naming-dot  | /           | ^    | ` *         |
+|      | half-Ye     | ^           | C *  | ^           |
+
+---------------------------------------------------------
+
+  Benct Philip Jonsson's Quikscript key mapping
+  proposal No. 1
+
+The main innovation in my proposal lies in the mapping of
+vowel letters, where I've tried to provide memory cues which
+work in terms of the inner structure of Quikscript itself: I
+wanted my mapping to make sense primarily in terms of the
+observed systematic relations between Quikscript letter
+shapes and values as mapped by Read, and secondarily by
+recurring relations between Quikscript and Traditional
+Orthography spellings. This mapping is meant to be a
+transcription *of Quikscript* rather than any phonemic or
+phonetic transcription system, which may be 'external' to
+Quikscript. When using this mapping one will have to think
+in terms of Quikscript letter shapes and letter relations.
+This is meant to be an advantage in that one will 'think
+Quikscript' when typing in this transcription, which will
+hopefully be of help both to those who are used to write (as
+opposed to type) in Quikscript in learning to type with this
+mapping, and to those who are going to learn to write and
+type Quikscript simultaneously.
+
+   List of mappings in BPJ 1
+
+(mappings with a following * differ from Jerome kmap, and
+the half-letters with an * after their name are not found in
+the Quikscript Manual.)
+
+| QS # |(Jerome)| Name        | BPJ 1|
+|------|--------|-------------|------|
+| #1   | p      | Pea         | p    |
+| #2   | b      | Bay         | b    |
+| #3   | t      | Tea         | t    |
+| #4   | d      | Day         | d    |
+| #5   | k      | Key         | k    |
+| #6   | g      | Gay         | g    |
+| #7   | T      | Thaw        | T    |
+| #8   | H      | They        | D *  |
+| #9   | f      | Fee         | f    |
+| #10  | v      | Vie         | v    |
+| #11  | s      | See         | s    |
+| #12  | z      | Zoo         | z    |
+| #13  | S      | She         | S    |
+| #14  | Z      | J'ai        | Z    |
+| #15  | c      | Cheer       | c    |
+| #16  | J      | Jay         | J    |
+| #17  | j      | Ye          | j    |
+| #18  | w      | Way         | w    |
+| #19  | h      | He          | h    |
+| #20  | `      | Why         | W *  |
+| #21  | N      | Ing         | G *  |
+| #22  | m      | May         | m    |
+| #23  | n      | No          | n    |
+| #24  | l      | Low         | l    |
+| #25  | r      | Roe         | r    |
+| #26  | i      | It          | i    |
+| #27  | I      | Eat         | I    |
+| #28  | e      | Et          | e    |
+| #29  | E      | Eight       | E    |
+| #30  | A      | At          | a *  |
+| #31  | F      | I           | A *  |
+| #32  | y      | Ah          | q *  |
+| #33  | Y      | Awe         | Q *  |
+| #34  | o      | Ox          | o    |
+| #35  | q      | Oy          | O *  |
+| #36  | a      | Utter       | y *  |
+| #37  | Q      | Out         | Y *  |
+| #38  | O      | Owe         | B *  |
+| #39  | U      | Foot        | u *  |
+| #40  | M      | Ooze        | U *  |
+| #41  | ç (ç)  | Loch        | K *  |
+| #42  | æ (æ)  | Llan        | L *  |
+| #43  | è (è)  | Excite      | x *  |
+| #44  | é (é)  | Exam        | X *  |
+| #23.2| G      | Noon        | N *  |
+| #36.2| u      | Up          | V *  |
+| -    | /      | naming dot  | ` *  |
+| -    |        | left bracket| (    |
+| -    |        |right bracket| )    |
+| #1.5 | ]      | half-Pea    | P *  |
+| #3.5 | [      | half-Tea    | F *  |
+| #4.5 | B      | half-Day    | R *  |
+| #12.5| L      | half-Zoo    | C *  |
+| #17.5| ^      | half-Ye *   | ^    |
+| #18.5| @      | half-Way    | M *  |
+| #19.5| \\ (\\)| half-He     | H *  |
+| #20.5| ~      | half-Why *  | ~    |
+
+   'Paired' vowel letter mappings
+
+Of the fifteen Quikscript vowel letters fourteen form pairs
+of related shapes, and Read clearly endeavored to map
+related sounds to the letters within each pair. The six
+'lax' or 'checked' vowel[^1] phonemes of Read's
+conservative RP English[^2] were each mapped a letter
+within one of these pairs — the one without an extra loop
+in in the four cases where the difference between the
+paired letters consists of such a loop —, while the other
+letter of each pair has been mapped to a similar-sounding
+'tense' vowel or diphthong. Five of the six RP 'lax' vowel
+phonemes are readily associated with five of the six vowel
+letters of Traditional Orthography, and thus the Quikscript
+letters for those phonemes have been mapped to the
+lowercase forms of their associated Traditional Orthography
+letters: #26 = {i}, #28 = {e}, #30 = {a}, #34 = {o}, #39 =
+{u}, and the sixth RP 'lax' vowel phoneme represented by
+Quikscript letter #36 — which is paired with a 'looped'
+letter #37 — has been mapped to the sixth Traditional
+Orthography vowel letter {y}.
+
+Next we map the Quikscript letters which are paired with the
+Quikscript letters for the 'lax' vowels to the corresponding
+Traditional Orthography uppercase vowel letters. Some of
+these mappings make no 'phonetic' sense; rather one has to
+remember the mapping of lowercase Traditional Orthography
+vowel letters to Quikscript letters, and then the rule that
+the Quikscript letters paired with these letters are mapped
+to the corresponding Traditional Orthography uppercase
+letters: #27 = {I}, #29 = {E}, #31 = {I}, #35 = {O}, #37 =
+{Y}, #40 = {U}.
+
+   Some problematic mappings
+
+We then come to the seventh Quikscript vowel letter pair #32-
+#33. They are problematic, since there are no Traditional
+Orthography vowel letters readily available for them. I
+choose to map them to the one Traditional Orthography upper-
+lowercase letter pair not readily associated with any
+English phoneme, namely {Q}-{q}. This does not mean that
+there are no memory cues available for these mappings: #33
+can be seen as a shape variation of #34, and the Traditional
+Orthography uppercase _Q_ is of course visually similar to a
+Traditional Orthography uppercase _O_, and, likewise #32 can
+be seen as a shape variation of #30, and Traditional
+Orthography lowercase _q_ is — admittedly vaguely —
+similar to a Traditional Orthography lowercase script _a_.
+
+Last we come the unpaired Quikscript vowel letter #38. It's
+sound is usually associated with the Traditional Orthography
+letter _o_, or one of the digraphs _oa, ou_ or _ow_ which
+all contain _o_, but due to my choosen system for maping the
+'paired' Quikscript vowel letters to ASCII letters {o} and
+{O} are already occupied by Quikscript letters #34-#35. #38
+must therefore be mapped to the otherwise unused Traditional
+Orthography uppercase letter _B_, which at least allows us
+to use the words "bowl" and "bow" (the noun), which recall
+the shape of the letter in the Quikscript Manual, as memory
+cues. I readily admit, however that this is the weakest
+point of my proposal: if one finds the system for maping the
+other vowels an advantage in favor of my proposal one will
+simply have to take this weakness in the bargain! It was
+tempting to map #38 to the ASCII `@` symbol, but I preferred
+to map all the Quikscript letters which are sanctioned by
+the Quikscript Manual to Traditional Orthography upper- or
+lowercase letters leaving the ASCII symbol characters alone,
+and the namer dot to the 'backtick' {\`} which is
+superfluous in normal typing, pace TeX.
+
+   Consonants
+
+There are few innovations among the primary consonants,
+since the majority of Quikscript consonant letters have an
+obvious one-to-one counterpart in Traditional Orthography.
+Most of the remaining Quikscript consonant letters have been
+mapped them to the uppercase version of the letters for the
+most similar sounds already mapped to a lowercase letter,
+and I think few will argue against the mappings #7 = {T}, #8
+= {D}, #13 = {S}, #14 = {Z}, nor with the mapping of #15 to
+lowercase {c}, where the added complication of having to
+press the shift key seemed unwarranted, despite the apparent
+regularity of uppercase corresponding to an added _h_ in
+Traditional Orthography. One might have preferred mapping
+#13 to ASCII uppercase {C} and #14 to ASCII uppercase {J},
+but the system of vowel mappings has already preempted the
+pair {y}-{Y} for use as vowels, so that ASCII lowercase {j}
+had to be mapped to #17, making it necessary to map #16 to
+ASCII uppercase {J}, in spite of this being a step away from
+native speakers' and writer's intuitions about Traditional
+Orthography letter-to-sound correspondances. At least it
+agrees with the old Quikscript font mapping.
+
+The remapping — in fact swapping of the mappings — of
+{G} and {N} may be a cause for concern for those used to
+'traditional' Quikscript fonts, but I think it is warranted:
+the Traditional Orthography spelling _ng_ at least contains
+a _g_, while words like _now, knack, knife, need_ — the
+the Quikscript Manual examples of initial alternate #23 —
+don't, making transcriptions like {loGiG, NY, Nak, NAf, NId}
+more readibly recognizable than {loNiN, GY, Gak, GAf, GId}.
+I'm prepared to back down on this point, however.
+
+  Benct Philip Jonsson's Quikscript key mapping
+  proposal No. 2
+
+   A more 'intuitive' mapping for _y_ and _u_
+
+I have been considering a different arrangement which would
+allow the mapping of #17 to ASCII lowercase {y} and other
+differences which would allow memory cues which are perhaps
+more intuitive in terms of native speakers' and writers'
+expectations of Traditional Orthography sound-to-letter
+correspondences, including the well-nigh universal
+inclination to map #36 to lowercase {u}.
+
+These changes do in fact amount to a different proposal,
+since it no longer includes the 'Quikscript-internal'
+'paired' vowel letter mappings. People may find it
+attractive in spite of the fact that it will constitute a
+compromise between an ASCII transliteration *of
+Quikscript* and yet another quasi-phonemic ASCII
+transcription of English.
+
+   mappings which differ between BPJ 1 and BPJ 2.1
+
+| QS # |(Jerome)| Name        | BPJ 1| BPJ 2.1     |
+|------|--------|-------------|------|-------------|
+| #14  | Z      | J'ai        | Z    | J *         |
+| #16  | J      | Jay         | J    | j *         |
+| #17  | j      | Ye          | j    | y *         |
+| #31  | F      | I           | A *  | Y *         |
+| #32  | y      | Ah          | q *  | A *         |
+| #35  | q      | Oy          | O *  | q           |
+| #36  | a      | Utter       | y *  | u *         |
+| #37  | Q      | Out         | Y *  | B *         |
+| #39  | U      | Foot        | u *  | V *         |
+| #38  | O      | Owe         | B *  | O           |
+| #36.2| u      | Up          | V *  | C *         |
+| #12.5| L      | half-Zoo    | C *  | Z *         |
+
+   Quikscript-ASCII as a transliteration
+
+Any mapping of Quikscript letters to ASCII letters will in
+effect be a transliteration, and as such it must be easy
+to read even if displayed in a normal ASCII font rather
+than a Quikscript font, because there will be times, more
+or less frequent, when we will be reading transcribed text
+without having the time or opportunity to view it in a
+Quikscript font.
+
+   The signalling function of capitalization
+
+The more I think of it the more convinced I get that in an
+ASCII mapping of Quikscript the ASCII lowercase letters
+should as far as possible be mapped to their regular
+Traditional Orthography sounds - say their sounds as they
+would say when teaching spelling in school - while the ASCII
+uppercase letters should be used to signal their own
+otherness.
+
+   Other vowel mappings
+
+    The lowercase ASCII vowel letters
+
+For that reason the five lowercase vowel letters _i, e, a,
+o, u_ should be mapped to #26, #28, #30, #34, #36, _j_ and
+_y_ to #16 and #17 and so on for all the Traditional
+Orthography single letters which have a default phoneme
+correspondence.
+
+    The ASCII uppercase vowel letters
+
+Once the system of marking Quikscript paired vowels with
+capitalization has been abandoned by the remapping of {u}
+and {y} there is no point in keeping ASCII {A, O, Y} for
+#31, #35, #37; indeed these mappings become more misleading
+than the old uppercase {F} for #31, since people will expect
+them to be mapped to vowels, but these sounds are never
+written with these Traditional Orthography letters, unlike
+_I_ and _E_ which at least map to the sounds of #27 and #29
+in recent french loans like _machine_ and _ballet_. It
+becomes better to use uppercase {Y} for #31, since this
+letter and sound are associated in Traditional Orthography
+(_my, rye, edify, hyphen_). It is also obviously better to
+map ASCII uppercase {A} to #32, since this sound is always
+written _a_ in accents like RP which maintain the three-way
+contrast between #32, #33, #34. In the same vein ASCII
+uppercase {O} can be conveniently mapped to #38, which is
+'the long sound of _o_' in Traditional Orthography. For #33
+we will map uppercase {Q} also in this mapping, if onlu
+because we will need to map _Q_ to some Quikscript letter,
+and at least uppercase {Q} looks like uppercase {O} with a
+squiggle, just like #33 looks like #34 with a squiggle!
+
+    Quikscript vowel letters mapped to ASCII consonant
+    letters.
+
+This will leave ASCII {q} as the odd man out among the ASCII
+lowercase letters; I have mapped it to #35, not only because
+it is the old mapping, but also because lowercase _q_ does
+have some similarity, to the Quikscript letter itself — a
+loop with a downwards tail to the right — as well as to
+the Traditional Orthography digraph _oy_.
+
+With lowercase {u} mapped to #36 some other ASCII letter
+must be found for #39, and after some consideration I have
+come to the conclusion that uppercase {V}, as proposed by
+Ted Larson freeman, is indeed the best choice: it looks
+similar to the Quikscript letter, and historically the
+Traditional Orthography letters _U_ and _V_[^3] were variant
+forms of the same letter.
+
+ASCII uppercase {B} will still be mapped to a vowel, and
+now memory-cued to the word "bout", and probably those who
+are familiar with the _&#x0223;_ ligature form of the _ou_
+digraph will be aided by its visual similarity to
+uppercase _B_.
+
+I choose to map ASCII uppercase {C} to alternate #36, since
+Ted Larson Freeman brought the graphic similarity between
+these letters of the two alphabets to attention, and with
+{V} mapped to #39 no other of the available uppercase letter
+fits better. That uppercase {C} is more readable than
+lowercase in this role, especially next to {k}, because
+capitalization serves to signal that C does not have any of
+the usual sound values of Traditional Orthography c, nor,
+indeed, marks a vowel is easily seen by comparing the
+following:
+
+|{C}=#36, {c}=#15|{C}=#15, {c}=#36|
+|--------------------|--------------------|--------------
+|{skClpcur}        | {skclpCur}       |_sculpture_
+|{akCmpliS}        | {akcmpliS}       |_accomplish_
+|{surkCs}          | {surkcs}         |_circus_
+|{rukCs}           | {rukcs}          |_ruckus_
+|{kClcurCl}        | {kclCurcl}       |_cultural_
+|{kCstCm}/{kCsFCm} | {kcstcm}/{kcsFcm}|_custom_
+
+There are, not counting derivations, some 30 words where #5
+and #15 occur next to each other[^4], but I deem these to be
+of far less text frequency than in particular the
+combinations #36+#24 and #36+#22, espescially if one
+considers that several of these words have alternative
+pronunciations with #3+#17 instead of #15, and thus should
+perhaps be spelled accordingly.
+
+   Consonant mappings
+
+The remaining Quikscript letters must and should be mapped
+to uppercase ASCII letters. The Traditional Orthography
+equivalents of these Quikscript letters will normally be
+digraphs, and as a general principle the uppercase ASCII
+character choosen to represent them should correspond to
+one of the letters of these digraph. There will, even must,
+be deviations from this principle, but these should be well
+grounded and provided with good memory-cues. As it turns
+out only _T, S, W_ for #7, #13, #20 will more or less
+unproblematically follow this principle. Analogy then
+suggests that _D, C, Z, N_ be mapped to #8, #14, #15, #21,
+but again it turns out that only {D} #8 will stand
+relatively unaffected by other considerations. Traditional
+Orthography never writes the sound of #8 with a spelling
+containing the letter _d_, but the analogy to _T_ for #7 is
+relatively flawless here. Not so with the sound of #14:
+spellings with _z_ corresponding to this sound are
+virtually confined to the use of _zh_ in transcribed
+Russian names. The Traditional Orthography consonant letter
+most regularly associated with this sound is actually _s_,
+but there is another Traditional Orthography letter which
+is fairly regularly associated with the sound, namely _j_
+in recent French loan words. This suggests uppercase {J} as
+the best mapping for #14, as does the fact that words like
+garage and mirage have variant pronunciations with #16.
+There is also the fact to consider that uppercase ASCII
+letters which don't get mapped to basic or alternate
+letters will almost inevitably end up mapped to half-
+letters, whether we include those in our 'official'
+proposals or not, and it seems much better to map the ASCII
+uppercase {Z} to the frequently used half-z and ASCII
+uppercase {J} to #14 than the other way around!
+
+With #21 the problem is somewhat different. What causes
+problems here is that ASCII uppercase {N} is clearly the
+best, not to say the only reasonable, mapping for the
+alternate #23, and thus ASCII uppercase {G} emerges as the
+best mapping for #21 as discussed previously.
+
+Similar considerations apply to #15. From a practical point
+of view ASCII uppercase and lowercase {C}-{c} are equally
+suitable for #15 once it is understood that #5 is ASCII {k}
+and #11 is ASCII {s}, but since any ASCII letter not mapped
+to a basic Quikscript letter will have to be mapped to a
+sound not normally associated with with the Traditional
+Orthography letter _c_ it is better to let the signal value
+of capitalization come into play with this other mapping,
+since lowercase _c_ is at least part of the default
+Traditional Orthography spelling for #15.
+
+   List of mappings in BPJ 2.1
+
+(Again mappings with a following * differ from Jerome kmap,
+and the half-letters with an * after their name are not
+found in the Quikscript Manual.)
+
+| QS # |(Jerome)| Name        | BPJ 2|
+|------|--------|-------------|------|
+| #1   | p      | Pea         | p    |
+| #2   | b      | Bay         | b    |
+| #3   | t      | Tea         | t    |
+| #4   | d      | Day         | d    |
+| #5   | k      | Key         | k    |
+| #6   | g      | Gay         | g    |
+| #7   | T      | Thaw        | T    |
+| #8   | H      | They        | D *  |
+| #9   | f      | Fee         | f    |
+| #10  | v      | Vie         | v    |
+| #11  | s      | See         | s    |
+| #12  | z      | Zoo         | z    |
+| #13  | S      | She         | S    |
+| #14  | Z      | J'ai        | J *  |
+| #15  | c      | Cheer       | c    |
+| #16  | J      | Jay         | j *  |
+| #17  | j      | Ye          | y *  |
+| #18  | w      | Way         | w    |
+| #19  | h      | He          | h    |
+| #20  | `      | Why         | W *  |
+| #21  | N      | Ing         | G *  |
+| #22  | m      | May         | m    |
+| #23  | n      | No          | n    |
+| #24  | l      | Low         | l    |
+| #25  | r      | Roe         | r    |
+| #26  | i      | It          | i    |
+| #27  | I      | Eat         | I    |
+| #28  | e      | Et          | e    |
+| #29  | E      | Eight       | E    |
+| #30  | A      | At          | a *  |
+| #31  | F      | I           | Y *  |
+| #32  | y      | Ah          | A *  |
+| #33  | Y      | Awe         | Q *  |
+| #34  | o      | Ox          | o    |
+| #35  | q      | Oy          | q *  |
+| #36  | a      | Utter       | u *  |
+| #37  | Q      | Out         | B *  |
+| #38  | O      | Owe         | O    |
+| #39  | U      | Foot        | V *  |
+| #40  | M      | Ooze        | U *  |
+| #41  | ç (ç)  | Loch        | K *  |
+| #42  | æ (æ)  | Llan        | L *  |
+| #43  | è (è)  | Excite      | x *  |
+| #44  | é (é)  | Exam        | X *  |
+| #23.2| G      | Noon        | N *  |
+| #36.2| u      | Up          | C *  |
+| -    | /      | naming dot  | ` *  |
+| -    |        | left bracket| (    |
+| -    |        |right bracket| )    |
+| #1.5 | ]      | half-Pea    | P *  |
+| #3.5 | [      | half-Tea    | F *  |
+| #4.5 | B      | half-Day    | R *  |
+| #12.5| L      | half-Zoo    | Z *  |
+| #17.5| ^      | half-Ye *   | ^    |
+| #18.5| @      | half-Way    | M *  |
+| #19.5| \\ (\\)| half-He     | H *  |
+| #20.5| ~      | half-Why *  | ~    |
+
+  Footnotes
+
+[^1]: In phonetics and phonology, *checked vowels* are those
+    that usually must be followed by a consonant in a stressed
+    syllable, while *free vowels* are those that may stand in a
+    stressed open syllable with no following consonant.
+
+   See
+   <http://en.wikipedia.org/wiki/Checked_and_free_vowels>.
+
+[^2]: Received Pronunciation (RP) is a form of pronunciation
+    of the English language which has been long perceived as
+    uniquely prestigious amongst British accents.
+
+   See
+   <http://en.wikipedia.org/wiki/Received_Pronunciation>.
+
+[^3]: Originally _V—u_ constituted an upper-lowercase
+    pair. The split into two letters was invented in the 16th
+    century and completed in the 18th.
+
+   See <http://en.wikipedia.org/wiki/U>.
+
+[^4]: actual, actuary, actuate, architecture, beachcomber,
+    beechcraft, chukchi, conjecture, contractual, effectuate,
+    factual, fluctuate, fracture, hutchcraft, inchcape,
+    ineffectual, infrastructure, intellectual, juncture,
+    latchkey, lecture, manufacture, picture, prefecture,
+    punctuate, puncture, sanctuary, stricture, structure,
+    tincture, witchcraft.
+
+   Source: <http://www.speech.cs.cmu.edu/cgi-bin/cmudict>
+
+   See <http://en.wikipedia.org/wiki/CMU_Pronouncing_Dictionary>
+
+
+19.12.2007 Benct Philip Jonsson <mailto:bpj@melroch.se>
+
+Tool completed successfully

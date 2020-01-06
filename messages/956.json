@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "XopQtkTIuzU9pSDosUCsg_Mswk7uh-DYgCW_LHWaVkdbJ37sUBTtXzbqhDkjCcmFPqySRDBS4IZT71pdTNht7VF5",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Unicode proposal again.",
+  "postDate": "1180463472",
+  "msgId": 956,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": true,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcwNTI5MTgzMTEyLkdHMjc0NkBtZXJjdXJ5LmNjaWwub3JnPg==",
+    "inReplyToHeader": "PDQ2NUM2MERDLjMwOTA3MDBAeWFob28uY28udWs+",
+    "referencesHeader": "PGYzZjU2OCtuc2MwQGVHcm91cHMuY29tPiA8NDY1QjQ4RjUuNzAyMDcwMEB5YWhvby5jby51az4gPHAwNjI0MDgxZGMyODBmYTg5N2EwOEBbMTkyLjE2OC4xLjEzNF0+IDw0NjVDNjBEQy4zMDkwNzAwQHlhaG9vLmNvLnVrPg=="
+  },
+  "prevInTopic": 955,
+  "nextInTopic": 957,
+  "prevInTime": 955,
+  "nextInTime": 957,
+  "topicId": 947,
+  "numMessagesInTopic": 45,
+  "msgSnippet": "... Not really.  Consider French u and English u ; same glyphs, different sounds.  Shavian and QS (and IPA) have characters tied more tightly to particular",
+  "messageBody": "<div id=\"ygrps-yiv-768562971\">amd64_hacker scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; It seems to me that unless the glyphs and sound of two characters are<br/>\n&gt; identical they are not the same letter.<br/>\n<br/>\n </span></blockquote>Not really.  Consider French &quot;u&quot; and English &quot;u&quot;; same glyphs, different<br/>\nsounds.  Shavian and QS (and IPA) have characters tied more tightly<br/>\nto particular sounds, so it seems that the sound should be relevant,<br/>\nbut it really isn&#39;t.<br/>\n<br/>\n-- <br/>\nIn politics, obedience and support      John Cowan &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>&gt;<br/>\nare the same thing.  --Hannah Arendt    <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nReceived: (qmail 61021 invoked from network); 29 May 2007 19:34:26 -0000\r\nReceived: from unknown (66.218.67.34)\n  by m36.grp.scd.yahoo.com with QMQP; 29 May 2007 19:34:26 -0000\r\nReceived: from unknown (HELO n20c.bullet.scd.yahoo.com) (66.218.67.23)\n  by mta8.grp.scd.yahoo.com with SMTP; 29 May 2007 19:34:26 -0000\r\nReceived: from [66.218.69.6] by n20.bullet.scd.yahoo.com with NNFMP; 29 May 2007 19:31:47 -0000\r\nReceived: from [66.218.66.80] by t6.bullet.scd.yahoo.com with NNFMP; 29 May 2007 19:31:45 -0000\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 71117 invoked from network); 29 May 2007 18:32:04 -0000\r\nReceived: from unknown (66.218.67.35)\n  by m42.grp.scd.yahoo.com with QMQP; 29 May 2007 18:32:03 -0000\r\nReceived: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta9.grp.scd.yahoo.com with SMTP; 29 May 2007 18:31:59 -0000\r\nReceived: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1Ht6TQ-0004c3-C1\n\tfor Read_Alphabet@yahoogroups.com; Tue, 29 May 2007 14:31:12 -0400\r\nDate: Tue, 29 May 2007 14:31:12 -0400\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20070529183112.GG2746@...&gt;\r\nReferences: &lt;f3f568+nsc0@...&gt; &lt;465B48F5.7020700@...&gt; &lt;p0624081dc280fa897a08@[192.168.1.134]&gt; &lt;465C60DC.3090700@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;465C60DC.3090700@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Unicode proposal again.\r\nX-Yahoo-Group-Post: member; u=212516; y=L1TUoLVDj5Oj9jiYMRrVUJ5IVDULN3SAdLLiE-h75tZWg39k-Q\r\nX-Yahoo-Profile: johnwcowan\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Approved-By: tinyallen &lt;Tinyallen@...&gt; via web; 29 May 2007 19:31:44 -0000\r\n\r\namd64_hacker scripsit:\n\n&gt; It seems to me that unless the glyphs and sound of two characters are\n&gt; identical they are not the same letter.\n\nNot really.  Consider French &quot;u&quot; and English &quot;u&quot;; same glyphs, different\nsounds.  Shavian and QS (and IPA) have characters tied more tightly\nto particular sounds, so it seems that the sound should be relevant,\nbut it really isn&#39;t.\n\n-- \nIn politics, obedience and support      John Cowan &lt;cowan@...&gt;\nare the same thing.  --Hannah Arendt    http://www.ccil.org/~cowan\n\n"
+}

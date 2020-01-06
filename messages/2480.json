@@ -1,0 +1,31 @@
+{
+  "userId": 458641688,
+  "authorName": "Nathan Sharfi",
+  "from": "Nathan Sharfi &lt;bonusfrogs@...&gt;",
+  "profile": "dipartite",
+  "replyTo": "LIST",
+  "senderId": "y0pcHdXhD3drkGDH9zkBVWRcaER38GbukxDhrRdwo1DqLI_Q7Uj9bKcsiQtcodFDQKc2GeGDPlkrazaxMXjjWwJNRIhHgdirj696",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "The Call of Cthulhu, Quikscript Edition, now in ePub",
+  "postDate": "1367645470",
+  "msgId": 2480,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDRGOUU5MTYwLThCQkMtNEY5NC05RDNDLUM1QkNEQzI0QzlCRkBnbWFpbC5jb20+"
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 2486,
+  "prevInTime": 2479,
+  "nextInTime": 2481,
+  "topicId": 2480,
+  "numMessagesInTopic": 4,
+  "msgSnippet": "After playing around with Pandoc, I ve managed to get it to generate ePub files that work on my iOS 6.1 devices, at the very least. While",
+  "messageBody": "<div id=\"ygrps-yiv-2079589361\">After playing around with Pandoc, I&#39;ve managed to get it to generate ePub files that work on my iOS 6.1 devices, at the very least. While &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"https://github.com/adiabatic/qs-literature\">https://github.com/adiabatic/qs-literature</a>&gt; is still the repository URL for all this, the internal URL structure has been changed somewhat.<br/>\n<br/>\nAs a web page:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://adiabatic.github.io/qs-literature/call-of-cthulhu.html\">http://adiabatic.github.io/qs-literature/call-of-cthulhu.html</a><br/>\n<br/>\nAs an ePub:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://adiabatic.github.io/qs-literature/call-of-cthulhu.epub\">http://adiabatic.github.io/qs-literature/call-of-cthulhu.epub</a><br/>\n<br/>\nFeatures:<br/>\n<br/>\n- tables of contents in Orthodox<br/>\n- #859900 from &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://ethanschoonover.com/solarized\">http://ethanschoonover.com/solarized</a>&gt;<br/>\n- Kingsley with reasonably-sized punctuation</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;bonusfrogs@...&gt;\r\nX-Sender: bonusfrogs@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 91762 invoked by uid 102); 4 May 2013 05:31:13 -0000\r\nX-Received: from unknown (HELO mta1.grp.bf1.yahoo.com) (10.193.84.135)\n  by m7.grp.bf1.yahoo.com with SMTP; 4 May 2013 05:31:13 -0000\r\nX-Received: (qmail 25467 invoked from network); 4 May 2013 05:31:13 -0000\r\nX-Received: from unknown (HELO mail-da0-f42.google.com) (209.85.210.42)\n  by mta1.grp.bf1.yahoo.com with SMTP; 4 May 2013 05:31:13 -0000\r\nX-Received: by mail-da0-f42.google.com with SMTP id r6so1090540dad.29\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Fri, 03 May 2013 22:31:13 -0700 (PDT)\r\nX-Received: by 10.66.52.50 with SMTP id q18mr17794561pao.201.1367645473239;\n        Fri, 03 May 2013 22:31:13 -0700 (PDT)\r\nReturn-Path: &lt;bonusfrogs@...&gt;\r\nX-Received: from spreadthinly.localdomain (pool-72-67-36-2.lsanca.fios.verizon.net. [72.67.36.2])\n        by mx.google.com with ESMTPSA id ag4sm14449456pbc.20.2013.05.03.22.31.11\n        for &lt;Read_Alphabet@yahoogroups.com&gt;\n        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);\n        Fri, 03 May 2013 22:31:12 -0700 (PDT)\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Transfer-Encoding: quoted-printable\r\nMessage-Id: &lt;4F9E9160-8BBC-4F94-9D3C-C5BCDC24C9BF@...&gt;\r\nDate: Fri, 3 May 2013 22:31:10 -0700\r\nTo: &quot;Read_Alphabet@yahoogroups.com&quot; &lt;Read_Alphabet@yahoogroups.com&gt;\r\nMime-Version: 1.0 (Mac OS X Mail 6.3 &#92;(1503&#92;))\r\nX-Mailer: Apple Mail (2.1503)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Nathan Sharfi &lt;bonusfrogs@...&gt;\r\nSubject: The Call of Cthulhu, Quikscript Edition, now in ePub\r\nX-Yahoo-Group-Post: member; u=458641688; y=cwjZysIbp5w4Wt91stlRELEgU67mc5haD3zByqg9ZZcgN7Wv\r\nX-Yahoo-Profile: dipartite\r\n\r\nAfter playing around with Pandoc, I&#39;ve managed to get it to generate ePub f=\r\niles that work on my iOS 6.1 devices, at the very least. While &lt;https://git=\r\nhub.com/adiabatic/qs-literature&gt; is still the repository URL for all this, =\r\nthe internal URL structure has been changed somewhat.\n\nAs a web page:\nhttp:=\r\n//adiabatic.github.io/qs-literature/call-of-cthulhu.html\n\nAs an ePub:\nhttp:=\r\n//adiabatic.github.io/qs-literature/call-of-cthulhu.epub\n\nFeatures:\n\n- tabl=\r\nes of contents in Orthodox\n- #859900 from &lt;http://ethanschoonover.com/solar=\r\nized&gt;\n- Kingsley with reasonably-sized punctuation\n"
+}

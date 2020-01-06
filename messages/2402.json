@@ -1,0 +1,31 @@
+{
+  "userId": 111389932,
+  "authorName": "Zyggy2",
+  "from": "&quot;Zyggy2&quot; &lt;jayson@...&gt;",
+  "profile": "Zyggy2",
+  "replyTo": "LIST",
+  "senderId": "-kAferQmmNPzJQ0PK0TjzRPLl3j9Pb_iD_48i_wzwBaQgWZZt_k7SWKPuSvXpy0X3OftPnK2FqHwi8hM6D5shQD3Iw",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Interim Font Code Standard",
+  "postDate": "1366078455",
+  "msgId": 2402,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGtraWM1bitqZHZ2QGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 2404,
+  "prevInTime": 2401,
+  "nextInTime": 2403,
+  "topicId": 2402,
+  "numMessagesInTopic": 6,
+  "msgSnippet": "While the Unicode thread works is way through consensus and appears to be the first step in a multi-year process, I m curious if there is interest in",
+  "messageBody": "<div id=\"ygrps-yiv-1217199876\">While the Unicode thread works is way through consensus and appears to be the first step in a multi-year process, I&#39;m curious if there is interest in establishing a standard for Unicode Private Use .   <br/>\n<br/>\nI&#39;ve looked at a few of the QuikScript fonts and see that they are bound to the Latin alphabet or to the U+E650-E692 range.  That range conflicts with Ewellic and it would be best to play nice.  Any interest in stabilizing a set for current and future font designs?<br/>\n<br/>\nI see Shavian has conveniently left the range E700&#8722;E72F available since their glyphs were fully adopted by Unicode in 2003...<br/>\n<br/>\nJayson</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;jayson@...&gt;\r\nX-Sender: jayson@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 59650 invoked by uid 102); 16 Apr 2013 02:14:16 -0000\r\nX-Received: from unknown (HELO mta2.grp.bf1.yahoo.com) (10.193.84.150)\n  by m12.grp.bf1.yahoo.com with SMTP; 16 Apr 2013 02:14:16 -0000\r\nX-Received: (qmail 23095 invoked from network); 16 Apr 2013 02:14:16 -0000\r\nX-Received: from unknown (HELO ng15-ip2.bullet.mail.bf1.yahoo.com) (98.139.165.128)\n  by mta2.grp.bf1.yahoo.com with SMTP; 16 Apr 2013 02:14:16 -0000\r\nX-Received: from [98.139.164.122] by ng15.bullet.mail.bf1.yahoo.com with NNFMP; 16 Apr 2013 02:14:16 -0000\r\nX-Received: from [10.193.94.109] by tg3.bullet.mail.bf1.yahoo.com with NNFMP; 16 Apr 2013 02:14:16 -0000\r\nDate: Tue, 16 Apr 2013 02:14:15 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;kkic5n+jdvv@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=&quot;ISO-8859-1&quot;\r\nContent-Transfer-Encoding: quoted-printable\r\nX-Mailer: Yahoo Groups Message Poster\r\nX-Yahoo-Newman-Property: groups-compose\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: &quot;Zyggy2&quot; &lt;jayson@...&gt;\r\nSubject: Interim Font Code Standard\r\nX-Yahoo-Group-Post: member; u=111389932; y=a9JQpPzUH-CjRbLgLa4TCREJ-NZJBdqs9_P_Q584bVhj\r\nX-Yahoo-Profile: Zyggy2\r\n\r\nWhile the Unicode thread works is way through consensus and appears to be t=\r\nhe first step in a multi-year process, I&#39;m curious if there is interest in =\r\nestablishing a standard for Unicode Private Use .   \n\nI&#39;ve looked at a few =\r\nof the QuikScript fonts and see that they are bound to the Latin alphabet o=\r\nr to the U+E650-E692 range.  That range conflicts with Ewellic and it would=\r\n be best to play nice.  Any interest in stabilizing a set for current and f=\r\nuture font designs?\n\nI see Shavian has conveniently left the range E700&#87=\r\n22;E72F available since their glyphs were fully adopted by Unicode in 2003.=\r\n..\n\nJayson\n\n\n"
+}

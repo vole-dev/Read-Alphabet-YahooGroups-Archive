@@ -1,0 +1,31 @@
+{
+  "userId": 458641688,
+  "authorName": "Nathan Sharfi",
+  "from": "Nathan Sharfi &lt;bonusfrogs@...&gt;",
+  "profile": "dipartite",
+  "replyTo": "LIST",
+  "senderId": "01qnoJrsAdT-j8sQoZvQ3MRQ8avAqb2GoxxdE0_dbg6uWH3yXJ5n735YqROhJfaLxhHLMWxWhiGO1cjBeS_w2QKDtD92cDU4Dz6J",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Quikscript in the ConScript Unicode Registry: Joining",
+  "postDate": "1370405557",
+  "msgId": 2545,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDk2QTM2QkJGLTI0QUQtNEYzQi1BRjA3LTVFRDU1MkM1QzU1OUBnbWFpbC5jb20+"
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 0,
+  "prevInTime": 2544,
+  "nextInTime": 2546,
+  "topicId": 2545,
+  "numMessagesInTopic": 1,
+  "msgSnippet": "I m polishing up a proposal to put Quikscript in the ConScript Unicode Registry starting at U+E650 and continuing on for three blocks; it s meant to document",
+  "messageBody": "<div id=\"ygrps-yiv-1377929292\">I&#39;m polishing up a proposal to put Quikscript in the ConScript Unicode Registry starting at U+E650 and continuing on for three blocks; it&#39;s meant to document existing practice and get angled parentheses someplace other than on U+0028 and U+0029. A _very_ preliminary version is available at &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.frogorbits.com/qs/csur.html\">http://www.frogorbits.com/qs/csur.html</a>&gt;. <br/>\n<br/>\nElsewhere someone mentioned that it&#39;d be nice to get at least some of the &#39;fancy&#39; features codified \u2014 what letters connect to what, when it&#39;s a good idea to use the upside-down NO, and so forth. Would information like this \u2014 generally patterned on Unicode 6.2&#39;s discussion of Arabic starting on page 257 of &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.unicode.org/versions/Unicode6.2.0/ch08.pdf\">http://www.unicode.org/versions/Unicode6.2.0/ch08.pdf</a>&gt; \u2014 be appropriate in a ConScript proposal, or is it best kept elsewhere? I&#39;ve just got a full copy of Glyphs, and I&#39;m still trying to guess at what would be possible with what.</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;bonusfrogs@...&gt;\r\nX-Sender: bonusfrogs@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 57634 invoked by uid 102); 5 Jun 2013 04:12:40 -0000\r\nX-Received: from unknown (HELO mtaq4.grp.bf1.yahoo.com) (10.193.84.143)\n  by m9.grp.bf1.yahoo.com with SMTP; 5 Jun 2013 04:12:40 -0000\r\nX-Received: (qmail 22252 invoked from network); 5 Jun 2013 04:12:40 -0000\r\nX-Received: from unknown (HELO mail-pd0-f176.google.com) (209.85.192.176)\n  by mtaq4.grp.bf1.yahoo.com with SMTP; 5 Jun 2013 04:12:40 -0000\r\nX-Received: by mail-pd0-f176.google.com with SMTP id r11so1216821pdi.35\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Tue, 04 Jun 2013 21:12:40 -0700 (PDT)\r\nX-Received: by 10.66.145.98 with SMTP id st2mr32456297pab.24.1370405560059;\n        Tue, 04 Jun 2013 21:12:40 -0700 (PDT)\r\nReturn-Path: &lt;bonusfrogs@...&gt;\r\nX-Received: from spreadthinly.localdomain (pool-74-100-97-239.lsanca.fios.verizon.net. [74.100.97.239])\n        by mx.google.com with ESMTPSA id uv1sm66017678pbc.16.2013.06.04.21.12.39\n        for &lt;Read_Alphabet@yahoogroups.com&gt;\n        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);\n        Tue, 04 Jun 2013 21:12:39 -0700 (PDT)\r\nContent-Type: text/plain; charset=windows-1252\r\nContent-Transfer-Encoding: quoted-printable\r\nMessage-Id: &lt;96A36BBF-24AD-4F3B-AF07-5ED552C5C559@...&gt;\r\nDate: Tue, 4 Jun 2013 21:12:37 -0700\r\nTo: &quot;Read_Alphabet@yahoogroups.com&quot; &lt;Read_Alphabet@yahoogroups.com&gt;\r\nMime-Version: 1.0 (Mac OS X Mail 6.3 &#92;(1503&#92;))\r\nX-Mailer: Apple Mail (2.1503)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Nathan Sharfi &lt;bonusfrogs@...&gt;\r\nSubject: Quikscript in the ConScript Unicode Registry: Joining\r\nX-Yahoo-Group-Post: member; u=458641688; y=UmWkDe3i1ZcvEM-2yX2NhAjH7kPN5chgpwgXJW1vKG-0-PGF\r\nX-Yahoo-Profile: dipartite\r\n\r\nI&#39;m polishing up a proposal to put Quikscript in the ConScript Unicode Regi=\r\nstry starting at U+E650 and continuing on for three blocks; it&#39;s meant to d=\r\nocument existing practice and get angled parentheses someplace other than o=\r\nn U+0028 and U+0029. A _very_ preliminary version is available at &lt;http://w=\r\nww.frogorbits.com/qs/csur.html&gt;. \n\nElsewhere someone mentioned that it&#39;d be=\r\n nice to get at least some of the &#39;fancy&#39; features codified =97 what letter=\r\ns connect to what, when it&#39;s a good idea to use the upside-down NO, and so =\r\nforth. Would information like this =97 generally patterned on Unicode 6.2&#39;s=\r\n discussion of Arabic starting on page 257 of &lt;http://www.unicode.org/versi=\r\nons/Unicode6.2.0/ch08.pdf&gt; =97 be appropriate in a ConScript proposal, or i=\r\ns it best kept elsewhere? I&#39;ve just got a full copy of Glyphs, and I&#39;m stil=\r\nl trying to guess at what would be possible with what.\n"
+}

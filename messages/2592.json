@@ -1,0 +1,30 @@
+{
+  "userId": 0,
+  "authorName": "",
+  "from": "Read_Alphabet@yahoogroups.com",
+  "replyTo": "LIST",
+  "senderId": "9AQhFi2ZB4TNiajc8g5wSmWRavGVeoWn7sCyUV2W2A11hTJHhWAf1Bl_nkOCmiDOPjPGyDo01JTRRKLaTvgrTu8Pesk",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "New file uploaded to Read_Alphabet",
+  "postDate": "1394413428",
+  "msgId": 2592,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGxmajMxayt2bW0xZkBZYWhvb0dyb3Vwcy5jb20+"
+  },
+  "prevInTopic": 521,
+  "nextInTopic": 2593,
+  "prevInTime": 2591,
+  "nextInTime": 2593,
+  "topicId": 504,
+  "numMessagesInTopic": 32,
+  "msgSnippet": "Hello, This email message is a notification to let you know that a file has been uploaded to the Files area of the Read_Alphabet group. File        :",
+  "messageBody": "<div id=\"ygrps-yiv-1231766249\">Hello,<br/>\n<br/>\nThis email message is a notification to let you know that<br/>\na file has been uploaded to the Files area of the Read_Alphabet<br/>\ngroup.<br/>\n<br/>\n  File        : /Fonts/Suave.otf<br/>\n  Uploaded by : guanolto &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:scott@...\">scott@...</a>&gt;<br/>\n  Description : the Suave font<br/>\n<br/>\nYou can access this file at the URL:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"https://groups.yahoo.com/group/Read_Alphabet/files/Fonts/Suave.otf\">https://groups.yahoo.com/group/Read_Alphabet/files/Fonts/Suave.otf</a><br/>\n<br/>\nTo learn more about file sharing for your group, please visit:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"https://help.yahoo.com/kb/index?page=content&y=PROD_GRPS&locale=en_US&id=SLN15398\">https://help.yahoo.com/kb/index?page=content&y=PROD_GRPS&locale=en_US&id=SLN15398</a><br/>\n<br/>\nRegards,<br/>\n<br/>\nguanolto &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:scott@...\">scott@...</a>&gt;</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;notify@yahoogroups.com&gt;\r\nReceived: (qmail 59062 invoked by uid 102); 10 Mar 2014 01:03:48 -0000\r\nReceived: from unknown (HELO mtaq6.grp.bf1.yahoo.com) (10.193.84.37)\n  by m1.grp.bf1.yahoo.com with SMTP; 10 Mar 2014 01:03:48 -0000\r\nReceived: (qmail 13288 invoked from network); 10 Mar 2014 01:03:48 -0000\r\nReceived: from unknown (HELO n13-vm10.bullet.mail.bf1.yahoo.com) (66.196.80.187)\n  by mtaq6.grp.bf1.yahoo.com with SMTP; 10 Mar 2014 01:03:48 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=echoe; t=1394413428; bh=nLGL2RagJtfuIyeiMamT7+EgeX2Ig09QQbM9q/TNB1o=; h=Received:Received:Date:Received:To:From:Subject:Message-ID:X-Yahoo-Newman-Property:X-eGroups-Auth:Content-Type; b=MIK288JzuM9ANJmKWN4Bc6PJ2wnq5BZOftr/e8ypg5rOYHpWc1eAGwc1C/6zqYDV93o0lx5ga//9cPZCbFxr6JRZhAwj+GMIOaw6n8IO8kvUi+PllbKLEK2zIM1eQJ6AVyScC1KiL7BPZV2jzk5Deay5symvSXR08DoWq5A6dLE=\r\nReceived: from [66.196.81.175] by n13.bullet.mail.bf1.yahoo.com with NNFMP; 10 Mar 2014 01:03:48 -0000\r\nReceived: from [10.193.74.53] by t5.bullet.mail.bf1.yahoo.com with NNFMP; 10 Mar 2014 01:03:48 -0000\r\nDate: 09 Mar 2014 18:03:48 -0700\r\nReceived: from [127.0.0.1] by gapi10.grp.bf1.yahoo.com with NNFMP; 10 Mar 2014 01:03:48 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nFrom: Read_Alphabet@yahoogroups.com\r\nSubject: New file uploaded to Read_Alphabet\r\nMessage-ID:&lt;lfj31k+vmm1f@...&gt;\r\nX-Yahoo-Newman-Property: groups-notify\r\nContent-Type: text/plain; charset=utf-8;\r\n\r\nHello,\n\nThis email message is a notification to let you know that\na file has been uploaded to the Files area of the Read_Alphabet\ngroup.\n\n  File        : /Fonts/Suave.otf\n  Uploaded by : guanolto &lt;scott@...&gt;\n  Description : the Suave font\n\nYou can access this file at the URL:\nhttps://groups.yahoo.com/group/Read_Alphabet/files/Fonts/Suave.otf\n\nTo learn more about file sharing for your group, please visit:\nhttps://help.yahoo.com/kb/index?page=content&y=PROD_GRPS&locale=en_US&id=SLN15398\n\nRegards,\n\nguanolto &lt;scott@...&gt;\n\n"
+}

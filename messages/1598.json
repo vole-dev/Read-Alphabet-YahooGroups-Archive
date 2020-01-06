@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "U-2CfnNlgvZlwlH3cgI6O0Qrs6FSzqArVcCuVGoFzhdgUj6lWgUMejEwgyjMvVbPNHZqHhceN_wc9x5RxsouAgdg",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Re: On PALM",
+  "postDate": "1195620041",
+  "msgId": 1598,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMTIxMDQ0MDQwLkdFMjU0MkBtZXJjdXJ5LmNjaWwub3JnPg==",
+    "inReplyToHeader": "PDQ3NDNCNDE0LjkwNDA0MDhAaWdsb3UuY29tPg==",
+    "referencesHeader": "PGZodnJ0MCs4YjBjQGVHcm91cHMuY29tPiA8NDc0MzdEQUUuMjA5MDcwN0BpZ2xvdS5jb20+IDwyMDA3MTEyMTAzNTIyNy5HQzI1NDJAbWVyY3VyeS5jY2lsLm9yZz4gPDQ3NDNCNDE0LjkwNDA0MDhAaWdsb3UuY29tPg=="
+  },
+  "prevInTopic": 1597,
+  "nextInTopic": 1599,
+  "prevInTime": 1597,
+  "nextInTime": 1599,
+  "topicId": 1571,
+  "numMessagesInTopic": 85,
+  "msgSnippet": "... Well, you get to decide whether x+y defaults to ligaturing or to not ligaturing, but there has to be some way to signal the difference. So it s either type",
+  "messageBody": "<div id=\"ygrps-yiv-1004440818\">Paul Tremblay scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; That means we have to type an extra character when we type, something <br/>\n&gt; pretty unnatural.<br/>\n<br/>\n </span></blockquote>Well, you get to decide whether x+y defaults to ligaturing or to not<br/>\nligaturing, but there has to be some way to signal the difference.<br/>\nSo it&#39;s either type a key to trigger ligaturing or type a key to<br/>\nsuppress ligaturing -- your choice.  <br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Also, that means letters are dependent on the ligature <br/>\n&gt; table, which may or may not be read by certain applications. For <br/>\n&gt; example, I&#39;ve come across only two applications that read in my kerning <br/>\n&gt; table, TeX and Indesign. Word doesn&#39;t, OO doesn&#39;t, none of the browsers <br/>\n&gt; do. So I don&#39;t want to be dependent on a ligature table in order for a <br/>\n&gt; certain character to appear. If we are so dependent, surely we will <br/>\n&gt; become frustrated when we are typing something and we can&#39;t get what we <br/>\n&gt; want.<br/>\n<br/>\n </span></blockquote>Kerning&#39;s a more advanced feature than ligaturing.  Since you mention<br/>\nWord, I assume you&#39;re on Windows, and I don&#39;t know much about rendering<br/>\non Windows.<br/>\n<br/>\n-- <br/>\nBut you, Wormtongue, you have done what you could for your true master.  Some<br/>\nreward you have earned at least.  Yet Saruman is apt to overlook his bargains.<br/>\nI should advise you to go quickly and remind him, lest he forget your faithful<br/>\nservice.  --Gandalf             John Cowan &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>&gt;</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 45800 invoked from network); 21 Nov 2007 04:40:42 -0000\r\nX-Received: from unknown (66.218.67.95)\n  by m55.grp.scd.yahoo.com with QMQP; 21 Nov 2007 04:40:42 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta16.grp.scd.yahoo.com with SMTP; 21 Nov 2007 04:40:42 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1IuhOD-0002JG-Jw\n\tfor Read_Alphabet@yahoogroups.com; Tue, 20 Nov 2007 23:40:41 -0500\r\nDate: Tue, 20 Nov 2007 23:40:41 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20071121044040.GE2542@...&gt;\r\nReferences: &lt;fhvrt0+8b0c@...&gt; &lt;47437DAE.2090707@...&gt; &lt;20071121035227.GC2542@...&gt; &lt;4743B414.9040408@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;4743B414.9040408@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: On PALM\r\nX-Yahoo-Group-Post: member; u=212516; y=--QjdXVFPLkygz4_nW6LVW3YoKcYjR8S1L40topgLXkUrantuA\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nPaul Tremblay scripsit:\n\n&gt; That means we have to type an extra character when we type, something \n&gt; pretty unnatural.\n\nWell, you get to decide whether x+y defaults to ligaturing or to not\nligaturing, but there has to be some way to signal the difference.\nSo it&#39;s either type a key to trigger ligaturing or type a key to\nsuppress ligaturing -- your choice.  \n\n&gt; Also, that means letters are dependent on the ligature \n&gt; table, which may or may not be read by certain applications. For \n&gt; example, I&#39;ve come across only two applications that read in my kerning \n&gt; table, TeX and Indesign. Word doesn&#39;t, OO doesn&#39;t, none of the browsers \n&gt; do. So I don&#39;t want to be dependent on a ligature table in order for a \n&gt; certain character to appear. If we are so dependent, surely we will \n&gt; become frustrated when we are typing something and we can&#39;t get what we \n&gt; want.\n\nKerning&#39;s a more advanced feature than ligaturing.  Since you mention\nWord, I assume you&#39;re on Windows, and I don&#39;t know much about rendering\non Windows.\n\n-- \nBut you, Wormtongue, you have done what you could for your true master.  Some\nreward you have earned at least.  Yet Saruman is apt to overlook his bargains.\nI should advise you to go quickly and remind him, lest he forget your faithful\nservice.  --Gandalf             John Cowan &lt;cowan@...&gt;\n\n"
+}

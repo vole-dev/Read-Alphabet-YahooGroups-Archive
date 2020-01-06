@@ -1,0 +1,33 @@
+{
+  "userId": 9390441,
+  "authorName": "oliver langan",
+  "from": "oliver langan &lt;oliver@...&gt;",
+  "profile": "oliverlangan",
+  "replyTo": "LIST",
+  "senderId": "f10jMDwNf0Bg9me7FhRL1PcVP82cBzxXpyC5F5PKoard7XYqCJkAjFX4QrLQw1FwYdGFi-1xFJNdDF5iMHG1aorf-B0Omtzi",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Re: New member- and help with Macs?",
+  "postDate": "1153554812",
+  "msgId": 808,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDI3ODkxNjQyLTg1RjItNEQxQi04NzM0LTUxODA2MTZGODIwMkBsYW5nYW4ubmV0Pg==",
+    "inReplyToHeader": "PGU5bHQxOStsZmNnQGVHcm91cHMuY29tPg==",
+    "referencesHeader": "PGU5bHQxOStsZmNnQGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 795,
+  "nextInTopic": 809,
+  "prevInTime": 807,
+  "nextInTime": 809,
+  "topicId": 783,
+  "numMessagesInTopic": 4,
+  "msgSnippet": "... I have had success in getting the Unicode font to display in Safari, but only if the HTML file specifically indicates that it is to be used.  After",
+  "messageBody": "<div id=\"ygrps-yiv-13363089\">On 19 Jul 2006, at 11:18, meosongrey wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; I have close to zero programming experience, so I don&#39;t really know  <br/>\n&gt; how to make the<br/>\n&gt; fonts appear in either Safari or Internet Explorer. I tried  <br/>\n&gt; changing the font Preferences<br/>\n&gt; in Safari to one the Kingsley, and ended up with all of my  <br/>\n&gt; Microsoft Outlook inbox<br/>\n&gt; written in that font--but nothing that was supposed to be written  <br/>\n&gt; in that font<br/>\n&gt; appearing correct.<br/>\n&gt;<br/>\n&gt; How should I go about mixing both Roman for where Roman is written  <br/>\n&gt; on the internet<br/>\n&gt; with one of the Shavian/Quikscript fonts? As an aside, when I tried  <br/>\n&gt; to download the<br/>\n&gt; one through Yahoo, it never got past the &quot;initiating download  <br/>\n&gt; stage&quot;, though I will try<br/>\n&gt; again later today.<br/>\n<br/>\n </span></blockquote>I have had success in getting the Unicode font to display in Safari,  <br/>\nbut only if the HTML file specifically indicates that it is to be  <br/>\nused.  After installing the Kingsley.ttf file that I recently  <br/>\nuploaded, you can try this test page:<br/>\n\t<a rel=\"nofollow\" target=\"_blank\" href=\"http://slate.langan.net/QS_unicode_sample.html\">http://slate.langan.net/QS_unicode_sample.html</a><br/>\nIt is simply the HTML-marked-up version of the text file which I  <br/>\nposted to the files section.<br/>\n<br/>\nHowever, that file does NOT display properly in Firefox, at least not  <br/>\nfor me.  All my fonts are screwed up (slightly) in Firefox, perhaps  <br/>\nbecause I am using the Cross-Platform Portable version.<br/>\n<br/>\noliver</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;oliver@...&gt;\r\nX-Sender: oliver@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 93970 invoked from network); 22 Jul 2006 07:48:18 -0000\r\nReceived: from unknown (66.218.67.33)\n  by m27.grp.scd.yahoo.com with QMQP; 22 Jul 2006 07:48:18 -0000\r\nReceived: from unknown (HELO ylpvm15.prodigy.net) (207.115.57.46)\n  by mta7.grp.scd.yahoo.com with SMTP; 22 Jul 2006 07:48:17 -0000\r\nReceived: from pimout7-ext.prodigy.net (pimout7-int.prodigy.net [207.115.4.147])\n\tby ylpvm15.prodigy.net (8.12.10 outbound/8.12.10) with ESMTP id k6M7mHEq029807\n\tfor &lt;Read_Alphabet@yahoogroups.com&gt;; Sat, 22 Jul 2006 03:48:18 -0400\r\nX-ORBL: [66.126.248.140]\r\nReceived: from langan.net (adsl-66-126-248-140.dsl.sntc01.pacbell.net [66.126.248.140])\n\tby pimout7-ext.prodigy.net (8.13.6 out.dk/8.13.6) with ESMTP id k6M7mEne157986\n\tfor &lt;Read_Alphabet@yahoogroups.com&gt;; Sat, 22 Jul 2006 03:48:14 -0400\r\nReceived: from [192.168.0.7] (account oliver HELO [192.168.0.7])\n  by langan.net (CommuniGate Pro SMTP 4.0.6)\n  with ESMTP-TLS id 3724933 for Read_Alphabet@yahoogroups.com; Sat, 22 Jul 2006 00:48:14 -0700\r\nMime-Version: 1.0 (Apple Message framework v750)\r\nIn-Reply-To: &lt;e9lt19+lfcg@...&gt;\r\nReferences: &lt;e9lt19+lfcg@...&gt;\r\nContent-Type: text/plain; charset=US-ASCII; delsp=yes; format=flowed\r\nMessage-Id: &lt;27891642-85F2-4D1B-8734-5180616F8202@...&gt;\r\nContent-Transfer-Encoding: 7bit\r\nDate: Sat, 22 Jul 2006 00:53:32 -0700\r\nTo: Read_Alphabet@yahoogroups.com\r\nX-Mailer: Apple Mail (2.750)\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: oliver langan &lt;oliver@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: New member- and help with Macs?\r\nX-Yahoo-Group-Post: member; u=9390441; y=E_WJoIgHMPe6h1BYUYfHok6iFe1UiCf6vNPggKypXGkCRR9QkivO\r\nX-Yahoo-Profile: oliverlangan\r\n\r\nOn 19 Jul 2006, at 11:18, meosongrey wrote:\n&gt; I have close to zero programming experience, so I don&#39;t really know  \n&gt; how to make the\n&gt; fonts appear in either Safari or Internet Explorer. I tried  \n&gt; changing the font Preferences\n&gt; in Safari to one the Kingsley, and ended up with all of my  \n&gt; Microsoft Outlook inbox\n&gt; written in that font--but nothing that was supposed to be written  \n&gt; in that font\n&gt; appearing correct.\n&gt;\n&gt; How should I go about mixing both Roman for where Roman is written  \n&gt; on the internet\n&gt; with one of the Shavian/Quikscript fonts? As an aside, when I tried  \n&gt; to download the\n&gt; one through Yahoo, it never got past the &quot;initiating download  \n&gt; stage&quot;, though I will try\n&gt; again later today.\n\nI have had success in getting the Unicode font to display in Safari,  \nbut only if the HTML file specifically indicates that it is to be  \nused.  After installing the Kingsley.ttf file that I recently  \nuploaded, you can try this test page:\n\thttp://slate.langan.net/QS_unicode_sample.html\nIt is simply the HTML-marked-up version of the text file which I  \nposted to the files section.\n\nHowever, that file does NOT display properly in Firefox, at least not  \nfor me.  All my fonts are screwed up (slightly) in Firefox, perhaps  \nbecause I am using the Cross-Platform Portable version.\n\noliver\n\n\n\n\n"
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 0,
+  "authorName": "Read_Alphabet@yahoogroups.com",
+  "from": "Read_Alphabet@yahoogroups.com ",
+  "replyTo": "LIST",
+  "senderId": "44YaS8GFOp2mUpp4wZgO1OAFwCkdALXAkjLuFN_VcgW7DTdpDLh6uKnJT6iGvAbT7aF0xnajWXNO6-OBG7e8bBO_HkLg",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "New poll for Read_Alphabet",
+  "postDate": "1308521817",
+  "msgId": 2194,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": true,
+  "headers": {
+    "messageIdInHeader": "PDEzMDg1MjE4MTcuMTUzLjE5ODI1Lnc0QHlhaG9vZ3JvdXBzLmNvbT4="
+  },
+  "prevInTopic": 1990,
+  "nextInTopic": 2196,
+  "prevInTime": 2193,
+  "nextInTime": 2195,
+  "topicId": 623,
+  "numMessagesInTopic": 9,
+  "msgSnippet": "Enter your vote today!  A new poll has been created for the Read_Alphabet group: Can you write Unicode Quickscript on your computer? o Yes o No To vote, please",
+  "messageBody": "<div id=\"ygrps-yiv-1247314956\">Enter your vote today!  A new poll has been created for the <br/>\nRead_Alphabet group:<br/>\n<br/>\nCan you write Unicode Quickscript on your computer? <br/>\n<br/>\n  o Yes <br/>\n  o No <br/>\n<br/>\n<br/>\nTo vote, please visit the following web page:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/Read_Alphabet/surveys?id=3051193\">http://groups.yahoo.com/group/Read_Alphabet/surveys?id=3051193</a> <br/>\n<br/>\nNote: Please do not reply to this message. Poll votes are <br/>\nnot collected via email. To vote, you must go to the Yahoo! Groups <br/>\nweb site listed above.<br/>\n<br/>\nThanks!</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;notify@yahoogroups.com&gt;\r\nReceived: (qmail 64724 invoked from network); 19 Jun 2011 22:16:58 -0000\r\nReceived: from unknown (98.137.34.45)\n  by m6.grp.sp2.yahoo.com with QMQP; 19 Jun 2011 22:16:58 -0000\r\nReceived: from unknown (HELO n45b.bullet.mail.sp1.yahoo.com) (66.163.168.159)\n  by mta2.grp.sp2.yahoo.com with SMTP; 19 Jun 2011 22:16:58 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1308521818; bh=yoGyQReKs6uhbdfrUDUbnX2BwuZKaZciDQT16xP+rO0=; h=Received:Received:Date:Message-ID:X-Yahoo-Newman-Property:X-eGroups-Auth:X-eGroups-Application:X-Yahoo-Group-Post:From:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding; b=ErbuIRaYEGxXSHqg2WqA0JUXJjE31MkfONnAW8Iyr0hmS8bRl6Y8aeAV4Qm/OvxBtcxIG8/HNjWH8hUYTY/Xph4mhH28Xf28B439WaHy13kJV/t67P6lroUdV7bDhjBB\r\nReceived: from [69.147.65.147] by n45.bullet.mail.sp1.yahoo.com with NNFMP; 19 Jun 2011 22:16:58 -0000\r\nReceived: from [98.137.34.35] by t10.bullet.mail.sp1.yahoo.com with NNFMP; 19 Jun 2011 22:16:58 -0000\r\nDate: 19 Jun 2011 22:16:57 -0000\r\nMessage-ID: &lt;1308521817.153.19825.w4@yahoogroups.com&gt;\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Application: poll \r\nX-Yahoo-Group-Post: system\r\nFrom: Read_Alphabet@yahoogroups.com \r\nTo: Read_Alphabet@yahoogroups.com \r\nSubject: New poll for Read_Alphabet \r\nMIME-Version: 1.0\r\nContent-Type: text/plain\r\nContent-Transfer-Encoding: 7bit\r\n\r\n\nEnter your vote today!  A new poll has been created for the \nRead_Alphabet group:\n\nCan you write Unicode Quickscript on your computer? \n\n  o Yes \n  o No \n\n\nTo vote, please visit the following web page:\nhttp://groups.yahoo.com/group/Read_Alphabet/surveys?id=3051193 \n\nNote: Please do not reply to this message. Poll votes are \nnot collected via email. To vote, you must go to the Yahoo! Groups \nweb site listed above.\n\nThanks!\n\n \n\n\n\n\n"
+}

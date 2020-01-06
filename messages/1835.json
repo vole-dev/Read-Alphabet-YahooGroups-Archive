@@ -1,0 +1,33 @@
+{
+  "userId": 149542193,
+  "authorName": "Benct Philip Jonsson",
+  "from": "Benct Philip Jonsson &lt;bpj@...&gt;",
+  "profile": "melroch",
+  "replyTo": "LIST",
+  "senderId": "RN-9s_c8DL_h36ozzcb21W-tNq72PQwsfcuscMnjoop7YrsjLqobNuEw30klh9se9MNCgrC89gl7HiltixLjyt05sNUROwc1iXZbgg",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Fw: Test message",
+  "postDate": "1197461133",
+  "msgId": 1835,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ3NUZDRThELjkwMjA4MDVAbWVscm9jaC5zZT4=",
+    "inReplyToHeader": "PDQzMDgwMmVjMDcxMjEyMDEyOWkxYTM2YTM1N2hhMmQ3NWY1N2IxYTRmMGNAbWFpbC5nbWFpbC5jb20+",
+    "referencesHeader": "PDc5NTQ1MC40MzA2NS5xbUB3ZWI1MDYwMS5tYWlsLnJlMi55YWhvby5jb20+CSA8NDc1RTczQzIuMjA2MDUwNkBtZWxyb2NoLnNlPiA8NDMwODAyZWMwNzEyMTIwMTI5aTFhMzZhMzU3aGEyZDc1ZjU3YjFhNGYwY0BtYWlsLmdtYWlsLmNvbT4="
+  },
+  "prevInTopic": 1834,
+  "nextInTopic": 1838,
+  "prevInTime": 1834,
+  "nextInTime": 1836,
+  "topicId": 1811,
+  "numMessagesInTopic": 16,
+  "msgSnippet": "... But also with HTML, it appears, which is well known to mess up across mail readers. /BP",
+  "messageBody": "<div id=\"ygrps-yiv-2066735591\">On 2007-12-12 Moira O&#39;Brien wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; My email was written using ThothUni - which is supposed to be <br/>\n&gt; Unicode.......<br/>\n&gt; <br/>\n<br/>\n </span></blockquote>But also with HTML, it appears, which is well known<br/>\nto mess up across mail readers.<br/>\n<br/>\n/BP</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;bpj@...&gt;\r\nX-Sender: bpj@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 50152 invoked from network); 12 Dec 2007 12:05:36 -0000\r\nX-Received: from unknown (66.218.67.96)\n  by m55.grp.scd.yahoo.com with QMQP; 12 Dec 2007 12:05:36 -0000\r\nX-Received: from unknown (HELO mta1.glocalnet.net) (213.163.128.203)\n  by mta17.grp.scd.yahoo.com with SMTP; 12 Dec 2007 12:05:36 -0000\r\nX-Received: from [127.0.0.1] (84.217.231.66) by mta1.glocalnet.net (7.3.130) (authenticated as bpj@...)\n        id 4730FC86003FC1FC for Read_Alphabet@yahoogroups.com; Wed, 12 Dec 2007 13:05:35 +0100\r\nMessage-ID: &lt;475FCE8D.9020805@...&gt;\r\nDate: Wed, 12 Dec 2007 13:05:33 +0100\r\nOrganization: http://melroch.se\r\nUser-Agent: Thunderbird 2.0.0.9 (Windows/20071031)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nReferences: &lt;795450.43065.qm@...&gt;\t &lt;475E73C2.2060506@...&gt; &lt;430802ec0712120129i1a36a357ha2d75f57b1a4f0c@...&gt;\r\nIn-Reply-To: &lt;430802ec0712120129i1a36a357ha2d75f57b1a4f0c@...&gt;\r\nContent-Type: text/plain; charset=UTF-8; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\nX-Antivirus: avast! (VPS 071211-0, 2007-12-11), Outbound message\r\nX-Antivirus-Status: Clean\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Benct Philip Jonsson &lt;bpj@...&gt;\r\nSubject: Re: [Read_Alphabet] Fw: Test message\r\nX-Yahoo-Group-Post: member; u=149542193; y=Sej9XHhvszB0FjN-sGbKUmsQidg9cA4Y40lg_Tw0hTbE7g\r\nX-Yahoo-Profile: melroch\r\n\r\nOn 2007-12-12 Moira O&#39;Brien wrote:\n&gt; My email was written using ThothUni - which is supposed to be \n&gt; Unicode.......\n&gt; \n\nBut also with HTML, it appears, which is well known\nto mess up across mail readers.\n\n/BP\n\n"
+}

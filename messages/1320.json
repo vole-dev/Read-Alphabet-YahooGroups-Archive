@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "9WnRIa9tUiYmLKtAZB7IX6Chqp1GcgnrA4OtQt3H7mc1w70XLHFJl1Ot5_ccgLaJXQW4gpeSFXVVqkY4EcGpmRzc",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Lexical sets and QS letters",
+  "postDate": "1194221613",
+  "msgId": 1320,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMTA1MDAxMzMzLkdJMTMzMTdAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PGZna2dhcitndXRqQGVHcm91cHMuY29tPg==",
+    "referencesHeader": "PDIwMDcxMTAzMDIyNzQ4LkdLMjEzODlAbWVyY3VyeS5jY2lsLm9yZz4gPGZna2dhcitndXRqQGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 1319,
+  "nextInTopic": 1321,
+  "prevInTime": 1319,
+  "nextInTime": 1321,
+  "topicId": 1286,
+  "numMessagesInTopic": 73,
+  "msgSnippet": "... I realize that RP has NORTH = FORCE = THOUGHT = CURE, but I was not trying to show how RP works, but to map the QS letters to a (hypothetical) dialect that",
+  "messageBody": "<div id=\"ygrps-yiv-1102565048\">Anthony Grahn scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; - Received Pronunciation English pronounces &quot;north&quot; and &quot;awe&quot; the same<br/>\n&gt; thus &quot;north&quot; should be under the letter Awe #33 not #34<br/>\n&gt; - RP pronounces &quot;force&quot; as &quot;awe&quot; and thus &quot;force&quot; needs to be under<br/>\n&gt; the letter Awe #33 not #34<br/>\n<br/>\n </span></blockquote>I realize that RP has NORTH = FORCE = THOUGHT = CURE, but I was not trying<br/>\nto show how RP works, but to map the QS letters to a (hypothetical)<br/>\ndialect that makes the maximal number of distinctions that QS can<br/>\nrepresent.<br/>\n<br/>\n(The other RP merger is PALM = BATH = START.)<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; - RP pronounces &quot;cure&quot; and &quot;foot&quot; with the same vowel. So &quot;cure&quot; is<br/>\n&gt; #39 Foot+Roe in that accent.<br/>\n<br/>\n </span></blockquote>That&#39;s a very conservative, old-fashioned RP, probably closer to Read&#39;s<br/>\ntime than ours.  Current RP speakers merge CURE with FORCE and the<br/>\nothers, as shown above.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; - in RP, &quot;near&quot; and &quot;it&quot; use the same vowel thus &quot;near&quot; uses #26 It +<br/>\n&gt; Roe not #27<br/>\n<br/>\n </span></blockquote>Again, I wasn&#39;t doing RP; I was doing an abstraction.  Both RP and<br/>\nmost varieties of American changed historic /ir/ to /Ir/ (or /i@/<br/>\nin non-rhotic accents).  Read isn&#39;t very definite about this.<br/>\n<br/>\n-- <br/>\nJohn Cowan                              &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>&gt;<br/>\n            <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a><br/>\n                .e&#39;osai ko sarji la lojban.<br/>\n                Please support Lojban!          <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.lojban.org\">http://www.lojban.org</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 92150 invoked from network); 5 Nov 2007 00:13:34 -0000\r\nX-Received: from unknown (66.218.67.96)\n  by m53.grp.scd.yahoo.com with QMQP; 5 Nov 2007 00:13:34 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta17.grp.scd.yahoo.com with SMTP; 5 Nov 2007 00:13:34 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1Iopaw-0003KA-0C\n\tfor Read_Alphabet@yahoogroups.com; Sun, 04 Nov 2007 19:13:34 -0500\r\nDate: Sun, 4 Nov 2007 19:13:33 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20071105001333.GI13317@...&gt;\r\nReferences: &lt;20071103022748.GK21389@...&gt; &lt;fgkgar+gutj@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;fgkgar+gutj@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Lexical sets and QS letters\r\nX-Yahoo-Group-Post: member; u=212516; y=_MJa_-Zq0O0ojJ22AZ9BSgMLOEmga0-9vtFKqEAulmruV8y7Lw\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nAnthony Grahn scripsit:\n\n&gt; - Received Pronunciation English pronounces &quot;north&quot; and &quot;awe&quot; the same\n&gt; thus &quot;north&quot; should be under the letter Awe #33 not #34\n&gt; - RP pronounces &quot;force&quot; as &quot;awe&quot; and thus &quot;force&quot; needs to be under\n&gt; the letter Awe #33 not #34\n\nI realize that RP has NORTH = FORCE = THOUGHT = CURE, but I was not trying\nto show how RP works, but to map the QS letters to a (hypothetical)\ndialect that makes the maximal number of distinctions that QS can\nrepresent.\n\n(The other RP merger is PALM = BATH = START.)\n\n&gt; - RP pronounces &quot;cure&quot; and &quot;foot&quot; with the same vowel. So &quot;cure&quot; is\n&gt; #39 Foot+Roe in that accent.\n\nThat&#39;s a very conservative, old-fashioned RP, probably closer to Read&#39;s\ntime than ours.  Current RP speakers merge CURE with FORCE and the\nothers, as shown above.\n\n&gt; - in RP, &quot;near&quot; and &quot;it&quot; use the same vowel thus &quot;near&quot; uses #26 It +\n&gt; Roe not #27\n\nAgain, I wasn&#39;t doing RP; I was doing an abstraction.  Both RP and\nmost varieties of American changed historic /ir/ to /Ir/ (or /i@/\nin non-rhotic accents).  Read isn&#39;t very definite about this.\n\n-- \nJohn Cowan                              &lt;cowan@...&gt;\n            http://www.ccil.org/~cowan\n                .e&#39;osai ko sarji la lojban.\n                Please support Lojban!          http://www.lojban.org\n\n"
+}

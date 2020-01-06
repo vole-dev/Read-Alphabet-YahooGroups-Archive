@@ -1,0 +1,4324 @@
+{
+  "dirEntries": {
+    "AdaptIt Unicode Resources": {
+      "fileName": "AdaptIt Unicode Resources",
+      "description": "Starter Knowledge bases and sundry for AdaptIt Unicode",
+      "ownerName": "tim_rice09",
+      "pathURI": "/AdaptIt%20Unicode%20Resources/",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/AdaptIt+Unicode+Resources?token=exQ0vtqYoO3mKi1MW2N3I2GDS_eh1UdPlZEevoevIi7cigEgRGTMmj2oP4w-oaa-X4chmZX3Ojd3It0u4TZas0abllRnXhKn1PJxS-PgOJ-F07n0A1ZDZT5FcR10&type=download",
+      "userID": 274193773,
+      "createdTime": 1364096448,
+      "type": 1,
+      "size": 0,
+      "mimeType": "",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": [],
+      "dirEntries": {
+        "AdaptIt KB.txt": {
+          "fileName": "AdaptIt KB.txt",
+          "description": "Starter Knowledge Base used in Call of Cthulhu and others, no need to reinvent the wheel (completely).",
+          "ownerName": "tim_rice09",
+          "pathURI": "/AdaptIt%20Unicode%20Resources/AdaptIt%20KB.txt",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/AdaptIt+KB.txt?token=Lb6jS_Cb7FRpEPsgQ8RzWCf6nrP2u7ObSnbT1rCqb5Fh1bhathDYS_vSAOkc4NVC9zOB7jsOiLoJ9SMnN7Ftax8KN4r2F7Hvsj9egsSdT3nWjG79ZnLLMA4MZEC2wdBFpelFdEf4Ghw7cSZ3BQ&type=download",
+          "userID": 274193773,
+          "createdTime": 1364096529,
+          "type": 0,
+          "size": 1321868,
+          "mimeType": "text/plain",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "AdaptIt Unicode Resources"
+          ]
+        }
+      }
+    },
+    "Calligraphy": {
+      "fileName": "Calligraphy",
+      "description": "Using the Read Alphabet to do calligraphy",
+      "ownerName": "khoalb",
+      "pathURI": "/Calligraphy/",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Calligraphy?token=cVutjdCf3hkFY8s4O_Eg2oR9X9hlovTxK4D69sS0ZW9J2iSUEsx-QDZc-dMY0NqfwFhbBS01Ip7yOqw6KNErhuhLKMZe1_hx1xtJ&type=download",
+      "userID": 227325148,
+      "createdTime": 1118541896,
+      "type": 1,
+      "size": 0,
+      "mimeType": "",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": [],
+      "dirEntries": {
+        "hope-is-all-you-need.gif": {
+          "fileName": "hope-is-all-you-need.gif",
+          "description": "Hope is all you need",
+          "ownerName": "khoalb",
+          "pathURI": "/Calligraphy/hope-is-all-you-need.gif",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/hope-is-all-you-need.gif?token=pfV99hjiJ5aJcDnkRWMN9G_I1uqxzgqQGq7XyiIaUVPKHbt56veKYne_Ot78VIIQgkUo3GsDpKqMnolciY5rx88vkRhR-_IVCCfyT6XHqRKVtMEIfub8kGao5_2UKvWRUnru&type=download",
+          "userID": 227325148,
+          "createdTime": 1120242129,
+          "type": 0,
+          "size": 4701,
+          "mimeType": "image/gif",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Calligraphy"
+          ]
+        },
+        "people-doodle.gif": {
+          "fileName": "people-doodle.gif",
+          "description": "People Doodle",
+          "ownerName": "khoalb",
+          "pathURI": "/Calligraphy/people-doodle.gif",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/people-doodle.gif?token=FF4d27LDy0uKJbxoJcNt571LgBsaMsx4kr2-olsljx9p9L5Vc3wpvyELewjnmlhtbXV-BNYWuT6_Q0grYDJOfr-mQlGBdlmDjm9wErw_AygiPyFChhsv_LSZ3dQ&type=download",
+          "userID": 227325148,
+          "createdTime": 1120241958,
+          "type": 0,
+          "size": 4306,
+          "mimeType": "image/gif",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Calligraphy"
+          ]
+        },
+        "quickscript read.gif": {
+          "fileName": "quickscript read.gif",
+          "description": "Quickscript/Read",
+          "ownerName": "khoalb",
+          "pathURI": "/Calligraphy/quickscript%20read.gif",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/quickscript+read.gif?token=JEcLuFjSfEY0Y-g6HbwOaxt3YD2U4WIeqa9EUk78syNwP6m1zQVynEFGHzygqXP3i6amvQpEQrsjo02DJRfRJ1JFkE00Tk7mpkn9XBo5HwTY5DklS7kU_0lueheqWItUbw&type=download",
+          "userID": 227325148,
+          "createdTime": 1118542033,
+          "type": 0,
+          "size": 6768,
+          "mimeType": "image/gif",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Calligraphy"
+          ]
+        },
+        "the tear.gif": {
+          "fileName": "the tear.gif",
+          "description": "The Tear",
+          "ownerName": "khoalb",
+          "pathURI": "/Calligraphy/the%20tear.gif",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/the+tear.gif?token=n_tsuCnV_Cg9xFYcXPryI6I3mvI9HWyUrOF_5XPipdAMSrimgdYLJ530qdcvC5dgIvGokFXsd_0-_Xg-x1rMgfJelig0rD97JBvjrqmApVaDwF0ecLOaGlc&type=download",
+          "userID": 227325148,
+          "createdTime": 1118542049,
+          "type": 0,
+          "size": 1927,
+          "mimeType": "image/gif",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Calligraphy"
+          ]
+        }
+      }
+    },
+    "Clipboard": {
+      "fileName": "Clipboard",
+      "description": "Clipboard",
+      "ownerName": "",
+      "pathURI": "/Clipboard/",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Clipboard?token=kjSvWb0vYeLg5i3a0X0xSai9vnNvnqdy2I-OMJhAX3RZm0L5lHJLwXQ0Vmyxn_vXL82rbagLeuIlh3IZgfa-Z1OskvlQBtwcYA&type=download",
+      "userID": 1,
+      "createdTime": 1015723562,
+      "type": 1,
+      "size": 0,
+      "mimeType": "",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": [],
+      "dirEntries": {}
+    },
+    "Flashcards": {
+      "fileName": "Flashcards",
+      "description": "Pre-made cards you can use to study Quikscript",
+      "ownerName": "sgoldgaber",
+      "pathURI": "/Flashcards/",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Flashcards?token=xmuEInRPx-N1Hr68CxKz3WhsVhsEQgoK-pKrKYji_hpNIQMQhOfLMB0Jf8pI0BQMYlzo4WY_Xa6aXyXZsrzEDUFb74i6M6wGAUM&type=download",
+      "userID": 63011010,
+      "createdTime": 1223329916,
+      "type": 1,
+      "size": 0,
+      "mimeType": "",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": [],
+      "dirEntries": {
+        "alphabet.anki": {
+          "fileName": "alphabet.anki",
+          "description": "QS Junior alphabet (for the Anki flashcard program, using the Thoth font)",
+          "ownerName": "sgoldgaber",
+          "pathURI": "/Flashcards/alphabet.anki",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/alphabet.anki?token=VzHhfHyYFoxhQXql6_OHLwTeHiIRJgdAZ1GG4E-EKFwND_G9R3W-SxBbwEYLksmTtboTSaij14lVXmIBIy7dWVgXa3qOpSpywNOwjHvcdpkEgytx60Qi&type=download",
+          "userID": 63011010,
+          "createdTime": 1223330004,
+          "type": 0,
+          "size": 69632,
+          "mimeType": "application/octet-stream",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Flashcards"
+          ]
+        }
+      }
+    },
+    "Fonts": {
+      "fileName": "Fonts",
+      "description": "",
+      "ownerName": "",
+      "pathURI": "/Fonts/",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Fonts?token=H_MNBnsB4YbPSDX9ZIJXwi996hyz8woI_J62SvrGmUeL5VzkMYTT9zXOM3P9cCQ5hBl2D5FpWGrEv6Y-m8JsPLYIaJIn&type=download",
+      "userID": 39592035,
+      "createdTime": 975564025,
+      "type": 1,
+      "size": 0,
+      "mimeType": "",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": [],
+      "dirEntries": {
+        "ezqs.kmn": {
+          "fileName": "ezqs.kmn",
+          "description": "experimental keyboard overlay",
+          "ownerName": "pgabhart",
+          "pathURI": "/Fonts/ezqs.kmn",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/ezqs.kmn?token=V73T1qJF0qjX7PeRH1AU-7ypTFueo9F6i32U40uTiAhaRpUlocfp6hjYBIGvH94dMv8BCd9Sx9J3c9n99AEZw64WQZPeWltP1YrPPkA&type=download",
+          "userID": 3379436,
+          "createdTime": 1017438234,
+          "type": 0,
+          "size": 2154,
+          "mimeType": "text/plain",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Fonts"
+          ]
+        },
+        "ezqsoff.bmp": {
+          "fileName": "ezqsoff.bmp",
+          "description": "",
+          "ownerName": "pgabhart",
+          "pathURI": "/Fonts/ezqsoff.bmp",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/ezqsoff.bmp?token=_8KMXU01Cky0UmJXZpN-D9O6qe8rWvvHVxHS-oMs8tpf8gxj4AbZy6MBUrPjyll6DV1h7Os1HNj345xk7kaJR9FpQ7NYRD9S3wiU2pKsRr0&type=download",
+          "userID": 3379436,
+          "createdTime": 1017438305,
+          "type": 0,
+          "size": 702,
+          "mimeType": "image/x-MS-bmp",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Fonts"
+          ]
+        },
+        "ezqson.bmp": {
+          "fileName": "ezqson.bmp",
+          "description": "",
+          "ownerName": "pgabhart",
+          "pathURI": "/Fonts/ezqson.bmp",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/ezqson.bmp?token=Fc0Mxa8jnxxwzujyo7PFORMIajEWlyr7hykdmBBQuKOzS-NJjFTBd2ayFJ9_CjfY1dtFXpibi2g2rT_-RnWid-L13mhq82bFFfXY4GcRZQ&type=download",
+          "userID": 3379436,
+          "createdTime": 1017438341,
+          "type": 0,
+          "size": 702,
+          "mimeType": "image/x-MS-bmp",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Fonts"
+          ]
+        },
+        "Jeremy.suit": {
+          "fileName": "Jeremy.suit",
+          "description": "a &quot;printer&#39;s&quot; face for MAC - True type",
+          "ownerName": "mcbroom1946",
+          "pathURI": "/Fonts/Jeremy.suit",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Jeremy.suit?token=8y4VgG2orvIKvG7rNUw0ni5tXzXER6ut_FzfRxFoXfILdTaX2buAYJfksFRtsZxHVgIzUx34VeC9RRPrIM--N-JEaU2jiarW0YjZxhY6rOU&type=download",
+          "userID": 192085222,
+          "createdTime": 1102200425,
+          "type": 0,
+          "size": 0,
+          "mimeType": "application/octet-stream",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Fonts"
+          ]
+        },
+        "JEREMY__.TTF": {
+          "fileName": "JEREMY__.TTF",
+          "description": "a &quot;printer&#39;s&quot; face for PC - True Type",
+          "ownerName": "mcbroom1946",
+          "pathURI": "/Fonts/JEREMY__.TTF",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/JEREMY__.TTF?token=friUZCjgVQVL9v3CkiUyS2G2IRPjUtqavP131J8OeEBgIQPgpqLxZvFV61JC5ukxKQ95V821ucH6eyilSeoq9dGffBPFiFzHQTgTJU7v6Njr&type=download",
+          "userID": 192085222,
+          "createdTime": 1102200476,
+          "type": 0,
+          "size": 28360,
+          "mimeType": "application/octet-stream",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Fonts"
+          ]
+        },
+        "Jerome.ttf": {
+          "fileName": "Jerome.ttf",
+          "description": "revised Jerome font",
+          "ownerName": "frimmin",
+          "pathURI": "/Fonts/Jerome.ttf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Jerome.ttf?token=qCL3RZoyMgczK64N-dQUC3TZWI_My_kZYYQVL0hwVg7-0i3MfwxRybZqL80r-is7WNClXkGolbEF91iTEq0ABgLwqTDXjhHjkt8oe9lxWw&type=download",
+          "userID": 833140,
+          "createdTime": 976578368,
+          "type": 0,
+          "size": 80056,
+          "mimeType": "application/octet-stream",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Fonts"
+          ]
+        },
+        "Junior-keymappings.GIF": {
+          "fileName": "Junior-keymappings.GIF",
+          "description": "Keymapping for the Junior.ttf font",
+          "ownerName": "morrisb_uk",
+          "pathURI": "/Fonts/Junior-keymappings.GIF",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Junior-keymappings.GIF?token=4gBjDwkd-IonuNCVT4NUww7P3dDwAXRpib6v8dznAROa6hKhE7PC0J0duB6GoPL0BxIIzFg2DFWpnPfJYCRUZG9KzpyqYMIn606lkSV4Y38q74J_XnQS7HTbTg&type=download",
+          "userID": 210677922,
+          "createdTime": 1377678484,
+          "type": 0,
+          "size": 9238,
+          "mimeType": "image/gif",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Fonts"
+          ]
+        },
+        "Junior.TTF": {
+          "fileName": "Junior.TTF",
+          "description": "Junior Quickscript Font",
+          "ownerName": "geoflyfisher",
+          "pathURI": "/Fonts/Junior.TTF",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Junior.TTF?token=KPtrcWppAaCIoeicZY4sgGnjqHr_WyNqGb1zsY44JqvoLwVvcOAoowHEP2zJzZ6zEN7YtqqXZEgHwTY9E5F5sTlObmOnH__QqeNgePNRqQ&type=download",
+          "userID": 89046929,
+          "createdTime": 1014693272,
+          "type": 0,
+          "size": 79496,
+          "mimeType": "application/octet-stream",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Fonts"
+          ]
+        },
+        "JuniorQSSAMPA1.ttf": {
+          "fileName": "JuniorQSSAMPA1.ttf",
+          "description": "A Junior-derived font with the QS-SAMPA layout",
+          "ownerName": "tedf255",
+          "pathURI": "/Fonts/JuniorQSSAMPA1.ttf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/JuniorQSSAMPA1.ttf?token=6eNpMHfNfkcGVF23lBeN3PXyDG63p9b0lfZvtpBwaFjv24sof8bAHF9gtA5TpmOUuiiHCnAyGow2TBoR4hI3h6691fqz9xmNu9LsU-7wT02ec4vszHxB&type=download",
+          "userID": 134841503,
+          "createdTime": 1196925707,
+          "type": 0,
+          "size": 6088,
+          "mimeType": "application/octet-stream",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Fonts"
+          ]
+        },
+        "keybd_read.pdf": {
+          "fileName": "keybd_read.pdf",
+          "description": "Keyboard layout reminder for the Jerome font. (It does not help you with Keyman.) Please address any questions or problems with this PDF to rmgburke@yahoo.com. This is only a first attempt, so I&#39;ll fix any errors and make it look better. Enjoy.",
+          "ownerName": "rmgburke",
+          "pathURI": "/Fonts/keybd_read.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/keybd_read.pdf?token=Ywai9qcZCt3AJalskWWfPZGgLv3U0bMy-jO3FH6o7yAKqNdWPnh13FYQADyMpVMF6lcW0sSIhF9p06MIoeJygpFUECpyaz62pvvTEV-lh2-mXzk&type=download",
+          "userID": 120712731,
+          "createdTime": 1028931923,
+          "type": 0,
+          "size": 49684,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Fonts"
+          ]
+        },
+        "KingPlus.zip": {
+          "fileName": "KingPlus.zip",
+          "description": "King Plus Font",
+          "ownerName": "chuck091956",
+          "pathURI": "/Fonts/KingPlus.zip",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/KingPlus.zip?token=NgK_TUmdFGLCjlO8EDbpGzetJxgQnsZZFygbzKkZbgoQlpbZ4vYt1QUpC17Bsd20E0Gq9LXAiG5f12kyiFj1qBZT2xWaP3ELS17WXgewuT-5&type=download",
+          "userID": 92671976,
+          "createdTime": 1130073416,
+          "type": 0,
+          "size": 9362,
+          "mimeType": "application/x-zip-compressed",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Fonts"
+          ]
+        },
+        "Kingsley.ttf": {
+          "fileName": "Kingsley.ttf",
+          "description": "UNICODE version of Kingsley, with small changes: a work in progress",
+          "ownerName": "oliverlangan",
+          "pathURI": "/Fonts/Kingsley.ttf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Kingsley.ttf?token=a2JtMmH7igNb910q2J49kN91NxbMrraBv-mo0Hn-p8U8xSULyHvch9yHobiGUC2REfYpZGXRK_nt80vOHlaQOkikmw2NHT9TritpWX121uKv&type=download",
+          "userID": 9390441,
+          "createdTime": 1153551534,
+          "type": 0,
+          "size": 26396,
+          "mimeType": "application/octet-stream",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Fonts"
+          ]
+        },
+        "kingsley.zip": {
+          "fileName": "kingsley.zip",
+          "description": "A Junior Quickscript TrueType font.",
+          "ownerName": "steveb_667",
+          "pathURI": "/Fonts/kingsley.zip",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/kingsley.zip?token=L4bZLlRBmulzXayqZdmE5ggdf1wr5Qmyrh7Q0LFFhD4hAxKTff_FjInwB5q7nUXCWVZwx4GPXsTRfU2J00-6gZ1hqjRg7zQxsl4Eh19ae9De&type=download",
+          "userID": 111629109,
+          "createdTime": 1062559350,
+          "type": 0,
+          "size": 8562,
+          "mimeType": "application/x-zip-compressed",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Fonts"
+          ]
+        },
+        "kwikskript.zip": {
+          "fileName": "kwikskript.zip",
+          "description": "A Junior Quikscript font.",
+          "ownerName": "steveb_667",
+          "pathURI": "/Fonts/kwikskript.zip",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/kwikskript.zip?token=bshbkt79toUzkVW0zPH0tUCNuL0XwJNKR10BHQot7PwK_Es1AL2bGr4u_2WA1RQv8qh-G2MHKWN62eaSBxiy8yKcRvyHypEBjburD9XDpXBb6AI&type=download",
+          "userID": 111629109,
+          "createdTime": 1062337288,
+          "type": 0,
+          "size": 8566,
+          "mimeType": "application/x-zip-compressed",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Fonts"
+          ]
+        },
+        "qs_browser_test.html": {
+          "fileName": "qs_browser_test.html",
+          "description": "A browser compatibility test.",
+          "ownerName": "amd64_hacker",
+          "pathURI": "/Fonts/qs_browser_test.html",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/qs_browser_test.html?token=lu9XKtZp2s8KZdm7aNNhPuYfUBMBEmPtaDftFD9h0-Q1chYKALUJm104XL-o-DNV0uZ5xMjPvtAEwRzFu4VQI9YqnS2T31z62wcyQqUsPnYAfargvXxU2Vs&type=download",
+          "userID": 180175951,
+          "createdTime": 1177761024,
+          "type": 0,
+          "size": 1405,
+          "mimeType": "text/html",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Fonts"
+          ]
+        },
+        "QS_unicode_sample.txt": {
+          "fileName": "QS_unicode_sample.txt",
+          "description": "text file containing Unicode Quickscript, for testing",
+          "ownerName": "oliverlangan",
+          "pathURI": "/Fonts/QS_unicode_sample.txt",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/QS_unicode_sample.txt?token=_SUccopOn1G6kaTceDghOIf22qipEFOTT-G99-Ad9TN1njvu5fzmA7Rzv8IpVHhxV2jGeI7kVUdN7OfCmnzFXyeDOsWC3Ds9UttH1Rd7x5TfCAbhP84kAeHx&type=download",
+          "userID": 9390441,
+          "createdTime": 1153552604,
+          "type": 0,
+          "size": 862,
+          "mimeType": "text/plain",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Fonts"
+          ]
+        },
+        "QSJ Block.ttf": {
+          "fileName": "QSJ Block.ttf",
+          "description": "QuickScript Junior Font (Beta), new upload.",
+          "ownerName": "tinyallen",
+          "pathURI": "/Fonts/QSJ%20Block.ttf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/QSJ+Block.ttf?token=u1KHn1c9Bktw-am5gUTSJU57shG3ng5PGQlARBmu8oM8FFf6cxsuf5hRXlYvUivbH7YN3mjwZprNebgnf5Q9EeQRta4NNi60eYBimWoJe3Z-1hRV&type=download",
+          "userID": 71466833,
+          "createdTime": 1067430295,
+          "type": 0,
+          "size": 80132,
+          "mimeType": "application/octet-stream",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Fonts"
+          ]
+        },
+        "qsjunior.kmn": {
+          "fileName": "qsjunior.kmn",
+          "description": "experimental keyboard mapping",
+          "ownerName": "geoflyfisher",
+          "pathURI": "/Fonts/qsjunior.kmn",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/qsjunior.kmn?token=zdk_7bDkvwXOnHbwbldLz68V9u99u3xLXP56LIeo4xWg7RNq6U_31Q5USVsuG1QyCMzXYp5EcFW4FGP05B8Mn9PZi3kgcyV07yP3BTOxGoA5&type=download",
+          "userID": 89046929,
+          "createdTime": 1015421718,
+          "type": 0,
+          "size": 1050,
+          "mimeType": "text/plain",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Fonts"
+          ]
+        },
+        "Suave Expl-Quikscript as I Use It-Scott Ellsworth 2014-05.pdf": {
+          "fileName": "Suave Expl-Quikscript as I Use It-Scott Ellsworth 2014-05.pdf",
+          "description": "updated today",
+          "ownerName": "guanolto",
+          "pathURI": "/Fonts/Suave%20Expl-Quikscript%20as%20I%20Use%20It-Scott%20Ellsworth%202014-05.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Suave+Expl-Quikscript+as+I+Use+It-Scott+Ellsworth+2014-05.pdf?token=J9S7lwP7BQAQylXfblpfutcoMESJikZzMtXy0FUhQu1YAOHIDJeYMGtKIKDeJ6XUgC_LvLUMma7TJXPynR5j0CPfqENMjX2P2ZNoa08GxLqPTmpOqapxN9HeeDV6z6OO1yzD3AiUo2aWco-FYOmUtjcbZDJhZdD7alaed8hpMMXRgjVGzEIWYehT_fb_SYmg&type=download",
+          "userID": 542880843,
+          "createdTime": 1399733732,
+          "type": 0,
+          "size": 154994,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Fonts"
+          ]
+        },
+        "Suave.otf": {
+          "fileName": "Suave.otf",
+          "description": "latest version 3.3, with letter &quot;awe&quot; added to the keyboard",
+          "ownerName": "guanolto",
+          "pathURI": "/Fonts/Suave.otf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Suave.otf?token=Xe9k4LWniCmYBlvfCd8wjffPpmeK0h-n_N09wdvWe3RcarWLTuq0xHKlgWR-qCXO2J0i2XoFbKm8yW9HZv7Adiy-L8UCClnFJfU5n-tv&type=download",
+          "userID": 542880843,
+          "createdTime": 1399732735,
+          "type": 0,
+          "size": 69816,
+          "mimeType": "application/x-font-otf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Fonts"
+          ]
+        },
+        "Suave.sfd": {
+          "fileName": "Suave.sfd",
+          "description": "v3.3",
+          "ownerName": "guanolto",
+          "pathURI": "/Fonts/Suave.sfd",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Suave.sfd?token=gXU8_rYua_sd-8HEgm-0kXYhSCd0q8kb26HS4BcqKhFKbSLbfFmDC1RVdYdqhYX-uw8GTB3pm34F2HjJA4nt48RTnKXQmFPm-qDCHy8Q&type=download",
+          "userID": 542880843,
+          "createdTime": 1399732762,
+          "type": 0,
+          "size": 194355,
+          "mimeType": "text/plain",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Fonts"
+          ]
+        },
+        "Thoth_font_location_corrected.html": {
+          "fileName": "Thoth_font_location_corrected.html",
+          "description": "Live link to the Thoth font package by Paul Tremblay",
+          "ownerName": "melroch",
+          "pathURI": "/Fonts/Thoth_font_location_corrected.html",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Thoth_font_location_corrected.html?token=tZzwGb2Z8Hk-1wyE_VbBujyrnZbrIZ3LWB3aIH5ZUi2NAEJhdUYLeo_Fq2r4Tm-_fj7Uw6RLM1ysRUUtZmAoLOyBpoQIHLiE-C7-31P0_xasEF3HvTc9d0UXA-7J4TIkizzVn_RgfQ&type=download",
+          "userID": 149542193,
+          "createdTime": 1224762742,
+          "type": 0,
+          "size": 321,
+          "mimeType": "text/html",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Fonts"
+          ]
+        },
+        "Thoth_Int.ttf": {
+          "fileName": "Thoth_Int.ttf",
+          "description": "Thoth based font designed for use with Malt&#39;s international QS spreadsheets. Uses Malt&#39;s keyboard layout and includes extra letters.",
+          "ownerName": "peter_r_guinness",
+          "pathURI": "/Fonts/Thoth_Int.ttf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Thoth_Int.ttf?token=v4VLZWj8_Pya-udLoJpvXSmo8t6--uV8wQMU6VxxkkZY9oAxW0kdDPQyIMYzuL1XcY3GdGU66oCDQfuKwrt_3j5Qyf3NRh0Y5AGeQ8bexgakMg&type=download",
+          "userID": 384995112,
+          "createdTime": 1234830295,
+          "type": 0,
+          "size": 33116,
+          "mimeType": "application/octet-stream",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Fonts"
+          ]
+        },
+        "ThothFonts.tar.gz": {
+          "fileName": "ThothFonts.tar.gz",
+          "description": "Three Thoth variants: Thoth, ThothSampa and ThothUni",
+          "ownerName": "myzomela63",
+          "pathURI": "/Fonts/ThothFonts.tar.gz",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/ThothFonts.tar.gz?token=opmOCNGcYbPgdE5zPv1WA7SiZM-F4bThhXIY_rJU2aQrvF7VriWu4JCaSfLrglD8K-TtHeqY9ZWbZzITXlL3skvBnXZ3NpfdTEjJ2Q2i1iY7xSp0krE&type=download",
+          "userID": 327488507,
+          "createdTime": 1308660362,
+          "type": 0,
+          "size": 164045,
+          "mimeType": "application/x-gzip",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Fonts"
+          ]
+        }
+      }
+    },
+    "gp": {
+      "fileName": "gp",
+      "description": "grapheme-phoneme correspondence tables",
+      "ownerName": "stbett",
+      "pathURI": "/gp/",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/gp?token=wkhMcTXq2xvKtnIT75rO8CQQL9Xpk5fZmvOGiUzSlgr9IWKhOnbZpqrvvBGwv_sEvPDeb6UWa9VOkgR89JpO2ylR&type=download",
+      "userID": 59584518,
+      "createdTime": 1052937493,
+      "type": 1,
+      "size": 0,
+      "mimeType": "",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": [],
+      "dirEntries": {
+        "21v-22c-ipa-chart.gif": {
+          "fileName": "21v-22c-ipa-chart.gif",
+          "description": "14 vowels - 22 consonants in IPA and SAMPA",
+          "ownerName": "stbett",
+          "pathURI": "/gp/21v-22c-ipa-chart.gif",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/21v-22c-ipa-chart.gif?token=nW2ZnLYbxSqb7bvN8eLPQC2d4y9bqJHX3rBCjxmasZelpd3wJQ1wV6bjWiRybPa9DD8zXF4VgCpGBeNvP20f4iVeECNUTZFNFPQOtEdB8nrW5Z-JXoYm&type=download",
+          "userID": 59584518,
+          "createdTime": 1053044188,
+          "type": 0,
+          "size": 11367,
+          "mimeType": "image/gif",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "gp"
+          ]
+        },
+        "readscripts.gif": {
+          "fileName": "readscripts.gif",
+          "description": "Three Read Scripts",
+          "ownerName": "stbett",
+          "pathURI": "/gp/readscripts.gif",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/readscripts.gif?token=5gRPbm9XqoyMWjB0v2uRs6aa3moMJcpqJqa-x5DyqqdzKliqdiL5r6e5MYDiqB80UzeM0UYIv8dibqLjhiuLud5Jc_0BGbXSIJypTuLkLNf0&type=download",
+          "userID": 59584518,
+          "createdTime": 1040265106,
+          "type": 0,
+          "size": 8433,
+          "mimeType": "image/gif",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "gp"
+          ]
+        },
+        "shavian-sample-keyc.gif": {
+          "fileName": "shavian-sample-keyc.gif",
+          "description": "shavian key with captions",
+          "ownerName": "stbett",
+          "pathURI": "/gp/shavian-sample-keyc.gif",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/shavian-sample-keyc.gif?token=lICxRduil02c4acDG4KTsKYk3sR1YqCiOcse93K9LpLgvC4Dk2Go_PrqGwzzGXqHN0VtIuIF-A8U5qeKNsU4LHqglVE9-PNrjZJh_TCEighm4En3eJlTpro&type=download",
+          "userID": 59584518,
+          "createdTime": 1052948533,
+          "type": 0,
+          "size": 8418,
+          "mimeType": "image/gif",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "gp"
+          ]
+        }
+      }
+    },
+    "Hand Written Text": {
+      "fileName": "Hand Written Text",
+      "description": "Examples of hand written QS",
+      "ownerName": "chuck091956",
+      "pathURI": "/Hand%20Written%20Text/",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Hand+Written+Text?token=L11gUHP6LNAEAFYOE4O4bYQb4Dbi9z__asAjkmwztijTg2GLZUhleiaC6r44Jm1AIAZYHIvWZRjUIHv7sjB5YeWEHyFS3DNRGEsILBb54QXcZdo-1A&type=download",
+      "userID": 92671976,
+      "createdTime": 1085490576,
+      "type": 1,
+      "size": 0,
+      "mimeType": "",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": [],
+      "dirEntries": {
+        "KR 18121969.pdf": {
+          "fileName": "KR 18121969.pdf",
+          "description": "Kingsley Read letter Dec 1969 to letter writing group",
+          "ownerName": "moira_ob",
+          "pathURI": "/Hand%20Written%20Text/KR%2018121969.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/KR+18121969.pdf?token=utL-fy2HkLlucAk8-8Ms_IzrPN2A0Miik4NQHs4qG2glNldRiqh2QIUldRkKn9v1D0mfWnDf8YwZ6b5W-51q3XJPG4QQ2tN0AkPIuqnFu4jT5VmypGyh0vSjxnPYpRm1Z2eljKQp&type=download",
+          "userID": 163508747,
+          "createdTime": 1197288718,
+          "type": 0,
+          "size": 2905976,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Hand Written Text"
+          ]
+        },
+        "KR_18121969_b-w.pdf": {
+          "fileName": "KR_18121969_b-w.pdf",
+          "description": "Kingsley Read letter Dec 1969 to letter writing group in black-and-white. Hopefully more readable!",
+          "ownerName": "melroch",
+          "pathURI": "/Hand%20Written%20Text/KR_18121969_b-w.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/KR_18121969_b-w.pdf?token=qb1exvY5DDqKTm42p6Cb4BI97e8jvprE2egA5fgMPp7CTCYYBDBKyoxoPM3plRUjwiD_SpLGTxGobHTRzg6S8bEHt9O_yifPS_I2AM0Vxe19UBdp48p3-Z3zD2_qz3sZx3n30zDI1wQ&type=download",
+          "userID": 149542193,
+          "createdTime": 1197296030,
+          "type": 0,
+          "size": 1089236,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Hand Written Text"
+          ]
+        },
+        "thelionsskin.jpg": {
+          "fileName": "thelionsskin.jpg",
+          "description": "Part 1, The Lion&#39;s Skin",
+          "ownerName": "chuck091956",
+          "pathURI": "/Hand%20Written%20Text/thelionsskin.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/thelionsskin.jpg?token=S7KD3lPyAw1c9a9z6wsGPcVR1Vf9TFBC7eryJ_0FglFdIbPXG9SqfvnFfjJYtfjkb8VfNRhtrpyUf4mX_2A7ILYA-fA03oP96Yj8_15rQP4kWXQB5aWCvS1snKVkjktCMkNTgSM&type=download",
+          "userID": 92671976,
+          "createdTime": 1085490640,
+          "type": 0,
+          "size": 198764,
+          "mimeType": "image/pjpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Hand Written Text"
+          ]
+        },
+        "thelionsskin3.jpg": {
+          "fileName": "thelionsskin3.jpg",
+          "description": "Part 3, The Lion&#39;s Skin",
+          "ownerName": "chuck091956",
+          "pathURI": "/Hand%20Written%20Text/thelionsskin3.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/thelionsskin3.jpg?token=eFlIlrnlDbSbejVtD-jtcu5pJ9GeNkIS9Wc2ifu08xZc59Cf4SJ6KcQsd2aQDiJxjut1yBUtaA-C5oU5b-NquyjwWbOk313v_-7ZT8OYlyYnX1-eQm62o1xCiIxzhC4lQGuwqW7Z&type=download",
+          "userID": 92671976,
+          "createdTime": 1085490726,
+          "type": 0,
+          "size": 143301,
+          "mimeType": "image/pjpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Hand Written Text"
+          ]
+        },
+        "thelionsskin_2.jpg": {
+          "fileName": "thelionsskin_2.jpg",
+          "description": "Part 2, The Lion&#39;s Skin",
+          "ownerName": "chuck091956",
+          "pathURI": "/Hand%20Written%20Text/thelionsskin_2.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/thelionsskin_2.jpg?token=3-hI1TfQDr0DNq41_wnysPjbyq2ncMDF5PHUEeB5YAVhdydQmmg4tIu6-f3BPOVvRyJQU1JYdbk4vxiob3C8G2V5FeXQPXo1Iu7fNbpQKikvquP0JwhRHCx50RtgMdk3XZwFqVtraQ&type=download",
+          "userID": 92671976,
+          "createdTime": 1085490674,
+          "type": 0,
+          "size": 96001,
+          "mimeType": "image/pjpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Hand Written Text"
+          ]
+        }
+      }
+    },
+    "International Quikscript": {
+      "fileName": "International Quikscript",
+      "description": "Folder for International Quikscript proposals and projects",
+      "ownerName": "peter_r_guinness",
+      "pathURI": "/International%20Quikscript/",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/International+Quikscript?token=KWZzAUUDu3ocGYEGdVLb5NCnA_LzuouC0Wh32_sbrBWZPyDWXtoT0uhoxMh03I6uKWONn9JEMVu3f9v6zbHSn2lnzfGBan6PL1AC0J7qiKROZyeFORngqEjr&type=download",
+      "userID": 365211315,
+      "createdTime": 1228943918,
+      "type": 1,
+      "size": 0,
+      "mimeType": "",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": [],
+      "dirEntries": {
+        "Malt&#39;s International Quikscript Project": {
+          "fileName": "Malt&#39;s International Quikscript Project",
+          "description": "",
+          "ownerName": "peter_r_guinness",
+          "pathURI": "/International%20Quikscript/Malt%27s%20International%20Quikscript%20Project/",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Malt%27s+International+Quikscript+Project?token=BevBlS0Wbse2z5-zcFsD8YUOd2mGojoPvAyrylLQzzO1DS1J-hQqj4uhCl_YINtOVKaVY2IwBrEPJ43Sy1tBSiUWf7NTojqKZb_ACVubDtnJusDKEvZM3Lh0bpzDkOzI4Vh8r4FfZ2qGYHxKJKatSSgaqbBgvw8hGZN1QCJjfstfW1JyGZVmobAL&type=download",
+          "userID": 365211315,
+          "createdTime": 1228943960,
+          "type": 1,
+          "size": 0,
+          "mimeType": "",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "International Quikscript"
+          ],
+          "dirEntries": {
+            "AAA-Intro and Notes.pdf": {
+              "fileName": "AAA-Intro and Notes.pdf",
+              "description": "AAA-Intro and Notes- Introduction, purpose, details and notes about the project",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/International%20Quikscript/Malt%27s%20International%20Quikscript%20Project/AAA-Intro%20and%20Notes.pdf",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/AAA-Intro+and+Notes.pdf?token=hnSMkwoBNNzV9jl5o6cSDr2fQe7qa4_JlWbfpBTqDBSHk-NrJqLYpSFM6jUduLPmtZQJREm8uCsKvhtLvTcUvm9wtIbaV8NN856W4emx6baHxJrTb5N4M9Fcq5Hux42Vj4DYxNE_VNeauiU4FtkvxH39u5SNJJnEnWvYDG34zO1bo162CKckk1uI06D3GS0PTrv6EBuQhA_jvq1TnDZ_2cY0JlWy&type=download",
+              "userID": 384995112,
+              "createdTime": 1248620731,
+              "type": 0,
+              "size": 279118,
+              "mimeType": "application/pdf",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "International Quikscript",
+                "Malt&#39;s International Quikscript Project"
+              ]
+            },
+            "adjectives__irregular_comparative_derived.ods": {
+              "fileName": "adjectives__irregular_comparative_derived.ods",
+              "description": "Saved in ODF file format- use OpenOffice to view.",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/International%20Quikscript/Malt%27s%20International%20Quikscript%20Project/adjectives__irregular_comparative_derived.ods",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/adjectives__irregular_comparative_derived.ods?token=4X28V_5q2mWjRTNzDdbXGiPhhD_AI8tWGluIdm92YVD6wCZLPzp3RSwUt5IKNlPeN801YD8rcJHSA4QILql81Fl-glGsDEq0cwj6cnhoqAQIUgm1IDYx8henfMCYTsztfEPK331h4qlP4rWn0Z5N9fpBUnkTHF0EhXCqBLBeMkakj4WfA5TDxSuDm2c03q1ghfAFGvKhSwGyT6LmSsgHWZ6seybaaod-C6NRp1Vno5vd30a8YvxB&type=download",
+              "userID": 384995112,
+              "createdTime": 1239323275,
+              "type": 0,
+              "size": 13863,
+              "mimeType": "application/octet-stream",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "International Quikscript",
+                "Malt&#39;s International Quikscript Project"
+              ]
+            },
+            "adjectives__irregular_superlative_derived.ods": {
+              "fileName": "adjectives__irregular_superlative_derived.ods",
+              "description": "Saved in ODF file format- use OpenOffice to view.",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/International%20Quikscript/Malt%27s%20International%20Quikscript%20Project/adjectives__irregular_superlative_derived.ods",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/adjectives__irregular_superlative_derived.ods?token=dEj0fFaFnjGLU4TbUz_M7DXMux9QesHLC4BopkOEbpORgit5CMMM2h3vx3THRQUWLCn40fbVSaIGxuBCKliW1xap8j1FI--mQXEy2igN0OypO-dAIGvo7nLGGaPAvas8MRGeaxqwQtgaLr20UQCS2Dy7E0kQpvHpFALE_SnGftd0oUg4PP_2pgjZYhbet4en8y_b7CzfvS7ZmYwRfQrgIyIoEDqfSPVMiTuoR-LFr9f_r8rDquEq&type=download",
+              "userID": 384995112,
+              "createdTime": 1239323502,
+              "type": 0,
+              "size": 13698,
+              "mimeType": "application/octet-stream",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "International Quikscript",
+                "Malt&#39;s International Quikscript Project"
+              ]
+            },
+            "adjectives__top500_detailed.ods": {
+              "fileName": "adjectives__top500_detailed.ods",
+              "description": "Saved in ODF file format- use OpenOffice to view.",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/International%20Quikscript/Malt%27s%20International%20Quikscript%20Project/adjectives__top500_detailed.ods",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/adjectives__top500_detailed.ods?token=CPJgxdWjVvkIrT3P7JJFvsROnkke920ePjpk3PE9sEyi8AeS_UjVU_jlQF2K7y3xe48qqvFRPh5fo8CWNd6hbDTZWiyIK40PeS_LepuNU_SDgtLa4idzyiO_lEocGdDE678iz61aGCDZ81JXvs9MSplZXUMHxn2I-kJpV3kZpT_egv3KfdirdmH85IdKwPPPhKQx3qXk-kRq7N_qXm7L3DHwMi31nr-fnQ&type=download",
+              "userID": 384995112,
+              "createdTime": 1239323833,
+              "type": 0,
+              "size": 44468,
+              "mimeType": "application/octet-stream",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "International Quikscript",
+                "Malt&#39;s International Quikscript Project"
+              ]
+            },
+            "adverbs__detailed.ods": {
+              "fileName": "adverbs__detailed.ods",
+              "description": "Saved in ODF file format- use OpenOffice to view.",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/International%20Quikscript/Malt%27s%20International%20Quikscript%20Project/adverbs__detailed.ods",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/adverbs__detailed.ods?token=gwfZ0LOI8wbnqovKo7WihVNFg5816n7iroyGg99NFe-8E41669j8iovjmHZE-T6BmVh6-uaMQHKdj_GIbxGj7WCIigjVrmXfKC1eWKrEnnFO-0x4tplWAtM_s6OgFc0x1vNqVhhqK7NbjpFIvb7btsTeEK3aKmXZW8rqNbJaOk6hpV4LMZbANdpfB4e46e1d2fSXOjovwgUjlIKN4i2U&type=download",
+              "userID": 384995112,
+              "createdTime": 1239323866,
+              "type": 0,
+              "size": 26679,
+              "mimeType": "application/octet-stream",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "International Quikscript",
+                "Malt&#39;s International Quikscript Project"
+              ]
+            },
+            "adverbs__ly_derived.ods": {
+              "fileName": "adverbs__ly_derived.ods",
+              "description": "Saved in ODF file format- use OpenOffice to view.",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/International%20Quikscript/Malt%27s%20International%20Quikscript%20Project/adverbs__ly_derived.ods",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/adverbs__ly_derived.ods?token=zgqS9lJ0n32lZbyJBNlr9He4OPbwVBTIp6wJc_THFC8wCIBXVrka-MS_7BrgBGYnnaO0dB-LW28y53JGKzRPV7pPhSRq_haz69G-p9tc3imwCQrxNqlc7vTTZ4XNlOiCa0HuBVQ8eOJwjSFme0jGuQC7buOZAKYzPvWUCDq5FTX6E8KWIYibkAiDCKgs3LNlMImZJ2HtMvRBkciaoTJjVzA&type=download",
+              "userID": 384995112,
+              "createdTime": 1239323895,
+              "type": 0,
+              "size": 22261,
+              "mimeType": "application/octet-stream",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "International Quikscript",
+                "Malt&#39;s International Quikscript Project"
+              ]
+            },
+            "conjunctions__detailed.ods": {
+              "fileName": "conjunctions__detailed.ods",
+              "description": "Saved in ODF file format- use OpenOffice to view.",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/International%20Quikscript/Malt%27s%20International%20Quikscript%20Project/conjunctions__detailed.ods",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/conjunctions__detailed.ods?token=1YCNQc_XoTBOK-NboklXOcYqRxqdDayP4DWvAXkP7yK2FJ82j3IBVtHJFnTFKLzO-hux3KcX1fB5VmYcZctgraqTuRv4kxDZo6s-fCqQW905YGc26Un6Yk71xSSBR1wSOlQVIDKYDc0y3KiNIaIbwEv2GPyoWOvkin98e0m9InmWN-8p2aF_RBAYIq5Z8S0CM3lTgqm02p5p8YrU7joX9TelLLg&type=download",
+              "userID": 384995112,
+              "createdTime": 1239323935,
+              "type": 0,
+              "size": 27126,
+              "mimeType": "application/octet-stream",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "International Quikscript",
+                "Malt&#39;s International Quikscript Project"
+              ]
+            },
+            "determiner_pronouns__detailed.ods": {
+              "fileName": "determiner_pronouns__detailed.ods",
+              "description": "Saved in ODF file format- use OpenOffice to view.",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/International%20Quikscript/Malt%27s%20International%20Quikscript%20Project/determiner_pronouns__detailed.ods",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/determiner_pronouns__detailed.ods?token=etrrYwbu9ZhlvmzyDhg6tqq7cQCBPoT-o8DBwRAyWLKSH3TO7SNknCznWJRyOoIBA_-hsaPVNpjtoJQhDp9QHFr9fQGzO9alffnzL9n77j-dIEEznebYZ9MJqgOlYyTpn-OY5eA7znB1-FblWP4wWjJFcBmhjEZVIE6SPBhmPJejmpad9oIBODAA0UaYAFq8Eo8tnAEcd7qcpkGVMrL79irpdb_ZNyQjp2nY&type=download",
+              "userID": 384995112,
+              "createdTime": 1239323963,
+              "type": 0,
+              "size": 24158,
+              "mimeType": "application/octet-stream",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "International Quikscript",
+                "Malt&#39;s International Quikscript Project"
+              ]
+            },
+            "determiners__detailed.ods": {
+              "fileName": "determiners__detailed.ods",
+              "description": "Saved in ODF file format- use OpenOffice to view.",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/International%20Quikscript/Malt%27s%20International%20Quikscript%20Project/determiners__detailed.ods",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/determiners__detailed.ods?token=u2rzpSQ3N5dewTST4m10OXIdud02HgOvfRGLidRd6LPRbyWOGpVNeG6mbXSes26a4m52YQyr6qkGyO_SpvEv7h0ZGfC_T9VtiqemFcbARrm8aAtjuNhCjVECT7w-46IiwJpJ1iPOmGsSqUahjKhkJEngd80r42dvUr-ABn23bPmv9lCYFqhKSzb4q9jFiTruHg79A_NImrvvAjrWx80lZYDtOA&type=download",
+              "userID": 384995112,
+              "createdTime": 1239323996,
+              "type": 0,
+              "size": 16776,
+              "mimeType": "application/octet-stream",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "International Quikscript",
+                "Malt&#39;s International Quikscript Project"
+              ]
+            },
+            "exceptions.ods": {
+              "fileName": "exceptions.ods",
+              "description": "Saved in ODF file format- use OpenOffice to view.",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/International%20Quikscript/Malt%27s%20International%20Quikscript%20Project/exceptions.ods",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/exceptions.ods?token=ltlUUip-oBZ8zz3JldhcXqSZjxHMv8wg_1lWIAdYe0vpWnGO1Ki0wiczEBdKqVpGLlAmRBkY5_j05XLkPOpzyRettpJx_5EGyzEjbM4D2pZhCya1-ZudAoYhg5rykjvH5Y_DDSaZj5ywL7PmVvBz0_2tjWb237yY00lE2hIsIFw4unzTsKqEJXI8EPrDKy-E_QLj6_B9hGA&type=download",
+              "userID": 384995112,
+              "createdTime": 1290151067,
+              "type": 0,
+              "size": 23396,
+              "mimeType": "application/octet-stream",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "International Quikscript",
+                "Malt&#39;s International Quikscript Project"
+              ]
+            },
+            "hardbasket.ods": {
+              "fileName": "hardbasket.ods",
+              "description": "Contains problem words which conflict with rules of the proposal. Saved in ODF file format- use OpenOffice to view.",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/International%20Quikscript/Malt%27s%20International%20Quikscript%20Project/hardbasket.ods",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/hardbasket.ods?token=biJnkiqp84xOODzb7NpRGCPz20_xtzELxjgJ6748pHPtJpYLbgrbhj4qGQMk4xb8R5VBMfPSSV08pX-BmvwPLCBXeCx03DG7m6ZBLv86zfA-aiPUUgBrRaZTj8dki33kKrDzyHML4MQ3q_ACojfUm1pzJUdZRC1yXLjGu3Ho5ePJy4kkQwSsugzpKwuVviaKasKqlKVEAcc&type=download",
+              "userID": 384995112,
+              "createdTime": 1290151145,
+              "type": 0,
+              "size": 38443,
+              "mimeType": "application/octet-stream",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "International Quikscript",
+                "Malt&#39;s International Quikscript Project"
+              ]
+            },
+            "interjections__detailed.ods": {
+              "fileName": "interjections__detailed.ods",
+              "description": "Saved in ODF file format- use OpenOffice to view.",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/International%20Quikscript/Malt%27s%20International%20Quikscript%20Project/interjections__detailed.ods",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/interjections__detailed.ods?token=Bv4-uIivskpG5I0rzSbyBnH_66fzmrDTGHGSlWJCosxrh7yVTiwgXqkDCzT12FJqR-qHqE21mqcGs75-j7OFKtwQF4DfxUQvFqGc3loSDiMcnj6DKL3fqYQuzxbnXMn40Ke1gcC6NjrDZ0685fDCMbpx-DQxfKnz3CJiIu2ATpQMtaj5YCMjfaxuNB1sn2oDsINtueAAdX8Nfdq-93mjhqIgP6Ew&type=download",
+              "userID": 384995112,
+              "createdTime": 1239324049,
+              "type": 0,
+              "size": 17448,
+              "mimeType": "application/octet-stream",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "International Quikscript",
+                "Malt&#39;s International Quikscript Project"
+              ]
+            },
+            "nouns_pural_top1000__derived.ods": {
+              "fileName": "nouns_pural_top1000__derived.ods",
+              "description": "Saved in ODF file format- use OpenOffice to view.",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/International%20Quikscript/Malt%27s%20International%20Quikscript%20Project/nouns_pural_top1000__derived.ods",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/nouns_pural_top1000__derived.ods?token=Q-vYokB1pZScsRO5Ry1aQb_ytjbEZjTkDRI3guX_ZK6NESuQWaDFcBpWtzOYfi7jW4S4djOSggiCjAv6ApZ_baOCjtDGiW1sM3UK_aPRNW-nzGv93iQAG0LcImCOti4y79xS6Lb729CHvmVIqzeaAkSAFAWr5PiLQ77pHXS0KP_vNzARspNvf5NwVzo1K0RsaFp7tO4foiHR2vQb-kpaiBOXDbu3AD7HR18&type=download",
+              "userID": 384995112,
+              "createdTime": 1290150905,
+              "type": 0,
+              "size": 39391,
+              "mimeType": "application/octet-stream",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "International Quikscript",
+                "Malt&#39;s International Quikscript Project"
+              ]
+            },
+            "nouns_singular_top1000__detailed.ods": {
+              "fileName": "nouns_singular_top1000__detailed.ods",
+              "description": "Saved in ODF file format- use OpenOffice to view.",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/International%20Quikscript/Malt%27s%20International%20Quikscript%20Project/nouns_singular_top1000__detailed.ods",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/nouns_singular_top1000__detailed.ods?token=W6_64VUzjV7arCJg9EP_z4IfsWmzsC03eCqv8XJJT6NLUJL4SXY-vrFr2bpH_0F16ZZMYH_Qo3JNHjyiYjTda7X5nSuoguC0_c5wHyI1ehQFai_QcPKO6zUxv-Uk8IrLcYWFjwRxChtrgwM-0dU4qEnf8shbrhPq7Oog9r2NnIO2xjOzjRMSmjF00Jq-KMTWVSQ2aLo-gfDft3XLud-7shSBx-cZXrhiB3e4dj6w&type=download",
+              "userID": 384995112,
+              "createdTime": 1290150962,
+              "type": 0,
+              "size": 68100,
+              "mimeType": "application/octet-stream",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "International Quikscript",
+                "Malt&#39;s International Quikscript Project"
+              ]
+            },
+            "numbers_cardinal_and_ordinal_detailed.ods": {
+              "fileName": "numbers_cardinal_and_ordinal_detailed.ods",
+              "description": "Work in progress- more work to do on this file.Saved in ODF file format- use OpenOffice to view.",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/International%20Quikscript/Malt%27s%20International%20Quikscript%20Project/numbers_cardinal_and_ordinal_detailed.ods",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/numbers_cardinal_and_ordinal_detailed.ods?token=HG3ezUoJN_Mb5QnSfii2GfNcmAuqDNCfa_0oGSokCegy7UWEo0SPS5J1AzI9jlKGXVQw8eTGCFVmcDCgIKxW_CVK29BbxC4iHlotOpyUHYYd90Tl3rBjyW1SR0jUPf1LMi2b5xnpZwsfZ118ENO95bTlincVnzfT8km8YElVxxT2IwaIVpnurnSgY67snH_A-u_7XzN8tSg_wLGFbX6oj8DRiH_TmXeXyejh4IJQFjuwZ8E&type=download",
+              "userID": 384995112,
+              "createdTime": 1290170463,
+              "type": 0,
+              "size": 23550,
+              "mimeType": "application/octet-stream",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "International Quikscript",
+                "Malt&#39;s International Quikscript Project"
+              ]
+            },
+            "prepositions__detailed.ods": {
+              "fileName": "prepositions__detailed.ods",
+              "description": "Saved in ODF file format- use OpenOffice to view.",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/International%20Quikscript/Malt%27s%20International%20Quikscript%20Project/prepositions__detailed.ods",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/prepositions__detailed.ods?token=aSxULqGw3OrKSSWdPQ1ZLgQcQRDcVBulh1kUXfuz01ScW8zXmJepXGonXMad7Q2OlYqQE3-Zi_xYVCYj7-TbywcjbJ5oXJnWn2Wo0leLEPNfYdNhfpY2RcoJt_sxFhr-8zNaZN4rM7c9iIfpz7VhBa4YKc-QrspcNyrDS2VFOZhRWZl7U4tRcjixurd-aiM9LfFDk75fIYi6_FotZFTswfQBS_k&type=download",
+              "userID": 384995112,
+              "createdTime": 1239324090,
+              "type": 0,
+              "size": 26618,
+              "mimeType": "application/octet-stream",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "International Quikscript",
+                "Malt&#39;s International Quikscript Project"
+              ]
+            },
+            "pronouns__detailed.ods": {
+              "fileName": "pronouns__detailed.ods",
+              "description": "Saved in ODF file format- use OpenOffice to view.",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/International%20Quikscript/Malt%27s%20International%20Quikscript%20Project/pronouns__detailed.ods",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/pronouns__detailed.ods?token=Iia5Dh2XKNuxt08aAnTcwZrDWa0yXJdzGbyrvH_nA_Sj2_R4NZETnxkcuEAQBbTxbfe0MnlmEjC1F3_uzPshvQbn1-77cNXZGDQB758gapiLSGknTkOahrysIVuNKwDy2ovCpajRZxRgz3bS98nAz5UFnGbbFL960iLsY16lW4yuEDqmfdXSwATrXMaukgX-vqm3V37eIlh-GhPkqU579g&type=download",
+              "userID": 384995112,
+              "createdTime": 1239324115,
+              "type": 0,
+              "size": 21619,
+              "mimeType": "application/octet-stream",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "International Quikscript",
+                "Malt&#39;s International Quikscript Project"
+              ]
+            },
+            "proper_nouns__detailed.ods": {
+              "fileName": "proper_nouns__detailed.ods",
+              "description": "Work in progress- more work to do on this file.Saved in ODF file format- use OpenOffice to view.",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/International%20Quikscript/Malt%27s%20International%20Quikscript%20Project/proper_nouns__detailed.ods",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/proper_nouns__detailed.ods?token=FjYpPxnx9yZ3DuW4md0iuyMBBw0c1GSRWPyha4q8Oqd2tArgxYTmuBPeqQsp7OOjDPFeSbgOniNRatwhUo7Q69KI8QsQ7ophZS1ZLR9IocmfUGleRbctMXeA797aPl-Y_8TJKmLHbPm1DvZjZ_uHv59j6vyXpM0yGt_wDzIcDQPZKzdmgJnkJNIUj1C__wbpSKZTxZTA7RJOxH9PWaO71xc9_is&type=download",
+              "userID": 384995112,
+              "createdTime": 1290170506,
+              "type": 0,
+              "size": 21815,
+              "mimeType": "application/octet-stream",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "International Quikscript",
+                "Malt&#39;s International Quikscript Project"
+              ]
+            },
+            "Thoth_Int.ttf": {
+              "fileName": "Thoth_Int.ttf",
+              "description": "Thoth_Int Font- the font used for the QS spellings in the project&#39;s spreadsheets.",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/International%20Quikscript/Malt%27s%20International%20Quikscript%20Project/Thoth_Int.ttf",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Thoth_Int.ttf?token=ScD9JDm51BiR6HUT2xHLft6fcpuDVroe9C1t3Z-hKl0IflWchR3Ozlt1WTfwk8wS1s_Px5BQAnClyKUjrLYnP0klDeKEnEvlMcKDh2Z2MwTcPC238aQ-uwbK60yVcofXOUgfRJcRbrLB7yraivtwFu0IwexaLjhrmpUBXWlKv6Zf63QoD1PgWwEi-l0gOoFPOW_rldEeMA&type=download",
+              "userID": 384995112,
+              "createdTime": 1234829511,
+              "type": 0,
+              "size": 33116,
+              "mimeType": "application/octet-stream",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "International Quikscript",
+                "Malt&#39;s International Quikscript Project"
+              ]
+            },
+            "verbs_top500-750.ods": {
+              "fileName": "verbs_top500-750.ods",
+              "description": "The verbs are a work in progress- more work to do on this file.Saved in ODF file format- use OpenOffice to view.",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/International%20Quikscript/Malt%27s%20International%20Quikscript%20Project/verbs_top500-750.ods",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/verbs_top500-750.ods?token=sMPlSkBzBVjCcXxvdteJPXhWTWKoxUoaik9ZuFa10e0RB10JJbwdKbc4Iq0mDfPZnvbuJGD1XCvAgy9SmF_813s1EMnUcWPQkJKOexMl3GCprq3MxLI7Fbum8qq1-Ub90t7hmA_vIiQe4gFFwK4d4aCfpDbSqBwiiwXWGj4yx-8XVt84Kfq45uBFMEi6jebIBfKVapwxjhJV9DXDi7M&type=download",
+              "userID": 384995112,
+              "createdTime": 1290170388,
+              "type": 0,
+              "size": 31885,
+              "mimeType": "application/octet-stream",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "International Quikscript",
+                "Malt&#39;s International Quikscript Project"
+              ]
+            },
+            "verbs_top500.ods": {
+              "fileName": "verbs_top500.ods",
+              "description": "The verbs are a work in progress- more work to do on this file.Saved in ODF file format- use OpenOffice to view.",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/International%20Quikscript/Malt%27s%20International%20Quikscript%20Project/verbs_top500.ods",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/verbs_top500.ods?token=dBMupnx2ENh9eBAmFa7xpLfKQqm_xwDc6Iq6zmRV5CMMrSiaB3GHALLmryYlhelrNSPO3jOIqnyLhD7796qv1po84zUpPVjj-tH6YgXXQFnflF-emThUW8lAgWmjtq8rYUpD1bboWrVyDYW9oN12-Op8WX_J3yMOJ1JrDNoTlAHlcB-9dcdaCqs0NX7XmVLSdFDtCJp73xSRPA&type=download",
+              "userID": 384995112,
+              "createdTime": 1290170328,
+              "type": 0,
+              "size": 46385,
+              "mimeType": "application/octet-stream",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "International Quikscript",
+                "Malt&#39;s International Quikscript Project"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "Key mapping proposals": {
+      "fileName": "Key mapping proposals",
+      "description": "Proposals for a new ASCII key mapping",
+      "ownerName": "melroch",
+      "pathURI": "/Key%20mapping%20proposals/",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Key+mapping+proposals?token=eXRcRI9j2pLZapYNxA4CMx6vAThWGxIuDRUCgDSTZ0sUFh8MBU3x4pQ682NuBzlxRwDazNeCw7xpYiBk2HbIIjaZQ711khNItkCameKpXkiMjAWbdFvWTy8&type=download",
+      "userID": 149542193,
+      "createdTime": 1198058329,
+      "type": 1,
+      "size": 0,
+      "mimeType": "",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": [],
+      "dirEntries": {
+        "BPJ": {
+          "fileName": "BPJ",
+          "description": "Benct Philip Jonsson&#39;s proposals",
+          "ownerName": "melroch",
+          "pathURI": "/Key%20mapping%20proposals/BPJ/",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/BPJ?token=bdOuab9RZHnt6fRHpE3LS2lxqXjOwLr07UxR9fYvRiT6zTylCx0-7WTEyD1kuaIV4_wdyd9wkhClYo5TkjwzhvIE2xifzzyVb89pNzK4CdAGhf6TCTAMWB0BPqmv&type=download",
+          "userID": 149542193,
+          "createdTime": 1198058363,
+          "type": 1,
+          "size": 0,
+          "mimeType": "",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Key mapping proposals"
+          ],
+          "dirEntries": {
+            "bpjs_qs_keybd_proposals_2.html": {
+              "fileName": "bpjs_qs_keybd_proposals_2.html",
+              "description": "Reverted filename",
+              "ownerName": "melroch",
+              "pathURI": "/Key%20mapping%20proposals/BPJ/bpjs_qs_keybd_proposals_2.html",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/bpjs_qs_keybd_proposals_2.html?token=ica9bzNPaL7viJxyY_4cWjE-OMTa5IqJcFkfx9xrNDbZuqXyzNp1b88-a5DrKLDuONS3ri2mPE_NSm0HlaKS1ZbZGZisbUe5Pk7iGLdPkavoBgA3wh0rdKmsEYHPpwe567q55GYYZzPgULNvjAHM92ifFqbOTmBO7nW-&type=download",
+              "userID": 149542193,
+              "createdTime": 1198797045,
+              "type": 0,
+              "size": 47844,
+              "mimeType": "text/html",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "Key mapping proposals",
+                "BPJ"
+              ]
+            },
+            "bpjs_qs_keymap_proposals_1.tab": {
+              "fileName": "bpjs_qs_keymap_proposals_1.tab",
+              "description": "",
+              "ownerName": "melroch",
+              "pathURI": "/Key%20mapping%20proposals/BPJ/bpjs_qs_keymap_proposals_1.tab",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/bpjs_qs_keymap_proposals_1.tab?token=NVYX7cz3VvqlPxhHUrboc9F62F_e1hQq01ekWKv7XVsf-NCFYJMepLtQJRq0JDMn1TvlLV9na1uTH4Ns-j3kPbrVFZ2mYIHJlO6SrM2hSbihwwzzN-3j9C8AECsdoDeyy71BdMiTKdG7LI1HS4XCvaTM-DdhyBUgMpOv&type=download",
+              "userID": 149542193,
+              "createdTime": 1198135900,
+              "type": 0,
+              "size": 1391,
+              "mimeType": "application/vnd.ms-excel",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "Key mapping proposals",
+                "BPJ"
+              ]
+            },
+            "bpjs_qs_keymap_proposals_2.txt": {
+              "fileName": "bpjs_qs_keymap_proposals_2.txt",
+              "description": "",
+              "ownerName": "melroch",
+              "pathURI": "/Key%20mapping%20proposals/BPJ/bpjs_qs_keymap_proposals_2.txt",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/bpjs_qs_keymap_proposals_2.txt?token=chouHmlxqgelUIYtSVzPlxWszzVQqn9Cri2y5ELOI2BKx9QjXK3pXWGN65cCKlBt5lbUlwrZUs79YRrCkzNU5MMo80hzygIXoyqvTHS5VFkQwSlSSb_lZWBzLOCTndsdyBWbfPEDcK3eIW6pclmPFc1EEHDauA9MOXEt&type=download",
+              "userID": 149542193,
+              "createdTime": 1198797192,
+              "type": 0,
+              "size": 22782,
+              "mimeType": "multipart/form-data",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "Key mapping proposals",
+                "BPJ"
+              ]
+            }
+          }
+        },
+        "TL": {
+          "fileName": "TL",
+          "description": "Ted Larson Freeman&#39;s proposals",
+          "ownerName": "tedf255",
+          "pathURI": "/Key%20mapping%20proposals/TL/",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/TL?token=DKPXeBZfZnbG4E8mfd5dcR5htO4iLPYIaxVv7xWjeBBodGr2VUZx42nV8VPwuUucfQv2wVRshjSMZhfmkgYIqZQUaHplI8IUhwEQcEaQwcXAKLJryjeFBNi9B5U&type=download",
+          "userID": 134841503,
+          "createdTime": 1198096952,
+          "type": 1,
+          "size": 0,
+          "mimeType": "",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Key mapping proposals"
+          ],
+          "dirEntries": {
+            "qs_up_nu.pdf": {
+              "fileName": "qs_up_nu.pdf",
+              "description": "QS-Up and QS-Nu, proposed keyboard mappings for QS",
+              "ownerName": "tedf255",
+              "pathURI": "/Key%20mapping%20proposals/TL/qs_up_nu.pdf",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/qs_up_nu.pdf?token=1bf3tkv_-hCyzejb_61BmkACylBcAbczWQz1cOe7_0OLkwm6lIC9-TDCIKodhINGEaSW6-Ppn0Reu-ho4WqKYGLX5qI2_L-GHYHNOnz2BPXPGoREM5cJrMCl128UJATfZoGgmdlsseo&type=download",
+              "userID": 134841503,
+              "createdTime": 1201760243,
+              "type": 0,
+              "size": 86232,
+              "mimeType": "application/pdf",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "Key mapping proposals",
+                "TL"
+              ]
+            }
+          }
+        },
+        "qs_keybd_proposals-layout-20080111.pdf": {
+          "fileName": "qs_keybd_proposals-layout-20080111.pdf",
+          "description": "Keyboard grids for current proposals. QS_Nu based on qs_keybd_proposals3.csv of 10 Jan; others based on qs_keybd_proposals.xls of 9 Jan.",
+          "ownerName": "myzomela63",
+          "pathURI": "/Key%20mapping%20proposals/qs_keybd_proposals-layout-20080111.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/qs_keybd_proposals-layout-20080111.pdf?token=bOf3spfEx-FEERdDJlwhj937fqb3cuNemX2WzdnX0GIRxu6kCIZMHugkAhVZPjN5tJYNTxVET3O6AFXBIy2BiiSXhpAelFHx5QpXP9hkqlqM41Dr06zUewAJYIUAWB6OA7_lZCIrExAhb81X6RFgzmz-DD-0DxeRhZzlgpbj4g&type=download",
+          "userID": 327488507,
+          "createdTime": 1200005197,
+          "type": 0,
+          "size": 44377,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Key mapping proposals"
+          ]
+        },
+        "qs_keybd_proposals.xls": {
+          "fileName": "qs_keybd_proposals.xls",
+          "description": "Comparative spreadsheet of current proposals Jan 9",
+          "ownerName": "moira_ob",
+          "pathURI": "/Key%20mapping%20proposals/qs_keybd_proposals.xls",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/qs_keybd_proposals.xls?token=rwDj8LgE5djg2OtDEN2XCTZ_lQWRjUsSWI49fBXtT2D4LUFwOhRI0TtJ9-dvwKyn-gKyfMSuXnLUvSGteIpQ1AIx10SsDBtv_PuXxhykk6xc-WH-FB3pSwYJ01aAsXYdjImT2vHCnf3VrXr56WZa&type=download",
+          "userID": 163508747,
+          "createdTime": 1199898312,
+          "type": 0,
+          "size": 46080,
+          "mimeType": "application/vnd.ms-excel",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Key mapping proposals"
+          ]
+        },
+        "qs_keybd_proposals3.csv": {
+          "fileName": "qs_keybd_proposals3.csv",
+          "description": "Proposed keyboard mappings for QS, version 3",
+          "ownerName": "tedf255",
+          "pathURI": "/Key%20mapping%20proposals/qs_keybd_proposals3.csv",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/qs_keybd_proposals3.csv?token=QnDlc-6UNFlEkW44Xrhmvi-q0OPSNeCojkgpCRH1FIkwaRQhjoOwQhV9CSEPVlmect0JaRhOylRMgUwgI-SQbYqhAwSKh4ZAM_VW9FlNXh3aQoH3Ql2UOffF8nDrxW10lR5pAtegNYdxtyfJAVbMFw&type=download",
+          "userID": 134841503,
+          "createdTime": 1199946700,
+          "type": 0,
+          "size": 1658,
+          "mimeType": "text/plain",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Key mapping proposals"
+          ]
+        }
+      }
+    },
+    "Keyman layouts": {
+      "fileName": "Keyman layouts",
+      "description": "Layout files for use with Tavultesoft&#39;s Keyman",
+      "ownerName": "teraiten",
+      "pathURI": "/Keyman%20layouts/",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Keyman+layouts?token=Bm-NyK_NsQpplvhEpioVlCzKX93BSmXK9bxvSMH94i7To893ztK00Jy21eNhzoLaA6ffe8S0dX5FUNYvX66wHC3s3EG6Wo6ZWNis8m1IDyQ&type=download",
+      "userID": 205287198,
+      "createdTime": 1161012695,
+      "type": 1,
+      "size": 0,
+      "mimeType": "",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": [],
+      "dirEntries": {
+        "QS.bmp": {
+          "fileName": "QS.bmp",
+          "description": "bitmap logo to go with the keyboard layout",
+          "ownerName": "teraiten",
+          "pathURI": "/Keyman%20layouts/QS.bmp",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/QS.bmp?token=pmoAjHB3y6zFh2AK45MhfMpno2fAApdfUgFG9hEMAHsN3QgkzBf_NSet9wg2xCxq6g-u0FXFcodyizusPXZqukXjjDBDPfHGFY-IjURDwc1koCNeZMw&type=download",
+          "userID": 205287198,
+          "createdTime": 1161012829,
+          "type": 0,
+          "size": 246,
+          "mimeType": "image/bmp",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Keyman layouts"
+          ]
+        },
+        "Quickscript ascii via NyuuRomaaji.kmn": {
+          "fileName": "Quickscript ascii via NyuuRomaaji.kmn",
+          "description": "Keyman 6.0 source file. NewRomaji --&gt; QS Junior (non unicode)",
+          "ownerName": "teraiten",
+          "pathURI": "/Keyman%20layouts/Quickscript%20ascii%20via%20NyuuRomaaji.kmn",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Quickscript+ascii+via+NyuuRomaaji.kmn?token=Q9TzbXk86XSlh2szMX748L-QdRd3IT4wFKF0hEz4YC_qu5JwM9ltEJpcGzlj5Y6gfKc7mbBtbfMYV498HZODBCRvV0Mb9XcJuEtV0nXtb_Nr3sjlqI10Px8MUzdE_uXbkkArKVMtSSXQLrUuHFpAttt3j4zRUe4bNNte&type=download",
+          "userID": 205287198,
+          "createdTime": 1161012804,
+          "type": 0,
+          "size": 1386,
+          "mimeType": "application/octet-stream",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Keyman layouts"
+          ]
+        },
+        "quickscript newromaaji.png": {
+          "fileName": "quickscript newromaaji.png",
+          "description": "",
+          "ownerName": "teraiten",
+          "pathURI": "/Keyman%20layouts/quickscript%20newromaaji.png",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/quickscript+newromaaji.png?token=lWJeiezfGgRvAZ_1T6QvdBjY6-qemOjpTkl731Z77AFwRs6PG0EtdvKIzJO_yYgztNIaKE20Vb6ikVgXFkL1o8_MXioaFzE51DxFwqnGMW4PSUidk2kFf5ugEPDPVMNL5VlVJdWZIWp1Qb3v&type=download",
+          "userID": 205287198,
+          "createdTime": 1161013354,
+          "type": 0,
+          "size": 32623,
+          "mimeType": "image/png",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Keyman layouts"
+          ]
+        }
+      }
+    },
+    "Perl Scripts": {
+      "fileName": "Perl Scripts",
+      "description": "Some perl scripts to help with Unicode conversion.",
+      "ownerName": "amd64_hacker",
+      "pathURI": "/Perl%20Scripts/",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Perl+Scripts?token=-z2lXODF76mKh5KDxnJDUBJex8SMYqTXxfXAaP5ATxW3p7m2QboLOdS3yC1H0A20N1n18wMTJEyr95sD4GH4lPCDrmUtXBwz1ms_1nJE&type=download",
+      "userID": 180175951,
+      "createdTime": 1146072592,
+      "type": 1,
+      "size": 0,
+      "mimeType": "",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": [],
+      "dirEntries": {
+        "QS_Dict_Unicode.txt.gz": {
+          "fileName": "QS_Dict_Unicode.txt.gz",
+          "description": "The dictionary from QSConverter in Unicode",
+          "ownerName": "amd64_hacker",
+          "pathURI": "/Perl%20Scripts/QS_Dict_Unicode.txt.gz",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/QS_Dict_Unicode.txt.gz?token=hgfYoTD-_OpkX_CBjoh8ln1BLEV3ypX6gcdXF6vokXS1lkIirze9Ze9i9hrRDZ7_JCt5xs-mvwWWyfcmcJyUv6DsC6EnF6B_VVwJWy9d-zDz295faKXCr1_5gYApRK0F4I7THA&type=download",
+          "userID": 180175951,
+          "createdTime": 1147985848,
+          "type": 0,
+          "size": 823785,
+          "mimeType": "application/unix-tar",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Perl Scripts"
+          ]
+        },
+        "qs_keymap.pl": {
+          "fileName": "qs_keymap.pl",
+          "description": "Perl script to generate a xkb mapping for QuikScript",
+          "ownerName": "amd64_hacker",
+          "pathURI": "/Perl%20Scripts/qs_keymap.pl",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/qs_keymap.pl?token=3shjhZC0GRG0jf_XgWMHLiy4EmQMQx5QAWg5KUPmUqmZ4riiJH8bLyHEO_6ynmQ3sogL-HaGTdA8Y5CvciRTmpmsl2IlhDX7jcV7yov8SMLohRdALP5BOCSd&type=download",
+          "userID": 180175951,
+          "createdTime": 1153247061,
+          "type": 0,
+          "size": 1166,
+          "mimeType": "application/x-perl",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Perl Scripts"
+          ]
+        },
+        "qsroman2unicode.pl": {
+          "fileName": "qsroman2unicode.pl",
+          "description": "Converts Quikscript text which uses the old style mapping to the new Unicode mapping",
+          "ownerName": "amd64_hacker",
+          "pathURI": "/Perl%20Scripts/qsroman2unicode.pl",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/qsroman2unicode.pl?token=G9r9oeUOfy6cXhaCR6pqr6-ShOuzbSGDCKvYMR6JQCUxxA7Vs1N-xQOfMz1pzAhwzcor6VfVln3M9kToMQUUXsJFvzHfpQUSTtw-1PBXmlz1uh8E5F0tMr7E6RMlxcNY&type=download",
+          "userID": 180175951,
+          "createdTime": 1146072731,
+          "type": 0,
+          "size": 716,
+          "mimeType": "application/x-perl",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Perl Scripts"
+          ]
+        },
+        "Quik-All-0.01.tar.gz": {
+          "fileName": "Quik-All-0.01.tar.gz",
+          "description": "A set of classes and scripts for converting different documents to quikscript",
+          "ownerName": "amd64_hacker",
+          "pathURI": "/Perl%20Scripts/Quik-All-0.01.tar.gz",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Quik-All-0.01.tar.gz?token=D2scZndVV8JV3kItW5U1pf7QseTkB8VMDDSDRiLDqFuzKkfXWY9YFFqB7lgebZGsw42m8dwXHDKqFugtHaspTu_-3pmIqmQJEOQhSWKw4y9PYbPDbxOsLIVXrQmEj0aMPMo&type=download",
+          "userID": 180175951,
+          "createdTime": 1147986014,
+          "type": 0,
+          "size": 22159,
+          "mimeType": "application/unix-tar",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Perl Scripts"
+          ]
+        },
+        "roman2qs.pl": {
+          "fileName": "roman2qs.pl",
+          "description": "Converts text into Unicode Quikscript preserving unknown sequences",
+          "ownerName": "amd64_hacker",
+          "pathURI": "/Perl%20Scripts/roman2qs.pl",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/roman2qs.pl?token=jsi8hiuHotMJL0ZBcEvBAemAigVF-J5Jbj2A5Cf7oRYo2MnGtdlyj8WCKQcETEkVDH-W08fhEJolhVZIBh1LI_ulbiMC0l0bynhwxTipFaCTXgC44xCseTY&type=download",
+          "userID": 180175951,
+          "createdTime": 1146072662,
+          "type": 0,
+          "size": 450,
+          "mimeType": "application/x-perl",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Perl Scripts"
+          ]
+        }
+      }
+    },
+    "Practice": {
+      "fileName": "Practice",
+      "description": "Handwriting practice material",
+      "ownerName": "sgoldgaber",
+      "pathURI": "/Practice/",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Practice?token=44FJ-vf3P_ZSK8SF476zAklezmaxwPthunr0YEv1J8_zUZqTkuIw3_KXIR1pv4DctNpmCBwHNM1mYN-xP8T0ioHIlb0ja4ps&type=download",
+      "userID": 63011010,
+      "createdTime": 1221379105,
+      "type": 1,
+      "size": 0,
+      "mimeType": "",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": [],
+      "dirEntries": {
+        "blank lines.pdf": {
+          "fileName": "blank lines.pdf",
+          "description": "Ruled lines to use as a guide",
+          "ownerName": "sgoldgaber",
+          "pathURI": "/Practice/blank%20lines.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/blank+lines.pdf?token=RAU0ehtVk0VWyzIEInqsfXo1Qy1XPCIcHZUSuGZSaKu5rrcKh08UrGSe0U4yrlzrO61CHZSSLdngnFXgBYOjeTLaqQLQA33b95WIxUmHj_LSVv6TUaUuf2I&type=download",
+          "userID": 63011010,
+          "createdTime": 1221379814,
+          "type": 0,
+          "size": 1725,
+          "mimeType": "application/x-pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Practice"
+          ]
+        },
+        "descenders.pdf": {
+          "fileName": "descenders.pdf",
+          "description": "Letters which descend beneath the base line (even letters 2 through 22)",
+          "ownerName": "sgoldgaber",
+          "pathURI": "/Practice/descenders.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/descenders.pdf?token=ZWIwJd_xdXsHGAbY0QATIFWyIKCFRpMNlUA99fvUFDwb5qFxaEO5nEgs324OSTeGTf1tnDUDp92Ztw90Vv8M1oMKXlOuGU_E1Ms_YvNbicQ4s9G726Q&type=download",
+          "userID": 63011010,
+          "createdTime": 1221380062,
+          "type": 0,
+          "size": 35054,
+          "mimeType": "application/x-pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Practice"
+          ]
+        },
+        "full-height.pdf": {
+          "fileName": "full-height.pdf",
+          "description": "Letters written from the base line to the top line (odd letters 1 through 21)",
+          "ownerName": "sgoldgaber",
+          "pathURI": "/Practice/full-height.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/full-height.pdf?token=cFW5eW_BuuYEMoCdh-gaYyH6Q4qWZbAy8PB2-i3qXDAQ8fBwDq3fxnBnunsTRkU1rQm1M_-YkmyBCmuJdWNCQPzKXzsdL7FBCkjc8NuljHyAn2Jl4-sV&type=download",
+          "userID": 63011010,
+          "createdTime": 1221380744,
+          "type": 0,
+          "size": 38831,
+          "mimeType": "application/x-pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Practice"
+          ]
+        },
+        "half-height.pdf": {
+          "fileName": "half-height.pdf",
+          "description": "Letters written from the base line to the waist line (letters 23 through 40)",
+          "ownerName": "sgoldgaber",
+          "pathURI": "/Practice/half-height.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/half-height.pdf?token=hWmzoe4FHsVSkF6cYMeaKgZ_BSsuwJXZJsGZZgDn9BfnPHVhNbjJnKDPwTg5h0gM4q_fqJRfWlVWGLW1PUUJJNSVWbYajtgVjAJbTXPnxd_pRTe8mHuO&type=download",
+          "userID": 63011010,
+          "createdTime": 1221380799,
+          "type": 0,
+          "size": 53998,
+          "mimeType": "application/x-pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Practice"
+          ]
+        },
+        "woods.pdf": {
+          "fileName": "woods.pdf",
+          "description": "Robert Frost&#39;s &quot;Stopping By Woods...&quot; with ruled lines to practice on",
+          "ownerName": "sgoldgaber",
+          "pathURI": "/Practice/woods.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/woods.pdf?token=s2ydpjBex3m6NrksxT_G6QvIfHfMSXd_dO_j9JiwSShSdHk70FGuEaNU1Usak5lUir5EKfBj8IPElC-oli4lkRPaw_krHH5YCMfMdw8Ntuvo&type=download",
+          "userID": 63011010,
+          "createdTime": 1221380949,
+          "type": 0,
+          "size": 38201,
+          "mimeType": "application/x-pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Practice"
+          ]
+        }
+      }
+    },
+    "Pronunciation": {
+      "fileName": "Pronunciation",
+      "description": "repository for pronunciation guides and conversation points",
+      "ownerName": "othermale",
+      "pathURI": "/Pronunciation/",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Pronunciation?token=K-HpPl7nLgfSmViRs1Hv44cv73k9fr1PxOOBkeVUdAWp-JdVc-1CwO2LS1DU69KWJrOXbx7d5l64VSovRJZJfWLhCkLhu0SLgcs3Khw&type=download",
+      "userID": 326670551,
+      "createdTime": 1194000854,
+      "type": 1,
+      "size": 0,
+      "mimeType": "",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": [],
+      "dirEntries": {
+        "american_english_template.jpg": {
+          "fileName": "american_english_template.jpg",
+          "description": "for building american accents",
+          "ownerName": "othermale",
+          "pathURI": "/Pronunciation/american_english_template.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/american_english_template.jpg?token=Cm6yuZifez4S7XF10F9YfQT8kIGuRWNdTY7cC22Dds13THliJoqTA8MgbNQyz5ZHXieueqfLYnMXuHi5323hDBZ2DbyOSMEbppCq75xvuB3esd2TQtCNMJJLeQJX6Repxl2Iz6OVM6yMEg&type=download",
+          "userID": 326670551,
+          "createdTime": 1194562435,
+          "type": 0,
+          "size": 135126,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Pronunciation"
+          ]
+        },
+        "australian.jpg": {
+          "fileName": "australian.jpg",
+          "description": "",
+          "ownerName": "othermale",
+          "pathURI": "/Pronunciation/australian.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/australian.jpg?token=e0u5x2VSyJi7zMdVptYUS5JE4vVXgIGpfUDfydFse7s__uFI8IbVEyVh92BgdjAe-__ZsMcXXVQJcOS9xJ4tnIka3DV8ao7VMzv-7dRvbTCQL2LA-ZD4zknyFA&type=download",
+          "userID": 326670551,
+          "createdTime": 1195121464,
+          "type": 0,
+          "size": 84056,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Pronunciation"
+          ]
+        },
+        "bbc.jpg": {
+          "fileName": "bbc.jpg",
+          "description": "",
+          "ownerName": "othermale",
+          "pathURI": "/Pronunciation/bbc.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/bbc.jpg?token=9tisefb60Yae8TRhYb6_3tBNxN-TcEK3AxMIViKIlTQmuSQY8m71mSGI3rm7Kt_e9opeV5y3vzhsfRB3R4GgqsaDRsSIs-0ODUeQXmR-jbKOV-Tu&type=download",
+          "userID": 326670551,
+          "createdTime": 1194562542,
+          "type": 0,
+          "size": 79514,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Pronunciation"
+          ]
+        },
+        "fig1.jpg": {
+          "fileName": "fig1.jpg",
+          "description": "for building per accent lexical set mappings",
+          "ownerName": "othermale",
+          "pathURI": "/Pronunciation/fig1.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/fig1.jpg?token=b1C0HcmGduxPn_8zVRSvzUFh658UzEPleZBvW_EebvL1MMz1xjGdV7r6zheE0_Nk9f79ap30u5J3yghxHYUrHhmBEz5k-_1IYf-6XKpB_lVUEblEfA&type=download",
+          "userID": 326670551,
+          "createdTime": 1194355032,
+          "type": 0,
+          "size": 97421,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Pronunciation"
+          ]
+        },
+        "fig2.jpg": {
+          "fileName": "fig2.jpg",
+          "description": "",
+          "ownerName": "othermale",
+          "pathURI": "/Pronunciation/fig2.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/fig2.jpg?token=ZPePvn7v8p7z0ohTo7efblz6FqzWJlV_pQXpYtkjyWKUgtURskBp37VJzVelkKGBsciGEtuyPpAvFOPVGTpdsnQLDKuJeVAR9CTCi2QL3zRZp1Xo5w&type=download",
+          "userID": 326670551,
+          "createdTime": 1194267192,
+          "type": 0,
+          "size": 115900,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Pronunciation"
+          ]
+        },
+        "fig3.jpg": {
+          "fileName": "fig3.jpg",
+          "description": "",
+          "ownerName": "othermale",
+          "pathURI": "/Pronunciation/fig3.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/fig3.jpg?token=Ch5cSCwcJkW4ZfCAkP3OZszvAEO9Dof1bLgP_LzDrArd6i-GrFXC0IYjPgn5my8gi3WUkkCbD7ZbJG1fxJ3ma1tLpVs-bouobto6rUm5n9MX4WVorg&type=download",
+          "userID": 326670551,
+          "createdTime": 1194267209,
+          "type": 0,
+          "size": 87918,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Pronunciation"
+          ]
+        },
+        "fig5.jpg": {
+          "fileName": "fig5.jpg",
+          "description": "discussion point for lexical sets",
+          "ownerName": "othermale",
+          "pathURI": "/Pronunciation/fig5.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/fig5.jpg?token=h0TOK2arXJuALsb6VC7H_BWRmBOhl3wf0GcZDhoOev2PXXzdq7CDOzp9_V2k_r4rN6mtB8B4o3oiOUWEEbr_TH0rRRI_kahARcjvvhPgN1ybCxsSlw&type=download",
+          "userID": 326670551,
+          "createdTime": 1195592560,
+          "type": 0,
+          "size": 112775,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Pronunciation"
+          ]
+        },
+        "new_zealand.jpg": {
+          "fileName": "new_zealand.jpg",
+          "description": "",
+          "ownerName": "othermale",
+          "pathURI": "/Pronunciation/new_zealand.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/new_zealand.jpg?token=vydKcibuthLgdcP17M8oE4S1tQmX0nz9a2Gx2_p8709V09iSFPPbtqiyfo0RQL-aAZGttdpxDB-hNoGYqtxpxVBXEBhR8e8_AcpCz6ezHEB3J0WjNp8j02qetMQ&type=download",
+          "userID": 326670551,
+          "createdTime": 1194562790,
+          "type": 0,
+          "size": 93687,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Pronunciation"
+          ]
+        },
+        "set_am_dialect.pdf": {
+          "fileName": "set_am_dialect.pdf",
+          "description": "draft of lexical set for general American English",
+          "ownerName": "paulhtremblay",
+          "pathURI": "/Pronunciation/set_am_dialect.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/set_am_dialect.pdf?token=oaa66lctoLRu7O37RBDgQ1t3mlQ11Ran4ecHHmg-afMVOATR_BzxTe_FIylIwm0vkgbkgK3eKqu2eDGJuNTYbBwPy1nC6ZhA0et-fgs9709ugVzBjTaqANrG_JzfpbA&type=download",
+          "userID": 214981082,
+          "createdTime": 1194496504,
+          "type": 0,
+          "size": 26788,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Pronunciation"
+          ]
+        },
+        "template_for_accents.jpg": {
+          "fileName": "template_for_accents.jpg",
+          "description": "for building any accent",
+          "ownerName": "othermale",
+          "pathURI": "/Pronunciation/template_for_accents.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/template_for_accents.jpg?token=oTVl8nR6e0T18H06F7AayOb4qj21FE7-BaiHSmj-aC2Uz_RCAEKI_aiuxown7JETdt1iuCGrTVj7UzfUMZkzJBCMXOBzPYnD4FI2cOoSHwVELszoKIOlkEyG83CKNx6e4xYU53Q&type=download",
+          "userID": 326670551,
+          "createdTime": 1194562518,
+          "type": 0,
+          "size": 118760,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Pronunciation"
+          ]
+        },
+        "typical_us.jpg": {
+          "fileName": "typical_us.jpg",
+          "description": "",
+          "ownerName": "othermale",
+          "pathURI": "/Pronunciation/typical_us.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/typical_us.jpg?token=7jNvEa0qd2H--Jrs4ar7VE6sxfW8yXmnPU0FqFAp0nqWC1Qdch2vqnRHoLw3WjtF9fVLecmTlgcTkKoh5Xh--C0rB2PnbCYdY___mXM2ayEpB9mgxv7cZc0QAA&type=download",
+          "userID": 326670551,
+          "createdTime": 1194562713,
+          "type": 0,
+          "size": 121157,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Pronunciation"
+          ]
+        },
+        "west_coast_us.jpg": {
+          "fileName": "west_coast_us.jpg",
+          "description": "",
+          "ownerName": "othermale",
+          "pathURI": "/Pronunciation/west_coast_us.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/west_coast_us.jpg?token=CD4_NhiBzqMhZ4Pt0boabsAJirzR3KM1A1ddFSe2CEW6vKFSA_4_zWRo23-xDd4plv9NkuMZj5d55mjeSQCphHn6lzoAzxU8EnIi36hyEPAr8aJvMr-ty3OA6bhFrw&type=download",
+          "userID": 326670551,
+          "createdTime": 1194562660,
+          "type": 0,
+          "size": 76502,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Pronunciation"
+          ]
+        }
+      }
+    },
+    "QS-SAMPA": {
+      "fileName": "QS-SAMPA",
+      "description": "A plain-text format for Quickscript",
+      "ownerName": "tedf255",
+      "pathURI": "/QS-SAMPA/",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/QS-SAMPA?token=sl4DmF-Uutv0_Rh0NzOSxZQRvajyCE-AgaMxR7vWzoTTz-0JUsLb_Q53ZyQVAEMuWV5033tHp2se9oU8BjUtxAV_G-9v12LL&type=download",
+      "userID": 134841503,
+      "createdTime": 1196290441,
+      "type": 1,
+      "size": 0,
+      "mimeType": "",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": [],
+      "dirEntries": {
+        "qs_sampa.pdf": {
+          "fileName": "qs_sampa.pdf",
+          "description": "QS-SAMPA: a plain-text format for Quickscript",
+          "ownerName": "tedf255",
+          "pathURI": "/QS-SAMPA/qs_sampa.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/qs_sampa.pdf?token=ijzq9X-J1bFH0DOeM-BrRlMCEGsivGbUptn5WtkSsXFpR1yq5jgRfzDYuI5RUvF9iDBUpmWbfYSQugO9E1uQrizM2t8Ji5w-T1cm8VFmeWVUzWeA&type=download",
+          "userID": 134841503,
+          "createdTime": 1196290542,
+          "type": 0,
+          "size": 19198,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "QS-SAMPA"
+          ]
+        },
+        "qs_sampa.xls": {
+          "fileName": "qs_sampa.xls",
+          "description": "Spreadsheet source of qs_sampa.pdf",
+          "ownerName": "tedf255",
+          "pathURI": "/QS-SAMPA/qs_sampa.xls",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/qs_sampa.xls?token=FjfhUy8ufRYjqeyMtECEjj3cbikJ_O3MSYVGJyLZ-oJuw10FHYo0n2JUUjWvyKzr1FkPDHSxPRNxxXV4OqFSSqiV0Ld0kQREesYDZVqn4BBn7CrB&type=download",
+          "userID": 134841503,
+          "createdTime": 1196290606,
+          "type": 0,
+          "size": 886,
+          "mimeType": "application/vnd.ms-excel",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "QS-SAMPA"
+          ]
+        },
+        "qs_sampa_array.pdf": {
+          "fileName": "qs_sampa_array.pdf",
+          "description": "QS-SAMPA in an array layout",
+          "ownerName": "tedf255",
+          "pathURI": "/QS-SAMPA/qs_sampa_array.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/qs_sampa_array.pdf?token=RudMPIhWzxCKsTx65C6vl-TpwJltzTGQCg6kgBuK1l0Rhxt_3pXFeLZfLVJdmX9wjMRf9UDsP-_gM-XMDwHFQ02TQzwkq-LH5fuePv4gDBgt6S4sACTP-zeI&type=download",
+          "userID": 134841503,
+          "createdTime": 1196290635,
+          "type": 0,
+          "size": 66038,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "QS-SAMPA"
+          ]
+        },
+        "qs_sampa_array.rtf": {
+          "fileName": "qs_sampa_array.rtf",
+          "description": "RTF source file for qs_sampa_array.pdf",
+          "ownerName": "tedf255",
+          "pathURI": "/QS-SAMPA/qs_sampa_array.rtf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/qs_sampa_array.rtf?token=4uilV-CXtP9RLk--YOXDWTyjThLgFLy4d3HNtx8CHmxo6uJ1A3igCaSSBMLlogEETKnh8dyYCI2g8akTwvdcaGMq5BT5LY9eRDR1x1RaF77tg77ramMAJyIj&type=download",
+          "userID": 134841503,
+          "createdTime": 1196290668,
+          "type": 0,
+          "size": 1767,
+          "mimeType": "text/rtf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "QS-SAMPA"
+          ]
+        }
+      }
+    },
+    "QsConverter": {
+      "fileName": "QsConverter",
+      "description": "Convert regular text to QuikScript text.",
+      "ownerName": "jeff_smith_8992",
+      "pathURI": "/QsConverter/",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/QsConverter?token=DcWU8JIdglEFvXLFg8cVJivrF_XISfp3MZbUiL13bhWFCbLabmkqpdxlC7KCoyb0ad-yR56PKtYSJMYjOStHxhYKILXPnKiqhIMF&type=download",
+      "userID": 6166478,
+      "createdTime": 1091628178,
+      "type": 1,
+      "size": 0,
+      "mimeType": "",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": [],
+      "dirEntries": {
+        "QsConverter_1_2_1.zip": {
+          "fileName": "QsConverter_1_2_1.zip",
+          "description": "This program allows the User to convert regular text into QuikScript.",
+          "ownerName": "jeff_smith_8992",
+          "pathURI": "/QsConverter/QsConverter_1_2_1.zip",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/QsConverter_1_2_1.zip?token=XMoZyPAjDGulseEIj644oAh96F_A2U1qM_EhQ2EXWiDFRwqUCF75XRg1V4DQAMj9AAT-qx6g8B9ci83VrTcnv4FiA7vQ16low6fjY7XiRZoVhwWr9qwsVP8syw3VHhqV&type=download",
+          "userID": 6166478,
+          "createdTime": 1126114171,
+          "type": 0,
+          "size": 932798,
+          "mimeType": "application/zip",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "QsConverter"
+          ]
+        }
+      }
+    },
+    "Resources": {
+      "fileName": "Resources",
+      "description": "Information about Read&#39;s Alphabet",
+      "ownerName": "",
+      "pathURI": "/Resources/",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Resources?token=q3CXXYoZVaVMYFL9sbHwKg-urZM8OXeZtYjr-skzm0hNvMzMp67f7bjEy5-Lh5h0htfFEq-97j9DSsD1URjIaUAalGATOsuEGQ&type=download",
+      "userID": 39592035,
+      "createdTime": 975564078,
+      "type": 1,
+      "size": 0,
+      "mimeType": "",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": [],
+      "dirEntries": {
+        "FreqChart1.jpg": {
+          "fileName": "FreqChart1.jpg",
+          "description": "Chart of QS letter frequencies",
+          "ownerName": "mcbroom1946",
+          "pathURI": "/Resources/FreqChart1.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/FreqChart1.jpg?token=dvbwq_kN4elLbNEME08QTpqCFlK5CH-e8dHS_I1X0Dqyz2ihVuY78b2gIrynYuUwAnXa_pKKGNIHkyv4567E7xsJoSvqMPYXuwf0fqj8C37Lju8MN6Zx&type=download",
+          "userID": 192085222,
+          "createdTime": 1092433342,
+          "type": 0,
+          "size": 249596,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Resources"
+          ]
+        },
+        "oliver&#39;s keyboard mapping.gif": {
+          "fileName": "oliver&#39;s keyboard mapping.gif",
+          "description": "a proposal for mapping QS to a standard keyboard",
+          "ownerName": "oliverlangan",
+          "pathURI": "/Resources/oliver%27s%20keyboard%20mapping.gif",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/oliver%27s+keyboard+mapping.gif?token=XIt1Ce5ZxdjwbWMid9CSA98_RBCsRMIv1Nq-qurJEWinmt7lho7j0FimE8kfeK0qWZ-n1YG2UfTLgVpY3N54hBVZjYZn45X8eltWHnRuXzyGvgZc1SZAq-2ldpChn3-BBCuOvYWRpfx6pA9w&type=download",
+          "userID": 119902064,
+          "createdTime": 1088872176,
+          "type": 0,
+          "size": 14533,
+          "mimeType": "image/gif",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Resources"
+          ]
+        },
+        "QS Glossary.rtf.rtf": {
+          "fileName": "QS Glossary.rtf.rtf",
+          "description": "Glossary of linguistics and typography terms relevant to Quikscript",
+          "ownerName": "peter_r_guinness",
+          "pathURI": "/Resources/QS%20Glossary.rtf.rtf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/QS+Glossary.rtf.rtf?token=lCcQygZCqJnVuDEsr3VAoqFS-cStIZFfC_vIZCgm9FuvGRzr96VV-_fxiHq9lMTYkVA8SQA8B6mJLFGA0HE0PjL2__Cj-aT2YMszWQDfxNN6Sh4Y7hOxXGpnraGQYA&type=download",
+          "userID": 259162666,
+          "createdTime": 1200687637,
+          "type": 0,
+          "size": 26109,
+          "mimeType": "text/richtext",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Resources"
+          ]
+        },
+        "QS Keyboard Driver Remapping.htm": {
+          "fileName": "QS Keyboard Driver Remapping.htm",
+          "description": "This is the correct address",
+          "ownerName": "frimmin",
+          "pathURI": "/Resources/QS%20Keyboard%20Driver%20Remapping.htm",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/QS+Keyboard+Driver+Remapping.htm?token=6WJ-WjIcAl7zaF1ZSbAxX5KWXBGasDKJBnKiOtN5du5vwenSpnK0HcnWh5zcULGVEs031WF9iaTNDaTRTRrpPcXItTUG4T6JsYL-vQnad70Sf2Mjqbd-dEAEk4ox3kQLGFzCFgLG8c-7Ni7q9bZj&type=download",
+          "userID": 833140,
+          "createdTime": 1015724160,
+          "type": 0,
+          "size": 18174,
+          "mimeType": "text/html",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Resources"
+          ]
+        },
+        "qs manual modern (beta).pdf": {
+          "fileName": "qs manual modern (beta).pdf",
+          "description": "a work in progress: making a unicode, searchable, modern QS",
+          "ownerName": "oliverlangan",
+          "pathURI": "/Resources/qs%20manual%20modern%20%28beta%29.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/qs+manual+modern+%28beta%29.pdf?token=echWIECYbQxQlbc_TGgW0zYH7jnvC9bmj6iZnk_KqBWMLKFKFqHMOOvWGIWgVN1YvtfeK43iw8f0YT_rGt_eJUkS98F09th1e8ewighsuHOgfK6O2QjEL_h0wuk8dbVZCQmOtYzt7zH1Tu5Rh3M&type=download",
+          "userID": 168229681,
+          "createdTime": 1152665417,
+          "type": 0,
+          "size": 105489,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Resources"
+          ]
+        },
+        "QS_Dic ver2_PDF_split.z01": {
+          "fileName": "QS_Dic ver2_PDF_split.z01",
+          "description": "Orthodox American English Character Set to Quikscript Dictionary ver 2 in PDF format. Note that because the file limitation size, the PDF file was Zipped in a split format. You need this file and QS_Dic ver2_PDF_split.zip also.",
+          "ownerName": "chuck091956",
+          "pathURI": "/Resources/QS_Dic%20ver2_PDF_split.z01",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/QS_Dic+ver2_PDF_split.z01?token=fWtl1tg4S-XpaE8GRz6dYdK7oIWq7w1c80BlodBfwH5MxhXwauGLbzscmJXOfDOstg3d0y0skqmlxD1mYMerCXYFS4TZ_FCSyeGddsxIobAye0cMtacK9G7q2iSQdYX43RM9fQ&type=download",
+          "userID": 92671976,
+          "createdTime": 1058972312,
+          "type": 0,
+          "size": 3145728,
+          "mimeType": "application/octet-stream",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Resources"
+          ]
+        },
+        "QS_Dic ver2_PDF_split.zip": {
+          "fileName": "QS_Dic ver2_PDF_split.zip",
+          "description": "Orthodox American English Character Set to Quikscript Dictionary ver 2 in PDF format. Note that because the file limitation size, the PDF file was Zipped in a split format. You need this file and QS_Dic ver2_PDF_split.z01 also.",
+          "ownerName": "chuck091956",
+          "pathURI": "/Resources/QS_Dic%20ver2_PDF_split.zip",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/QS_Dic+ver2_PDF_split.zip?token=a07RBObaKwp8u9a_fsjH-kxRtQqyDEYUgpe3-maDoi9gxf8xUDp1WBEtiBj1p-VWf98oN3xgJSbl6Zn80LvsVDwbSRaotaumEX-QLzAto-d4iu2Wx0l5W8pd1ElYfm7ITCcfKw&type=download",
+          "userID": 92671976,
+          "createdTime": 1058972238,
+          "type": 0,
+          "size": 2361981,
+          "mimeType": "application/x-zip-compressed",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Resources"
+          ]
+        },
+        "QS_Keyboard.doc": {
+          "fileName": "QS_Keyboard.doc",
+          "description": "An improved version of Oliver&#39;s keyboard mapping proposal",
+          "ownerName": "danielfilan",
+          "pathURI": "/Resources/QS_Keyboard.doc",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/QS_Keyboard.doc?token=mvfmmVJsxlz7eY6TKfZBrFQYrotWMJVymthEbASQTo5fElrs0OAwt30uyOa3pBWZYRvILF0-mmgwsjMN9xoKZqr77QjKamOzY9eUt5X8JkHGXmSsSyVpdg&type=download",
+          "userID": 316737808,
+          "createdTime": 1184484971,
+          "type": 0,
+          "size": 32768,
+          "mimeType": "application/msword",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Resources"
+          ]
+        },
+        "quickscript unicode mapping.doc": {
+          "fileName": "quickscript unicode mapping.doc",
+          "description": "(proposed) character set for unicode encoding",
+          "ownerName": "oliverlangan",
+          "pathURI": "/Resources/quickscript%20unicode%20mapping.doc",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/quickscript+unicode+mapping.doc?token=8SXUOAl8bPhF0oNdAw4YrdLlvrm-P6tESozR8OxUVfaDiV3-4YoWLir6nYcV-ZDCXI7mOVPSBXY-4Ib1uOqqh_yQxpPb7ZQbnqS0p5WAZteKrE1GjnQEijJyiwbDPxtUPUwL6nCRSFF3AV5f&type=download",
+          "userID": 168229681,
+          "createdTime": 1092705196,
+          "type": 0,
+          "size": 100352,
+          "mimeType": "application/msword",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Resources"
+          ]
+        },
+        "quickscript unicode mapping.pdf": {
+          "fileName": "quickscript unicode mapping.pdf",
+          "description": "here is a pdf version of the QS encoding proposal",
+          "ownerName": "oliverlangan",
+          "pathURI": "/Resources/quickscript%20unicode%20mapping.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/quickscript+unicode+mapping.pdf?token=1ZgloC2xwwlRkFOdXA4HqXXk1QsOUremnED98uglvHilGFm2ApV-CV8bIkCiuu3IbV8bhYj0nZcvOrureNjj6J1crNrEHU7pUUlVQdssta74M7JkQ-DYS-Xt0Ap6gv9j56gNpTHznIz_6YR_&type=download",
+          "userID": 168229681,
+          "createdTime": 1144914086,
+          "type": 0,
+          "size": 80438,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Resources"
+          ]
+        },
+        "Quikscript Morse Code.pdf": {
+          "fileName": "Quikscript Morse Code.pdf",
+          "description": "A fun idea: Quikscript for amateur radio.",
+          "ownerName": "tim_rice09",
+          "pathURI": "/Resources/Quikscript%20Morse%20Code.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Quikscript+Morse+Code.pdf?token=gLMeXPFY2Nk3kUXF69GQ3E-_m4L6bIf5Z8-q2yhPVnW8Omf5uGc5E9WGu-UGToLry5U45GaYWknip1Ha9TAHEfurCd2KTz7XFNoEjLIwIdFQ7GglQE5lRaHMZW3z4DvXsSK7ITem&type=download",
+          "userID": 274193773,
+          "createdTime": 1320633207,
+          "type": 0,
+          "size": 18652,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Resources"
+          ]
+        },
+        "QuikScriptManual(Image).pdf": {
+          "fileName": "QuikScriptManual(Image).pdf",
+          "description": "Includes Key & cleaned up scan",
+          "ownerName": "leehickenlooper",
+          "pathURI": "/Resources/QuikScriptManual%28Image%29.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/QuikScriptManual%28Image%29.pdf?token=Nh8IpIQwHUckZk-AH9VZo1kRNPN9o1vVGjbTzkSlX13ZVJCFkDRxnVYtKyM_GtqM-IjgmRDYJu5eH5FPDHWsvHAN69x_0mucpNmkw6rQznd8Uo3I_KWtBljzp_SkFegAkdVi-DruR5E&type=download",
+          "userID": 65830215,
+          "createdTime": 991761385,
+          "type": 0,
+          "size": 2492476,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Resources"
+          ]
+        },
+        "QuikScriptManual.djvu": {
+          "fileName": "QuikScriptManual.djvu",
+          "description": "QuikScript Manual (same as above) in djvu format; this format has much better compression and display speed than PDF.  Check  or  for display plugin.  The size of the plugin and *this* file are still smaller than the PDF ;-)",
+          "ownerName": "pantherjosef",
+          "pathURI": "/Resources/QuikScriptManual.djvu",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/QuikScriptManual.djvu?token=fXpKYn0RWsoW9V5bV1WNsqYv7vurjzHrQcemGr-sZVNbPII8F6CN5uhxalgx6o8epWojRNRzOiGoR9IP6Z3c9KNjm6ydEgkVQ3C3xsKaTizjAvclEDIiYNarZBklvg&type=download",
+          "userID": 28599398,
+          "createdTime": 1028831437,
+          "type": 0,
+          "size": 374618,
+          "mimeType": "image/x.djvu",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Resources"
+          ]
+        },
+        "Read64_keylayout.zip": {
+          "fileName": "Read64_keylayout.zip",
+          "description": "amd64_hacker&#39;s keyboard map, for Mac OS X, with image",
+          "ownerName": "oliverlangan",
+          "pathURI": "/Resources/Read64_keylayout.zip",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Read64_keylayout.zip?token=Dre1xFetMVTT5bcmNI3xALTdnyT2T45vzul-eDuN_R8-RgGrrXjxXDp0cd41Gnc4oZTVB67yL5QSEdp7E7UdmImZrCNX71_gImhe8HEiZ38SFUSQw06KEACMsAVZ&type=download",
+          "userID": 9390441,
+          "createdTime": 1153549986,
+          "type": 0,
+          "size": 45668,
+          "mimeType": "application/zip",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Resources"
+          ]
+        },
+        "ReadCaps_keylayout.zip": {
+          "fileName": "ReadCaps_keylayout.zip",
+          "description": "oliver&#39;s keyboard map, for Mac OS X, with image",
+          "ownerName": "oliverlangan",
+          "pathURI": "/Resources/ReadCaps_keylayout.zip",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/ReadCaps_keylayout.zip?token=H6A033i1_D-jt1sE8p53QJoHhY7yYJ3F5N6yPMb-cdVWNCOiTQy6s4KOqhvJLGwqxErLIah_FRS0WC-pSTEuWMxqEy3EpCBKrEsUWLD76QvAS4MJ3E21Hihvvv21jqI&type=download",
+          "userID": 9390441,
+          "createdTime": 1153551264,
+          "type": 0,
+          "size": 294214,
+          "mimeType": "application/zip",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Resources"
+          ]
+        },
+        "ReadConvert.sit": {
+          "fileName": "ReadConvert.sit",
+          "description": "This package contains not only a application to convert Roman lettered english text to Quickscript, but also all the parts, pieces, source code, and documentation to recreate the application. For MacIntosh",
+          "ownerName": "PanEcclesiastes",
+          "pathURI": "/Resources/ReadConvert.sit",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/ReadConvert.sit?token=c5ouMaGzP3Kak8T7C8ZU6mq1E2QW5-8QOG4Tw5pBw4BaYFaii3g_BUzGtshiFCT0VizRv9rONeoi6bcnTjuaJAU_r_jsrv2KYYl2C1bINKzlOHpnpXHz7Q&type=download",
+          "userID": 4413003,
+          "createdTime": 1044589546,
+          "type": 0,
+          "size": 4704157,
+          "mimeType": "application/x-stuffit",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Resources"
+          ]
+        },
+        "Second Shaw.htm": {
+          "fileName": "Second Shaw.htm",
+          "description": "",
+          "ownerName": "frimmin",
+          "pathURI": "/Resources/Second%20Shaw.htm",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Second+Shaw.htm?token=ThLZMaJO6FzmJWjnIS1PgdBTx1N5eNFE3Iy-OKbw5Y6-cfcWBAsE_MLK9ltKb7Xpr9YH8imaqy6i8yGZb7rftmUqCC1I7_XysMfJhNTOyEuzYBmq7yU654sr&type=download",
+          "userID": 833140,
+          "createdTime": 1014773910,
+          "type": 0,
+          "size": 42286,
+          "mimeType": "text/html",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Resources"
+          ]
+        },
+        "SecondShawAlphabet(Image).pdf": {
+          "fileName": "SecondShawAlphabet(Image).pdf",
+          "description": "Cole Turnleys sheet, Second Shaw Alphabet",
+          "ownerName": "leehickenlooper",
+          "pathURI": "/Resources/SecondShawAlphabet%28Image%29.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/SecondShawAlphabet%28Image%29.pdf?token=bX0M5gDFRxiMzSk9_qzGb97vNOqJs_U-7SIL7fVIKJMfRepW6wF07aUkJQVe9s5tbZuoSqwmHLIH9gybdx5iYWRhOMK_qgoci5cEj8CdBu7uQBYPumiLVsAWkFb-jbxuq_WMrgR9AOojIA&type=download",
+          "userID": 65830215,
+          "createdTime": 991761132,
+          "type": 0,
+          "size": 131857,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Resources"
+          ]
+        },
+        "Senior Characters.GIF": {
+          "fileName": "Senior Characters.GIF",
+          "description": "The Characters Used In Senior Quickscript (beta)",
+          "ownerName": "tim_rice09",
+          "pathURI": "/Resources/Senior%20Characters.GIF",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Senior+Characters.GIF?token=r4mMxhRVjbs4ej20ir4cm4q9AuF29hu47w7cyEQ2Av9S0Mg2_8IrpuL_uriDtk-ZMUFwjg5_S-it7VeU51v5K0mNPW9r1Vu5701zdjgVoOoc_3HKDHMKaxMOSPdMCKS6&type=download",
+          "userID": 274193773,
+          "createdTime": 1153603728,
+          "type": 0,
+          "size": 3903,
+          "mimeType": "image/gif",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Resources"
+          ]
+        },
+        "Sound-writing-kr.pdf": {
+          "fileName": "Sound-writing-kr.pdf",
+          "description": "Introduction written by Kingsley Read to an exhibition at Reading University in 1972",
+          "ownerName": "moira_ob",
+          "pathURI": "/Resources/Sound-writing-kr.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Sound-writing-kr.pdf?token=Apjx2pp0eEap55VgAdUj2Nr3SvLvDn3pvmRgLy4qAqrl7p--EUPprOUmhv0PXUsvRkYkW-hb3bj5vhYlEUcIEH9pNqTUEtyQS8FUdzgPDth77yBWWzL3D0e5gQZg&type=download",
+          "userID": 163508747,
+          "createdTime": 1195255100,
+          "type": 0,
+          "size": 549416,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Resources"
+          ]
+        },
+        "Sound-writing.pdf": {
+          "fileName": "Sound-writing.pdf",
+          "description": "Moira&#39;s DOC file converted to PDF",
+          "ownerName": "melroch",
+          "pathURI": "/Resources/Sound-writing.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Sound-writing.pdf?token=k64VSuxNeiu4yfr1UrE85oLgxiwwgwN3QBuyAEMpuLhnpCr_O8MrwsVFHKZqa0gB3r7_xDADz6G-ws_MsUuUVWAE0UkDm_-WcaAoPuJ75OaN1cOz_ZQVNPi5&type=download",
+          "userID": 149542193,
+          "createdTime": 1195125449,
+          "type": 0,
+          "size": 536340,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Resources"
+          ]
+        },
+        "xkb_qs1.png": {
+          "fileName": "xkb_qs1.png",
+          "description": "X keyboard map reference image",
+          "ownerName": "amd64_hacker",
+          "pathURI": "/Resources/xkb_qs1.png",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/xkb_qs1.png?token=48WB0TL7Ve0F3a2YCRBb1AOAk1FXYmUDSmFk4jFsvg4yD_51hSvTAvf8U9M2geJUpaTavco-uUzvIo5h5qYoftDxFXkEVHTPNFj524M1km1aNrzE&type=download",
+          "userID": 180175951,
+          "createdTime": 1153508705,
+          "type": 0,
+          "size": 12999,
+          "mimeType": "image/png",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Resources"
+          ]
+        }
+      }
+    },
+    "schemes.": {
+      "fileName": "schemes.",
+      "description": "correspondence tables",
+      "ownerName": "stbett",
+      "pathURI": "/schemes./",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/schemes.?token=5yVHmatKXeohz032Scpecdnhgho48I5Msj5ezON3sdL224rllGz-GSwS6IjKykpj8Zp8VGBYgjfySWd_hVtNcTCAWFaXj3dM&type=download",
+      "userID": 59584518,
+      "createdTime": 1040264998,
+      "type": 1,
+      "size": 0,
+      "mimeType": "",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": [],
+      "dirEntries": {
+        "14vowels-5n.html": {
+          "fileName": "14vowels-5n.html",
+          "description": "14 pure vowels in 5 notations",
+          "ownerName": "stbett",
+          "pathURI": "/schemes./14vowels-5n.html",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/14vowels-5n.html?token=rpyBBj4lhMyfnJc6YTcyet022An2hcNPopt6VUyu0d7P9BsUXd0LCoRVeoPZ8WEaDKUWikFr0OnNb8HVZ6lcHEnaDzsP2C9ZLFcT0FZnau9mjAF5bJxOQw&type=download",
+          "userID": 59584518,
+          "createdTime": 1040267049,
+          "type": 0,
+          "size": 18037,
+          "mimeType": "text/html",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "schemes."
+          ]
+        },
+        "englis-short.html": {
+          "fileName": "englis-short.html",
+          "description": "ENglis GP Table",
+          "ownerName": "stbett",
+          "pathURI": "/schemes./englis-short.html",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/englis-short.html?token=rTLqnLbC7D4hUoCgnYPiR_NSJLaT_mteCG9L_YjEILQ61negtld9nZNqJ78rCs9ERu6j07YMdMHVKph5LE0aRXih-aPpgHch9U23IZItKyiR6ZxxqXoyZS4&type=download",
+          "userID": 59584518,
+          "createdTime": 1056941095,
+          "type": 0,
+          "size": 53707,
+          "mimeType": "text/html",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "schemes."
+          ]
+        },
+        "names_num_letters.txt": {
+          "fileName": "names_num_letters.txt",
+          "description": "names, revised names, Unicode letter, Latin letter, number",
+          "ownerName": "paulhtremblay",
+          "pathURI": "/schemes./names_num_letters.txt",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/names_num_letters.txt?token=6dVoVxRBZe_Hy8aXbsc6ETR7c0pxLwLPxdIOYZ7oUnDDPaGCNeP83AM6eQgmS4zM1Zom--Yu33osvE7wxNr21vspOz-rF7c_jr_rFaFkr0K_dGefXSM6ocsEUPHp&type=download",
+          "userID": 214981082,
+          "createdTime": 1195313413,
+          "type": 0,
+          "size": 1183,
+          "mimeType": "text/plain",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "schemes."
+          ]
+        },
+        "quik_shaw.html": {
+          "fileName": "quik_shaw.html",
+          "description": "A table of glyphs and sounds shared between quikscript and shavian.",
+          "ownerName": "amd64_hacker",
+          "pathURI": "/schemes./quik_shaw.html",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/quik_shaw.html?token=EpMGjIJ3j9ffxszrc-2KJaYz91ZpK4bcwwakGmCBgime8qNx_j2nC7gSQe_InpEBHRbE3ZG6QAd2-wRBO-03n762PCQPtKoUT1wSH1GZQ3jrfk11jL0&type=download",
+          "userID": 180175951,
+          "createdTime": 1185552895,
+          "type": 0,
+          "size": 8199,
+          "mimeType": "text/html",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "schemes."
+          ]
+        },
+        "read-write.gif": {
+          "fileName": "read-write.gif",
+          "description": "color coded scheme and PMF",
+          "ownerName": "stbett",
+          "pathURI": "/schemes./read-write.gif",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/read-write.gif?token=tOrocXOesm7tU5zlTJ7T22e7afzUXKwz-bnA5o_hlw7vdfUbZ65dIyssrjJojGthQM4u-SJEDybcNXce-luhwB8KRvAwmjFuEO2jWCMV5B0mGGyOKxs&type=download",
+          "userID": 59584518,
+          "createdTime": 1052944956,
+          "type": 0,
+          "size": 21228,
+          "mimeType": "image/gif",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "schemes."
+          ]
+        }
+      }
+    },
+    "Some handwritten texts in Senior Quikscript": {
+      "fileName": "Some handwritten texts in Senior Quikscript",
+      "description": "All texts fully use the official Quikscript abbreviations and contractions listed in The Manual, and all were written before 1923 to avoid copyright problems.",
+      "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+      "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Some+handwritten+texts+in+Senior+Quikscript?token=HCTynMpP14UhFM2JMah1iC6I-4lexnjxewoMBI4tJuybq3D1YicrGT00sOg958mlGhReMa3TWpVlzSZL-_0O_oi1jRWkX1Qv5UBoqhO6kwqehsp0UBNfhbc3IE9TW9AMrbD8sja6FaLGkgw_1S1Bg-mK_vMD&type=download",
+      "userID": 581669695,
+      "createdTime": 1526316655,
+      "type": 1,
+      "size": 0,
+      "mimeType": "",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": [],
+      "dirEntries": {
+        "Jabberwocky by Carroll in orthodox QS pg1.jpg": {
+          "fileName": "Jabberwocky by Carroll in orthodox QS pg1.jpg",
+          "description": "Nonsense poem &quot;Jabberwocky&quot; by Lewis Carroll in orthodox QS, page 1 of 2",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/Jabberwocky%20by%20Carroll%20in%20orthodox%20QS%20pg1.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Jabberwocky+by+Carroll+in+orthodox+QS+pg1.jpg?token=Li9i3sYOOfxFmbtuW2VXQ6jvQoUapN8svv2FM9iiUTCWHkeMns_6LN4qAn-UCVQYeqE5z5TZW74cDDXvkz7Oa3NZOpnjKrv9s0X5SRR1o70cNgTffm9jfiR8oPZkB_N5ztF5rG9C8HFWyWzJBfZG1s2k_iXGlgkopU-Xs9Cfvm1sjD3OOMhjXFZY8XuGXvren8JnHrsM2bNAiNAKw4qCYxtAYDrR-wFTM8HJa-h-&type=download",
+          "userID": 581669695,
+          "createdTime": 1527532784,
+          "type": 0,
+          "size": 1300277,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "Jabberwocky by Carroll in orthodox QS pg2.jpg": {
+          "fileName": "Jabberwocky by Carroll in orthodox QS pg2.jpg",
+          "description": "Nonsense poem &quot;Jabberwocky&quot; by Lewis Carroll in orthodox QS, page 2 of 2",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/Jabberwocky%20by%20Carroll%20in%20orthodox%20QS%20pg2.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Jabberwocky+by+Carroll+in+orthodox+QS+pg2.jpg?token=QSRj8CEW8CLBJdiGI3I8WRgcevJU2RzVS6iGxKVYYw9fsCQaTcFCFwAZ8aq9IncpHexmIWGPPxHFO6Rcsi3CdaM6LviDbvsUmRE8yutWUdcPA2i91KvjHDrbIEOoz0UaGJFYO_FgIYoi-UINBT1y90FgccSqBAbMVU7CVtKWYDxxHqUOjCsvtzDw8L2MIBy4NeJQfsBsjZ7l-IIrLFGeOdJSVctopCYzPDyvteAe&type=download",
+          "userID": 581669695,
+          "createdTime": 1527532829,
+          "type": 0,
+          "size": 1575672,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "JohnDaviesOfHereford sonnet.jpg": {
+          "fileName": "JohnDaviesOfHereford sonnet.jpg",
+          "description": "Sonnet by John Davies of Hereford (1563-1618) in orthodox Senior",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/JohnDaviesOfHereford%20sonnet.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/JohnDaviesOfHereford+sonnet.jpg?token=9OEpQ-ZsbjsWSRWmLTXkL4rmD_s1Y_ztd9GchiGM7We8bruMT_ityE-u2LwBmuIG_7JQWlnRbVme6SdL2Qwbx1OUwk_9oLIvJYFEMxFZQ62xHdjmIXoTnmsnPU_Hy9f5tEZ8gbvOYH3jajYxw-7t2XSLeiJ1HWWplkwdUFJmhHE5yY44GzTf3z4yqlxFM9OWFfXyrY7S&type=download",
+          "userID": 581669695,
+          "createdTime": 1530377573,
+          "type": 0,
+          "size": 1559093,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "Keats steadfast.jpg": {
+          "fileName": "Keats steadfast.jpg",
+          "description": "Keats sonnet &quot;Bright star, would I were steadfast as thou art&quot; in orthodox Senior",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/Keats%20steadfast.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Keats+steadfast.jpg?token=szwNJLXHUHw2VMAsMcxh8nmgVH7_Kde0nwLubhr-e55oEZ8lHkHO21qieD52bDvbUNNyowm-hylVaFJNk5UGOXnfebMxqICiwtD6EjiQo8ReBGkROONBlPoP_GY1e0rFAin4hI7zy3jX4J7nGuuYCTx_MomVa5FAs3xyuVM1pRBqS2Rr_NizV1h9&type=download",
+          "userID": 581669695,
+          "createdTime": 1529854632,
+          "type": 0,
+          "size": 1553133,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "On the Eclipse of the Moon.jpg": {
+          "fileName": "On the Eclipse of the Moon.jpg",
+          "description": "On the Eclipse of the Moon of October 1865 in orthodox Senior by Charles Tennyson Turner (1808-1879)",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/On%20the%20Eclipse%20of%20the%20Moon.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/On+the+Eclipse+of+the+Moon.jpg?token=BC1jiuNSWNEAGxUqOHGp5FkqlIUM9YF3_9OOoGBkn_mjtHfOAvG_UmQuKU-3drxTsx-9Ct1AjNpnY_mbRQ1K9jIdQYeLMs24Z_CiPFQXi7iY0tq81pUUBJMnOhjZMOLKWc_OM39POtXwnAbR1WSDMQhnNfjjM5_pimXjWikDurypNoDSWlDRNe-eNLSgv3aBJQQuyTFRl7D0xKt_cQ&type=download",
+          "userID": 581669695,
+          "createdTime": 1529783458,
+          "type": 0,
+          "size": 1414879,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "Ozymandias.jpg": {
+          "fileName": "Ozymandias.jpg",
+          "description": "Shelly&#39;s Ozymandias, King of Kings sonnet in orthodox Quikscript",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/Ozymandias.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Ozymandias.jpg?token=hCZLEq3EfjbqMn0Ez6iyEEyeoNitKbxCyGydrMHTrRNn0lOW-lnUTzAhtNBVPMwniMdjH7khDdgV_TO24GEURXmFZQ5Y_c3NxN8Tw6dac2mCKC8iKq6_BZbfZ2RMGRUJmjJo9gu_1vZLek6tj3hYXGQpCArUW2lWDnasgjWzVnVgjtk&type=download",
+          "userID": 581669695,
+          "createdTime": 1529950197,
+          "type": 0,
+          "size": 1446725,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "poemForYoungLucy-Who-is-Dead.jpg": {
+          "fileName": "poemForYoungLucy-Who-is-Dead.jpg",
+          "description": "Poem by William Wordsworth (1770-1850), of lamentation on the death of young Lucy, in Senior QS",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/poemForYoungLucy-Who-is-Dead.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/poemForYoungLucy-Who-is-Dead.jpg?token=uhswJ9tpGQL9tp785DpXpxCooBp1gglSf6Szr1wLl3eHZ_Iya6YAqYwwJHyorZsi_SjP6XhITOhMuSgAI32IsLgaU_WOVhB-pXCYpakTCUq8PxofbOtDc7kvXzw_yEF_WemI1HwEORMjNO5Lgbk5kyM13RS6Q3oUvJl8DVFC1bnHMq9oFsvb183XCI7KwMdRLGdPeRo&type=download",
+          "userID": 581669695,
+          "createdTime": 1526758864,
+          "type": 0,
+          "size": 1528909,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "robert-herrick-1591-1674 love poem.jpg": {
+          "fileName": "robert-herrick-1591-1674 love poem.jpg",
+          "description": "To His Mistress, Objecting to Him Neither Toying nor Talking",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/robert-herrick-1591-1674%20love%20poem.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/robert-herrick-1591-1674+love+poem.jpg?token=arqzVCdIRk1v1TTVqYqFVDCXeKHgChIwnmuZwawII9rel-ksoA2bRJOWMPhrsxXKp2BLLDaVvAaazyMXgnVGq4bSyxTaIgz9S5Evy9_0mJjnqJP-6JZUMnXb-qklCOGfWXcDxR0O0xwXr63alYtq8APExxDNpthbP6EDbpCukIlVtpu0WNcKdwZk0ZgedEKoVP3eNGSQtVriQeNimpZo&type=download",
+          "userID": 581669695,
+          "createdTime": 1526862647,
+          "type": 0,
+          "size": 1407885,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "Rossetti - Remember.jpg": {
+          "fileName": "Rossetti - Remember.jpg",
+          "description": "Christina Rossetti (1830-1894) poem titled &quot;Remember&quot; in Senior",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/Rossetti%20-%20Remember.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Rossetti+-+Remember.jpg?token=6F8jCR3BSnD384a0mN0tN_GPiASaFaLx5LTK4rESymMnfpB4pJKPmIcf6i1ch65KXh5Q6e8I7XUoI1Bkbf0i8bQgKh4oEvIQbhf8nzrxW2T8hUPuTbY9vikDdxEVphftnJTebpYlH5736Qlcp2tgNDfvY9kyAJF437qSlH3tcJ_5dPzU_WAdfGOKgJoZOMab&type=download",
+          "userID": 581669695,
+          "createdTime": 1526938566,
+          "type": 0,
+          "size": 1312019,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "shakespeare sonnet 106.jpg": {
+          "fileName": "shakespeare sonnet 106.jpg",
+          "description": "Shakespeare sonnet #106 in orthodox Quikscript",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/shakespeare%20sonnet%20106.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/shakespeare+sonnet+106.jpg?token=zjtl91SBqmlzHTM7zuX48JeICGuGBZg4jlavI-Y3nBngEfqIztmdZYjnoK1UdtYaATUx3qb-8u0yicYou8uPPtmDkqgrcgxivHNEwbI9fZyXHtaiqHjpbq4ljNtMfeZVN59TZG5O2ghIJ9zd1pOdSyJsqvGt_igeUGsFgJM1vJJI-JXV41oFhEj0zhnvy53J1fdG&type=download",
+          "userID": 581669695,
+          "createdTime": 1529015427,
+          "type": 0,
+          "size": 1507072,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "ShakespeareSonnet130QS.jpg": {
+          "fileName": "ShakespeareSonnet130QS.jpg",
+          "description": "Shakespeare sonnet 130 in Quikscript",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/ShakespeareSonnet130QS.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/ShakespeareSonnet130QS.jpg?token=z3Das9EUs2DaVmKoz8DZEtFMmfG_Yzg5AJPGTAY47zKJlgR5FCi7bO0swBYtEtT1OC3tlwZ3EoGzv3aqaoSWRJ-9kr7bmzaKutzpkFExjE8Dsx4-POoy-OkO7iPQlT92PZLoDeG8FVVgWSsIV1eCvWbF78BpEmOIGakzMQQ7cGnkNa6ffR944z483wEdImY&type=download",
+          "userID": 581669695,
+          "createdTime": 1526481945,
+          "type": 0,
+          "size": 1336815,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "shall I compare thee p.jpg": {
+          "fileName": "shall I compare thee p.jpg",
+          "description": "Shakespeare&#39;s famous sonnet &quot;Shall I compare thee to a summer&#39;s day?&quot; in orthodox Quikscript",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/shall%20I%20compare%20thee%20p.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/shall+I+compare+thee+p.jpg?token=LuqKg19YIJrrB9LpLvB-qRkf35ISiEvoqd5-_DG7x7rQViJlvXOU8vSbfDkSvi0OeedKRYNtGsss5495R5PLgqOxYv5T0BSIocDfLzI1bPb6DhMRkyZbIozMPysZa_bIMy-DMu_SKbG2_UodH_aw9230cz8mn9icjGaV7mZCuleilgWeyO6RN5PKOmFBSIwrUP3y8aa93A&type=download",
+          "userID": 581669695,
+          "createdTime": 1528675489,
+          "type": 0,
+          "size": 1591378,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "Shelley - To The Moon.jpg": {
+          "fileName": "Shelley - To The Moon.jpg",
+          "description": "Poem written To The Moon by Percy Bysshe Shelley (1792-1822)",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/Shelley%20-%20To%20The%20Moon.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Shelley+-+To+The+Moon.jpg?token=jbmriCDM_aoDqwIkp3fef6A127rdAH7zs3ILFSDv_f9GMICu4I2meeLo3Jg9AyiFkTF7yDhj0fITOfvnW3IHOkugQ6gvTDWWouqXGN7aHoWY2avcFQgxrwKyP3KvrwBWuEYLxW4xTG2cVdIHICkUrnE1muSNBQ_785F3QjfIpCn_yFm3JzGSv0oZ0EvKpT819Om1PDk9&type=download",
+          "userID": 581669695,
+          "createdTime": 1526933341,
+          "type": 0,
+          "size": 1611346,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "sir-philip-sidney1554-1586-2-rotated.jpg": {
+          "fileName": "sir-philip-sidney1554-1586-2-rotated.jpg",
+          "description": "Love poem from the 1500s by Sir Philip Sidney",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/sir-philip-sidney1554-1586-2-rotated.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/sir-philip-sidney1554-1586-2-rotated.jpg?token=IC7wcPgNy6BscjTSbBKmZh8SniVEgR5uA2JADMxg6vvekxEmmxrJz_JhQXlUPHFs0DqVoeh_0mXQN57OqyDuukxe7oyd-OqzcKjLSbvzXUPnssaAf9n0cshT-8sXdvfWnbby-C_pavH0SrIRP29ev3pNdw3U1CEUQobSxSOsIEEm4Cu9P2Pe3XqG8KoyiAeq2d8fZc6uB_SyjG0oTQ&type=download",
+          "userID": 581669695,
+          "createdTime": 1526316710,
+          "type": 0,
+          "size": 1304765,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "song -- the willing mistress part 1.jpg": {
+          "fileName": "song -- the willing mistress part 1.jpg",
+          "description": "The Willing Mistress, by Aphra Behn (1640-1689), in orthodox QS, part 1",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/song%20--%20the%20willing%20mistress%20part%201.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/song+--+the+willing+mistress+part+1.jpg?token=83ucxASnkADs_LNbOwPpsLP_DFtNbSqj0dspiQp18yi7iiThHj7qtx5DM-eV5dwe04FiTW0eJr3MvT0rzIMmQw70QRg1Pyqa65wEEvJrKMVJUVGZOp3LvemXcP3xsJ5JV2gDWLo6CS5rI7CuOnsqex3aK7TUD-oHfGJCO-IbDX5cgHNv8CZMXoOXfbQkvlVP05sOpqtSZjj6heKiTNb8C_RSsWIRskSp&type=download",
+          "userID": 581669695,
+          "createdTime": 1527718537,
+          "type": 0,
+          "size": 1345217,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "song -- the willing mistress part 2.jpg": {
+          "fileName": "song -- the willing mistress part 2.jpg",
+          "description": "The Willing Mistress, by Aphra Behn (1640-1689), in orthodox QS, part 2",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/song%20--%20the%20willing%20mistress%20part%202.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/song+--+the+willing+mistress+part+2.jpg?token=Dc8MpLwoS6fbMYK2_uvFfuMYyy5laIYVMb3e89Up8FrHb_3JWfZx3uuzsn-3-yY9iQ63ayQAW8mB7KJun7-qzkC_X9K4Tfegina75I1lrfvFTFFAFvtSiNJEAViH-VrnvN29i-5gqvutLbMkKYoYk8t20CwARzKx_Q1CjY473mNOG7WN2lRfufZ88z46g9paUc_HkHBt0bYobqvj2U3jW8cffUnall4c&type=download",
+          "userID": 581669695,
+          "createdTime": 1527718576,
+          "type": 0,
+          "size": 1300518,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "the crocodile by Lewis Carroll.jpg": {
+          "fileName": "the crocodile by Lewis Carroll.jpg",
+          "description": "Mini-ode to the Crocodile by Lewis Carroll in orthodox Senior",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/the%20crocodile%20by%20Lewis%20Carroll.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/the+crocodile+by+Lewis+Carroll.jpg?token=xvBkaNJ9Ugdzjf1zB0d_I-rIBuOQmEvlh0Uimoi8A2D6EhwUuah7qVEz-jeWL3o2z5Hz71hvGvZ192vf-O1la7qvI0I1u8Ny3d4HPpDMdapBguWqisjrNAvbhjVaxwNj7tRChbhQ8E5tJdiOj9ekGblwIgXKq1MzyPt03qT7QnYXfmJ3KIy2kHvGaRgM6JOmYnrkWSA9ncneWWfc7ZJo&type=download",
+          "userID": 581669695,
+          "createdTime": 1530659038,
+          "type": 0,
+          "size": 1241290,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "The Idiot Girl.jpg": {
+          "fileName": "The Idiot Girl.jpg",
+          "description": "&quot;The Idiot Girl&quot; sonnet by Mary F. Johnson (fl. 1810) in orthodox Senior",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/The%20Idiot%20Girl.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/The+Idiot+Girl.jpg?token=2pIEVwejWESDkK8HvbnDwvCT0N_1qazy--oqIYVCZfyE14tLDSH-3QGJYpb41keCgv0iJ7sM-GpYLGb8D3ibn-UWwMN3p8Wgp1nAsF0hRvZ2JMZukx3jANCo2chA_0nqKA2vwuSApnnE-_zAwA6hvgpf1HlhAO3AiBIsU7-DiZM2-gXvYW4p2yUCkg&type=download",
+          "userID": 581669695,
+          "createdTime": 1530567472,
+          "type": 0,
+          "size": 1307288,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "The Poplar Field pg1.jpg": {
+          "fileName": "The Poplar Field pg1.jpg",
+          "description": "The Poplar Field by William Cowper (1731-1800) in orthodox Senior Quikscript, pg. 1",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/The%20Poplar%20Field%20pg1.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/The+Poplar+Field+pg1.jpg?token=lTLCgnguCZ5Bc-Zvj7u_YRYQXPtjv8HelQLDsjIYL3DYzW4OvLZvEJ04AdFaohplUtLw3qTWxzNOvKu8bkLfv1KNeWcBXEdl_s_TUChKYNCfySDnQ_hcc7WV2xC1NUGBzTJklxYxP-nXG2iqhT4vLB4INJcj4PEhr4_UEV6oF9An9YGHCExuaQ-elUGowNZ5-hPP&type=download",
+          "userID": 581669695,
+          "createdTime": 1527863831,
+          "type": 0,
+          "size": 1509811,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "The Poplar Field pg2.jpg": {
+          "fileName": "The Poplar Field pg2.jpg",
+          "description": "The Poplar Field by William Cowper (1731-1800) in orthodox Senior Quikscript, pg. 2",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/The%20Poplar%20Field%20pg2.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/The+Poplar+Field+pg2.jpg?token=ZpmmtVxXpiyj03NhMg00Izwi8x16YVI5x1ayyWyWa_knd9EGH8KM4PwwQmZxjo4IDPJsNQifKDF5p1cjuWAiTKLVy3m6xb4QEo3sRlblcgd_v6IUtQ2eb8IOkQ_FaLkL3oefmwdzZ2Dzmp0rQURIXXpE9Yuao4e_UJ8kpNCBPLqVVf-JMHsQqI0eZ_BtUYSPkS4X&type=download",
+          "userID": 581669695,
+          "createdTime": 1527863856,
+          "type": 0,
+          "size": 1554509,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "Thomas Russell sonnet -- To The Spider.jpg": {
+          "fileName": "Thomas Russell sonnet -- To The Spider.jpg",
+          "description": "Sonnet by Thomas Russell (1762-1788) titled &quot;To The Spider&quot;, written in Senior Quikscript",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/Thomas%20Russell%20sonnet%20--%20To%20The%20Spider.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Thomas+Russell+sonnet+--+To+The+Spider.jpg?token=6qiw-L5GcLphkL3nzlgnEIroLINIDnju27tKy5X9R9EXeGju1PeeioIrEVfALTn0HAx6hdVawk0KBvl7HEaEXu1ijjt3FRk5g8311qiVblrzxjLSnydvcOgr7dvisw7cbXzJAne1WCSqzbR4am9z3JM1bu3H4HxSjpbZb9qcKI2aVbF8jjjIg1QK5gDy_b07pbVP0KrLSYouSgerNY2UFcKp1VVTXk4m1vVl&type=download",
+          "userID": 581669695,
+          "createdTime": 1526758785,
+          "type": 0,
+          "size": 1680027,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "To the Virgins pg 1.jpg": {
+          "fileName": "To the Virgins pg 1.jpg",
+          "description": "To the Virgins, To Make Much of Time, page 1, Robert Herrick (1591-1674):  &quot;Gather ye rose-buds while ye may...&quot;",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/To%20the%20Virgins%20pg%201.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/To+the+Virgins+pg+1.jpg?token=rKGJxHOgM4ZNzqMgRj-2lPwJxwKs_0jtYJPj9IuQuMdiajxK6u44wRxI6UY5Tq3ggY63YV8YcsFNnpqjY5hWEkXJXjIO8rQMYMVOVSnkPrPbzybVup4WVJQewm_hhZKNWw49xiYyV1PukTiIcaQNHDgW8ff2oWKUPVg21NtgCZdxVfYHL7phayTmM1lYsXYMjlu3HA&type=download",
+          "userID": 581669695,
+          "createdTime": 1527623325,
+          "type": 0,
+          "size": 1338038,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "To the Virgins pg 2.jpg": {
+          "fileName": "To the Virgins pg 2.jpg",
+          "description": "To the Virgins, To Make Much of Time, page 2, Robert Herrick (1591-1674):  &quot;Gather ye rose-buds while ye may...&quot;",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/To%20the%20Virgins%20pg%202.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/To+the+Virgins+pg+2.jpg?token=757j_KdTXLDaEsrgsSk5rWw8AH533W-FO4OIXdfk8QSAozmK7Vs_VIN_aBU6TtSUURn5vsRAf8tK5l9X9j7LpFcMeE3_y_g9N0mVFmo9_KnhCVcXY8Cm_4276SHoNfPl__cpU38IrmpH8n3i6Z64ThEtZqu_LKtZE-2OuoRcX39SbnTE_GJhfr2hpR0FHs01YXQAHA&type=download",
+          "userID": 581669695,
+          "createdTime": 1527623568,
+          "type": 0,
+          "size": 1321191,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "William Blake And Did Those Feet in Ancient Time part 1.jpg": {
+          "fileName": "William Blake And Did Those Feet in Ancient Time part 1.jpg",
+          "description": "William Blake &quot;And did those feet in ancient time&quot; poem (also used as the lyrics to an Emerson, Lake, and Palmer song), Part 1",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/William%20Blake%20And%20Did%20Those%20Feet%20in%20Ancient%20Time%20part%201.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/William+Blake+And+Did+Those+Feet+in+Ancient+Time+part+1.jpg?token=Vx05B3VADhWwyr_cRokGkbzn7PZTknCJkgsK1Kpvay2UsePPET_fyWqAQAz8_UGYWKaT7ah9CJuzA03fk8i1vVjCxlBLWdJZhV4imEeYW4eCcxhYzO_BjhN1nm-XKkMX4BStAUm01YWixV0gCXv_WiEZtDVC-AdF3QOj4tOVRuT2qC_E6O43y6W7bM2x4yY0NPDFVZv1e75jGhYJphl-Qp_6RLo0XoZytIL7Nv9DL36oxUvC9B2sWt2E5mVxrNSN55OScA&type=download",
+          "userID": 581669695,
+          "createdTime": 1527091056,
+          "type": 0,
+          "size": 1618602,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "William Blake And Did Those Feet in Ancient Time part 2.jpg": {
+          "fileName": "William Blake And Did Those Feet in Ancient Time part 2.jpg",
+          "description": "William Blake &quot;And did those feet in ancient time&quot; poem (also used as the lyrics to an Emerson, Lake, and Palmer song), Part 2",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/William%20Blake%20And%20Did%20Those%20Feet%20in%20Ancient%20Time%20part%202.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/William+Blake+And+Did+Those+Feet+in+Ancient+Time+part+2.jpg?token=K5-aT9vFkeNRozlAXe7CJgRw5iPCOQhvzP0Xg-r-ThbgdPfGQCbgt5_5fMDsD41QfpUXlVdj_n67rL1ycbtFUJNFOS9b_KMup-ZitvB2utiHooAexBE4mI8J3BrsFEM8mA5NxxYuDIFP8_yM7jhjHM63h5NQCO3h8AxYVhl20-fMP3BsoYQBz3Rd0ryQ7fnqszjraAnGthZI5BlGE0tYm1V4JdTvE-ph-VPjIJKFs1tD85lqCTFq-DPV-HVie24riJvp6g&type=download",
+          "userID": 581669695,
+          "createdTime": 1527091858,
+          "type": 0,
+          "size": 1546483,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        },
+        "Wordsworth sonnet on the Sonnet.jpg": {
+          "fileName": "Wordsworth sonnet on the Sonnet.jpg",
+          "description": "Sonnet on the Sonnet by Wordsworth in orthodox QS",
+          "ownerName": "gpdiqhfx45cwvckybgkazrwe22guir3me33fnyth",
+          "pathURI": "/Some%20handwritten%20texts%20in%20Senior%20Quikscript/Wordsworth%20sonnet%20on%20the%20Sonnet.jpg",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Wordsworth+sonnet+on+the+Sonnet.jpg?token=DQRvNABvGYYqm4vydJ8l6T_JHUinajeljPejTtCr7XHitoiFXxE96I698x5fPtLFpW4OxHTuWm3NaaMTNefJGLXZ0lmPOK8ZXlKkaVVY_w4OrP2ISTmFniU6WVODcEAKsW9L6pD_FTg8BJaVe-bRoQsZPtu6xWu1wnlPNc6p1md99RDWAyjLcYgKNAKC6gDUi-M-nu3HYgWuB0Fxfrq4CQ&type=download",
+          "userID": 581669695,
+          "createdTime": 1530044595,
+          "type": 0,
+          "size": 1540305,
+          "mimeType": "image/jpeg",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Some handwritten texts in Senior Quikscript"
+          ]
+        }
+      }
+    },
+    "Text Entry": {
+      "fileName": "Text Entry",
+      "description": "tools for typing QS",
+      "ownerName": "othermale",
+      "pathURI": "/Text%20Entry/",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Text+Entry?token=ZPtTTGw0fc7ugdpBG-FFao63wHPaHcBx36DT_sA4eOip5sh2GWwJ1fWdwbse4TKtaly5jgAGtfm4a9Gs85WEiIrpv6jEoUj7aCmm3g&type=download",
+      "userID": 326670551,
+      "createdTime": 1196259002,
+      "type": 1,
+      "size": 0,
+      "mimeType": "",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": [],
+      "dirEntries": {
+        "en-qs.zip": {
+          "fileName": "en-qs.zip",
+          "description": "Unicode QS keyboard for Windows",
+          "ownerName": "tim_rice09",
+          "pathURI": "/Text%20Entry/en-qs.zip",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/en-qs.zip?token=HUq8RGM41r7j7cIv5GHg56ihC0A7wQ4Uf4Xewg_UNiMSiTeP9XQMGAcccLUM0aKiuUIzHl1QuhFya9a7Omro2Y_iAQUmAIXqfWqSefKkl4QBuNIOSg&type=download",
+          "userID": 274193773,
+          "createdTime": 1310446159,
+          "type": 0,
+          "size": 249599,
+          "mimeType": "application/x-zip-compressed",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Text Entry"
+          ]
+        },
+        "Quickscript-ibus.tar.gz": {
+          "fileName": "Quickscript-ibus.tar.gz",
+          "description": "Compatible with I-bus, SCIM, UIM etc. with the m17n extension installed.",
+          "ownerName": "tim_rice09",
+          "pathURI": "/Text%20Entry/Quickscript-ibus.tar.gz",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Quickscript-ibus.tar.gz?token=4DnlbLfoV2_r-Nt9U3ZQgTznTJKdwgCcg3yCa460bJ8ZWtyvfsiUvQX_3j5X5w9-A5NBzN70e5R3T1Ql7h5hXWwX0MiUCEHOeRfg-kv25CgOEdANNKvxhGExXjaMCR8ffU1j&type=download",
+          "userID": 274193773,
+          "createdTime": 1308586426,
+          "type": 0,
+          "size": 17706,
+          "mimeType": "application/x-gzip",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Text Entry"
+          ]
+        },
+        "quickscript_junior_keyboard_windows.zip": {
+          "fileName": "quickscript_junior_keyboard_windows.zip",
+          "description": "junior Unicode typing in all windows programs",
+          "ownerName": "othermale",
+          "pathURI": "/Text%20Entry/quickscript_junior_keyboard_windows.zip",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/quickscript_junior_keyboard_windows.zip?token=mR6rwhU4b1xNxPe4VThpUbeMVjh9inI85PwGyy97LLjUu3ar7p6P36W-ugxqOaXBuK-PWGZWDwE-b4GDkUrMGqe2Xkp3eqUGg_CKkvPVfepNNJlwSbqoZDNA08QDZ0OGQ6bSXkGscDROeXxzsHyp3Dl65Q&type=download",
+          "userID": 326670551,
+          "createdTime": 1196264359,
+          "type": 0,
+          "size": 213373,
+          "mimeType": "application/zip",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Text Entry"
+          ]
+        }
+      }
+    },
+    "Texts": {
+      "fileName": "Texts",
+      "description": "Transcribed into Read&#39;s Alphabet",
+      "ownerName": "",
+      "pathURI": "/Texts/",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Texts?token=8hjDoboX1L0GqQCJS2SxDxIo2A7tRDzFhXboo1ioxGN7iBe0xO53Vnt6GOwljxtX6UKMyyoxIdTSqSE6p6KUMmnJvXny&type=download",
+      "userID": 39592035,
+      "createdTime": 975564053,
+      "type": 1,
+      "size": 0,
+      "mimeType": "",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": [],
+      "dirEntries": {
+        "Call of Cthulhu-QS.pdf": {
+          "fileName": "Call of Cthulhu-QS.pdf",
+          "description": "The Call of Cthulhu by H.P. Lovecraft, now in Quikscript",
+          "ownerName": "tim_rice09",
+          "pathURI": "/Texts/Call%20of%20Cthulhu-QS.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Call+of+Cthulhu-QS.pdf?token=5iQEhoszukgZ17E-hhboT1u4GpKfWZ8mPLMdUMzll4__FG8n6LE2BQ7PkzrbIV4DmbCW7j212n1lWmkycXlkCMi_kskve7dXmmFuwRmuCzshS5_ovBccdOtMpaZLNII&type=download",
+          "userID": 274193773,
+          "createdTime": 1363106811,
+          "type": 0,
+          "size": 115975,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Texts"
+          ]
+        },
+        "Fishstory.pdf": {
+          "fileName": "Fishstory.pdf",
+          "description": "Revised sampler of new QS font",
+          "ownerName": "mcbroom1946",
+          "pathURI": "/Texts/Fishstory.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Fishstory.pdf?token=VXs_wD35eMh1f8Cedalg3CH-tXoAEPLF7CvdBzBzO9HDnV5wYJLHDKbyfR6w_WxYW2FWzV2lqklqdJnvLUOTTa43eokTwgKvoai8tmpy47Y9jw&type=download",
+          "userID": 192085222,
+          "createdTime": 1102201962,
+          "type": 0,
+          "size": 156429,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Texts"
+          ]
+        },
+        "Genesis QS.pdf": {
+          "fileName": "Genesis QS.pdf",
+          "description": "The Book of Genesis, World English Bible, in Quickscript",
+          "ownerName": "tim_rice09",
+          "pathURI": "/Texts/Genesis%20QS.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Genesis+QS.pdf?token=1UMECWSrfkdm_nf5Y0pAYbdfqo-lxmEFS2nn7Ppe9BoJcGDagSzgVh7V0l4pBrrUFBs3bttaX9POONqMYS-yc-wBTM49hdgxAv8bbOI2op7_dURqCw&type=download",
+          "userID": 274193773,
+          "createdTime": 1305608891,
+          "type": 0,
+          "size": 330140,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Texts"
+          ]
+        },
+        "Jabberwocky.doc": {
+          "fileName": "Jabberwocky.doc",
+          "description": "A poem by Lewis Carrol. Written in QSJ Block",
+          "ownerName": "danielfilan",
+          "pathURI": "/Texts/Jabberwocky.doc",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Jabberwocky.doc?token=TUtVCC7dZYSx2_jRwqH2KR_ZCu8nNqqUfGOtJQfVpDOF0NDxhTtjtIYn-VWgxG55EbDZBBG9bNn27QShPAuo9d-4u3HjtqLHvZajJRTh2B3Hm6wz&type=download",
+          "userID": 316737808,
+          "createdTime": 1187856606,
+          "type": 0,
+          "size": 21504,
+          "mimeType": "application/msword",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Texts"
+          ]
+        },
+        "lemon.juice.story.doc": {
+          "fileName": "lemon.juice.story.doc",
+          "description": "Amusing story.  Transcribed with QS converter",
+          "ownerName": "pgabhart",
+          "pathURI": "/Texts/lemon.juice.story.doc",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/lemon.juice.story.doc?token=O9Ai_CPkDAjH0_1kPbEuqBP0RnO-7oParXmLw5Jp4fsdmKB919Wqkh1uLAK7Hymp0D9un9TtOgOknP6x4XlWPTpJDPmWiXVJ2Qm7zhhxCoHaanrOESUDt-WT&type=download",
+          "userID": 179365481,
+          "createdTime": 1125265918,
+          "type": 0,
+          "size": 54784,
+          "mimeType": "application/msword",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Texts"
+          ]
+        },
+        "macbeth2.wpd": {
+          "fileName": "macbeth2.wpd",
+          "description": "Macbeth, Act One, Scene One",
+          "ownerName": "pgabhart",
+          "pathURI": "/Texts/macbeth2.wpd",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/macbeth2.wpd?token=l_OTWCRj-meyQn_Ffv_8pprsk62nr6Dppu6_Op-fOzQdebCqabTmB_bOYoT6hrarjNVHmOmlXRheM7ZBw5HHbEg1ZzEllLbOeb6MRr6mT0Yq&type=download",
+          "userID": 3379436,
+          "createdTime": 1014348236,
+          "type": 0,
+          "size": 4824,
+          "mimeType": "application/wordperfect5.1",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Texts"
+          ]
+        },
+        "maelstrom.pdf": {
+          "fileName": "maelstrom.pdf",
+          "description": "Edgar Allan Poe&#39;s &quot;A Descent into the Maelstrom&quot; (parallel text - American, New England accent - no abbreviations)",
+          "ownerName": "sgoldgaber",
+          "pathURI": "/Texts/maelstrom.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/maelstrom.pdf?token=CRVq9nFRoIqVzrdYp8kZndK5D-f440bFZ1R9HAEWggdJlHhx5N8xIMXFYTDY_2UvgMwXUOvmek71oBLkXSst3eZD1a-MxrBdgjP4z4fDLfiaBA&type=download",
+          "userID": 63011010,
+          "createdTime": 1220961690,
+          "type": 0,
+          "size": 186933,
+          "mimeType": "application/x-pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Texts"
+          ]
+        },
+        "milligan.html": {
+          "fileName": "milligan.html",
+          "description": "Two poems.",
+          "ownerName": "amd64_hacker",
+          "pathURI": "/Texts/milligan.html",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/milligan.html?token=HlQ8aOdxHhrCU-kDhACiivtuasmg7bxYKLxN4dj9lpWDFHfYHfeEgHQRF2gLcDF2ThPZ7Tu5Xh0-cMCETHBuCoaUUqBU8QjLzGjgIuXp8eyT3g&type=download",
+          "userID": 180175951,
+          "createdTime": 1186430826,
+          "type": 0,
+          "size": 840,
+          "mimeType": "text/html",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Texts"
+          ]
+        },
+        "mouse.pdf": {
+          "fileName": "mouse.pdf",
+          "description": "Robert Burns&#39; &quot;To A Mouse, on Turning Her Up in Her Nest, With The Plough&quot;  (parallel text)",
+          "ownerName": "sgoldgaber",
+          "pathURI": "/Texts/mouse.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/mouse.pdf?token=huELrtrim_sP7vEmpXBwm_TY_5jyNK77bAb6x_jbJCCkTdF6Xt5ps_2Zq1VjlKNEzFcsRNFQnPzaSvQfuIdKepDyfAVkqGtu5-GO4YbG&type=download",
+          "userID": 63011010,
+          "createdTime": 1221053842,
+          "type": 0,
+          "size": 42124,
+          "mimeType": "application/x-pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Texts"
+          ]
+        },
+        "nothing.gold.doc": {
+          "fileName": "nothing.gold.doc",
+          "description": "Nothing Gold Can Stay",
+          "ownerName": "pgabhart",
+          "pathURI": "/Texts/nothing.gold.doc",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/nothing.gold.doc?token=Dq3Vv82nu-j7JisHFWusfoFvtuDs4vj5ldMjvkd7PjJ-eHnYjG9IpV1JSZt9YlaSNmf6BSmldXv2dMXRtMU193SQVF2lJja1z2gH3kv3JtMGJAGnig&type=download",
+          "userID": 3379436,
+          "createdTime": 976860522,
+          "type": 0,
+          "size": 4608,
+          "mimeType": "application/octet-stream",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Texts"
+          ]
+        },
+        "Ozymandias.doc": {
+          "fileName": "Ozymandias.doc",
+          "description": "A poem by Percy Bysshe Shelley. Written in QSJ Block",
+          "ownerName": "danielfilan",
+          "pathURI": "/Texts/Ozymandias.doc",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Ozymandias.doc?token=Y14R5M1B-FURp0n_4IbHqQX4rWTO7I6NrE2S1ZR77Wm374BmVoI8QOr_Y8sv8SEE-cb-KQHUB3FLXAH3tmFPVmKqBsoqtJ_9j1FJcnx_9WUVoZI&type=download",
+          "userID": 316737808,
+          "createdTime": 1188103384,
+          "type": 0,
+          "size": 19968,
+          "mimeType": "application/msword",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Texts"
+          ]
+        },
+        "peter piper.pdf": {
+          "fileName": "peter piper.pdf",
+          "description": "Peter Piper&#39;s Practical Principles of Plain and Perfect Pronunciation",
+          "ownerName": "sgoldgaber",
+          "pathURI": "/Texts/peter%20piper.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/peter+piper.pdf?token=xtlq016zTbel8d-6SLOxG37_Hk_QHyE58274MEnZwloTOVAp9jcAlIFTQcTH0RgYDebyJkg4s2Tx1wQZo-RwfKwXkLukrwex8zCWNzWimmuKWwPYZKM&type=download",
+          "userID": 63011010,
+          "createdTime": 1220392694,
+          "type": 0,
+          "size": 600098,
+          "mimeType": "application/x-pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Texts"
+          ]
+        },
+        "QS New Testament working copy.pdf": {
+          "fileName": "QS New Testament working copy.pdf",
+          "description": "The New Testament in QS with restored names. Adapted from the WEB",
+          "ownerName": "tim_rice09",
+          "pathURI": "/Texts/QS%20New%20Testament%20working%20copy.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/QS+New+Testament+working+copy.pdf?token=CwTQcAe5nLFPs26JlWQATEXKlZBmafCWeMm6dpOK-4KoHdRdWLy_6RY7YLqevSFFz-Ph-NLMLMBgEbL697dJO8QOb4r6wIoKwS9fe3Ob1MRMZrYAdgCs2S3_q-tRBJMt_4jPn6NAxdIIOxV_t2E&type=download",
+          "userID": 274193773,
+          "createdTime": 1369535343,
+          "type": 0,
+          "size": 1690484,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Texts"
+          ]
+        },
+        "The Garden of Proserpine.doc": {
+          "fileName": "The Garden of Proserpine.doc",
+          "description": "A poem by Algernon Swinbourne. Written in QSJ Block.",
+          "ownerName": "danielfilan",
+          "pathURI": "/Texts/The%20Garden%20of%20Proserpine.doc",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/The+Garden+of+Proserpine.doc?token=YeJ_Yon94RwsgJ3Pup3GcpspdmZ95_i7ur3kjBp0XxG-9Oxm82RNb-5vsqHXyQBnVIw3esAXmgCr2HYOaLNoHc66P6dF9DHYgbjgN3gyFbucsntyyzLs2yo0rC8BzsofiLhwmbt4QA&type=download",
+          "userID": 316737808,
+          "createdTime": 1188023555,
+          "type": 0,
+          "size": 30720,
+          "mimeType": "application/msword",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Texts"
+          ]
+        },
+        "The Three-toed Grynch.doc": {
+          "fileName": "The Three-toed Grynch.doc",
+          "description": "A poem by Odgen Nash",
+          "ownerName": "danielfilan",
+          "pathURI": "/Texts/The%20Three-toed%20Grynch.doc",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/The+Three-toed+Grynch.doc?token=flj6rge6DKCsL0XuTJdfFCbSd5L8uNhyuT8UcjTJ6RZoCMuchxQSO1o-_AXpFhyA4NO5xolje_XonLOMgem0SkE6L1iKFJLL4zwmG_LfbEPxElYov2CxKCwMu2aAGBncBgQ&type=download",
+          "userID": 316737808,
+          "createdTime": 1184494480,
+          "type": 0,
+          "size": 19456,
+          "mimeType": "application/msword",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Texts"
+          ]
+        },
+        "the-art-of-war_qs.pdf": {
+          "fileName": "the-art-of-war_qs.pdf",
+          "description": "the art of war",
+          "ownerName": "brentlangille",
+          "pathURI": "/Texts/the-art-of-war_qs.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/the-art-of-war_qs.pdf?token=BJbt5JpJbPF4lZqvr4tBDTEDJB4NZNBIDAQ6xBGw44m4nLEBl_vdt2rb2YwAAwSMxf1lQAuCPspKI43hwy0N5GmJTgEle_SqcHqaj_vPKLhh-vTxXypg8py7&type=download",
+          "userID": 413547070,
+          "createdTime": 1312151705,
+          "type": 0,
+          "size": 432590,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Texts"
+          ]
+        },
+        "TheRavenQS.rtf": {
+          "fileName": "TheRavenQS.rtf",
+          "description": "Poe&#39;s The Raven - using ShawTwo",
+          "ownerName": "thermalrift",
+          "pathURI": "/Texts/TheRavenQS.rtf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/TheRavenQS.rtf?token=WwkcaD7394iOD5LxVfJae7Ik9T_mrVulU7jGJpwwSTqHcrHouRfFUS8YC-s2hOQhTdDz4AYGMtTR6tfiLpSW6P_Fefu3wxbZBV1l_V8Bp4iHL0I&type=download",
+          "userID": 137907378,
+          "createdTime": 1193849253,
+          "type": 0,
+          "size": 50659,
+          "mimeType": "application/octet-stream",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Texts"
+          ]
+        },
+        "Thoreau-Civil Disobedience.pdf": {
+          "fileName": "Thoreau-Civil Disobedience.pdf",
+          "description": "Civil Disobedience by Henry David Thoreau, Walden coming seen",
+          "ownerName": "tim_rice09",
+          "pathURI": "/Texts/Thoreau-Civil%20Disobedience.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Thoreau-Civil+Disobedience.pdf?token=D8euVTgln2SkXEQ87p3rRvqXZE-6WkOd4fy0uJp78rDnvwVEnzryaEkSPd-03jeISvg3PXFpxIV2N0RnWsqB7Po64I_TPEnYKBKhWBb2sctxqPL29S71nfLmBxSLT5jkwNCaR3A&type=download",
+          "userID": 274193773,
+          "createdTime": 1367895727,
+          "type": 0,
+          "size": 111888,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Texts"
+          ]
+        },
+        "Through The Looking Glass.pdf": {
+          "fileName": "Through The Looking Glass.pdf",
+          "description": "An international QS version of Lewis Carroll&#39;s &quot;Through The Looking Glass&quot;",
+          "ownerName": "peter_r_guinness",
+          "pathURI": "/Texts/Through%20The%20Looking%20Glass.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Through+The+Looking+Glass.pdf?token=5lLXTYZiiGY87KGmy6dCJ_xMjXOUY-iL0ZkxGe6mDt7KuVMthMb15sdH3sAh-V1JSJxnwZyAkZWQLhRFohpzHDan28YFSzRPxhuGlXoLWHmat-hRBtvFNhFHAbQQEKQ8zdg7BRMAFNQ&type=download",
+          "userID": 384995112,
+          "createdTime": 1252303896,
+          "type": 0,
+          "size": 557394,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Texts"
+          ]
+        },
+        "wizard_of_oz-1-0-1.pdf": {
+          "fileName": "wizard_of_oz-1-0-1.pdf",
+          "description": "&quot;The Wonderful Wizard Of Oz&quot; - international QS version",
+          "ownerName": "peter_r_guinness",
+          "pathURI": "/Texts/wizard_of_oz-1-0-1.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/wizard_of_oz-1-0-1.pdf?token=UN6BegSWLtWy9RfDKNw56VtqG-8W-cZyD_N53MUH1j6K4RgHxo-WcVZMXcxNFjKFPrJT99JtJ9utjxpyDtoX5zXMusHBYDxZ2Ky_czCdL4g0XuTPiBK4hkAieA&type=download",
+          "userID": 384995112,
+          "createdTime": 1401235217,
+          "type": 0,
+          "size": 512177,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Texts"
+          ]
+        }
+      }
+    },
+    "Tutorials": {
+      "fileName": "Tutorials",
+      "description": "",
+      "ownerName": "peter_r_guinness",
+      "pathURI": "/Tutorials/",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Tutorials?token=lBQ0pm8VcPfH95XrDlGPtJoauwawX6qRVGCh7xQSj5YJ-FmQ_8kLVmnauELNQGFxZqSx40KKbN2qq3aPJLYdwev6gBnGS-HzsA&type=download",
+      "userID": 384995112,
+      "createdTime": 1290170722,
+      "type": 1,
+      "size": 0,
+      "mimeType": "",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": [],
+      "dirEntries": {
+        "Progressive reading tutorials": {
+          "fileName": "Progressive reading tutorials",
+          "description": "A series of progressive reading tutorials based on &quot;Alice in Wonderland&quot;",
+          "ownerName": "peter_r_guinness",
+          "pathURI": "/Tutorials/Progressive%20reading%20tutorials/",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Progressive+reading+tutorials?token=OaUV7QzILVxu65mtO9LGo_HFiFBbiEq7saY2XA3fPO2uqZvSpPdb2dEvMZ4yTztuI7Qk9IpefxnOoVgQkRPfhtnKkZJFOS7DHeXsxuAPf9nvOppnHulvBuVOiiB7ARq9Nv2E2jgjquA1sYM&type=download",
+          "userID": 384995112,
+          "createdTime": 1290170906,
+          "type": 1,
+          "size": 0,
+          "mimeType": "",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Tutorials"
+          ],
+          "dirEntries": {
+            "aiwl_chapter_01.pdf": {
+              "fileName": "aiwl_chapter_01.pdf",
+              "description": "",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/Tutorials/Progressive%20reading%20tutorials/aiwl_chapter_01.pdf",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/aiwl_chapter_01.pdf?token=Dd3pN0RYPiq3ywVjtW-cO4W7dxq-NcAuTsEUgQqACm_0T39ZQlYoYH513EfEKLTHnKZkIOjhRvU2hlJtbeKJbXv5-edFeE2RrUozBPTxCdazo6DwspMDbnYlsm9d2knnzu3hKi4CVX_pRCMdZDd93ochnYgV7XwMrVD64eX4&type=download",
+              "userID": 384995112,
+              "createdTime": 1290171024,
+              "type": 0,
+              "size": 490299,
+              "mimeType": "application/pdf",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "Tutorials",
+                "Progressive reading tutorials"
+              ]
+            },
+            "aiwl_chapter_02.pdf": {
+              "fileName": "aiwl_chapter_02.pdf",
+              "description": "",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/Tutorials/Progressive%20reading%20tutorials/aiwl_chapter_02.pdf",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/aiwl_chapter_02.pdf?token=hXTXjZpWenkwJ_u9z0NqGl1sgXxBnSkZjE-SogOgX-KkSW3nuxiHOOCeZMVz1oJ1rdb0w3NhasdlU_SIYGFmHwNuhcRiEUTmheO9pdfm0iUW_FIgtaRX0GhoCsurVXXWDhxU3Fgou4eWnYzJqpxoIn9n7MepIBmxdn5zUPG_&type=download",
+              "userID": 384995112,
+              "createdTime": 1290171128,
+              "type": 0,
+              "size": 687638,
+              "mimeType": "application/pdf",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "Tutorials",
+                "Progressive reading tutorials"
+              ]
+            },
+            "aiwl_chapter_03.pdf": {
+              "fileName": "aiwl_chapter_03.pdf",
+              "description": "",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/Tutorials/Progressive%20reading%20tutorials/aiwl_chapter_03.pdf",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/aiwl_chapter_03.pdf?token=fjpxHyxRhh3HB76B25ve9MAOnmVATplPC7a-oG0cqV9yeTlG5Fh6I0g5zeF9YUTYTdfTA1YhdSwYRhIEs_w0NGofFgyag0N--5t74pyx-y1TqtwP2Yq_1CD62KsYXQMGRiuq5SrHlryfGQkuhwQspOSQ-cNkJ6cR3XtTbrMz&type=download",
+              "userID": 384995112,
+              "createdTime": 1290171179,
+              "type": 0,
+              "size": 655516,
+              "mimeType": "application/pdf",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "Tutorials",
+                "Progressive reading tutorials"
+              ]
+            },
+            "aiwl_chapter_04.pdf": {
+              "fileName": "aiwl_chapter_04.pdf",
+              "description": "",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/Tutorials/Progressive%20reading%20tutorials/aiwl_chapter_04.pdf",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/aiwl_chapter_04.pdf?token=cBpQppPUZzSY3DpkiqNmU_0fGUgbfXiUTli5kP1fw2p2LsulVsT2lKVXuGK2cJ79jB3HaGLhm1YIFvoW36m30Y_bgJBIgZvwbjqMXwGZPPsZ1ygLmeC2GfWzcgnFXqKBxYaW6CWL57SyMKwm3sY85GhPQ_ILVegnypufKy09&type=download",
+              "userID": 384995112,
+              "createdTime": 1290171268,
+              "type": 0,
+              "size": 626157,
+              "mimeType": "application/pdf",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "Tutorials",
+                "Progressive reading tutorials"
+              ]
+            },
+            "aiwl_chapter_05.pdf": {
+              "fileName": "aiwl_chapter_05.pdf",
+              "description": "",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/Tutorials/Progressive%20reading%20tutorials/aiwl_chapter_05.pdf",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/aiwl_chapter_05.pdf?token=r4-MTtB9uOz0gQNKwiXrEbmENK6i7JsLUIT0gh_hReZ0dedm6TTqqWh4aV-ikyVfihYyX2uM4gTS6rFmHwsnULz5w9vFH_MhotBAOOvfv9KoadWeUipsttkAw4Z7aASh9QH8baZP85mVwEKV3defWu2SVz13O0UNAvH6Fn1W&type=download",
+              "userID": 384995112,
+              "createdTime": 1290171364,
+              "type": 0,
+              "size": 863531,
+              "mimeType": "application/pdf",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "Tutorials",
+                "Progressive reading tutorials"
+              ]
+            },
+            "aiwl_chapter_06.pdf": {
+              "fileName": "aiwl_chapter_06.pdf",
+              "description": "",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/Tutorials/Progressive%20reading%20tutorials/aiwl_chapter_06.pdf",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/aiwl_chapter_06.pdf?token=FNtxzj5qcvIYm_xy6KgGmqeu4Fio3WnUdJ0LlcUO0nmXtgMgIvW_JkDJmdpFmcMRCB8DQGBhrFYTAcRB7tR8ilLnCEL9Gc5AdvBpX8e4H4AUVNs2E1M-QyryNcj2usp-J6xz7IAtPiut-L5J9-g3JHe8tOypQjOcrDdmWj4y&type=download",
+              "userID": 384995112,
+              "createdTime": 1290171429,
+              "type": 0,
+              "size": 685744,
+              "mimeType": "application/pdf",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "Tutorials",
+                "Progressive reading tutorials"
+              ]
+            },
+            "aiwl_chapter_07.pdf": {
+              "fileName": "aiwl_chapter_07.pdf",
+              "description": "",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/Tutorials/Progressive%20reading%20tutorials/aiwl_chapter_07.pdf",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/aiwl_chapter_07.pdf?token=huqTWIvcNoHTYK-gUPZKqBlbp-TtVBrR5j2sBAnvUqmViKVlT1L6Pg_sWVHjFaBU1INLp_KAh6cVnbXY1tm0LmNofR7wt1VwpRjTp1VrrMP82dlgCT7p3D28sXkBTHp27bKRImxnoyilo9fNVdJh3TVWcHLElzSo1_lyyC8A&type=download",
+              "userID": 384995112,
+              "createdTime": 1290171500,
+              "type": 0,
+              "size": 589436,
+              "mimeType": "application/pdf",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "Tutorials",
+                "Progressive reading tutorials"
+              ]
+            },
+            "aiwl_chapter_08.pdf": {
+              "fileName": "aiwl_chapter_08.pdf",
+              "description": "",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/Tutorials/Progressive%20reading%20tutorials/aiwl_chapter_08.pdf",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/aiwl_chapter_08.pdf?token=BQX79SQoWt94YW11bjsJaeDOA7Z2znc0ngRw5R6eve_gL4gSNW7DnqM-jndAqV2b8EoBaIZ734crY6Pn3FjLzNMeUVEb-i-1tT1OHOVRXAeuUOyi4yrWd9ToHoT3UAlok7k4yJUiGvDnLpwWtxOJdjQs1MvhYh6uWd7_Jzho&type=download",
+              "userID": 384995112,
+              "createdTime": 1290171539,
+              "type": 0,
+              "size": 587885,
+              "mimeType": "application/pdf",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "Tutorials",
+                "Progressive reading tutorials"
+              ]
+            },
+            "aiwl_chapter_09.pdf": {
+              "fileName": "aiwl_chapter_09.pdf",
+              "description": "",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/Tutorials/Progressive%20reading%20tutorials/aiwl_chapter_09.pdf",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/aiwl_chapter_09.pdf?token=2HyKFlAEdJbbc_eAXGfTB5pPAcLaMZVwvCMRqDqnogCgnWjuWgX9gRZcYdIoGbAIBmufl4gYbNvHFZe5aYRCuLgKgm5PpbLNOdNoSHt5RO2jPLb2mPeKMe16f3YpuAlHwlw4FhZhQY-LPFWo8rlFxmxn_l8X7ugcOVkhPpud&type=download",
+              "userID": 384995112,
+              "createdTime": 1290171624,
+              "type": 0,
+              "size": 565157,
+              "mimeType": "application/pdf",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "Tutorials",
+                "Progressive reading tutorials"
+              ]
+            },
+            "aiwl_chapter_10.pdf": {
+              "fileName": "aiwl_chapter_10.pdf",
+              "description": "",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/Tutorials/Progressive%20reading%20tutorials/aiwl_chapter_10.pdf",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/aiwl_chapter_10.pdf?token=eb0APTSbY5WJOnLu1p6oyI-T-SyLaPACVbUgZVnWEUOAFP6sivN3mTRYwJVuhVuPpGVMLC_ZqLKqVqkJsGldMfrPIJEmzWGmWZcx1cG6H3IPnfaGLcoLYY2DQqkoUdLoOpNQ4MMWe_-0eDDBXzHyO-ftifm4bcOdY4Kj74Wb&type=download",
+              "userID": 384995112,
+              "createdTime": 1290171729,
+              "type": 0,
+              "size": 640325,
+              "mimeType": "application/pdf",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "Tutorials",
+                "Progressive reading tutorials"
+              ]
+            },
+            "aiwl_chapter_11.pdf": {
+              "fileName": "aiwl_chapter_11.pdf",
+              "description": "",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/Tutorials/Progressive%20reading%20tutorials/aiwl_chapter_11.pdf",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/aiwl_chapter_11.pdf?token=IrpdxXk2yHn677FQqRs7MyH3nm4J3_6ma5isIIFs5hoAVJ0wgKSYdusastA4GaITcmFyraDMFxJvHott2yPXldd5HeJ14xRbpd4owDAD_Wq31aRLhDZS6QeFXv9UmhkEmZj5FTh0aKjA3purX1al5xrv_37Q0btyk_1BEHUu&type=download",
+              "userID": 384995112,
+              "createdTime": 1290171833,
+              "type": 0,
+              "size": 549694,
+              "mimeType": "application/pdf",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "Tutorials",
+                "Progressive reading tutorials"
+              ]
+            },
+            "aiwl_chapter_12.pdf": {
+              "fileName": "aiwl_chapter_12.pdf",
+              "description": "",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/Tutorials/Progressive%20reading%20tutorials/aiwl_chapter_12.pdf",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/aiwl_chapter_12.pdf?token=MrGJ_-5tnDo456bmCadnJcnazev8yG-eWxBm3xzE0jeOWBqZuOgTyC9ko3NpFSVopfacUYwW7HUUm61yazR1mnsuk-s1H3hRTHRLaU7GwTflZ9IBm5LYPtQpwiywUUiiE4DzLQVRn2nMiGwa5c47std64EWjnREfE77Nfz4C&type=download",
+              "userID": 384995112,
+              "createdTime": 1290172753,
+              "type": 0,
+              "size": 563833,
+              "mimeType": "application/pdf",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "Tutorials",
+                "Progressive reading tutorials"
+              ]
+            },
+            "aiwl_intro_notes.pdf": {
+              "fileName": "aiwl_intro_notes.pdf",
+              "description": "",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/Tutorials/Progressive%20reading%20tutorials/aiwl_intro_notes.pdf",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/aiwl_intro_notes.pdf?token=Hxd4h0ZyD5XH30TYmEeILAcaDUcRY6WrqlVNyxGUBWdkFv7obL5FTsjw44wpK0dxB4VVmm1urMzito9qPrsgxoeR8QOojxMB6FZD8gcr6lvkO0DRwNQH1qJ_InbGztV_vBFfPH3WxDuivvGidcrMTdz8-NLLB0rWbz7jTQ2uSg&type=download",
+              "userID": 384995112,
+              "createdTime": 1290172788,
+              "type": 0,
+              "size": 226327,
+              "mimeType": "application/pdf",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "Tutorials",
+                "Progressive reading tutorials"
+              ]
+            },
+            "quickscript_alphabet_junior.pdf": {
+              "fileName": "quickscript_alphabet_junior.pdf",
+              "description": "",
+              "ownerName": "peter_r_guinness",
+              "pathURI": "/Tutorials/Progressive%20reading%20tutorials/quickscript_alphabet_junior.pdf",
+              "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/quickscript_alphabet_junior.pdf?token=-IrRCB8k1eYQTRFOQVdhAVOeGmohRLIpVbNUYgreo-daPfkGNArACVdVRvR5ntsg8ql_rH3Tc1dnUmlV4njaggw9kHNMfMwq9jMqDxVGx6X54RAE1coBmxcUZ3pCXSejrH1jbmdHHjNBQddsWxDnRVK5LGFBqiT7XJbFquRkm1itRphqv94xJeNX&type=download",
+              "userID": 384995112,
+              "createdTime": 1290172821,
+              "type": 0,
+              "size": 172406,
+              "mimeType": "application/pdf",
+              "option": 0,
+              "fileOptionFlags": [
+                "SF_OPT_NONE"
+              ],
+              "parent_dirs": [
+                "Tutorials",
+                "Progressive reading tutorials"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "Unicode Proposal": {
+      "fileName": "Unicode Proposal",
+      "description": "For files related to the Unicode proposal",
+      "ownerName": "amd64_hacker",
+      "pathURI": "/Unicode%20Proposal/",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Unicode+Proposal?token=C42hBl4do8HD4VAzof0e8jbi5s0nmdyPVorhINBhhrcqRPRMvGMY6xhfQ73h5cQsaSam8GyFsctxplXkJSTbLOSkgbYUrvJGJLLxBcub3ta3Zw&type=download",
+      "userID": 180175951,
+      "createdTime": 1189286439,
+      "type": 1,
+      "size": 0,
+      "mimeType": "",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": [],
+      "dirEntries": {
+        "n3102-form.html": {
+          "fileName": "n3102-form.html",
+          "description": "PROPOSAL SUMMARY FORM TO ACCOMPANY SUBMISSIONS FOR ADDITIONS TO THE REPERTOIRE OF ISO/IEC 10646",
+          "ownerName": "amd64_hacker",
+          "pathURI": "/Unicode%20Proposal/n3102-form.html",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/n3102-form.html?token=FVr-mmdmFNeD7ftEjEDhw4oNja-JAYGSqPVZ_WXs1O3_edJWB7HrD4u4C3I16EQHPp4-toEvLkVYIY2SvxMLXnar01h9zKWHRndbg7u2z3gBtvqdWGSob7pg9iGE8gHxKA&type=download",
+          "userID": 180175951,
+          "createdTime": 1189287943,
+          "type": 0,
+          "size": 31324,
+          "mimeType": "text/html",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Unicode Proposal"
+          ]
+        },
+        "proposal.txt": {
+          "fileName": "proposal.txt",
+          "description": "The Unicode proposal",
+          "ownerName": "amd64_hacker",
+          "pathURI": "/Unicode%20Proposal/proposal.txt",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/proposal.txt?token=9VezPTUumnPYpRRUK7Hid2RPdWlBbVF5w3x6oviqLAwKBX18K5T82__Fj-Y_vQaVO0Bypm6r0YxeOH6w8LIQuYxBZB_cpYy9zk8GIwU7OA9aA258KgYTCck6p1Zb3g&type=download",
+          "userID": 180175951,
+          "createdTime": 1190669975,
+          "type": 0,
+          "size": 7548,
+          "mimeType": "text/plain",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Unicode Proposal"
+          ]
+        },
+        "shavian-quikscript-draft1.pdf": {
+          "fileName": "shavian-quikscript-draft1.pdf",
+          "description": "Michael Everson&#39;s 2007 chart for discussion of unification between Shavian and QS",
+          "ownerName": "evertype",
+          "pathURI": "/Unicode%20Proposal/shavian-quikscript-draft1.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/shavian-quikscript-draft1.pdf?token=WGRGKZ3NQ-_5l8qfIev9zwfXQe59vRToK7mJ8M_dSRA3k-OlBOvGZvszzRnnavUB4muSR2jHQYIVRdF1VTA6TbT9yQ3fiY8E2jKGHTn0W24yXMse2V1IN_z-QKqxXMGsx5Z5mqDj_J6-XjfrBdvF&type=download",
+          "userID": 82638473,
+          "createdTime": 1193779297,
+          "type": 0,
+          "size": 58524,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Unicode Proposal"
+          ]
+        },
+        "shavian-quikscript-draft2.pdf": {
+          "fileName": "shavian-quikscript-draft2.pdf",
+          "description": "Michael Everson&#39;s 2013 chart for discussion of unification between Shavian and QS",
+          "ownerName": "evertype",
+          "pathURI": "/Unicode%20Proposal/shavian-quikscript-draft2.pdf",
+          "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/shavian-quikscript-draft2.pdf?token=wVsb2sRigONpIfXnJic1JYWTjz-X3gdhSCYcaeDv1uESQwwVKyq24Uh-tRGlVKzh0H6KhpbJ-TUz_V5bz33Bm6Zui_vE3uq8PTb3dTEwYtbcW0XeQLYwABrALcWZDrnMk31VsdCrY78t2lYAtAdi&type=download",
+          "userID": 82638473,
+          "createdTime": 1365980197,
+          "type": 0,
+          "size": 112736,
+          "mimeType": "application/pdf",
+          "option": 0,
+          "fileOptionFlags": [
+            "SF_OPT_NONE"
+          ],
+          "parent_dirs": [
+            "Unicode Proposal"
+          ]
+        }
+      }
+    },
+    "Copy of Image0005 copy.jpg": {
+      "fileName": "Copy of Image0005 copy.jpg",
+      "description": "mahadev",
+      "ownerName": "asozasky",
+      "pathURI": "/Copy%20of%20Image0005%20copy.jpg",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Copy+of+Image0005+copy.jpg?token=o6IHARsUmLtHiaU2qz7y-jrgHU5_4k5T_yeyIlrcaDZM-d-W7boiq81iy0kYBrAZegLZ2lUhSXENAnxVp8tZHlbQhRYPpGPf3gKv8UF00FrultuQNQ4yjpuAu3-9oCo&type=download",
+      "userID": 443931776,
+      "createdTime": 1287084059,
+      "type": 0,
+      "size": 206035,
+      "mimeType": "image/jpeg",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": []
+    },
+    "download.png": {
+      "fileName": "download.png",
+      "description": "What shawalphabetbooks.com SHOULD look like on December 30th-31st, 2012.",
+      "ownerName": "rubik67",
+      "pathURI": "/download.png",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/download.png?token=ZrxH1H8gAV-My97YTIOs5BUzlHWxK0X-lybn-4ztlVN6yViKZauoy4yUoKRjOSzYOPuptUxVCjhbldczfyNT5w_NVANlvYPDmP2w&type=download",
+      "userID": 111730019,
+      "createdTime": 1356978649,
+      "type": 0,
+      "size": 227367,
+      "mimeType": "image/png",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": []
+    },
+    "prayer.jpg": {
+      "fileName": "prayer.jpg",
+      "description": "The Lord&#39;s Prayer.  (Original version of Jerome font, November 26, 2000)",
+      "ownerName": "frimmin",
+      "pathURI": "/prayer.jpg",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/prayer.jpg?token=4CUGVL-t3A_Dk-cieGOm6oJejjFSh6mz-ko0I3LDJvj9EAjaFv2q3_3Hrd3mRdZKA5lJi-esPs4dw-zOCrN09ugOdTxVwTkhjA&type=download",
+      "userID": 833140,
+      "createdTime": 1014774924,
+      "type": 0,
+      "size": 55024,
+      "mimeType": "image/pjpeg",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": []
+    },
+    "Qsusa copia.jpg": {
+      "fileName": "Qsusa copia.jpg",
+      "description": "A map of the United States written in Quikscript.",
+      "ownerName": "euphoniumguy521",
+      "pathURI": "/Qsusa%20copia.jpg",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Qsusa+copia.jpg?token=6xZUZu4oMTfUUtw5FxODJ5iXqc9EZMYpACAPm-PnE-CyE759A5m9Rtq-S2_Giu5oxR4pcYHb7SK_HzsSm9ewfHXc1WEZG_1GEgbrNKBXPEY&type=download",
+      "userID": 251585302,
+      "createdTime": 1177462761,
+      "type": 0,
+      "size": 520754,
+      "mimeType": "image/jpeg",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": []
+    },
+    "Quickscript_alfabet.png": {
+      "fileName": "Quickscript_alfabet.png",
+      "description": "Quikscript - Dutch transliteration",
+      "ownerName": "ramsesoudt",
+      "pathURI": "/Quickscript_alfabet.png",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/Quickscript_alfabet.png?token=Y_y58pnUVbG0EKUy6wBRn-Uf77Hvzzf_V3m5OigEbXo6hNMZv4Fq1LIFfo8lJea9u1uw7M9PO-O-ga6vYxtJB4bNuFyMjdQQIar8DDKo25Lk7gM0ldo&type=download",
+      "userID": 58115794,
+      "createdTime": 1156251881,
+      "type": 0,
+      "size": 22961,
+      "mimeType": "image/x-png",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": []
+    },
+    "quikscript alphabet.GIF": {
+      "fileName": "quikscript alphabet.GIF",
+      "description": "Nice Alphabet List",
+      "ownerName": "etfjr",
+      "pathURI": "/quikscript%20alphabet.GIF",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/quikscript+alphabet.GIF?token=YQN1yd4E1577ql6pbbiquDk2qC_Q1QSNjbfGgmYikz-Q0Qw44hTAY-0Mfu3urA3HZPU73TPnMjr25UNomDReK6pSdVFvL4RuUtT4jgf0fg2N0sshhbX0Gw&type=download",
+      "userID": 2601597,
+      "createdTime": 1092252187,
+      "type": 0,
+      "size": 9386,
+      "mimeType": "image/gif",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": []
+    },
+    "QuikscriptGeometric.ttf": {
+      "fileName": "QuikscriptGeometric.ttf",
+      "description": "Announced and uploaded to Reddit by &quot;5hwb&quot;",
+      "ownerName": "tinyallen",
+      "pathURI": "/QuikscriptGeometric.ttf",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/QuikscriptGeometric.ttf?token=BoaiAZr1giplG4jj0uhE2lbovuru-UX_jD9d5SHu0jxZyGX3cKLXiKJoAnpZCQBPKm9_upGdMie-QOvGQ5I8w4oJ0OA77LUdBGcObsp0hW4nBfOnPPY&type=download",
+      "userID": 71466833,
+      "createdTime": 1518207785,
+      "type": 0,
+      "size": 22168,
+      "mimeType": "application/x-font-ttf",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": []
+    },
+    "revised_alphabet.png": {
+      "fileName": "revised_alphabet.png",
+      "description": "Nice big alphabet with revised names",
+      "ownerName": "paulhtremblay",
+      "pathURI": "/revised_alphabet.png",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/revised_alphabet.png?token=rNyX_8LVGiecoiaPZs59xj9ABANofEj0K_lEWUS5x55AdTGnXORGSHkMyKvpN71DBSkcTk6q_4YmBwFsTL7GoEjyeyEOQgaSQBSMB4ESYGAtDpQ&type=download",
+      "userID": 214981082,
+      "createdTime": 1196973615,
+      "type": 0,
+      "size": 105821,
+      "mimeType": "image/png",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": []
+    },
+    "revised_with_ipa.png": {
+      "fileName": "revised_with_ipa.png",
+      "description": "",
+      "ownerName": "paulhtremblay",
+      "pathURI": "/revised_with_ipa.png",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/revised_with_ipa.png?token=0xp5hghIuechXvEygu1sn9b-ZasZCrWd7Tbi3SVPozUg5dEWG15mdRQ9q38vyH0VR9xBsU2cDPb1_4D3thLZZEilqbgEmBqM3pHoWPN51abpEXE&type=download",
+      "userID": 214981082,
+      "createdTime": 1193844826,
+      "type": 0,
+      "size": 104481,
+      "mimeType": "image/png",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": []
+    },
+    "scim-qs.tar.gz": {
+      "fileName": "scim-qs.tar.gz",
+      "description": "SCIM tables for Quickscript, one for Unicode (private use area) and one for Jerome (and similar ASCII mapped fonts)",
+      "ownerName": "myzomela63",
+      "pathURI": "/scim-qs.tar.gz",
+      "downloadURL": "https://xa.yimg.com/df/Read_Alphabet/scim-qs.tar.gz?token=ORpV8oTWEFTGwB6kIRMOIG0OutLpKU3_giJ7L1iU6Sq_mzuH-E0UmsA-dWsjk8jF9MVqkrsIovn4Ckg1fXF21LIrt8cDKQFRjhdunmg&type=download",
+      "userID": 327488507,
+      "createdTime": 1212265912,
+      "type": 0,
+      "size": 37782,
+      "mimeType": "application/x-gzip",
+      "option": 0,
+      "fileOptionFlags": [
+        "SF_OPT_NONE"
+      ],
+      "parent_dirs": []
+    }
+  }
+}

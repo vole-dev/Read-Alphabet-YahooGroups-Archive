@@ -1,0 +1,31 @@
+{
+  "userId": 168229681,
+  "authorName": "oliver langan",
+  "from": "oliver langan &lt;oliverlangan@...&gt;",
+  "profile": "oliverlangan",
+  "replyTo": "LIST",
+  "senderId": "5VxoJnltoJ7wqfH6qGo-zOVNMmJifK8_jXU9hIunxa05X88Wj8Q-v3SyEaRwuHNnY4d3rMWbMEOg2J0YRgKI3qr4xeFglhxRCNGt8wSxYds",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "a question regarding Unicode script submission",
+  "postDate": "1092384128",
+  "msgId": 516,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDEzMTBBNTdDLUVDRkYtMTFEOC1BNzkyLTAwMEE5NUIxRDBGRUB5YWhvby5jb20uc2c+"
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 0,
+  "prevInTime": 515,
+  "nextInTime": 517,
+  "topicId": 516,
+  "numMessagesInTopic": 1,
+  "msgSnippet": "Messrs. Everson and Cowan, I apologize for the imposition, but the web resources you have provided have proven very useful for me in beginning the process of",
+  "messageBody": "<div id=\"ygrps-yiv-1253710304\">Messrs. Everson and Cowan,<br/>\n<br/>\nI apologize for the imposition, but the web resources you have provided <br/>\nhave proven very useful for me in beginning the process of registering <br/>\na script for inclusion into Unicode.  I am hoping you can easily answer <br/>\na question I have regarding re-use of characters already within the <br/>\nUnicode range.<br/>\n<br/>\nI am working on a proposal for Quickscript, or the &#39;Second Shaw <br/>\nAlphabet.&#39;  This was created by Kingsley Read after some years of <br/>\nexperience with Shavian which you yourself submitted for inclusion in <br/>\nUnicode.  The number of characters in the two alphabets is very <br/>\nsimilar: Quickscript omits one character from Shavian, and adds four <br/>\nmore.  Visually, however, the alphabets are quite distinct.  Some <br/>\nshapes have been reused, but for different phonemes; and other <br/>\ncharacters had their shapes changed to facilitate handwritten text.<br/>\n<br/>\nDo you think that this script should be encoded as a separate range <br/>\nfrom Shavian, or rather that the four additional characters should be <br/>\nadded to the range.  If the two scripts occupy the same range, would <br/>\nthat mean that documents encoded as UTF-8 would only be able to show <br/>\none or the other, not both concurrently?<br/>\n<br/>\nThere is a somewhat active user group for Quickscript at <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/Read_Alphabet/\">http://groups.yahoo.com/Read_Alphabet/</a><br/>\n<br/>\nThank you for any information you can provide!<br/>\n<br/>\noliver langan</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;oliverlangan@...&gt;\r\nX-Sender: oliverlangan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 86704 invoked from network); 13 Aug 2004 08:03:49 -0000\r\nReceived: from unknown (66.218.66.216)\n  by m24.grp.scd.yahoo.com with QMQP; 13 Aug 2004 08:03:49 -0000\r\nReceived: from unknown (HELO smtp104.mail.sc5.yahoo.com) (66.163.169.223)\n  by mta1.grp.scd.yahoo.com with SMTP; 13 Aug 2004 08:03:48 -0000\r\nReceived: from unknown (HELO ?192.168.0.25?) (oliverlangan@220.200.120.133 with plain)\n  by smtp104.mail.sc5.yahoo.com with SMTP; 13 Aug 2004 08:03:43 -0000\r\nMime-Version: 1.0 (Apple Message framework v618)\r\nContent-Type: text/plain; charset=US-ASCII; format=flowed\r\nMessage-Id: &lt;1310A57C-ECFF-11D8-A792-000A95B1D0FE@...&gt;\r\nContent-Transfer-Encoding: 7bit\r\nCc: Read_Alphabet@yahoogroups.com\r\nDate: Fri, 13 Aug 2004 16:02:08 +0800\r\nTo: jcowan@...,\n everson@...\r\nX-Mailer: Apple Mail (2.618)\r\nX-eGroups-Remote-IP: 66.163.169.223\r\nFrom: oliver langan &lt;oliverlangan@...&gt;\r\nSubject: a question regarding Unicode script submission\r\nX-Yahoo-Group-Post: member; u=168229681\r\nX-Yahoo-Profile: oliverlangan\r\n\r\nMessrs. Everson and Cowan,\n\nI apologize for the imposition, but the web resources you have provided \nhave proven very useful for me in beginning the process of registering \na script for inclusion into Unicode.  I am hoping you can easily answer \na question I have regarding re-use of characters already within the \nUnicode range.\n\nI am working on a proposal for Quickscript, or the &#39;Second Shaw \nAlphabet.&#39;  This was created by Kingsley Read after some years of \nexperience with Shavian which you yourself submitted for inclusion in \nUnicode.  The number of characters in the two alphabets is very \nsimilar: Quickscript omits one character from Shavian, and adds four \nmore.  Visually, however, the alphabets are quite distinct.  Some \nshapes have been reused, but for different phonemes; and other \ncharacters had their shapes changed to facilitate handwritten text.\n\nDo you think that this script should be encoded as a separate range \nfrom Shavian, or rather that the four additional characters should be \nadded to the range.  If the two scripts occupy the same range, would \nthat mean that documents encoded as UTF-8 would only be able to show \none or the other, not both concurrently?\n\nThere is a somewhat active user group for Quickscript at \nhttp://groups.yahoo.com/Read_Alphabet/\n\nThank you for any information you can provide!\n\noliver langan\n\n\n"
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "xvXra9andvOPcBJHYATfWwDZ1FBDDM5DzBczqqF7axJYK7iOYsy8nR2TX1ur63Q4NIU0vM0-Q61mltjS9ot0g_ED",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Pronunciation resource",
+  "postDate": "1196911831",
+  "msgId": 1765,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMjA2MDMzMDMxLkdIMTA4MDdAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PGZqN2luNytnbHY4QGVHcm91cHMuY29tPg==",
+    "referencesHeader": "PGZqN2luNytnbHY4QGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 1764,
+  "nextInTopic": 1766,
+  "prevInTime": 1764,
+  "nextInTime": 1766,
+  "topicId": 1764,
+  "numMessagesInTopic": 7,
+  "msgSnippet": "... Unfortunately, the Pronunciatior file unpacks improperly, and all the data is badly garbled.  For example, the first word that isn t a name is abacus ,",
+  "messageBody": "<div id=\"ygrps-yiv-1333905609\">tinyallen scripsit:<br/>\n<blockquote><span title=\"ireply\"> &gt;    Those who are interested in how to pronounce English words should<br/>\n&gt; take a look at the Moby Lists.<br/>\n&gt; <br/>\n&gt;  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.dcs.shef.ac.uk/research/ilash/Moby/\">http://www.dcs.shef.ac.uk/research/ilash/Moby/</a><br/>\n<br/>\n </span></blockquote>Unfortunately, the Pronunciatior file unpacks improperly, and all the<br/>\ndata is badly garbled.  For example, the first word that isn&#39;t a name is<br/>\n&quot;abacus&quot;, which is given the pronunciation &quot;abakjylys&quot; (in QS-SAMPA),<br/>\nsomething like &quot;abaculous&quot; in TO.  And all the other words are equally<br/>\nuseless: &quot;crash&quot; is pronounced as if it were &quot;crashaclurbeler&quot;.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;    I would like to know what dialect the Pronunciator wordlist is<br/>\n&gt; written in.<br/>\n<br/>\n </span></blockquote>Judging by the pronunciation key supplied, it&#39;s the same &quot;General American&quot;<br/>\ndialect as the CMU dictionary, which indeed is supplied along with it:<br/>\nTRAP = BATH, CLOTH = THOUGHT, NORTH = FORCE.<br/>\n<br/>\n-- <br/>\nThat you can cover for the plentiful            John Cowan<br/>\nand often gaping errors, misconstruals,         <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a><br/>\nand disinformation in your posts                <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a><br/>\nthrough sheer volume -- that is another<br/>\nmisconception.  --Mike to Peter</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 77441 invoked from network); 6 Dec 2007 03:30:32 -0000\r\nX-Received: from unknown (66.218.67.95)\n  by m43.grp.scd.yahoo.com with QMQP; 6 Dec 2007 03:30:32 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta16.grp.scd.yahoo.com with SMTP; 6 Dec 2007 03:30:32 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1J07RX-0007NH-5A\n\tfor Read_Alphabet@yahoogroups.com; Wed, 05 Dec 2007 22:30:31 -0500\r\nDate: Wed, 5 Dec 2007 22:30:31 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20071206033031.GH10807@...&gt;\r\nReferences: &lt;fj7in7+glv8@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;fj7in7+glv8@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Pronunciation resource\r\nX-Yahoo-Group-Post: member; u=212516; y=8vwALKiK6it0MjFywPVreAbPtv55OEHV9RAe0H9mGcr4Whfvxw\r\nX-Yahoo-Profile: johnwcowan\r\n\r\ntinyallen scripsit:\n&gt;    Those who are interested in how to pronounce English words should\n&gt; take a look at the Moby Lists.\n&gt; \n&gt;  http://www.dcs.shef.ac.uk/research/ilash/Moby/\n\nUnfortunately, the Pronunciatior file unpacks improperly, and all the\ndata is badly garbled.  For example, the first word that isn&#39;t a name is\n&quot;abacus&quot;, which is given the pronunciation &quot;abakjylys&quot; (in QS-SAMPA),\nsomething like &quot;abaculous&quot; in TO.  And all the other words are equally\nuseless: &quot;crash&quot; is pronounced as if it were &quot;crashaclurbeler&quot;.\n\n&gt;    I would like to know what dialect the Pronunciator wordlist is\n&gt; written in.\n\nJudging by the pronunciation key supplied, it&#39;s the same &quot;General American&quot;\ndialect as the CMU dictionary, which indeed is supplied along with it:\nTRAP = BATH, CLOTH = THOUGHT, NORTH = FORCE.\n\n-- \nThat you can cover for the plentiful            John Cowan\nand often gaping errors, misconstruals,         http://www.ccil.org/~cowan\nand disinformation in your posts                cowan@...\nthrough sheer volume -- that is another\nmisconception.  --Mike to Peter\n\n"
+}

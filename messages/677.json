@@ -1,0 +1,32 @@
+{
+  "userId": 6166478,
+  "authorName": "jeff_smith_8992",
+  "from": "&quot;jeff_smith_8992&quot; &lt;jeff_smith_8992@...&gt;",
+  "profile": "jeff_smith_8992",
+  "replyTo": "LIST",
+  "senderId": "tMgUxYaPvgjEyH4Akk2vWoSfBMDCvI_J8d8hrZ6YelMe0pIxWtJ2Ph0c3xfgOsyRD6FrnGuk3RZlZLv_YPrrSY0O_lB7HvprfaoVVViUS7JlOXbv",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: Cole&#39;s Funny Picture Book",
+  "postDate": "1125272521",
+  "msgId": 677,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGRldGk0OSttYXJwQGVHcm91cHMuY29tPg==",
+    "inReplyToHeader": "PDQzMTIzQzRCLjYwMDA2MDBAYXRubWFpbC5jb20+"
+  },
+  "prevInTopic": 676,
+  "nextInTopic": 0,
+  "prevInTime": 676,
+  "nextInTime": 678,
+  "topicId": 456,
+  "numMessagesInTopic": 12,
+  "msgSnippet": "I think there is an error in the dictionary... the first occurance of in is translated differently from all the other words that start with in...  To fix",
+  "messageBody": "<div id=\"ygrps-yiv-1727578295\">I think there is an error in the dictionary... the first occurance of<br/>\n&quot;in&quot; is translated differently from all the other words that start<br/>\nwith &quot;in...&quot;  To fix it, all you need to do is open<br/>\n&quot;QS_Dict_TextOnly.txt&quot;, go to about the middle of the file, and change<br/>\nthe line &quot;IN an&quot; to &quot;IN in&quot;.<br/>\n<br/>\nI&#39;m going to fix it and upload a new zip to the files section.<br/>\n<br/>\nJeff<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Read_Alphabet@yahoogroups.com\">Read_Alphabet@yahoogroups.com</a>, Paige Gabhart &lt;pgabhart@a...&gt; wrote:<br/>\n&gt; Jeff:<br/>\n&gt; <br/>\n&gt; Thanks for the information.  I had managed to discoverer on my own that<br/>\n&gt; cntrl v would work.  I also used Notepad rather than a word processor,<br/>\n&gt; and the program worked fine, except that I ended up doing a good bit of<br/>\n&gt; tweaking once I started reading the output.  One peculiarity that <br/>\n&gt; occurred was that the word &quot;in&quot; was consistently transcribed as &quot;un&quot; <br/>\n&gt; (schwa folled by &quot;n&quot;).  But the dictionary is correct, so there must <br/>\n&gt; have been some weird key stroke in the original.<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; By the way, &quot;Quikscript&quot; and &quot;Read&#39;s Alphabet&quot; are not in the<br/>\ndictionary.<br/>\n&gt; <br/>\n[snip] </span></blockquote></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;jeff_smith_8992@...&gt;\r\nX-Sender: jeff_smith_8992@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 44046 invoked from network); 28 Aug 2005 23:42:05 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m29.grp.scd.yahoo.com with QMQP; 28 Aug 2005 23:42:05 -0000\r\nReceived: from unknown (HELO n8a.bulk.scd.yahoo.com) (66.94.237.42)\n  by mta2.grp.scd.yahoo.com with SMTP; 28 Aug 2005 23:42:04 -0000\r\nComment: DomainKeys? See http://antispam.yahoo.com/domainkeys\r\nReceived: from [66.218.66.59] by n8.bulk.scd.yahoo.com with NNFMP; 28 Aug 2005 23:42:04 -0000\r\nReceived: from [66.218.66.92] by mailer8.bulk.scd.yahoo.com with NNFMP; 28 Aug 2005 23:42:04 -0000\r\nDate: Sun, 28 Aug 2005 23:42:01 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;deti49+marp@...&gt;\r\nIn-Reply-To: &lt;43123C4B.6000600@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 1023\r\nX-Mailer: Yahoo Groups Message Poster\r\nX-Yahoo-Newman-Property: groups-compose\r\nX-eGroups-Msg-Info: 1:12:0:0\r\nFrom: &quot;jeff_smith_8992&quot; &lt;jeff_smith_8992@...&gt;\r\nSubject: Re: Cole&#39;s Funny Picture Book\r\nX-Yahoo-Group-Post: member; u=6166478; y=Qwm-Poz95E9nd84tkJ5X1wflTBrw7a2_DoiL8RNi--0-wbnqGuDfhEF6\r\nX-Yahoo-Profile: jeff_smith_8992\r\n\r\nI think there is an error in the dictionary... the first occurance of\n&quot;in&quot; is translated differently from all the other words that start\nwith &quot;in...&quot;  To fix it, all you need to do is open\n&quot;QS_Dict_TextOnly.txt&quot;, go to about the middle of the file, and change\nthe line &quot;IN an&quot; to &quot;IN in&quot;.\n\nI&#39;m going to fix it and upload a new zip to the files section.\n\nJeff\n\n--- In Read_Alphabet@yahoogroups.com, Paige Gabhart &lt;pgabhart@a...&gt; wrote:\n&gt; Jeff:\n&gt; \n&gt; Thanks for the information.  I had managed to discoverer on my own that\n&gt; cntrl v would work.  I also used Notepad rather than a word processor,\n&gt; and the program worked fine, except that I ended up doing a good bit of\n&gt; tweaking once I started reading the output.  One peculiarity that \n&gt; occurred was that the word &quot;in&quot; was consistently transcribed as &quot;un&quot; \n&gt; (schwa folled by &quot;n&quot;).  But the dictionary is correct, so there must \n&gt; have been some weird key stroke in the original.\n&gt; \n&gt; \n&gt; By the way, &quot;Quikscript&quot; and &quot;Read&#39;s Alphabet&quot; are not in the\ndictionary.\n&gt; \n[snip]\n\n\n\n"
+}

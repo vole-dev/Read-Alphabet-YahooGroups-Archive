@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "uvPAo6FpADhdrRPDZWFedJ2FEZAs3koRBp0SgJETysNOzPrI3jYl5_WjaOvUH8mUGi_-CbxL92h9otyBeficSn99",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Keyboard Layouts",
+  "postDate": "1400598116",
+  "msgId": 2605,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMTQwNTIwMTUwMTU2LkdaOTI4M0BtZXJjdXJ5LmNjaWwub3JnPg==",
+    "inReplyToHeader": "PGxsZW9jZisxaGJxam05QFlhaG9vR3JvdXBzLmNvbT4=",
+    "referencesHeader": "PGxsZW9jZisxaGJxam05QFlhaG9vR3JvdXBzLmNvbT4="
+  },
+  "prevInTopic": 2604,
+  "nextInTopic": 2606,
+  "prevInTime": 2604,
+  "nextInTime": 2606,
+  "topicId": 2604,
+  "numMessagesInTopic": 3,
+  "msgSnippet": "... I m a keyboard maintainer too, but there really is no alternative to supporting both US and UK keyboard layouts. Blurb:  The Moby/Whacking family of Latin",
+  "messageBody": "<div id=\"ygrps-yiv-384733363\"><a rel=\"nofollow\" target=\"_blank\" href=\"mailto:mailinglists@...\">mailinglists@...</a> [Read_Alphabet] scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;  Thing is, I don&#39;t want to maintain umpteen semi-QWERTY layouts \u2014<br/>\n&gt;  one should be enough.<br/>\n<br/>\n </span></blockquote>I&#39;m a keyboard maintainer too, but there really is no alternative to<br/>\nsupporting both US and UK keyboard layouts.<br/>\n<br/>\nBlurb:  The Moby/Whacking family of Latin keyboards for Windows<br/>\nsupports almost 1000 different characters on the US and UK physical<br/>\nkeyboards without preempting any key except AltGr (the right Alt key).<br/>\nMoby Latin is for US keyboards; Whacking Latin is for UK keyboards.<br/>\nThere are four variants of Whacking Latin, namely Whacking John for<br/>\nEnglish, Whacking Sandy for English and Scottish Gaelic, Whacking Taffy<br/>\nfor English and Welsh, and Whacking Mick for English and Irish.  You can<br/>\ndownload them from &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan/MobyLatinKeyboard.zip\">http://www.ccil.org/~cowan/MobyLatinKeyboard.zip</a>&gt;<br/>\nand &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan/WhackingLatinKeyboard.zip\">http://www.ccil.org/~cowan/WhackingLatinKeyboard.zip</a>&gt;.  The keyboards<br/>\nare open source and source code is provided.<br/>\n<br/>\n-- <br/>\nJohn Cowan          <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a>        <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a><br/>\nPolice in many lands are now complaining that local arrestees are insisting<br/>\non having their Miranda rights read to them, just like perps in American TV<br/>\ncop shows.  When it&#39;s explained to them that they are in a different country,<br/>\nwhere those rights do not exist, they become outraged.  --Neal Stephenson</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 19071 invoked by uid 102); 20 May 2014 15:01:56 -0000\r\nX-Received: from unknown (HELO mtaq4.grp.bf1.yahoo.com) (10.193.84.143)\n  by m6.grp.bf1.yahoo.com with SMTP; 20 May 2014 15:01:56 -0000\r\nX-Received: (qmail 22164 invoked from network); 20 May 2014 15:01:56 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mtaq4.grp.bf1.yahoo.com with SMTP; 20 May 2014 15:01:56 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.72)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1WmlYC-0004ar-OV\n\tfor Read_Alphabet@yahoogroups.com; Tue, 20 May 2014 11:01:56 -0400\r\nDate: Tue, 20 May 2014 11:01:56 -0400\r\nTo: &quot;mailinglists@... [Read_Alphabet]&quot; &lt;Read_Alphabet@yahoogroups.com&gt;\r\nMessage-ID: &lt;20140520150156.GZ9283@...&gt;\r\nReferences: &lt;lleocf+1hbqjm9@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=utf-8\r\nContent-Disposition: inline\r\nContent-Transfer-Encoding: 8bit\r\nIn-Reply-To: &lt;lleocf+1hbqjm9@...&gt;\r\nUser-Agent: Mutt/1.5.20 (2009-06-14)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nX-eGroups-From: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Keyboard Layouts\r\nX-Yahoo-Group-Post: member; u=212516; y=-lO2ZONA8CdX-4UUTdAECQ6oMQoVtqGfb6IRyf6L3JVSVd4SkQ\r\nX-Yahoo-Profile: johnwcowan\r\nFrom: John Cowan &lt;cowan@...&gt;\r\n\r\nmailinglists@... [Read_Alphabet] scripsit:\n\n&gt;  Thing is, I don&#39;t want to maintain umpteen semi-QWERTY layouts \u2014\n&gt;  one should be enough.\n\nI&#39;m a keyboard maintainer too, but there really is no alternative to\nsupporting both US and UK keyboard layouts.\n\nBlurb:  The Moby/Whacking family of Latin keyboards for Windows\nsupports almost 1000 different characters on the US and UK physical\nkeyboards without preempting any key except AltGr (the right Alt key).\nMoby Latin is for US keyboards; Whacking Latin is for UK keyboards.\nThere are four variants of Whacking Latin, namely Whacking John for\nEnglish, Whacking Sandy for English and Scottish Gaelic, Whacking Taffy\nfor English and Welsh, and Whacking Mick for English and Irish.  You can\ndownload them from &lt;http://www.ccil.org/~cowan/MobyLatinKeyboard.zip&gt;\nand &lt;http://www.ccil.org/~cowan/WhackingLatinKeyboard.zip&gt;.  The keyboards\nare open source and source code is provided.\n\n-- \nJohn Cowan          http://www.ccil.org/~cowan        cowan@...\nPolice in many lands are now complaining that local arrestees are insisting\non having their Miranda rights read to them, just like perps in American TV\ncop shows.  When it&#39;s explained to them that they are in a different country,\nwhere those rights do not exist, they become outraged.  --Neal Stephenson\n\n"
+}

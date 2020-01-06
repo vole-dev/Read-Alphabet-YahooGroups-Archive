@@ -1,0 +1,33 @@
+{
+  "userId": 458641688,
+  "authorName": "Nathan Sharfi",
+  "from": "Nathan Sharfi &lt;bonusfrogs@...&gt;",
+  "profile": "dipartite",
+  "replyTo": "LIST",
+  "senderId": "If3to_i-pQlqp-MsxyzQhTB21x5KcwDmCnn1BMKRefEsPa5iDCdzDiBTDPBPVbOMJenIu3T6brVpORavDZqVl0LAi-bIxUwLC0oI",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Getting started with a Quikscript blog (was: Re: [Read_Alphabet] regional accents)",
+  "postDate": "1384389575",
+  "msgId": 2583,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDczODEyNUQ3LTdCM0YtNDg5Qi1BNTQ5LTVCNTkxRTIwNDhGOUBnbWFpbC5jb20+",
+    "inReplyToHeader": "PDEzODQzMTM2NDIuOTU2MDcuWWFob29NYWlsTmVvQHdlYjE2MDEwMy5tYWlsLmJmMS55YWhvby5jb20+",
+    "referencesHeader": "PGw1bm1uYSt2cmNqOHNAWWFob29Hcm91cHMuY29tPgk8N0QzODE1NkQtMTI5NC00OEQ1LTlCNzctRjI2RjIzOERCNDhCQGdtYWlsLmNvbT4gPGw1czd0bisxOWE3MjY1QFlhaG9vR3JvdXBzLmNvbT4gPGw1czk3ZSsxdWRvZ2VoQFlhaG9vR3JvdXBzLmNvbT4gPDc1ODg3RjFELTkxNEItNEFBNC04NUM1LUEzMDdBNTc3NUFFMUBnbWFpbC5jb20+IDwxMzg0MzEzNjQyLjk1NjA3LllhaG9vTWFpbE5lb0B3ZWIxNjAxMDMubWFpbC5iZjEueWFob28uY29tPg=="
+  },
+  "prevInTopic": 2582,
+  "nextInTopic": 2584,
+  "prevInTime": 2582,
+  "nextInTime": 2584,
+  "topicId": 2574,
+  "numMessagesInTopic": 14,
+  "msgSnippet": "... If you have any trouble \u00f9 any at all \u00f9 please do ask on the list. I d be more than happy to help, even though ideas for blog posts tend to be few and far",
+  "messageBody": "<div id=\"ygrps-yiv-783001818\">On Nov 12, 2013, at 7:34 PM, Hugh Ekeberg &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:weshdim@...\">weshdim@...</a>&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Thanks for the blog link. I&#39;ll see if I can get a blog to work in Quickscipt too.<br/>\n<br/>\n </span></blockquote>If you have any trouble \u2014 any at all \u2014 please do ask on the list. I&#39;d be more than happy to help, even though ideas for blog posts tend to be few and far between. (The last idea I had involved how well Abbots Morton Experiment was progressing\u2026)<br/>\n<br/>\nSome things that might help going in:<br/>\n<br/>\n- My general SCSS*: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.frogorbits.com/CSS/all.scss\">http://www.frogorbits.com/CSS/all.scss</a><br/>\n<br/>\n- My QS-specific SCSS: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.frogorbits.com/CSS/qs.scss\">http://www.frogorbits.com/CSS/qs.scss</a><br/>\n<br/>\n- The Font Squirrel Webfont Generator: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.fontsquirrel.com/tools/webfont-generator\">http://www.fontsquirrel.com/tools/webfont-generator</a><br/>\n  (IE won&#39;t use a plain-jane .ttf or .otf)<br/>\n<br/>\n- Chrome for Windows displays boxes sometimes for code points in the PUA:<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://code.google.com/p/chromium/issues/detail?id=122465\">http://code.google.com/p/chromium/issues/detail?id=122465</a><br/>\n<br/>\n<br/>\n<br/>\n* SCSS: <a rel=\"nofollow\" target=\"_blank\" href=\"http://sass-lang.com/\">http://sass-lang.com/</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;bonusfrogs@...&gt;\r\nX-Sender: bonusfrogs@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 67472 invoked by uid 102); 14 Nov 2013 00:39:37 -0000\r\nX-Received: from unknown (HELO mtaq1.grp.bf1.yahoo.com) (10.193.84.32)\n  by m2.grp.bf1.yahoo.com with SMTP; 14 Nov 2013 00:39:37 -0000\r\nX-Received: (qmail 7417 invoked from network); 14 Nov 2013 00:39:37 -0000\r\nX-Received: from unknown (HELO mail-pd0-f181.google.com) (209.85.192.181)\n  by mtaq1.grp.bf1.yahoo.com with SMTP; 14 Nov 2013 00:39:37 -0000\r\nX-Received: by mail-pd0-f181.google.com with SMTP id p10so1186707pdj.12\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Wed, 13 Nov 2013 16:39:36 -0800 (PST)\r\nX-Received: by 10.66.162.195 with SMTP id yc3mr44620461pab.64.1384389576527;\n        Wed, 13 Nov 2013 16:39:36 -0800 (PST)\r\nReturn-Path: &lt;bonusfrogs@...&gt;\r\nX-Received: from spreadthinly.localdomain (pool-74-100-97-239.lsanca.fios.verizon.net. [74.100.97.239])\n        by mx.google.com with ESMTPSA id ik1sm47217284pbc.9.2013.11.13.16.39.35\n        for &lt;Read_Alphabet@yahoogroups.com&gt;\n        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);\n        Wed, 13 Nov 2013 16:39:36 -0800 (PST)\r\nContent-Type: text/plain; charset=windows-1252\r\nMime-Version: 1.0 (Mac OS X Mail 6.6 &#92;(1510&#92;))\r\nIn-Reply-To: &lt;1384313642.95607.YahooMailNeo@...&gt;\r\nDate: Wed, 13 Nov 2013 16:39:35 -0800\r\nContent-Transfer-Encoding: quoted-printable\r\nMessage-Id: &lt;738125D7-7B3F-489B-A549-5B591E2048F9@...&gt;\r\nReferences: &lt;l5nmna+vrcj8s@...&gt;\t&lt;7D38156D-1294-48D5-9B77-F26F238DB48B@...&gt; &lt;l5s7tn+19a7265@...&gt; &lt;l5s97e+1udogeh@...&gt; &lt;75887F1D-914B-4AA4-85C5-A307A5775AE1@...&gt; &lt;1384313642.95607.YahooMailNeo@...&gt;\r\nTo: Read_Alphabet@yahoogroups.com\r\nX-Mailer: Apple Mail (2.1510)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Nathan Sharfi &lt;bonusfrogs@...&gt;\r\nSubject: Getting started with a Quikscript blog (was: Re: [Read_Alphabet] regional accents)\r\nX-Yahoo-Group-Post: member; u=458641688; y=jv9fVwxg_cpsvmKowsa6a7kXihiejgPQtLWCTreF9D_mx2_8\r\nX-Yahoo-Profile: dipartite\r\n\r\nOn Nov 12, 2013, at 7:34 PM, Hugh Ekeberg &lt;weshdim@...&gt; wrote:\n\n&gt; Tha=\r\nnks for the blog link. I&#39;ll see if I can get a blog to work in Quickscipt t=\r\noo.\n\nIf you have any trouble =97 any at all =97 please do ask on the list. =\r\nI&#39;d be more than happy to help, even though ideas for blog posts tend to be=\r\n few and far between. (The last idea I had involved how well Abbots Morton =\r\nExperiment was progressing=85)\n\nSome things that might help going in:\n\n- My=\r\n general SCSS*: http://www.frogorbits.com/CSS/all.scss\n\n- My QS-specific SC=\r\nSS: http://www.frogorbits.com/CSS/qs.scss\n\n- The Font Squirrel Webfont Gene=\r\nrator: http://www.fontsquirrel.com/tools/webfont-generator\n  (IE won&#39;t use =\r\na plain-jane .ttf or .otf)\n\n- Chrome for Windows displays boxes sometimes f=\r\nor code points in the PUA:\n  http://code.google.com/p/chromium/issues/detai=\r\nl?id=3D122465\n\n\n\n* SCSS: http://sass-lang.com/\n"
+}

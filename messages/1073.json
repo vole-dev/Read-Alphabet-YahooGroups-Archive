@@ -1,0 +1,31 @@
+{
+  "userId": 214981082,
+  "authorName": "Paul Tremblay",
+  "from": "Paul Tremblay &lt;phthenry@...&gt;",
+  "profile": "paulhtremblay",
+  "replyTo": "LIST",
+  "senderId": "x6CtBOTZXbc9UmPh1Sms6piN00M0UbYF_KsZv1D4z5DQW_a0mcXNh4kaDIPz97TvX5tAzv7N1ssld9kMlKJx8Clp1mPbbiFtyw",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Help getting software",
+  "postDate": "1190867313",
+  "msgId": 1073,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ2RkIzMTcxLjIwMDA4MDRAaWdsb3UuY29tPg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 1075,
+  "prevInTime": 1072,
+  "nextInTime": 1074,
+  "topicId": 1073,
+  "numMessagesInTopic": 7,
+  "msgSnippet": "I m happy to see that this group consists of a lot of computer literate posters. I need help in setting up my computer so I can read and compose Quickscript. I",
+  "messageBody": "<div id=\"ygrps-yiv-1703807539\">I&#39;m happy to see that this group consists of a lot of computer literate <br/>\nposters.<br/>\n<br/>\nI need help in setting up my computer so I can read and compose <br/>\nQuickscript. I am typing on a Mac which has 10.3. I am using Thuderbird <br/>\nas my email viewer, but I can easily switch. To compose text in <br/>\nQuickscript, I use MS Word (yuck!) simply because I didn&#39;t have to <br/>\nconfigure it. I simply downloaded the Kingsley font, double clicked on <br/>\nthe .ttf file, which installed the font. The font was then available in <br/>\nWord as well as Firefox.<br/>\n<br/>\nI also have a linux box, but I don&#39;t really want to use this, simply <br/>\nbecause the monitor is so darn big, and I like to just have one computer <br/>\nin our apartment, my girlfriend&#39;s laptop. I prefer the linux box and <br/>\nknow how to write complicated scripts to convert text. (I wrote an <br/>\nscript rtf2xml, available at sourceforge.) I know about different types <br/>\nof encoding and working with unicode.<br/>\n<br/>\nAs a first step, I would like to set up latex so I can write in <br/>\nQuickscript. I don&#39;t think that should pose a herculean challenge. I <br/>\nknow I have to convert the ttf file to a font metrics, install the font <br/>\nmetrics in the right TeX folder, and then in the LaTeX file tell LaTeX <br/>\nto use this font. Has anyone done this? Adding fonts in LaTeX--though <br/>\nnot herculean--never proceeds easily.<br/>\n<br/>\nIf posters know of a better way of composing text besides LaTeX, I would <br/>\nlike to hear. I know that even if I get the Fonts installed in LaTeX, <br/>\nwhen I type a document, rather than Seeing Quicksript characters I will <br/>\nsee their ASCII counterparts (F wil sI His).<br/>\n<br/>\nThanks<br/>\n<br/>\nPaul</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;phthenry@...&gt;\r\nX-Sender: phthenry@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 29310 invoked from network); 27 Sep 2007 04:28:33 -0000\r\nReceived: from unknown (69.147.108.202)\n  by m36.grp.scd.yahoo.com with QMQP; 27 Sep 2007 04:28:33 -0000\r\nReceived: from unknown (HELO rdsmtp.iglou.com) (192.107.41.63)\n  by mta3.grp.re1.yahoo.com with SMTP; 27 Sep 2007 04:28:33 -0000\r\nReceived: from [192.107.41.6] (helo=iglou3.iglou.com)\n\tby rdsmtp.iglou.com with esmtp (8.12.5/8.12.5)\n\t(envelope-from &lt;phthenry@...&gt;)\n\tid 1IakzJ-0001Oz-A9\n\tfor Read_Alphabet@yahoogroups.com; Thu, 27 Sep 2007 00:28:33 -0400\r\nReceived: from [64.253.111.18] (helo=Enid-Johnsons-Computer.local)\n\tby iglou3.iglou.com with esmtp (8.12.5/8.12.5)\n\t(envelope-from &lt;phthenry@...&gt;)\n\tid 1IakzJ-0002mA-4I\n\tfor Read_Alphabet@yahoogroups.com; Thu, 27 Sep 2007 00:28:33 -0400\r\nMessage-ID: &lt;46FB3171.2000804@...&gt;\r\nDate: Thu, 27 Sep 2007 00:28:33 -0400\r\nUser-Agent: Thunderbird 2.0.0.6 (Macintosh/20070728)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nContent-Type: text/plain; charset=ISO-8859-1; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\nX-IgLou-Customer: 6ab7d2bd86677d7d54d075759b28f06c\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Paul Tremblay &lt;phthenry@...&gt;\r\nSubject: Help getting software\r\nX-Yahoo-Group-Post: member; u=214981082; y=gw5W8Z_I7z8bth_i_KvdH1Nc7tPDn2ZeJ5zpIs5FpRE3KwI7YRFVuQ\r\nX-Yahoo-Profile: paulhtremblay\r\n\r\nI&#39;m happy to see that this group consists of a lot of computer literate \nposters.\n\nI need help in setting up my computer so I can read and compose \nQuickscript. I am typing on a Mac which has 10.3. I am using Thuderbird \nas my email viewer, but I can easily switch. To compose text in \nQuickscript, I use MS Word (yuck!) simply because I didn&#39;t have to \nconfigure it. I simply downloaded the Kingsley font, double clicked on \nthe .ttf file, which installed the font. The font was then available in \nWord as well as Firefox.\n\nI also have a linux box, but I don&#39;t really want to use this, simply \nbecause the monitor is so darn big, and I like to just have one computer \nin our apartment, my girlfriend&#39;s laptop. I prefer the linux box and \nknow how to write complicated scripts to convert text. (I wrote an \nscript rtf2xml, available at sourceforge.) I know about different types \nof encoding and working with unicode.\n\nAs a first step, I would like to set up latex so I can write in \nQuickscript. I don&#39;t think that should pose a herculean challenge. I \nknow I have to convert the ttf file to a font metrics, install the font \nmetrics in the right TeX folder, and then in the LaTeX file tell LaTeX \nto use this font. Has anyone done this? Adding fonts in LaTeX--though \nnot herculean--never proceeds easily.\n\nIf posters know of a better way of composing text besides LaTeX, I would \nlike to hear. I know that even if I get the Fonts installed in LaTeX, \nwhen I type a document, rather than Seeing Quicksript characters I will \nsee their ASCII counterparts (F wil sI His).\n\nThanks\n\nPaul\n\n\n"
+}

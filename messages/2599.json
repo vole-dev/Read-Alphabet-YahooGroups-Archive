@@ -1,0 +1,30 @@
+{
+  "userId": 0,
+  "authorName": "",
+  "from": "Read_Alphabet@yahoogroups.com",
+  "replyTo": "LIST",
+  "senderId": "810LGyW-tl3otCO3FO0j5EuocKkwl1PDGxz3bq_fEDajeJwtlKRqbDlqiSb6y4o5yhNKaIZAMMfcba1W-1n5j-qc1Xg",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "New file uploaded to Read_Alphabet",
+  "postDate": "1399733732",
+  "msgId": 2599,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGxrbGVsNCt2amtldGJAWWFob29Hcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 2597,
+  "nextInTopic": 2608,
+  "prevInTime": 2598,
+  "nextInTime": 2600,
+  "topicId": 504,
+  "numMessagesInTopic": 32,
+  "msgSnippet": "Hello, This email message is a notification to let you know that a file has been uploaded to the Files area of the Read_Alphabet group. File        :",
+  "messageBody": "<div id=\"ygrps-yiv-403394149\">Hello,<br/>\n<br/>\n<br/>\nThis email message is a notification to let you know that<br/>\na file has been uploaded to the Files area of the Read_Alphabet<br/>\ngroup.<br/>\n<br/>\n<br/>\n  File        : /Fonts/Quikscript as I Use It QS.pdf<br/>\n  Uploaded by : guanolto &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:scott@...\">scott@...</a>&gt;<br/>\n  Description : updated today<br/>\n<br/>\n<br/>\nYou can access this file at the URL:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"https://groups.yahoo.com/group/Read_Alphabet/files/Fonts/Quikscript%20as%20I%20Use%20It%20QS.pdf\">https://groups.yahoo.com/group/Read_Alphabet/files/Fonts/Quikscript%20as%20I%20Use%20It%20QS.pdf</a><br/>\n<br/>\n<br/>\nTo learn more about file sharing for your group, please visit:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"https://help.yahoo.com/kb/index?page=content&y=PROD_GRPS&locale=en_US&id=SLN15398\">https://help.yahoo.com/kb/index?page=content&y=PROD_GRPS&locale=en_US&id=SLN15398</a><br/>\n<br/>\n<br/>\nRegards,<br/>\n<br/>\n<br/>\nguanolto &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:scott@...\">scott@...</a>&gt;</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;notify@yahoogroups.com&gt;\r\nReceived: (qmail 10986 invoked by uid 102); 10 May 2014 14:55:32 -0000\r\nReceived: from unknown (HELO mtaq3.grp.bf1.yahoo.com) (10.193.84.142)\n  by m16.grp.bf1.yahoo.com with SMTP; 10 May 2014 14:55:32 -0000\r\nReceived: (qmail 4438 invoked from network); 10 May 2014 14:55:32 -0000\r\nReceived: from unknown (HELO n5-vm8.bullet.mail.bf1.yahoo.com) (72.30.235.60)\n  by mtaq3.grp.bf1.yahoo.com with SMTP; 10 May 2014 14:55:32 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=echoe; t=1399733732; bh=BvXYJaCymI//MN99mRHr0QzqzbASx6wxfelP/URl1BU=; h=Received:Received:Date:Received:To:From:Subject:Message-ID:X-Yahoo-Newman-Property:X-eGroups-Auth:Content-Type; b=LgxHq5PxE4EqVbRYwzQ8YS/Bxr1BtXLLjSqosJT3EUwgCjg0VT3jxaOfsU4uSt4GlXlm4356PMmONlhp72W/4Ls5B3/0sx+BImgY9rhDpvKdjraTlSMqORSdeEVf6f1LeuWXiRFOHVsJJWX34opJHe1SDcKUhW2LHoSk88aflng=\r\nReceived: from [66.196.81.175] by n5.bullet.mail.bf1.yahoo.com with NNFMP; 10 May 2014 14:55:32 -0000\r\nReceived: from [10.193.74.53] by t5.bullet.mail.bf1.yahoo.com with NNFMP; 10 May 2014 14:55:32 -0000\r\nDate: 10 May 2014 07:55:32 -0700\r\nReceived: from [127.0.0.1] by gapi10.grp.bf1.yahoo.com with NNFMP; 10 May 2014 14:55:32 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nSubject: New file uploaded to Read_Alphabet\r\nMessage-ID:&lt;lklel4+vjketb@...&gt;\r\nX-Yahoo-Newman-Property: groups-notify\r\nContent-Type: text/plain; charset=utf-8;\r\nFrom: Read_Alphabet@yahoogroups.com\r\n\r\n\nHello,\n\n\nThis email message is a notification to let you know that\na file has been uploaded to the Files area of the Read_Alphabet\ngroup.\n\n\n  File        : /Fonts/Quikscript as I Use It QS.pdf\n  Uploaded by : guanolto &lt;scott@...&gt;\n  Description : updated today\n\n\nYou can access this file at the URL:\nhttps://groups.yahoo.com/group/Read_Alphabet/files/Fonts/Quikscript%20as%20I%20Use%20It%20QS.pdf\n\n\nTo learn more about file sharing for your group, please visit:\nhttps://help.yahoo.com/kb/index?page=content&y=PROD_GRPS&locale=en_US&id=SLN15398\n\n\nRegards,\n\n\nguanolto &lt;scott@...&gt;\n\n"
+}

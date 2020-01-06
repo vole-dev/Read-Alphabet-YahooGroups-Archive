@@ -1,0 +1,31 @@
+{
+  "userId": 179647995,
+  "authorName": "Jerry",
+  "from": "&quot;Jerry&quot; &lt;nieuwsgroep222@...&gt;",
+  "profile": "nieuwsgroep222",
+  "replyTo": "LIST",
+  "senderId": "iiXKYVB-wLFJ2TAB1I07MVz4_i7zrQ3nlT-d7yZdbybM4m8kGE4gJuf1iorV3Djdc9X4fuWBCgTGwiTE3mEyMFiXpZa-6RbKDA",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Quickscript practice site",
+  "postDate": "1085259786",
+  "msgId": 445,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDQwNTIyMjEwMi5pNE1MMmJsQjA3MDEzNkBzbXRwLW91dDIueHM0YWxsLm5sPg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 447,
+  "prevInTime": 444,
+  "nextInTime": 446,
+  "topicId": 445,
+  "numMessagesInTopic": 6,
+  "msgSnippet": "Hi all! The last few days I ve been making a practice site for quickscript. It randomly chooses quickscript signs which the visitor can name. It features ",
+  "messageBody": "<div id=\"ygrps-yiv-1485973933\">Hi all!<br/>\n<br/>\nThe last few days I&#39;ve been making a practice site for quickscript. It<br/>\nrandomly chooses quickscript signs which the visitor can name. It features<br/>\nautomatic dutch/English language selection.<br/>\n<br/>\nThe address is:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.xs4all.nl/~ransau/quickscript/letters_oefenen/\">http://www.xs4all.nl/~ransau/quickscript/letters_oefenen/</a><br/>\n<br/>\nPlease let me know what you think.<br/>\n<br/>\nRegards,<br/>\nJerry</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;nieuwsgroep222@...&gt;\r\nX-Sender: nieuwsgroep222@...\r\nX-Apparently-To: read_alphabet@yahoogroups.com\r\nReceived: (qmail 81611 invoked from network); 22 May 2004 21:02:39 -0000\r\nReceived: from unknown (66.218.66.166)\n  by m6.grp.scd.yahoo.com with QMQP; 22 May 2004 21:02:39 -0000\r\nReceived: from unknown (HELO smtp-out2.xs4all.nl) (194.109.24.12)\n  by mta5.grp.scd.yahoo.com with SMTP; 22 May 2004 21:02:38 -0000\r\nReceived: from yourjfjm8kzdfj (a80-127-8-111.adsl.xs4all.nl [80.127.8.111])\n\tby smtp-out2.xs4all.nl (8.12.10/8.12.10) with ESMTP id i4ML2blB070136\n\tfor &lt;read_alphabet@yahoogroups.com&gt;; Sat, 22 May 2004 23:02:37 +0200 (CEST)\r\nMessage-Id: &lt;200405222102.i4ML2blB070136@...&gt;\r\nTo: &lt;read_alphabet@yahoogroups.com&gt;\r\nDate: Sat, 22 May 2004 23:03:06 +0200\r\nMIME-Version: 1.0\r\nContent-Type: text/plain;\n\tcharset=&quot;us-ascii&quot;\r\nContent-Transfer-Encoding: 7bit\r\nX-Mailer: Microsoft Office Outlook, Build 11.0.5510\r\nThread-Index: AcRAQC3a/f9MJuZqSRi8WuBw96zt9w==\r\nX-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1409\r\nX-eGroups-Remote-IP: 194.109.24.12\r\nFrom: &quot;Jerry&quot; &lt;nieuwsgroep222@...&gt;\r\nSubject: Quickscript practice site\r\nX-Yahoo-Group-Post: member; u=179647995\r\nX-Yahoo-Profile: nieuwsgroep222\r\n\r\nHi all!\n\nThe last few days I&#39;ve been making a practice site for quickscript. It\nrandomly chooses quickscript signs which the visitor can name. It features\nautomatic dutch/English language selection.\n\nThe address is:\n\nhttp://www.xs4all.nl/~ransau/quickscript/letters_oefenen/\n\nPlease let me know what you think.\n\nRegards,\nJerry\n\n\n"
+}

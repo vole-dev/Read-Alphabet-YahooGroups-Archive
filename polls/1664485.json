@@ -1,0 +1,166 @@
+{
+  "groupName": "Read_Alphabet",
+  "surveyId": 1664485,
+  "listId": 2510463,
+  "dateCreated": 1108839241,
+  "userIdCreated": 179365481,
+  "dateEnd": 1126501140,
+  "sendToId": "GROUP",
+  "resultsId": "COUNTS",
+  "visibleId": "ALWAYS",
+  "statusId": "DISABLED",
+  "isCreator": false,
+  "surveyText": "How long have you been using Quikscript?",
+  "flagBits": 0,
+  "multiResponse": false,
+  "addOptions": false,
+  "selections": [
+    {
+      "selectionId": 12370886,
+      "selectionText": "1-3 months",
+      "selections": 8,
+      "responses": [
+        {
+          "selectionId": 12370886,
+          "surveyId": 1664485,
+          "userId": 220531282,
+          "guid": "SXDS6PIMFSNW7MVZQYQDW6KGN4"
+        },
+        {
+          "selectionId": 12370886,
+          "surveyId": 1664485,
+          "userId": 189259861
+        },
+        {
+          "selectionId": 12370886,
+          "surveyId": 1664485,
+          "userId": 136314050,
+          "guid": "KPNG36362KBQWL5UFHBXJUHGV4"
+        },
+        {
+          "selectionId": 12370886,
+          "surveyId": 1664485,
+          "userId": 167096899
+        }
+      ],
+      "voted": false
+    },
+    {
+      "selectionId": 12370887,
+      "selectionText": "4-6 months",
+      "selections": 4,
+      "responses": [
+        {
+          "selectionId": 12370887,
+          "surveyId": 1664485,
+          "userId": 210677922,
+          "guid": "LLCWWWKBVBAQ3T6QPJ6PPAOLGE"
+        },
+        {
+          "selectionId": 12370887,
+          "surveyId": 1664485,
+          "userId": 111378600,
+          "guid": "YWM7Y2BJVRE6YPFD6HLTHGWEGQ"
+        }
+      ],
+      "voted": false
+    },
+    {
+      "selectionId": 12370888,
+      "selectionText": "7-12 months",
+      "selections": 6,
+      "responses": [
+        {
+          "selectionId": 12370888,
+          "surveyId": 1664485,
+          "userId": 106105278,
+          "guid": "HGEC66QSJN6TFIDOXSZVGGRHUU"
+        }
+      ],
+      "voted": false
+    },
+    {
+      "selectionId": 12370889,
+      "selectionText": "1-2 years",
+      "selections": 3,
+      "responses": [
+        {
+          "selectionId": 12370889,
+          "surveyId": 1664485,
+          "userId": 71466833,
+          "guid": "LWER5QH3THC4YQIAMPFX56PR7E"
+        },
+        {
+          "selectionId": 12370889,
+          "surveyId": 1664485,
+          "userId": 137907378,
+          "guid": "XYGC2TGFTEFGOFIDXLNX65UUXQ"
+        }
+      ],
+      "voted": false
+    },
+    {
+      "selectionId": 12370890,
+      "selectionText": "3-5 years",
+      "selections": 5,
+      "responses": [
+        {
+          "selectionId": 12370890,
+          "surveyId": 1664485,
+          "userId": 177301585,
+          "guid": "ZR2NDWAZB6RFR3453QMGBYYOMA"
+        },
+        {
+          "selectionId": 12370890,
+          "surveyId": 1664485,
+          "userId": 10348534,
+          "guid": "X4KKM4DYKVRXYZ6GLEYSSIF33Y"
+        },
+        {
+          "selectionId": 12370890,
+          "surveyId": 1664485,
+          "userId": 111629109,
+          "guid": "QDZ26Y6E3YZRMBBFEZTV3IV5XM"
+        },
+        {
+          "selectionId": 12370890,
+          "surveyId": 1664485,
+          "userId": 6166478,
+          "guid": "SS2VXDBB66WBVMK6AP6BAMIKJU"
+        }
+      ],
+      "voted": false
+    },
+    {
+      "selectionId": 12370891,
+      "selectionText": "6-10 years",
+      "selections": 2,
+      "responses": [],
+      "voted": false
+    },
+    {
+      "selectionId": 12370892,
+      "selectionText": "11-15 years",
+      "selections": 0,
+      "responses": [],
+      "voted": false
+    },
+    {
+      "selectionId": 12370893,
+      "selectionText": "16-20 years",
+      "selections": 0,
+      "responses": [],
+      "voted": false
+    },
+    {
+      "selectionId": 12370894,
+      "selectionText": "21+ years",
+      "selections": 1,
+      "responses": [],
+      "voted": false
+    }
+  ],
+  "voteCount": 29,
+  "previousSurveyId": 2342880,
+  "nextSurveyId": 1664482
+}

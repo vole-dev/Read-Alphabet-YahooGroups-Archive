@@ -1,0 +1,33 @@
+{
+  "userId": 180175951,
+  "authorName": "amd64_hacker",
+  "from": "amd64_hacker &lt;amd64_hacker@...&gt;",
+  "profile": "amd64_hacker",
+  "replyTo": "LIST",
+  "senderId": "8QTyM02Pvkl4Zxu_QInjgkAllaUDas9jMfD0IsNTlPP-6h3FhTGG3EJiJV-udN6_8gCNK02tKtbH98z1l8ST_S7z3BelYhUS_L2EB_-G",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] A small note on the Unicode proposal",
+  "postDate": "1152557136",
+  "msgId": 750,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": true,
+  "headers": {
+    "messageIdInHeader": "PDQ0QjJBMDUwLjkwNEB5YWhvby5jby51az4=",
+    "inReplyToHeader": "PGU4czAzNys0bTExQGVHcm91cHMuY29tPg==",
+    "referencesHeader": "PGU4czAzNys0bTExQGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 748,
+  "nextInTopic": 751,
+  "prevInTime": 749,
+  "nextInTime": 751,
+  "topicId": 746,
+  "numMessagesInTopic": 9,
+  "msgSnippet": "The 375 mapping is okay, but the unicode mapping pdf in the resources directory is further along (and better imho). You make a very good point about the",
+  "messageBody": "<div id=\"ygrps-yiv-694059883\">The 375 mapping is okay, but the unicode mapping pdf in the resources<br/>\ndirectory is further along (and better imho).<br/>\n<br/>\nYou make a very good point about the underlined numbers, we either have<br/>\nto create code points for underlined digits or an underline combining char.<br/>\nThe first will cost 3 bytes per digit and need 10 code points (obviously :).<br/>\nThe second will cost 4 bytes per digit but will only take one code point<br/>\nand would allow other chars to be underlined - such as the commas in<br/>\n1,000,000.<br/>\nNeither system would allow the digits to be properly parsed as numbers<br/>\nby legacy programs though.<br/>\n<br/>\ntim_rice09 wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; Progress is being made<br/>\n&gt;<br/>\n&gt; See message #375, it has a very good plan for a Unicode proposal<br/>\n&gt; for Senior Quickscript. Although it is missing one character, the<br/>\n&gt; modified Roe that follows Eat and Ooze.<br/>\n&gt; Another thing, numbers written in Senior Quickscript are by default<br/>\n&gt; underlined. Writing them in the underlined style will not work in<br/>\n&gt; basic word processors like Notepad.<br/>\n&gt;<br/>\n&gt;  <br/>\n<br/>\n<br/>\n\t<br/>\n\t<br/>\n\t\t<br/>\n </span></blockquote>___________________________________________________________ <br/>\nAll new Yahoo! Mail &quot;The new Interface is stunning in its simplicity and ease of use.&quot; - PC Magazine <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://uk.docs.yahoo.com/nowyoucan.html\">http://uk.docs.yahoo.com/nowyoucan.html</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;amd64_hacker@...&gt;\r\nReceived: (qmail 89428 invoked from network); 10 Jul 2006 19:58:20 -0000\r\nReceived: from unknown (66.218.67.34)\n  by m27.grp.scd.yahoo.com with QMQP; 10 Jul 2006 19:58:20 -0000\r\nReceived: from unknown (HELO n21a.bullet.scd.yahoo.com) (66.94.237.50)\n  by mta8.grp.scd.yahoo.com with SMTP; 10 Jul 2006 19:58:20 -0000\r\nReceived: from [66.218.66.58] by n21.bullet.scd.yahoo.com with NNFMP; 10 Jul 2006 19:58:17 -0000\r\nReceived: from [66.218.66.72] by t7.bullet.scd.yahoo.com with NNFMP; 10 Jul 2006 19:58:17 -0000\r\nX-Sender: amd64_hacker@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 47871 invoked from network); 10 Jul 2006 19:13:27 -0000\r\nReceived: from unknown (66.218.66.167)\n  by m38.grp.scd.yahoo.com with QMQP; 10 Jul 2006 19:13:27 -0000\r\nReceived: from unknown (HELO smtp005.mail.ukl.yahoo.com) (217.12.11.36)\n  by mta6.grp.scd.yahoo.com with SMTP; 10 Jul 2006 19:13:26 -0000\r\nReceived: (qmail 59105 invoked from network); 10 Jul 2006 18:45:29 -0000\r\nReceived: from unknown (HELO ?192.168.0.234?) (amd64?hacker@83.245.113.228 with plain)\n  by smtp005.mail.ukl.yahoo.com with SMTP; 10 Jul 2006 18:45:28 -0000\r\nMessage-ID: &lt;44B2A050.904@...&gt;\r\nDate: Mon, 10 Jul 2006 19:45:36 +0100\r\nUser-Agent: Thunderbird 1.5.0.2 (X11/20060521)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nReferences: &lt;e8s037+4m11@...&gt;\r\nIn-Reply-To: &lt;e8s037+4m11@...&gt;\r\nX-Enigmail-Version: 0.94.0.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: amd64_hacker &lt;amd64_hacker@...&gt;\r\nSubject: Re: [Read_Alphabet] A small note on the Unicode proposal\r\nX-Yahoo-Group-Post: member; u=180175951; y=OWK7FjMo7wcwkm1UbKiURkEo0PC1B-sOsWrjlRvRjTA0y40AZDm2\r\nX-Yahoo-Profile: amd64_hacker\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Approved-By: tinyallen &lt;Tinyallen@...&gt; via web; 10 Jul 2006 19:58:16 -0000\r\n\r\nThe 375 mapping is okay, but the unicode mapping pdf in the resources\ndirectory is further along (and better imho).\n\nYou make a very good point about the underlined numbers, we either have\nto create code points for underlined digits or an underline combining char.\nThe first will cost 3 bytes per digit and need 10 code points (obviously :).\nThe second will cost 4 bytes per digit but will only take one code point\nand would allow other chars to be underlined - such as the commas in\n1,000,000.\nNeither system would allow the digits to be properly parsed as numbers\nby legacy programs though.\n\ntim_rice09 wrote:\n&gt;\n&gt; Progress is being made\n&gt;\n&gt; See message #375, it has a very good plan for a Unicode proposal\n&gt; for Senior Quickscript. Although it is missing one character, the\n&gt; modified Roe that follows Eat and Ooze.\n&gt; Another thing, numbers written in Senior Quickscript are by default\n&gt; underlined. Writing them in the underlined style will not work in\n&gt; basic word processors like Notepad.\n&gt;\n&gt;  \n\n\n\t\n\t\n\t\t\n___________________________________________________________ \nAll new Yahoo! Mail &quot;The new Interface is stunning in its simplicity and ease of use.&quot; - PC Magazine \nhttp://uk.docs.yahoo.com/nowyoucan.html\n\n\n\n"
+}

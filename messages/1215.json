@@ -1,0 +1,33 @@
+{
+  "userId": 82638473,
+  "authorName": "Michael Everson",
+  "from": "Michael Everson &lt;everson@...&gt;",
+  "profile": "evertype",
+  "replyTo": "LIST",
+  "senderId": "GZNGecMJEl7D08toND8ZxFrJyJsdtx7ZSY3i3C17IzNoPekbLxSEWDFr6fazRSf5wYobYT6iI7AIhwjLY4V6V3EHnyv3UoxdSbC_Xog",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Review charts for Shavian Quikscript Extensions",
+  "postDate": "1193925926",
+  "msgId": 1215,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PHAwNjI0MDgwMWMzNGY4YzgzYWJmNEBbMTkyLjE2OC4xLjEyNl0+",
+    "inReplyToHeader": "PDQ3MjkwMTg2LjMwMzAyMDZAeWFob28uY28udWs+",
+    "referencesHeader": "PGZnODdjaSt1b3BAZUdyb3Vwcy5jb20+IDw0NzI5MDE4Ni4zMDMwMjA2QHlhaG9vLmNvLnVrPg=="
+  },
+  "prevInTopic": 1214,
+  "nextInTopic": 1218,
+  "prevInTime": 1214,
+  "nextInTime": 1216,
+  "topicId": 1164,
+  "numMessagesInTopic": 21,
+  "msgSnippet": "... No. It shows the Shavian and Quikscript repertoires. and colours those characters which are in common and unified. ... Alternate forms are, I thought, out",
+  "messageBody": "<div id=\"ygrps-yiv-263269679\">At 22:28 +0000 2007-10-31, amd64_hacker wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;I see two tables which seem to show the same space but have different<br/>\n&gt;values, is that a typo?<br/>\n<br/>\n </span></blockquote>No. It shows the Shavian and Quikscript repertoires. and colours <br/>\nthose characters which are in common and unified.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;I omitted characters with alternate forms (DAY, UTTER and similar) from<br/>\n&gt;the draft.<br/>\n<br/>\n </span></blockquote>Alternate forms are, I thought, out of scope for encoding but a <br/>\nmatter for context in the font..<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;For example, UTTER&#39;s alternate form looks something like a reverse ROE<br/>\n&gt;or a Shavian LOLL, I think that makes it unsuitable for merging.<br/>\n<br/>\n </span></blockquote>A Quikscript font will behave much differently from a Shavian font. <br/>\nShavian fonts have no shaping behaviour (since the ligatures are all <br/>\nexplicitly encoded).<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;DAY/DEAD, I&#39;m fairly certain, has the same alternate form in Shavian and<br/>\n&gt;QuikScript.<br/>\n<br/>\n </span></blockquote>Shavian has alternate forms? Not in any font I have seen.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;The glyphs for AH, AWE and MIME, NUN are identical, but the sounds are<br/>\n&gt;not alike.<br/>\n<br/>\n </span></blockquote>What is your point? Currently I have been generous in encoding, <br/>\nthough formally these might be unifiable.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;What happens script wise if we merge Shavian and QuikScript?<br/>\n&gt;I presume a new Unicode block will be created for the &#39;QuikScript<br/>\n&gt;Extentions&#39;,<br/>\n<br/>\n </span></blockquote>&quot;Shavian Quikscript Extensions&quot;.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;  but do we inherit the script code Shaw or do we get a new one?<br/>\n<br/>\n </span></blockquote>You would inherit the script code Shaw... though possibly a Shaq <br/>\nvariant might make sense.<br/>\n-- <br/>\nMichael Everson * <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.evertype.com\">http://www.evertype.com</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;everson@...&gt;\r\nX-Sender: everson@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 998 invoked from network); 1 Nov 2007 14:07:39 -0000\r\nX-Received: from unknown (66.218.67.96)\n  by m56.grp.scd.yahoo.com with QMQP; 1 Nov 2007 14:07:39 -0000\r\nX-Received: from unknown (HELO sl14.dnsireland.com) (74.86.129.163)\n  by mta17.grp.scd.yahoo.com with SMTP; 1 Nov 2007 14:07:38 -0000\r\nX-Received: from [88.81.100.235] (helo=[192.168.1.126])\n\tby sl14.dnsireland.com with esmtpa (Exim 4.68)\n\t(envelope-from &lt;everson@...&gt;)\n\tid 1Inahu-0001u1-7P\n\tfor Read_Alphabet@yahoogroups.com; Thu, 01 Nov 2007 14:07:38 +0000\r\nMime-Version: 1.0\r\nMessage-Id: &lt;p06240801c34f8c83abf4@[192.168.1.126]&gt;\r\nIn-Reply-To: &lt;47290186.3030206@...&gt;\r\nReferences: &lt;fg87ci+uop@...&gt; &lt;47290186.3030206@...&gt;\r\nDate: Thu, 1 Nov 2007 14:05:26 +0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nContent-Type: text/plain; charset=&quot;us-ascii&quot; ; format=&quot;flowed&quot;\r\nX-AntiAbuse: This header was added to track abuse, please include it with any abuse report\r\nX-AntiAbuse: Primary Hostname - sl14.dnsireland.com\r\nX-AntiAbuse: Original Domain - yahoogroups.com\r\nX-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]\r\nX-AntiAbuse: Sender Address Domain - evertype.com\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Michael Everson &lt;everson@...&gt;\r\nSubject: Re: [Read_Alphabet] Review charts for Shavian Quikscript\n Extensions\r\nX-Yahoo-Group-Post: member; u=82638473; y=yZh8JqgVS0mwN0RIxwk7V9j-R_w2QScOU5FfySXSrEvozCo\r\nX-Yahoo-Profile: evertype\r\n\r\nAt 22:28 +0000 2007-10-31, amd64_hacker wrote:\n\n&gt;I see two tables which seem to show the same space but have different\n&gt;values, is that a typo?\n\nNo. It shows the Shavian and Quikscript repertoires. and colours \nthose characters which are in common and unified.\n\n&gt;I omitted characters with alternate forms (DAY, UTTER and similar) from\n&gt;the draft.\n\nAlternate forms are, I thought, out of scope for encoding but a \nmatter for context in the font..\n\n&gt;For example, UTTER&#39;s alternate form looks something like a reverse ROE\n&gt;or a Shavian LOLL, I think that makes it unsuitable for merging.\n\nA Quikscript font will behave much differently from a Shavian font. \nShavian fonts have no shaping behaviour (since the ligatures are all \nexplicitly encoded).\n\n&gt;DAY/DEAD, I&#39;m fairly certain, has the same alternate form in Shavian and\n&gt;QuikScript.\n\nShavian has alternate forms? Not in any font I have seen.\n\n&gt;The glyphs for AH, AWE and MIME, NUN are identical, but the sounds are\n&gt;not alike.\n\nWhat is your point? Currently I have been generous in encoding, \nthough formally these might be unifiable.\n\n&gt;What happens script wise if we merge Shavian and QuikScript?\n&gt;I presume a new Unicode block will be created for the &#39;QuikScript\n&gt;Extentions&#39;,\n\n&quot;Shavian Quikscript Extensions&quot;.\n\n&gt;  but do we inherit the script code Shaw or do we get a new one?\n\nYou would inherit the script code Shaw... though possibly a Shaq \nvariant might make sense.\n-- \nMichael Everson * http://www.evertype.com\n\n"
+}

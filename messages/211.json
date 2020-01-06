@@ -1,0 +1,32 @@
+{
+  "userId": 120712731,
+  "authorName": "rmgburke",
+  "from": "&quot;rmgburke&quot; &lt;rmgburke@...&gt;",
+  "profile": "rmgburke",
+  "replyTo": "LIST",
+  "senderId": "OH4QNfLHJMEQra7SLj4bNWidabtjDOysMRrw0umqIk2wlMYrSLPWfvgn0YEd-GO6eEtZ2pNHwW8vPp9E_l4ljJUuAIOa-A",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: New keyboard mapping",
+  "postDate": "1029037663",
+  "msgId": 211,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGFqNG1vditwZG5zQGVHcm91cHMuY29tPg==",
+    "inReplyToHeader": "PGFqNGE2Zys0cjlpQGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 207,
+  "nextInTopic": 0,
+  "prevInTime": 210,
+  "nextInTime": 212,
+  "topicId": 207,
+  "numMessagesInTopic": 2,
+  "msgSnippet": "... Actually, I forgot to mention that the keyboard layout is merely for the Jerome font, not for Keyman. So far I ve only used the Jerome font for basic",
+  "messageBody": "<div id=\"ygrps-yiv-1197734098\">--- In Read_Alphabet@y..., &quot;wonder_roast&quot; &lt;Roasted_Beanie@m...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; I recently downloaded rmgburke&#39;s new keyboard mapping for Keyman and <br/>\n&gt; the html file to go with it.  First, some of the keys he claims are <br/>\n&gt; assigned are wrong.  I.e. typing aj yields the alternate form of <br/>\n&gt; the &#39;uh&#39; character, not typing uh.  I made quite a few changes (both <br/>\n&gt; to the keyman file and the html file) to suit my own personal <br/>\n&gt; preferences.  If anyone would like me to post the files, please let <br/>\n&gt; me know.<br/>\n<br/>\n </span></blockquote>Actually, I forgot to mention that the keyboard layout is merely for the Jerome font, not for Keyman. So far I&#39;ve only used the Jerome font for basic typing, not Keyman for letter combinations.<br/>\n<br/>\nSo basically it&#39;s just a character map so that I wouldn&#39;t have to keep Windows Character Map open the whole time.</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;rmgburke@...&gt;\r\nX-Sender: rmgburke@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (EGP: mail-8_0_7_4); 11 Aug 2002 03:47:44 -0000\r\nReceived: (qmail 9522 invoked from network); 11 Aug 2002 03:47:44 -0000\r\nReceived: from unknown (66.218.66.218)\n  by m5.grp.scd.yahoo.com with QMQP; 11 Aug 2002 03:47:44 -0000\r\nReceived: from unknown (HELO n14.grp.scd.yahoo.com) (66.218.66.69)\n  by mta3.grp.scd.yahoo.com with SMTP; 11 Aug 2002 03:47:44 -0000\r\nReceived: from [66.218.67.151] by n14.grp.scd.yahoo.com with NNFMP; 11 Aug 2002 03:47:44 -0000\r\nDate: Sun, 11 Aug 2002 03:47:43 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nSubject: Re: New keyboard mapping\r\nMessage-ID: &lt;aj4mov+pdns@...&gt;\r\nIn-Reply-To: &lt;aj4a6g+4r9i@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 813\r\nX-Mailer: Yahoo Groups Message Poster\r\nFrom: &quot;rmgburke&quot; &lt;rmgburke@...&gt;\r\nX-Yahoo-Group-Post: member; u=120712731\r\nX-Yahoo-Profile: rmgburke\r\n\r\n--- In Read_Alphabet@y..., &quot;wonder_roast&quot; &lt;Roasted_Beanie@m...&gt; wrote:\n&gt; I recently downloaded rmgburke&#39;s new keyboard mapping for Keyman and \n&gt; the html file to go with it.  First, some of the keys he claims are \n&gt; assigned are wrong.  I.e. typing aj yields the alternate form of \n&gt; the &#39;uh&#39; character, not typing uh.  I made quite a few changes (both \n&gt; to the keyman file and the html file) to suit my own personal \n&gt; preferences.  If anyone would like me to post the files, please let \n&gt; me know.\n\nActually, I forgot to mention that the keyboard layout is merely for the Jerome font, not for Keyman. So far I&#39;ve only used the Jerome font for basic typing, not Keyman for letter combinations.\n\nSo basically it&#39;s just a character map so that I wouldn&#39;t have to keep Windows Character Map open the whole time.\n\n\n\n\n"
+}

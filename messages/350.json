@@ -1,0 +1,31 @@
+{
+  "userId": 70439622,
+  "authorName": "fctarbox3",
+  "from": "&quot;fctarbox3&quot; &lt;rtarbox@...&gt;",
+  "profile": "fctarbox3",
+  "replyTo": "LIST",
+  "senderId": "pwxPEzlGvst28Mspqva44bWvARZ_YR8NSIfCgnEGc-fyDsKExz2zdA_q9rzoNXULKJGSzmEFzbcP_cfBBwopZ4gXsiKfT23J0vqUevQ",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Update on intelligent Senior QS Font.",
+  "postDate": "1058917834",
+  "msgId": 350,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGJma2lrYSthOWNrQGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 351,
+  "prevInTime": 349,
+  "nextInTime": 351,
+  "topicId": 350,
+  "numMessagesInTopic": 11,
+  "msgSnippet": "Just because it s the kind of gearhead I am, I ve been researching what I suggested before -- a font that would automatically produce Senior QS while the user",
+  "messageBody": "<div id=\"ygrps-yiv-1480400427\">Just because it&#39;s the kind of gearhead I am, I&#39;ve been researching <br/>\nwhat I suggested before -- a font that would automatically produce <br/>\nSenior QS while the user types as if writing Junior QS.<br/>\n<br/>\nIt turns out that I&#39;m at the leading edge of font design.  While the <br/>\nOpenType font standard does support this kind of thing, currently <br/>\nvery few applications support all the properties of an OpenType font.<br/>\n<br/>\n( <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.myfonts.com/info/opentype-support-in-applications/\">http://www.myfonts.com/info/opentype-support-in-applications/</a> )<br/>\n<br/>\nThe upshot is that the only applications that would consistently <br/>\ndisplay an OpenType QuickScript (OTQS?) font as designed are Adobe <br/>\nInDesign or Adobe PhotoShop.<br/>\n<br/>\nThere are various shenanigans that I might pull to make Microsoft <br/>\nWord also display an OTQS properly, but ultimately I am very <br/>\ndisappointed in these people. :P<br/>\n<br/>\nOlder font types, such as TrueType, still seem to me to have the <br/>\npossibility for this kind of scripting, but making it actually work <br/>\nis beyond me.</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;rtarbox@...&gt;\r\nX-Sender: rtarbox@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 29869 invoked from network); 22 Jul 2003 23:50:43 -0000\r\nReceived: from unknown (66.218.66.218)\n  by m20.grp.scd.yahoo.com with QMQP; 22 Jul 2003 23:50:43 -0000\r\nReceived: from unknown (HELO n24.grp.scd.yahoo.com) (66.218.66.80)\n  by mta3.grp.scd.yahoo.com with SMTP; 22 Jul 2003 23:50:43 -0000\r\nReceived: from [66.218.66.112] by n24.grp.scd.yahoo.com with NNFMP; 22 Jul 2003 23:50:36 -0000\r\nDate: Tue, 22 Jul 2003 23:50:34 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nSubject: Update on intelligent Senior QS Font.\r\nMessage-ID: &lt;bfkika+a9ck@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 945\r\nX-Mailer: Yahoo Groups Message Poster\r\nFrom: &quot;fctarbox3&quot; &lt;rtarbox@...&gt;\r\nX-Yahoo-Group-Post: member; u=70439622\r\nX-Yahoo-Profile: fctarbox3\r\n\r\nJust because it&#39;s the kind of gearhead I am, I&#39;ve been researching \nwhat I suggested before -- a font that would automatically produce \nSenior QS while the user types as if writing Junior QS.\n\nIt turns out that I&#39;m at the leading edge of font design.  While the \nOpenType font standard does support this kind of thing, currently \nvery few applications support all the properties of an OpenType font.\n\n( http://www.myfonts.com/info/opentype-support-in-applications/ )\n\nThe upshot is that the only applications that would consistently \ndisplay an OpenType QuickScript (OTQS?) font as designed are Adobe \nInDesign or Adobe PhotoShop.\n\nThere are various shenanigans that I might pull to make Microsoft \nWord also display an OTQS properly, but ultimately I am very \ndisappointed in these people. :P\n\nOlder font types, such as TrueType, still seem to me to have the \npossibility for this kind of scripting, but making it actually work \nis beyond me.\n\n\n\n"
+}

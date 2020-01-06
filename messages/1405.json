@@ -1,0 +1,33 @@
+{
+  "userId": 82638473,
+  "authorName": "Michael Everson",
+  "from": "Michael Everson &lt;everson@...&gt;",
+  "profile": "evertype",
+  "replyTo": "LIST",
+  "senderId": "fk9qW7SwLZWDizSab9O1pGB9xo0Yky3HZCIDLhMRajU8QYdzzqTf78yC5DkHS3LuGhGEgcaxk6naZnHYJs6BKxI4WJQhTsH0dNcoaXE",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "[Off topic]",
+  "postDate": "1194772734",
+  "msgId": 1405,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PHAwNjI0MDgwNWMzNWM3OTUwNDc0Y0BbMTkyLjE2OC4xLjEyNl0+",
+    "inReplyToHeader": "PDQ3MzYzRDQwLjMwNzA5MDlAeWFob28uY28udWs+",
+    "referencesHeader": "PGZnODdjaSt1b3BAZUdyb3Vwcy5jb20+IDw0NzI5MDE4Ni4zMDMwMjA2QHlhaG9vLmNvLnVrPiA8cDA2MjQwODAxYzM0ZjhjODNhYmY0QFsxOTIuMTY4LjEuMTI2XT4gPDQ3MkEzNTExLjEwMjA1MDNAeWFob28uY28udWs+IDxwMDYyNDA4MTRjMzUwOGYwZjc2YWVAWzE5Mi4xNjguMS4xMjZdPiA8NDczNjNENDAuMzA3MDkwOUB5YWhvby5jby51az4="
+  },
+  "prevInTopic": 1400,
+  "nextInTopic": 0,
+  "prevInTime": 1404,
+  "nextInTime": 1406,
+  "topicId": 1164,
+  "numMessagesInTopic": 21,
+  "msgSnippet": "John Cowan, my mails to you are still bouncing. Please confirm if you receive this message. -- Michael Everson * http://www.evertype.com",
+  "messageBody": "<div id=\"ygrps-yiv-1901780691\">John Cowan, my mails to you are still bouncing. Please confirm if you <br/>\nreceive this message.<br/>\n-- <br/>\nMichael Everson * <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.evertype.com\">http://www.evertype.com</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;everson@...&gt;\r\nX-Sender: everson@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 86876 invoked from network); 11 Nov 2007 09:22:38 -0000\r\nX-Received: from unknown (66.218.67.94)\n  by m51.grp.scd.yahoo.com with QMQP; 11 Nov 2007 09:22:38 -0000\r\nX-Received: from unknown (HELO sl14.dnsireland.com) (74.86.129.163)\n  by mta15.grp.scd.yahoo.com with SMTP; 11 Nov 2007 09:22:38 -0000\r\nX-Received: from [88.81.100.235] (helo=[192.168.1.126])\n\tby sl14.dnsireland.com with esmtpa (Exim 4.68)\n\t(envelope-from &lt;everson@...&gt;)\n\tid 1Ir91Z-0007Pi-SD\n\tfor Read_Alphabet@yahoogroups.com; Sun, 11 Nov 2007 09:22:38 +0000\r\nMime-Version: 1.0\r\nMessage-Id: &lt;p06240805c35c7950474c@[192.168.1.126]&gt;\r\nIn-Reply-To: &lt;47363D40.3070909@...&gt;\r\nReferences: &lt;fg87ci+uop@...&gt; &lt;47290186.3030206@...&gt;\n &lt;p06240801c34f8c83abf4@[192.168.1.126]&gt; &lt;472A3511.1020503@...&gt;\n &lt;p06240814c3508f0f76ae@[192.168.1.126]&gt; &lt;47363D40.3070909@...&gt;\r\nDate: Sun, 11 Nov 2007 09:18:54 +0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nContent-Type: text/plain; charset=&quot;us-ascii&quot; ; format=&quot;flowed&quot;\r\nX-AntiAbuse: This header was added to track abuse, please include it with any abuse report\r\nX-AntiAbuse: Primary Hostname - sl14.dnsireland.com\r\nX-AntiAbuse: Original Domain - yahoogroups.com\r\nX-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]\r\nX-AntiAbuse: Sender Address Domain - evertype.com\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Michael Everson &lt;everson@...&gt;\r\nSubject: [Off topic]\r\nX-Yahoo-Group-Post: member; u=82638473; y=7OIjoCQOftKgo35mrnU7SfQETe5UJbAAvptncKHncdBawT0\r\nX-Yahoo-Profile: evertype\r\n\r\nJohn Cowan, my mails to you are still bouncing. Please confirm if you \nreceive this message.\n-- \nMichael Everson * http://www.evertype.com\n\n"
+}

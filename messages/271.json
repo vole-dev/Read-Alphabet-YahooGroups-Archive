@@ -1,0 +1,31 @@
+{
+  "userId": 8278943,
+  "authorName": "Paul Fox",
+  "from": "&quot;Paul Fox&quot; &lt;pdfox@...&gt;",
+  "profile": "haraphiyo",
+  "replyTo": "LIST",
+  "senderId": "NqgW9w24EzyF825wZ_l85vD-oKSYvstJEX4gYs4D6ygZiCd1ZwCYMLhtpZCAntn9I63e9GlbFj8N70xAiJiO-r0UoWQakEY",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "unsubscribe",
+  "postDate": "1039635012",
+  "msgId": 271,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDExMTIwMjM0NS40MTQxMkB3ZWJib3guY29tPg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 0,
+  "prevInTime": 270,
+  "nextInTime": 272,
+  "topicId": 271,
+  "numMessagesInTopic": 1,
+  "msgSnippet": "unsubscribe",
+  "messageBody": "<div id=\"ygrps-yiv-1926589965\">unsubscribe</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;pdfox@...&gt;\r\nX-Sender: pdfox@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (EGP: mail-8_2_3_0); 11 Dec 2002 19:30:12 -0000\r\nReceived: (qmail 47471 invoked from network); 11 Dec 2002 19:30:12 -0000\r\nReceived: from unknown (66.218.66.216)\n  by m14.grp.scd.yahoo.com with QMQP; 11 Dec 2002 19:30:12 -0000\r\nReceived: from unknown (HELO smtp.webbox.com) (207.183.234.66)\n  by mta1.grp.scd.yahoo.com with SMTP; 11 Dec 2002 19:30:12 -0000\r\nReceived: from mdev ([207.183.234.66]) by smtp.webbox.com  with Microsoft SMTPSVC(5.5.1877.197.19);\n\t Wed, 11 Dec 2002 11:30:12 -0800\r\nTo: Read_Alphabet@yahoogroups.com\r\nCc: \r\nSubject: unsubscribe\r\nMessage-Id: &lt;111202345.41412@...&gt;\r\nMime-Version: 1.0\r\nContent-Type: text/plain\r\ncontent-length: 23\r\nReturn-Path: pdfox@...\r\nDate: 11 Dec 2002 11:30:12 -0800\r\nFrom: &quot;Paul Fox&quot; &lt;pdfox@...&gt;\r\nX-Yahoo-Group-Post: member; u=8278943\r\nX-Yahoo-Profile: haraphiyo\r\n\r\n\nunsubscribe\n\n\n\n\n\n\n\n"
+}

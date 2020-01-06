@@ -1,0 +1,31 @@
+{
+  "userId": 31034496,
+  "authorName": "teraiten",
+  "from": "&quot;teraiten&quot; &lt;teraiten@...&gt;",
+  "profile": "teraiten",
+  "replyTo": "LIST",
+  "senderId": "xqLyNsImU5Y5HfZBgqoNK08Yt3A_tM7j05WUXTnE2GXpi_OIMsxFF-gzMxErlNjrIjzKVnUV3i4pt4e2MrvcSSWMByjxGw",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Fixed Website",
+  "postDate": "1017989041",
+  "msgId": 138,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGE4amgzaSt1b2RiQGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 139,
+  "prevInTime": 136,
+  "nextInTime": 139,
+  "topicId": 138,
+  "numMessagesInTopic": 2,
+  "msgSnippet": "Hi, I managed to get a new server for my Quikscript site, and all links should be working within the next five minutes. I hear cjb.net still creates pop-ups",
+  "messageBody": "<div id=\"ygrps-yiv-1160807731\">Hi,<br/>\n<br/>\nI managed to get a new server for my Quikscript site, and all links <br/>\nshould be working within the next five minutes. I hear cjb.net still <br/>\ncreates pop-ups and banners, I have never noticed them, all I get is <br/>\njava errors. But then again, I run special banner blocking software <br/>\nand I work with old browsers.<br/>\n<br/>\nAnyway, take a look at <a rel=\"nofollow\" target=\"_blank\" href=\"http://quikscript.teraiten.cjb.net/\">http://quikscript.teraiten.cjb.net/</a> (yep, <br/>\nQuikscript without a c)<br/>\n<br/>\n/EvQt stym<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://teraiten.cjb.net/\">http://teraiten.cjb.net/</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;teraiten@...&gt;\r\nX-Sender: teraiten@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (EGP: mail-8_0_3_1); 5 Apr 2002 06:44:03 -0000\r\nReceived: (qmail 51312 invoked from network); 5 Apr 2002 06:44:03 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m10.grp.scd.yahoo.com with QMQP; 5 Apr 2002 06:44:03 -0000\r\nReceived: from unknown (HELO n13.grp.scd.yahoo.com) (66.218.66.68)\n  by mta2.grp.scd.yahoo.com with SMTP; 5 Apr 2002 06:44:02 -0000\r\nReceived: from [66.218.67.142] by n13.grp.scd.yahoo.com with NNFMP; 05 Apr 2002 06:44:02 -0000\r\nDate: Fri, 05 Apr 2002 06:44:01 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nSubject: Fixed Website\r\nMessage-ID: &lt;a8jh3i+uodb@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 442\r\nX-Mailer: Yahoo Groups Message Poster\r\nFrom: &quot;teraiten&quot; &lt;teraiten@...&gt;\r\nX-Yahoo-Group-Post: member; u=31034496\r\nX-Yahoo-Profile: teraiten\r\n\r\nHi,\n\nI managed to get a new server for my Quikscript site, and all links \nshould be working within the next five minutes. I hear cjb.net still \ncreates pop-ups and banners, I have never noticed them, all I get is \njava errors. But then again, I run special banner blocking software \nand I work with old browsers.\n\nAnyway, take a look at http://quikscript.teraiten.cjb.net/ (yep, \nQuikscript without a c)\n\n/EvQt stym\n\nhttp://teraiten.cjb.net/\n\n\n"
+}

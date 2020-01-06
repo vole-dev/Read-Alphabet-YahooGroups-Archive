@@ -1,0 +1,32 @@
+{
+  "userId": 106270364,
+  "authorName": "Jean-Fran\ufffdois Colson",
+  "from": "&quot;Jean-Fran\u00e7ois Colson&quot; &lt;jfcolson@...&gt;",
+  "profile": "j_f_colson",
+  "replyTo": "LIST",
+  "senderId": "n7d8rTkSft3yXtm6DaYkaYhqOFDb-vS16eRRp9PQ8AYkpkmjpEv61teU04xvvdmjYW5IOwOY67zZNbBtO0ohDC7dHnLlqx6YwuuGLNWM9nLqKdja80k",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] how to use Unicode",
+  "postDate": "1191033000",
+  "msgId": 1084,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDAwMTYwMWM4MDI0MCRhMjgxZmVkMCQwMjAyYThjMEB3aW4+",
+    "referencesHeader": "PDQ2RkM3RDAxLjgwNjA0MDJAaWdsb3UuY29tPiA8MDI0MTAxYzgwMWE4JDZlYTAxZWEwJDAyMDJhOGMwQHdpbj4gPDQ2RkQ2ODhDLjQwNjA2QGlnbG91LmNvbT4="
+  },
+  "prevInTopic": 1083,
+  "nextInTopic": 0,
+  "prevInTime": 1083,
+  "nextInTime": 1085,
+  "topicId": 1081,
+  "numMessagesInTopic": 4,
+  "msgSnippet": "... Since the encoding is quite new, I think there aren t keybaord drivers for any system yet. What s your operating system? Windows? Unix (including Linux)?",
+  "messageBody": "<div id=\"ygrps-yiv-1910607409\">Paul Tremblay wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;&gt;&gt; With an appropriate keyboard driver.<br/>\n&gt;<br/>\n&gt; Which means?<br/>\n<br/>\n </span></blockquote>Since the encoding is quite new, I think there aren&#39;t keybaord drivers for <br/>\nany system yet. What&#39;s your operating system? Windows? Unix (including <br/>\nLinux)? Mac OS? Which version?</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;jfcolson@...&gt;\r\nX-Sender: jfcolson@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 94393 invoked from network); 29 Sep 2007 02:27:29 -0000\r\nReceived: from unknown (69.147.108.201)\n  by m41.grp.scd.yahoo.com with QMQP; 29 Sep 2007 02:27:29 -0000\r\nReceived: from unknown (HELO mailrelay002.isp.belgacom.be) (195.238.6.175)\n  by mta2.grp.re1.yahoo.com with SMTP; 29 Sep 2007 02:27:29 -0000\r\nReceived: from 134.62-177-91.adsl-dyn.isp.belgacom.be (HELO win) ([91.177.62.134])\n  by mailrelay002.isp.belgacom.be with SMTP; 29 Sep 2007 04:27:27 +0200\r\nX-Belgacom-Dynamic: yes\r\nMessage-ID: &lt;001601c80240$a281fed0$0202a8c0@win&gt;\r\nTo: &lt;Read_Alphabet@yahoogroups.com&gt;\r\nReferences: &lt;46FC7D01.8060402@...&gt; &lt;024101c801a8$6ea01ea0$0202a8c0@win&gt; &lt;46FD688C.40606@...&gt;\r\nDate: Sat, 29 Sep 2007 04:30:00 +0200\r\nMIME-Version: 1.0\r\nContent-Type: text/plain;\n\tformat=flowed;\n\tcharset=&quot;iso-8859-1&quot;;\n\treply-type=original\r\nContent-Transfer-Encoding: 7bit\r\nX-Priority: 3\r\nX-MSMail-Priority: Normal\r\nX-Mailer: Microsoft Outlook Express 6.00.2900.3138\r\nX-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.3138\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: &quot;Jean-Fran\ufffdois Colson&quot; &lt;jfcolson@...&gt;\r\nSubject: Re: [Read_Alphabet] how to use Unicode\r\nX-Yahoo-Group-Post: member; u=106270364; y=NzrwM_dBWPD9HmnfXaFO514k_2C0fNQ2fNUThPp4cT3bQDH6jQ\r\nX-Yahoo-Profile: j_f_colson\r\n\r\nPaul Tremblay wrote:\n&gt;&gt;&gt; With an appropriate keyboard driver.\n&gt;\n&gt; Which means?\n\nSince the encoding is quite new, I think there aren&#39;t keybaord drivers for \nany system yet. What&#39;s your operating system? Windows? Unix (including \nLinux)? Mac OS? Which version?\n\n\n"
+}

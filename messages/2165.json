@@ -1,0 +1,30 @@
+{
+  "userId": 0,
+  "authorName": "Read_Alphabet@yahoogroups.com",
+  "from": "Read_Alphabet@yahoogroups.com ",
+  "replyTo": "LIST",
+  "senderId": "vDrromzgevw9A5gtO9UWsprTtqckF0cv5ebwVR5YPJOSA-5apUNHmtAj15Rzw2n4ZeY4W88r_8H6rgJAiS42XZsUDi4Q",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "New file uploaded to Read_Alphabet",
+  "postDate": "1286322252",
+  "msgId": 2165,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": true,
+  "headers": {
+    "messageIdInHeader": "PDEyODYzMjIyNTIuNDEzLjU0OTQ0Lnc3QHlhaG9vZ3JvdXBzLmNvbT4="
+  },
+  "prevInTopic": 2118,
+  "nextInTopic": 2201,
+  "prevInTime": 2164,
+  "nextInTime": 2166,
+  "topicId": 3,
+  "numMessagesInTopic": 91,
+  "msgSnippet": "Hello, This email message is a notification to let you know that a file has been uploaded to the Files area of the Read_Alphabet group. File        : /QS",
+  "messageBody": "<div id=\"ygrps-yiv-214897957\">Hello,<br/>\n<br/>\nThis email message is a notification to let you know that<br/>\na file has been uploaded to the Files area of the Read_Alphabet <br/>\ngroup.<br/>\n<br/>\n  File        : /QS m17n.tar.gz <br/>\n  Uploaded by : tim_rice09 &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:tim_rice09@...\">tim_rice09@...</a>&gt; <br/>\n  Description : M17N layout for the Kingsley Unicode codepoints, should be compatible with scim, Ibus, uim, etc. <br/>\n<br/>\nYou can access this file at the URL:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/Read_Alphabet/files/QS%20m17n.tar.gz\">http://groups.yahoo.com/group/Read_Alphabet/files/QS%20m17n.tar.gz</a> <br/>\n<br/>\nTo learn more about file sharing for your group, please visit:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://help.yahoo.com/l/us/yahoo/groups/original/members/forms/general.htmlfiles\">http://help.yahoo.com/l/us/yahoo/groups/original/members/forms/general.htmlfiles</a><br/>\n<br/>\nRegards,<br/>\n<br/>\ntim_rice09 &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:tim_rice09@...\">tim_rice09@...</a>&gt;</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;notify@yahoogroups.com&gt;\r\nReceived: (qmail 54425 invoked from network); 5 Oct 2010 23:44:14 -0000\r\nReceived: from unknown (66.196.94.105)\n  by m12.grp.re1.yahoo.com with QMQP; 5 Oct 2010 23:44:14 -0000\r\nReceived: from unknown (HELO n46b.bullet.mail.sp1.yahoo.com) (66.163.168.160)\n  by mta1.grp.re1.yahoo.com with SMTP; 5 Oct 2010 23:44:14 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1286322253; bh=oK3DuPp9WmIUOQzZH7J2dxPjGZP4gyzGKJzmnybAryI=; h=Received:Received:Date:Message-ID:X-Yahoo-Newman-Property:X-eGroups-Auth:X-eGroups-Application:X-Yahoo-Group-Post:From:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding; b=r7p4XE08tKIMtLUm/3bB4onhWregpqYHuJgz2h1glyr+FS0A3t7FXm6fW7aml6oVF4/RWf0/xr4Btwct2szZffUdCIHqBhpdPfPeFzfOxOuO0lzE3C+eB42pMXM7Ufv2\r\nReceived: from [69.147.65.147] by n46.bullet.mail.sp1.yahoo.com with NNFMP; 05 Oct 2010 23:44:13 -0000\r\nReceived: from [98.137.34.73] by t10.bullet.mail.sp1.yahoo.com with NNFMP; 05 Oct 2010 23:44:13 -0000\r\nDate: 5 Oct 2010 23:44:12 -0000\r\nMessage-ID: &lt;1286322252.413.54944.w7@yahoogroups.com&gt;\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Application: files \r\nX-Yahoo-Group-Post: system\r\nFrom: Read_Alphabet@yahoogroups.com \r\nTo: Read_Alphabet@yahoogroups.com \r\nSubject: New file uploaded to Read_Alphabet \r\nMIME-Version: 1.0\r\nContent-Type: text/plain\r\nContent-Transfer-Encoding: 7bit\r\n\r\n\nHello,\n\nThis email message is a notification to let you know that\na file has been uploaded to the Files area of the Read_Alphabet \ngroup.\n\n  File        : /QS m17n.tar.gz \n  Uploaded by : tim_rice09 &lt;tim_rice09@...&gt; \n  Description : M17N layout for the Kingsley Unicode codepoints, should be compatible with scim, Ibus, uim, etc. \n\nYou can access this file at the URL:\nhttp://groups.yahoo.com/group/Read_Alphabet/files/QS%20m17n.tar.gz \n\nTo learn more about file sharing for your group, please visit:\nhttp://help.yahoo.com/l/us/yahoo/groups/original/members/forms/general.htmlfiles\n\nRegards,\n\ntim_rice09 &lt;tim_rice09@...&gt;\n \n\n\n\n\n"
+}

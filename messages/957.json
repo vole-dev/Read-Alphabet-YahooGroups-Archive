@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "1RQ0PO6tv1F7OzBK5SNY0OsiSL1eae9sam0AN7fBG5H9_dvF-CiG_9Wntc2ibGFUD0AMcx0LckuOhC9sVbNahJM2",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Unicode proposal again.",
+  "postDate": "1180419886",
+  "msgId": 957,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": true,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcwNTI5MDYyNDQ2LkdDMjc0NkBtZXJjdXJ5LmNjaWwub3JnPg==",
+    "inReplyToHeader": "PDAwNTAwMWM3YTFiMyQ3ODExZDE0MCQwMzAwMDAwYUB1bGIxaT4=",
+    "referencesHeader": "PGYzZjU2OCtuc2MwQGVHcm91cHMuY29tPiA8MDA1MDAxYzdhMWIzJDc4MTFkMTQwJDAzMDAwMDBhQHVsYjFpPg=="
+  },
+  "prevInTopic": 956,
+  "nextInTopic": 958,
+  "prevInTime": 956,
+  "nextInTime": 958,
+  "topicId": 947,
+  "numMessagesInTopic": 45,
+  "msgSnippet": "... Coptic and Greek were disunified because there were substantial documents that contained both, each with its characteristic style. If such Shavian/QS",
+  "messageBody": "<div id=\"ygrps-yiv-1246742897\">Ph.D. scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; I&#39;ve been very busy lately, and I don&#39;t have time to <br/>\n&gt; look into this right now, but my first impression is <br/>\n&gt; that unifying Quikscript with Shavian makes the<br/>\n&gt; same mistake originally made in unifying Coptic<br/>\n&gt; with Greek. <br/>\n<br/>\n </span></blockquote>Coptic and Greek were disunified because there were substantial<br/>\ndocuments that contained both, each with its characteristic style.<br/>\nIf such Shavian/QS documents exist, we need to hear about them pronto.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; And would we need two different encodings for <br/>\n&gt; some characters so as to have a regular character<br/>\n&gt; and a combining character for Junior versus Senior <br/>\n&gt; Quikscript?<br/>\n<br/>\n </span></blockquote>No, any more than a Latin handwriting font requires combining<br/>\n(technically, conjoining) characters.  SrQS may require some<br/>\nspecial ligatures, but ligatures are a font issue, not a character<br/>\nencoding issue.<br/>\n<br/>\n-- <br/>\nIn politics, obedience and support      John Cowan &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>&gt;<br/>\nare the same thing.  --Hannah Arendt    <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nReceived: (qmail 10627 invoked from network); 29 May 2007 19:35:02 -0000\r\nReceived: from unknown (66.218.67.34)\n  by m43.grp.scd.yahoo.com with QMQP; 29 May 2007 19:35:02 -0000\r\nReceived: from unknown (HELO n9b.bullet.sp1.yahoo.com) (69.147.64.101)\n  by mta8.grp.scd.yahoo.com with SMTP; 29 May 2007 19:35:02 -0000\r\nReceived: from [216.252.122.218] by n9.bullet.sp1.yahoo.com with NNFMP; 29 May 2007 19:31:17 -0000\r\nReceived: from [66.218.69.5] by t3.bullet.sp1.yahoo.com with NNFMP; 29 May 2007 19:31:17 -0000\r\nReceived: from [66.218.66.73] by t5.bullet.scd.yahoo.com with NNFMP; 29 May 2007 19:31:17 -0000\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 47311 invoked from network); 29 May 2007 06:25:10 -0000\r\nReceived: from unknown (66.218.67.36)\n  by m38.grp.scd.yahoo.com with QMQP; 29 May 2007 06:25:10 -0000\r\nReceived: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta10.grp.scd.yahoo.com with SMTP; 29 May 2007 06:25:10 -0000\r\nReceived: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1Hsv8Q-00077S-Kg\n\tfor Read_Alphabet@yahoogroups.com; Tue, 29 May 2007 02:24:46 -0400\r\nDate: Tue, 29 May 2007 02:24:46 -0400\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20070529062446.GC2746@...&gt;\r\nReferences: &lt;f3f568+nsc0@...&gt; &lt;005001c7a1b3$7811d140$0300000a@ulb1i&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;005001c7a1b3$7811d140$0300000a@ulb1i&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Unicode proposal again.\r\nX-Yahoo-Group-Post: member; u=212516; y=x1GCazNBR7OTpx9cuaFzYMi_w_wKiaWvajqiSSz_8TnLOuydKg\r\nX-Yahoo-Profile: johnwcowan\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Approved-By: tinyallen &lt;Tinyallen@...&gt; via web; 29 May 2007 19:31:15 -0000\r\n\r\nPh.D. scripsit:\n\n&gt; I&#39;ve been very busy lately, and I don&#39;t have time to \n&gt; look into this right now, but my first impression is \n&gt; that unifying Quikscript with Shavian makes the\n&gt; same mistake originally made in unifying Coptic\n&gt; with Greek. \n\nCoptic and Greek were disunified because there were substantial\ndocuments that contained both, each with its characteristic style.\nIf such Shavian/QS documents exist, we need to hear about them pronto.\n\n&gt; And would we need two different encodings for \n&gt; some characters so as to have a regular character\n&gt; and a combining character for Junior versus Senior \n&gt; Quikscript?\n\nNo, any more than a Latin handwriting font requires combining\n(technically, conjoining) characters.  SrQS may require some\nspecial ligatures, but ligatures are a font issue, not a character\nencoding issue.\n\n-- \nIn politics, obedience and support      John Cowan &lt;cowan@...&gt;\nare the same thing.  --Hannah Arendt    http://www.ccil.org/~cowan\n\n"
+}

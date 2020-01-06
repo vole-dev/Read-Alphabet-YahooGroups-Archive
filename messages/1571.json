@@ -1,0 +1,31 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "C5M6_ARmCExniWNqiA3hlJ69FEjeQJJh_vzBQEV2FRlFZ-YE4-pfE90_84OErvF5-SykBwTViYyeEY-uUJR3Xl98",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "On PALM",
+  "postDate": "1195584112",
+  "msgId": 1571,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMTIwMTg0MTUyLkdCOTEyMEBtZXJjdXJ5LmNjaWwub3JnPg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 1573,
+  "prevInTime": 1570,
+  "nextInTime": 1572,
+  "topicId": 1571,
+  "numMessagesInTopic": 85,
+  "msgSnippet": "The PALM lexical set is pretty small, I should probably explain. It consists of words written al where the l is no longer pronounced, as in palm itself;",
+  "messageBody": "<div id=\"ygrps-yiv-1543866561\">The PALM lexical set is pretty small, I should probably explain.<br/>\nIt consists of words written &quot;al&quot; where the &quot;l&quot; is no longer<br/>\npronounced, as in &quot;palm&quot; itself; foreign words where the original<br/>\nvowel is preserved, like &quot;drama&quot; and &quot;pasta&quot; (though some speakers put<br/>\nthese in TRAP instead); and the special word &quot;father&quot;, which should<br/>\nhave gone into FACE like other words with original long &quot;a&quot; if all<br/>\nhad gone as expected (and is so pronounced in broad Yorkshire), but<br/>\nwas reshaped, probably because it is a papa-mama word, and they never<br/>\nfollow the usual rules.  (There&#39;s a nice writeup on such words at<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sussex.ac.uk/linguistics/documents/where_do_mama2.pdf\">http://www.sussex.ac.uk/linguistics/documents/where_do_mama2.pdf</a> .)<br/>\n<br/>\nAlso, don&#39;t forget that even people who merge THOUGHT and PALM (and<br/>\ntherefore have CLOTH = THOUGHT = PALM) don&#39;t merge NORTH/FORCE and START.<br/>\n<br/>\n-- <br/>\nJohn Cowan    <a rel=\"nofollow\" target=\"_blank\" href=\"http://ccil.org/~cowan\">http://ccil.org/~cowan</a>    <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a><br/>\nMr. Henry James writes fiction as if it were a painful duty.  --Oscar Wilde</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 25545 invoked from network); 20 Nov 2007 18:41:53 -0000\r\nX-Received: from unknown (66.218.67.97)\n  by m50.grp.scd.yahoo.com with QMQP; 20 Nov 2007 18:41:53 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta18.grp.scd.yahoo.com with SMTP; 20 Nov 2007 18:41:53 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1IuY2i-000066-Mr\n\tfor Read_Alphabet@yahoogroups.com; Tue, 20 Nov 2007 13:41:52 -0500\r\nDate: Tue, 20 Nov 2007 13:41:52 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20071120184152.GB9120@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: On PALM\r\nX-Yahoo-Group-Post: member; u=212516; y=Fi3EZnj_nuRt5F_waw5WRAp93qxFXcE-HikXaBzUgSFumKLF_Q\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nThe PALM lexical set is pretty small, I should probably explain.\nIt consists of words written &quot;al&quot; where the &quot;l&quot; is no longer\npronounced, as in &quot;palm&quot; itself; foreign words where the original\nvowel is preserved, like &quot;drama&quot; and &quot;pasta&quot; (though some speakers put\nthese in TRAP instead); and the special word &quot;father&quot;, which should\nhave gone into FACE like other words with original long &quot;a&quot; if all\nhad gone as expected (and is so pronounced in broad Yorkshire), but\nwas reshaped, probably because it is a papa-mama word, and they never\nfollow the usual rules.  (There&#39;s a nice writeup on such words at\nhttp://www.sussex.ac.uk/linguistics/documents/where_do_mama2.pdf .)\n\nAlso, don&#39;t forget that even people who merge THOUGHT and PALM (and\ntherefore have CLOTH = THOUGHT = PALM) don&#39;t merge NORTH/FORCE and START.\n\n-- \nJohn Cowan    http://ccil.org/~cowan    cowan@...\nMr. Henry James writes fiction as if it were a painful duty.  --Oscar Wilde\n\n"
+}

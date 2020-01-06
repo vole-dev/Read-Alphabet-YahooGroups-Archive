@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "7gKUK-4kZ35Pnr-mT0UwMarFkH8gHhpI5SJA6_FKleMPQT92gO2HU9QSQ1muTAk6eJiY6exNQ-uLnexSB0KqUQPb",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Need common abbreviation list",
+  "postDate": "1195509207",
+  "msgId": 1548,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMTE5MjE1MzI2LkdDODAwNUBtZXJjdXJ5LmNjaWwub3JnPg==",
+    "inReplyToHeader": "PDVkODcyOWYwMDcxMTE5MTMxNmk0Y2FiMTUwZHUxMmM4OGExM2RhZjk0NTQ3QG1haWwuZ21haWwuY29tPg==",
+    "referencesHeader": "PDQ3M0UxNzcwLjcwMzA0MDBAaWdsb3UuY29tPiA8ZmhsN2x1KzUwODdAZUdyb3Vwcy5jb20+IDwyMDA3MTExNzAwNDQ1OC5HVjEyNTI1QG1lcmN1cnkuY2NpbC5vcmc+IDw0NzNFNjEyMy44MDMwMDA2QGlnbG91LmNvbT4gPDVkODcyOWYwMDcxMTE2MjMzM3YzNjNiMmU5Nnk5OGRiYTAwZTRhN2E5MjM2QG1haWwuZ21haWwuY29tPiA8MjAwNzExMTgxODQyMzcuR0g1MTUwQG1lcmN1cnkuY2NpbC5vcmc+IDw1ZDg3MjlmMDA3MTExOTEzMTZpNGNhYjE1MGR1MTJjODhhMTNkYWY5NDU0N0BtYWlsLmdtYWlsLmNvbT4="
+  },
+  "prevInTopic": 1546,
+  "nextInTopic": 1552,
+  "prevInTime": 1547,
+  "nextInTime": 1549,
+  "topicId": 1509,
+  "numMessagesInTopic": 21,
+  "msgSnippet": "... Exactly right.  I meant to explain that but forgot to.  An alternative would be to assign #36 to a , which is on the home row; y requires a bit of a",
+  "messageBody": "<div id=\"ygrps-yiv-939356696\">Ted Larson Freeman scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; The only assignment I puzzled over, initially, was &#39;y&#39; for #36, given<br/>\n&gt; that &#39;V&#39; is used in X-SAMPA. But then I guessed that since it&#39;s<br/>\n&gt; probably the most frequently used letter, you reasoned that you&#39;d like<br/>\n&gt; to assign a lower-case ASCII letter for efficiency. <br/>\n<br/>\n </span></blockquote>Exactly right.  I meant to explain that but forgot to.  An alternative<br/>\nwould be to assign #36 to &quot;a&quot;, which is on the home row; &quot;y&quot; requires<br/>\na bit of a stretch.  In X-SAMPA, [V] is the STRUT vowel (in North<br/>\nAmerican and  accents), whereas [@] is the true schwa.<br/>\n<br/>\n-- <br/>\nWinter:  MIT,                                   John Cowan<br/>\nKeio, INRIA,                                    <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a><br/>\nIssue lots of Drafts.                           <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a><br/>\nSo much more to understand!<br/>\nMight simplicity return?                        (A &quot;tanka&quot;, or extended haiku)</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 51339 invoked from network); 19 Nov 2007 21:53:27 -0000\r\nX-Received: from unknown (66.218.67.96)\n  by m43.grp.scd.yahoo.com with QMQP; 19 Nov 2007 21:53:27 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta17.grp.scd.yahoo.com with SMTP; 19 Nov 2007 21:53:27 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1IuEYZ-00061o-1S\n\tfor Read_Alphabet@yahoogroups.com; Mon, 19 Nov 2007 16:53:27 -0500\r\nDate: Mon, 19 Nov 2007 16:53:27 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20071119215326.GC8005@...&gt;\r\nReferences: &lt;473E1770.7030400@...&gt; &lt;fhl7lu+5087@...&gt; &lt;20071117004458.GV12525@...&gt; &lt;473E6123.8030006@...&gt; &lt;5d8729f00711162333v363b2e96y98dba00e4a7a9236@...&gt; &lt;20071118184237.GH5150@...&gt; &lt;5d8729f00711191316i4cab150du12c88a13daf94547@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;5d8729f00711191316i4cab150du12c88a13daf94547@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Need common abbreviation list\r\nX-Yahoo-Group-Post: member; u=212516; y=hTttFbSFsznoj8IVoO8ptd1q8zlK45-VzHse6n3XyyoQu-3t-g\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nTed Larson Freeman scripsit:\n\n&gt; The only assignment I puzzled over, initially, was &#39;y&#39; for #36, given\n&gt; that &#39;V&#39; is used in X-SAMPA. But then I guessed that since it&#39;s\n&gt; probably the most frequently used letter, you reasoned that you&#39;d like\n&gt; to assign a lower-case ASCII letter for efficiency. \n\nExactly right.  I meant to explain that but forgot to.  An alternative\nwould be to assign #36 to &quot;a&quot;, which is on the home row; &quot;y&quot; requires\na bit of a stretch.  In X-SAMPA, [V] is the STRUT vowel (in North\nAmerican and  accents), whereas [@] is the true schwa.\n\n-- \nWinter:  MIT,                                   John Cowan\nKeio, INRIA,                                    cowan@...\nIssue lots of Drafts.                           http://www.ccil.org/~cowan\nSo much more to understand!\nMight simplicity return?                        (A &quot;tanka&quot;, or extended haiku)\n\n"
+}

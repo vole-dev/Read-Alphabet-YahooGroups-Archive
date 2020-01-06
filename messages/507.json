@@ -1,0 +1,33 @@
+{
+  "userId": 168229681,
+  "authorName": "oliver langan",
+  "from": "oliver langan &lt;oliverlangan@...&gt;",
+  "profile": "oliverlangan",
+  "replyTo": "LIST",
+  "senderId": "6z08Z7kTF_NdVmB2y44I2J3RW8ceHD7mEqnPhH-M8vKRrvFOZqYrc9wQQAXzwgn35n6j5jAbS_S0ps5NSA4-qOD3KgL0Fpxoxu4nGI1j5LU",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Re: keyboard map uploaded",
+  "postDate": "1092323616",
+  "msgId": 507,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDJGMTBCRERFLUVDNzItMTFEOC1BNzkyLTAwMEE5NUIxRDBGRUB5YWhvby5jb20uc2c+",
+    "inReplyToHeader": "PDMyMEE4RDdBLUVDNDYtMTFEOC1BMEUxLTAwMEE5NUIxRDBGRUB5YWhvby5jb20uc2c+",
+    "referencesHeader": "PDEwOTE5NzMzNzEuMTMwLjY1NDkxLm0xMkB5YWhvb2dyb3Vwcy5jb20+IDwzMjBBOEQ3QS1FQzQ2LTExRDgtQTBFMS0wMDBBOTVCMUQwRkVAeWFob28uY29tLnNnPg=="
+  },
+  "prevInTopic": 503,
+  "nextInTopic": 508,
+  "prevInTime": 506,
+  "nextInTime": 508,
+  "topicId": 472,
+  "numMessagesInTopic": 15,
+  "msgSnippet": "By the way, regarding my QS proposal in the files section: I think it should NOT include the half-letter as separate characters, but rather as alternate",
+  "messageBody": "<div id=\"ygrps-yiv-954333091\">By the way, regarding my QS proposal in the files section: I think it <br/>\nshould NOT include the half-letter as separate characters, but rather <br/>\nas alternate glyphs.  At the &#39;step&#39; characters are really just a way of <br/>\nwriting ligatures, and also should not be included.  I will update the <br/>\nfile soon, to reflect these changes.<br/>\n<br/>\noliver</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;oliverlangan@...&gt;\r\nX-Sender: oliverlangan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 32944 invoked from network); 12 Aug 2004 15:16:11 -0000\r\nReceived: from unknown (66.218.66.172)\n  by m25.grp.scd.yahoo.com with QMQP; 12 Aug 2004 15:16:11 -0000\r\nReceived: from unknown (HELO smtp105.mail.sc5.yahoo.com) (66.163.169.225)\n  by mta4.grp.scd.yahoo.com with SMTP; 12 Aug 2004 15:16:11 -0000\r\nReceived: from unknown (HELO ?192.168.0.25?) (oliverlangan@220.200.120.133 with plain)\n  by smtp105.mail.sc5.yahoo.com with SMTP; 12 Aug 2004 15:15:11 -0000\r\nMime-Version: 1.0 (Apple Message framework v618)\r\nIn-Reply-To: &lt;320A8D7A-EC46-11D8-A0E1-000A95B1D0FE@...&gt;\r\nReferences: &lt;1091973371.130.65491.m12@yahoogroups.com&gt; &lt;320A8D7A-EC46-11D8-A0E1-000A95B1D0FE@...&gt;\r\nContent-Type: text/plain; charset=US-ASCII; format=flowed\r\nMessage-Id: &lt;2F10BDDE-EC72-11D8-A792-000A95B1D0FE@...&gt;\r\nContent-Transfer-Encoding: 7bit\r\nDate: Thu, 12 Aug 2004 23:13:36 +0800\r\nTo: Read_Alphabet@yahoogroups.com\r\nX-Mailer: Apple Mail (2.618)\r\nX-eGroups-Remote-IP: 66.163.169.225\r\nFrom: oliver langan &lt;oliverlangan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: keyboard map uploaded\r\nX-Yahoo-Group-Post: member; u=168229681\r\nX-Yahoo-Profile: oliverlangan\r\n\r\nBy the way, regarding my QS proposal in the files section: I think it \nshould NOT include the half-letter as separate characters, but rather \nas alternate glyphs.  At the &#39;step&#39; characters are really just a way of \nwriting ligatures, and also should not be included.  I will update the \nfile soon, to reflect these changes.\n\noliver\n\n\n"
+}

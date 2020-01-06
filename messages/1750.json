@@ -1,0 +1,33 @@
+{
+  "userId": 134841503,
+  "authorName": "Ted Larson Freeman",
+  "from": "&quot;Ted Larson Freeman&quot; &lt;freeman@...&gt;",
+  "profile": "tedf255",
+  "replyTo": "LIST",
+  "senderId": "D5iXEW6zVycsTI22mCRWyQYeO3P18UtI_vawFIVos6qF9s7ND5wlx9ghQpWBVlNruxdg2DJ-btbBLv87SEvV0pZhoeGJVC0VTntHwT-Q6ZKBiURIh6odTw",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] QS-SAMPA: a proposed format for plain-text Quickscript",
+  "postDate": "1196807818",
+  "msgId": 1750,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDVkODcyOWYwMDcxMjA0MTQzNnk1YzY5OGJjZmxiODIyNGEyZDE0NWM4YTBhQG1haWwuZ21haWwuY29tPg==",
+    "inReplyToHeader": "PDIwMDcxMjA0MjIzMDIwLkdJMTU5NzJAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "referencesHeader": "PDQ3NEY3OUNDLjIwMzA4MDVAaWdsb3UuY29tPiA8NDc1MURCOTAuMzA1MDUwMEBpZ2xvdS5jb20+CSA8NWQ4NzI5ZjAwNzEyMDEyMjUxcjEyODhjM2I4aGM2MTNmYzMxOTQzMTk5ZkBtYWlsLmdtYWlsLmNvbT4JIDw0NzUyRUIwRi43MDcwODAwQGlnbG91LmNvbT4JIDw1ZDg3MjlmMDA3MTIwMjIyNTVpMzM1YzAzNjN4MWMyYzc1OWE4MWZkZTQ1YUBtYWlsLmdtYWlsLmNvbT4JIDw0NzU1QTlDRi45MDkwMkBpZ2xvdS5jb20+CSA8NWQ4NzI5ZjAwNzEyMDQxMjU4azNjYzU0YTVlaTE4ZmE2ODU0N2NjZTEzOGNAbWFpbC5nbWFpbC5jb20+CSA8NDc1NUNENUUuODAyMDUwNEBpZ2xvdS5jb20+CSA8NWQ4NzI5ZjAwNzEyMDQxNDEwazdmMWU3ZDRxZDMzNjMxNjAzOGUxNGIzZUBtYWlsLmdtYWlsLmNvbT4JIDwyMDA3MTIwNDIyMzAyMC5HSTE1OTcyQG1lcmN1cnkuY2NpbC5vcmc+"
+  },
+  "prevInTopic": 1749,
+  "nextInTopic": 1751,
+  "prevInTime": 1749,
+  "nextInTime": 1751,
+  "topicId": 1690,
+  "numMessagesInTopic": 46,
+  "msgSnippet": "OK, how about using tilda then? If we use slashes to indicate QS-SAMPA in email, then we have two uses for slash, leading to things like: //tEd/ I d rather use",
+  "messageBody": "<div id=\"ygrps-yiv-665980723\">OK, how about using tilda then?<br/>\n<br/>\nIf we use slashes to indicate QS-SAMPA in email, then we have two uses<br/>\nfor slash, leading to things like: //tEd/<br/>\n<br/>\nI&#39;d rather use /~tEd/.<br/>\n<br/>\nTed<br/>\n<br/>\n<blockquote><span title=\"qreply\"> On Dec 4, 2007 2:30 PM, John Cowan &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>&gt; wrote:<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; Ted Larson Freeman scripsit:<br/>\n&gt;<br/>\n&gt;  &gt; OK, we&#39;re not talking about TeX any more, right?<br/>\n&gt;<br/>\n&gt;  Yes, we are. When typing in TeX, you represent left curly quotes with<br/>\n&gt;  ` and right curly quotes (and apostrophes) with &#39;. Overloading ` makes<br/>\n&gt;  TeX users&#39; lives difficult.<br/>\n&gt;<br/>\n&gt;  --<br/>\n&gt;  John Cowan <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a> <a rel=\"nofollow\" target=\"_blank\" href=\"http://ccil.org/~cowan\">http://ccil.org/~cowan</a><br/>\n&gt;  It&#39;s the old, old story. Droid meets droid. Droid becomes chameleon.<br/>\n&gt;  Droid loses chameleon, chameleon becomes blob, droid gets blob back<br/>\n&gt;  again. It&#39;s a classic tale. --Kryten, Red Dwarf<br/>\n&gt; </span></blockquote></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;tedf255@...&gt;\r\nX-Sender: tedf255@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 31990 invoked from network); 4 Dec 2007 22:36:59 -0000\r\nX-Received: from unknown (66.218.67.96)\n  by m57.grp.scd.yahoo.com with QMQP; 4 Dec 2007 22:36:59 -0000\r\nX-Received: from unknown (HELO nf-out-0910.google.com) (64.233.182.184)\n  by mta17.grp.scd.yahoo.com with SMTP; 4 Dec 2007 22:36:59 -0000\r\nX-Received: by nf-out-0910.google.com with SMTP id g16so2893497nfd\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Tue, 04 Dec 2007 14:36:58 -0800 (PST)\r\nX-Received: by 10.78.133.2 with SMTP id g2mr1865270hud.1196807818261;\n        Tue, 04 Dec 2007 14:36:58 -0800 (PST)\r\nX-Received: by 10.78.48.11 with HTTP; Tue, 4 Dec 2007 14:36:58 -0800 (PST)\r\nMessage-ID: &lt;5d8729f00712041436y5c698bcflb8224a2d145c8a0a@...&gt;\r\nDate: Tue, 4 Dec 2007 14:36:58 -0800\r\nTo: Read_Alphabet@yahoogroups.com\r\nIn-Reply-To: &lt;20071204223020.GI15972@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Transfer-Encoding: 7bit\r\nContent-Disposition: inline\r\nReferences: &lt;474F79CC.2030805@...&gt; &lt;4751DB90.3050500@...&gt;\n\t &lt;5d8729f00712012251r1288c3b8hc613fc31943199f@...&gt;\n\t &lt;4752EB0F.7070800@...&gt;\n\t &lt;5d8729f00712022255i335c0363x1c2c759a81fde45a@...&gt;\n\t &lt;4755A9CF.90902@...&gt;\n\t &lt;5d8729f00712041258k3cc54a5ei18fa68547cce138c@...&gt;\n\t &lt;4755CD5E.8020504@...&gt;\n\t &lt;5d8729f00712041410k7f1e7d4qd336316038e14b3e@...&gt;\n\t &lt;20071204223020.GI15972@...&gt;\r\nX-Google-Sender-Auth: 506ddf58599b57be\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: &quot;Ted Larson Freeman&quot; &lt;freeman@...&gt;\r\nSubject: Re: [Read_Alphabet] QS-SAMPA: a proposed format for plain-text Quickscript\r\nX-Yahoo-Group-Post: member; u=134841503; y=KNBOaYrA1T_ZttYgueS3ntdwTQUevfbQMNiQyPi1KWmrNQ\r\nX-Yahoo-Profile: tedf255\r\n\r\nOK, how about using tilda then?\n\nIf we use slashes to indicate QS-SAMPA in email, then we have two uses\nfor slash, leading to things like: //tEd/\n\nI&#39;d rather use /~tEd/.\n\nTed\n\nOn Dec 4, 2007 2:30 PM, John Cowan &lt;cowan@...&gt; wrote:\n&gt;\n&gt;\n&gt;\n&gt;\n&gt;\n&gt;\n&gt; Ted Larson Freeman scripsit:\n&gt;\n&gt;  &gt; OK, we&#39;re not talking about TeX any more, right?\n&gt;\n&gt;  Yes, we are. When typing in TeX, you represent left curly quotes with\n&gt;  ` and right curly quotes (and apostrophes) with &#39;. Overloading ` makes\n&gt;  TeX users&#39; lives difficult.\n&gt;\n&gt;  --\n&gt;  John Cowan cowan@... http://ccil.org/~cowan\n&gt;  It&#39;s the old, old story. Droid meets droid. Droid becomes chameleon.\n&gt;  Droid loses chameleon, chameleon becomes blob, droid gets blob back\n&gt;  again. It&#39;s a classic tale. --Kryten, Red Dwarf\n&gt;  \n\n"
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 458641688,
+  "authorName": "Nathan Sharfi",
+  "from": "Nathan Sharfi &lt;bonusfrogs@...&gt;",
+  "profile": "dipartite",
+  "replyTo": "LIST",
+  "senderId": "62kgMZ_LjjacEcmQVfiYeAP6Wz0lGShNnQ0yuts-pwJoItsXBp_qZbf6klMCQ3vjvC76fium-vu2I3JzSIZFvNexIuGCABDTtkFI",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Version-Controlled AdaptIt Kbs (was: Re: [Read_Alphabet] A draft of Walden is up! (Finally))",
+  "postDate": "1376949773",
+  "msgId": 2563,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PENCRTMwNDcyLTVGNDYtNDkwMC1CMUI3LTJBRkIwOTA1OTRCNUBnbWFpbC5jb20+",
+    "inReplyToHeader": "PGt1czJ2bit0ZmR2QGVHcm91cHMuY29tPg==",
+    "referencesHeader": "PGt1czJ2bit0ZmR2QGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 2562,
+  "nextInTopic": 2564,
+  "prevInTime": 2562,
+  "nextInTime": 2564,
+  "topicId": 2562,
+  "numMessagesInTopic": 3,
+  "msgSnippet": "... Have you considered putting your AdaptIt KB in a publicly-available (D)VCS? My hunch is that a bunch of the things I catch in Call of Cthulhu (still",
+  "messageBody": "<div id=\"ygrps-yiv-2111846687\">On Aug 18, 2013, at 8:21 PM, Timothy &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:tim_rice09@...\">tim_rice09@...</a>&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Finally, I have put Thoreau&#39;s long-winded masterworks into Quickscript and have them up at <a rel=\"nofollow\" target=\"_blank\" href=\"https://sourceforge.net/projects/qs-classics/\">https://sourceforge.net/projects/qs-classics/</a> .<br/>\n&gt; There are likely a few mistakes, but Linus&#39; law can apply now. Happy remixing!<br/>\n<br/>\n </span></blockquote>Have you considered putting your AdaptIt KB in a publicly-available (D)VCS? My hunch is that a bunch of the things I catch in Call of Cthulhu (still working on it) are best propagated back there\u2026<br/>\n<br/>\nI don&#39;t use AdaptIt myself (it&#39;s quite crashy on all my machines), but if I can help tune an Orthodox-to-Quikscript mapping and post diffs someplace, that&#39;ll save us all work down the line when we adapt other things.<br/>\n<br/>\n\u2014 Nathan</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;bonusfrogs@...&gt;\r\nX-Sender: bonusfrogs@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 97311 invoked by uid 102); 19 Aug 2013 22:02:56 -0000\r\nX-Received: from unknown (HELO mtaq3.grp.bf1.yahoo.com) (10.193.84.142)\n  by m2.grp.bf1.yahoo.com with SMTP; 19 Aug 2013 22:02:56 -0000\r\nX-Received: (qmail 1891 invoked from network); 19 Aug 2013 22:02:55 -0000\r\nX-Received: from unknown (HELO mail-pd0-f174.google.com) (209.85.192.174)\n  by mtaq3.grp.bf1.yahoo.com with SMTP; 19 Aug 2013 22:02:55 -0000\r\nX-Received: by mail-pd0-f174.google.com with SMTP id y13so5768541pdi.5\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Mon, 19 Aug 2013 15:02:55 -0700 (PDT)\r\nX-Received: by 10.66.150.138 with SMTP id ui10mr137970pab.19.1376949775451;\n        Mon, 19 Aug 2013 15:02:55 -0700 (PDT)\r\nReturn-Path: &lt;bonusfrogs@...&gt;\r\nX-Received: from spreadthinly.localdomain (pool-74-100-97-239.lsanca.fios.verizon.net. [74.100.97.239])\n        by mx.google.com with ESMTPSA id mz5sm17205018pbc.18.1969.12.31.16.00.00\n        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);\n        Mon, 19 Aug 2013 15:02:54 -0700 (PDT)\r\nContent-Type: text/plain; charset=windows-1252\r\nMime-Version: 1.0 (Mac OS X Mail 6.5 &#92;(1508&#92;))\r\nIn-Reply-To: &lt;kus2vn+tfdv@...&gt;\r\nDate: Mon, 19 Aug 2013 15:02:53 -0700\r\nContent-Transfer-Encoding: quoted-printable\r\nMessage-Id: &lt;CBE30472-5F46-4900-B1B7-2AFB090594B5@...&gt;\r\nReferences: &lt;kus2vn+tfdv@...&gt;\r\nTo: Read_Alphabet@yahoogroups.com\r\nX-Mailer: Apple Mail (2.1508)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Nathan Sharfi &lt;bonusfrogs@...&gt;\r\nSubject: Version-Controlled AdaptIt Kbs (was: Re: [Read_Alphabet] A draft of Walden is up! (Finally))\r\nX-Yahoo-Group-Post: member; u=458641688; y=ydlZdL3ghVb2SkUVdW2oK5GgnUizS6Mh06ichTHBws1aiGNl\r\nX-Yahoo-Profile: dipartite\r\n\r\nOn Aug 18, 2013, at 8:21 PM, Timothy &lt;tim_rice09@...&gt; wrote:\n\n&gt; Final=\r\nly, I have put Thoreau&#39;s long-winded masterworks into Quickscript and have =\r\nthem up at https://sourceforge.net/projects/qs-classics/ .\n&gt; There are like=\r\nly a few mistakes, but Linus&#39; law can apply now. Happy remixing!\n\nHave you =\r\nconsidered putting your AdaptIt KB in a publicly-available (D)VCS? My hunch=\r\n is that a bunch of the things I catch in Call of Cthulhu (still working on=\r\n it) are best propagated back there=85\n\nI don&#39;t use AdaptIt myself (it&#39;s qu=\r\nite crashy on all my machines), but if I can help tune an Orthodox-to-Quiks=\r\ncript mapping and post diffs someplace, that&#39;ll save us all work down the l=\r\nine when we adapt other things.\n\n=97 Nathan\n"
+}

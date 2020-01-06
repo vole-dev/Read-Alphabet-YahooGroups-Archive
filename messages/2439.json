@@ -1,0 +1,33 @@
+{
+  "userId": 82638473,
+  "authorName": "Michael Everson",
+  "from": "Michael Everson &lt;everson@...&gt;",
+  "profile": "evertype",
+  "replyTo": "LIST",
+  "senderId": "IiPQos-6sInWuR9eN94XTNBGdZwQV-i5vS3B9ZRF8bLliAhDMwtiONciyWDaOVeexBdlCwKZVtFAA2c0Mx7_KVASptDYH5j6nLh665M",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Quikscript extensions to Shavian (or separate script)",
+  "postDate": "1366444103",
+  "msgId": 2439,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDYwMDREMjNFLThCOUEtNDc4OC04N0ZFLTI4NDkwQ0Y0M0JGOUBldmVydHlwZS5jb20+",
+    "inReplyToHeader": "PDE3NjM1MDMwLTJEQTktNEYxNC1BQ0I1LTNGODkyNEIyNDEyMUBnbWFpbC5jb20+",
+    "referencesHeader": "PDkyMDNFNUIzLUFFN0MtNDA0RC05NDYzLUQzNkQ3RDgzOTgzNEBldmVydHlwZS5jb20+IDw1MTcxREY1NC41MDMwNjAzQGNvbHNvbi5ldT4gPDE3NjM1MDMwLTJEQTktNEYxNC1BQ0I1LTNGODkyNEIyNDEyMUBnbWFpbC5jb20+"
+  },
+  "prevInTopic": 2438,
+  "nextInTopic": 2440,
+  "prevInTime": 2438,
+  "nextInTime": 2440,
+  "topicId": 2433,
+  "numMessagesInTopic": 25,
+  "msgSnippet": "... Shavian, in having explicitly-encoded -r characters, solves that problem. If QS and Shavian were unified, wouldn t you be better off using those -r",
+  "messageBody": "<div id=\"ygrps-yiv-835050622\">On 20 Apr 2013, at 05:08, Nathan Sharfi &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:bonusfrogs@...\">bonusfrogs@...</a>&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; On Apr 19, 2013, at 5:20 PM, Jean-Fran\u00e7ois Colson &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:jf@...\">jf@...</a>&gt; wrote:<br/>\n&gt; <br/>\n&gt;&gt; For T (sorry, I forgot the keyword) which can be written either downwards or upwards, the half form can be linked to a following letter or, sometimes, to the previous one, as in the word \u201cout\u201d. In some cases, there might be ambiguity for the rendering engine and the writer could want to specify with which letter (the previous one or the next one) half T should be linked. Therefore, a ZWJ or a ZWNJ could be useful.<br/>\n&gt; <br/>\n&gt; I&#39;m not sure this needs to be something the UTC and friends bothers with. That said, ZWJ and ZWNJ could be useful, even if the only people who need to pay attention them are those who make keyboard layouts. For example, if I wanted to type &quot;arrears&quot; and spell it UTTER ROE EAT ROE ZOO, I&#39;d be annoyed if UTTER ROE were smashed together in a ligature across a syllable boundary.<br/>\n<br/>\n </span></blockquote>Shavian, in having explicitly-encoded -r characters, solves that problem. If QS and Shavian were unified, wouldn&#39;t you be better off using those -r characters?<br/>\n<br/>\nMichael Everson * <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.evertype.com/\">http://www.evertype.com/</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;everson@...&gt;\r\nX-Sender: everson@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 11226 invoked by uid 102); 20 Apr 2013 07:48:24 -0000\r\nX-Received: from unknown (HELO mta2.grp.bf1.yahoo.com) (10.193.84.150)\n  by m6.grp.bf1.yahoo.com with SMTP; 20 Apr 2013 07:48:24 -0000\r\nX-Received: (qmail 14240 invoked from network); 20 Apr 2013 07:48:24 -0000\r\nX-Received: from unknown (HELO lh19.dnsireland.com) (78.137.164.59)\n  by mta2.grp.bf1.yahoo.com with SMTP; 20 Apr 2013 07:48:24 -0000\r\nX-Received: from [77.107.209.124] (port=61692 helo=[192.168.10.11])\n\tby lh19.dnsireland.com with esmtpsa (TLSv1:AES128-SHA:128)\n\t(Exim 4.80)\n\t(envelope-from &lt;everson@...&gt;)\n\tid 1UTSWw-000582-Pw; Sat, 20 Apr 2013 08:48:18 +0100\r\nContent-Type: text/plain; charset=windows-1252\r\nMime-Version: 1.0 (Mac OS X Mail 6.5 &#92;(1507&#92;))\r\nIn-Reply-To: &lt;17635030-2DA9-4F14-ACB5-3F8924B24121@...&gt;\r\nDate: Sat, 20 Apr 2013 08:48:23 +0100\r\nContent-Transfer-Encoding: quoted-printable\r\nMessage-Id: &lt;6004D23E-8B9A-4788-87FE-28490CF43BF9@...&gt;\r\nReferences: &lt;9203E5B3-AE7C-404D-9463-D36D7D839834@...&gt; &lt;5171DF54.5030603@...&gt; &lt;17635030-2DA9-4F14-ACB5-3F8924B24121@...&gt;\r\nTo: Read_Alphabet@yahoogroups.com,\n &quot;shawalphabet@yahoogroups.com&quot; &lt;shawalphabet@yahoogroups.com&gt;\r\nX-Mailer: Apple Mail (2.1507)\r\nX-AntiAbuse: This header was added to track abuse, please include it with any abuse report\r\nX-AntiAbuse: Primary Hostname - lh19.dnsireland.com\r\nX-AntiAbuse: Original Domain - yahoogroups.com\r\nX-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]\r\nX-AntiAbuse: Sender Address Domain - evertype.com\r\nX-Source: \r\nX-Source-Args: \r\nX-Source-Dir: \r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Michael Everson &lt;everson@...&gt;\r\nSubject: Quikscript extensions to Shavian (or separate script)\r\nX-Yahoo-Group-Post: member; u=82638473; y=ogvXBUwUf2hrPnjuKCfWC5RsOAjIawW_lKsxafEbRA6-iuk\r\nX-Yahoo-Profile: evertype\r\n\r\nOn 20 Apr 2013, at 05:08, Nathan Sharfi &lt;bonusfrogs@...&gt; wrote:\n\n&gt; On=\r\n Apr 19, 2013, at 5:20 PM, Jean-Fran=E7ois Colson &lt;jf@...&gt; wrote:\n&gt; \n=\r\n&gt;&gt; For T (sorry, I forgot the keyword) which can be written either downward=\r\ns or upwards, the half form can be linked to a following letter or, sometim=\r\nes, to the previous one, as in the word =93out=94. In some cases, there mig=\r\nht be ambiguity for the rendering engine and the writer could want to speci=\r\nfy with which letter (the previous one or the next one) half T should be li=\r\nnked. Therefore, a ZWJ or a ZWNJ could be useful.\n&gt; \n&gt; I&#39;m not sure this ne=\r\neds to be something the UTC and friends bothers with. That said, ZWJ and ZW=\r\nNJ could be useful, even if the only people who need to pay attention them =\r\nare those who make keyboard layouts. For example, if I wanted to type &quot;arre=\r\nars&quot; and spell it UTTER ROE EAT ROE ZOO, I&#39;d be annoyed if UTTER ROE were s=\r\nmashed together in a ligature across a syllable boundary.\n\nShavian, in havi=\r\nng explicitly-encoded -r characters, solves that problem. If QS and Shavian=\r\n were unified, wouldn&#39;t you be better off using those -r characters?\n\nMicha=\r\nel Everson * http://www.evertype.com/\n\n\n"
+}

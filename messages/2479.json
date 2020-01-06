@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "OYSTxRvwyJO_a63zVjirOBOk_vyQUVUEztvr7vZwlZkfQs82mI7xgxU7q1oF6J4XQYwLyOm6nFYhiY7n0N_kPe9Z",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] What language tags for Quikscript?",
+  "postDate": "1367634449",
+  "msgId": 2479,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMTMwNTA0MDIyNzI5LkdGMjg5OTlAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PDcyQjhDNDYyLUVBMDQtNDBEMi04N0I4LUU1NUFBRjFDQUFDMkBnbWFpbC5jb20+",
+    "referencesHeader": "PDcyQjhDNDYyLUVBMDQtNDBEMi04N0I4LUU1NUFBRjFDQUFDMkBnbWFpbC5jb20+"
+  },
+  "prevInTopic": 2478,
+  "nextInTopic": 2481,
+  "prevInTime": 2478,
+  "nextInTime": 2480,
+  "topicId": 2478,
+  "numMessagesInTopic": 5,
+  "msgSnippet": "... I recommend submitting an ISO 15924 request form and getting a proper (non-private-use) code element (subtag) assigned.  The form can be submitted",
+  "messageBody": "<div id=\"ygrps-yiv-1513214625\">Nathan Sharfi scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; I&#39;ve been looking over script tags and how to mint<br/>\n&gt; them, especially the instructions for private use on<br/>\n&gt; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"https://tools.ietf.org/html/bcp47#section-2.2.3\">https://tools.ietf.org/html/bcp47#section-2.2.3</a>&gt; Do en-Qaas,<br/>\n&gt; en-Qaas-US, en-Qaas-GB, and so on look reasonable?<br/>\n<br/>\n </span></blockquote>I recommend submitting an ISO 15924 request form and<br/>\ngetting a proper (non-private-use) code element (subtag)<br/>\nassigned.  The form can be submitted electronically at<br/>\n&lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://unicode.org/iso15924/iso15924form.html\">http://unicode.org/iso15924/iso15924form.html</a>&gt;.<br/>\nIt&#39;s short and sweet, and approval usually comes<br/>\nthrough fairly quickly.<br/>\n<br/>\nOne question to be answered first is whether Quikscript should be coded<br/>\nas a variant of Shavian script, in the same sense that German Fraktur<br/>\nscript is coded as a variant of Latin script.  ISO 15924 defines a<br/>\nscript variant as a &quot;particular form of one script which is so distinctive<br/>\na rendering as to almost be considered a unique script in itself&quot;.<br/>\nI think Quikscript qualifies.  If so, I think we should request the code<br/>\nShaq (variants differ in the last letter only), if not, the code Quik.<br/>\n<br/>\nThis issue is independent of Unicode unification or disunification<br/>\nand does not prejudice it either way.  Fraktur letters are unified with<br/>\nordinary Latin, but the three script variants of Georgian are not unified<br/>\nin Unicode.<br/>\n<br/>\n-- <br/>\nYou are a child of the universe no less         John Cowan<br/>\nthan the trees and all other acyclic            <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a><br/>\ngraphs; you have a right to be here.            <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a><br/>\n  --DeXiderata by Sean McGrath</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 57554 invoked from network); 4 May 2013 02:27:29 -0000\r\nX-Received: from unknown (10.193.84.168)\n  by m7.grp.bf1.yahoo.com with QMQP; 4 May 2013 02:27:29 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta6.grp.bf1.yahoo.com with SMTP; 4 May 2013 02:27:29 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.72)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1UYSC9-0004ZF-6q\n\tfor Read_Alphabet@yahoogroups.com; Fri, 03 May 2013 22:27:29 -0400\r\nDate: Fri, 3 May 2013 22:27:29 -0400\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20130504022729.GF28999@...&gt;\r\nReferences: &lt;72B8C462-EA04-40D2-87B8-E55AAF1CAAC2@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;72B8C462-EA04-40D2-87B8-E55AAF1CAAC2@...&gt;\r\nUser-Agent: Mutt/1.5.20 (2009-06-14)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nX-eGroups-From: John Cowan &lt;cowan@...&gt;\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] What language tags for Quikscript?\r\nX-Yahoo-Group-Post: member; u=212516; y=N2xpMhLBZxWNKI1JJIS4b7wO4qkbpOPR4VRQo2A_M9EhvV4jwA\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nNathan Sharfi scripsit:\n\n&gt; I&#39;ve been looking over script tags and how to mint\n&gt; them, especially the instructions for private use on\n&gt; &lt;https://tools.ietf.org/html/bcp47#section-2.2.3&gt; Do en-Qaas,\n&gt; en-Qaas-US, en-Qaas-GB, and so on look reasonable?\n\nI recommend submitting an ISO 15924 request form and\ngetting a proper (non-private-use) code element (subtag)\nassigned.  The form can be submitted electronically at\n&lt;http://unicode.org/iso15924/iso15924form.html&gt;.\nIt&#39;s short and sweet, and approval usually comes\nthrough fairly quickly.\n\nOne question to be answered first is whether Quikscript should be coded\nas a variant of Shavian script, in the same sense that German Fraktur\nscript is coded as a variant of Latin script.  ISO 15924 defines a\nscript variant as a &quot;particular form of one script which is so distinctive\na rendering as to almost be considered a unique script in itself&quot;.\nI think Quikscript qualifies.  If so, I think we should request the code\nShaq (variants differ in the last letter only), if not, the code Quik.\n\nThis issue is independent of Unicode unification or disunification\nand does not prejudice it either way.  Fraktur letters are unified with\nordinary Latin, but the three script variants of Georgian are not unified\nin Unicode.\n\n-- \nYou are a child of the universe no less         John Cowan\nthan the trees and all other acyclic            http://www.ccil.org/~cowan\ngraphs; you have a right to be here.            cowan@...\n  --DeXiderata by Sean McGrath\n\n"
+}

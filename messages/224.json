@@ -1,0 +1,32 @@
+{
+  "userId": 71466833,
+  "authorName": "tinyallen",
+  "from": "&quot;tinyallen&quot; &lt;tinyallen@...&gt;",
+  "profile": "tinyallen",
+  "replyTo": "LIST",
+  "senderId": "vBmJ1YDmgn6qF9F8y4lzkaROULVPCmh04wHoBYnxpMNexigAonczfdAhKy9JXxs3Y3M8u9xdm5Aek3sGecmyYlrpdwbr2D-i",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: Origin of fonts",
+  "postDate": "1030568746",
+  "msgId": 224,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGFramR2YStjaDcyQGVHcm91cHMuY29tPg==",
+    "inReplyToHeader": "PGFrZzE4cStlZTFzQGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 221,
+  "nextInTopic": 0,
+  "prevInTime": 223,
+  "nextInTime": 225,
+  "topicId": 221,
+  "numMessagesInTopic": 2,
+  "msgSnippet": "It seems that Jerome was the original Quickscript font. It is a senior font, with ligatures and is apparently supposed to join adjacent characters where",
+  "messageBody": "<div id=\"ygrps-yiv-530392171\">It seems that Jerome was the original Quickscript font. It is <br/>\na &quot;senior&quot; font, with ligatures and is apparently supposed to join <br/>\nadjacent characters where appropriate.<br/>\n   Junior was a derivation of that, and provided some separation <br/>\nbetween characters. This made the shapes easier to see and easier to <br/>\nread for all us beginners.<br/>\n   The creator of these two fonts is apparently at <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.qsl.net/ws8g/index.htm\">http://www.qsl.net/ws8g/index.htm</a><br/>\n<br/>\n   There have been complaints about the spacing information in these <br/>\nfonts, for example in the excellent Shavian forum, when you highlight <br/>\nor select the QS text, the spacing changes and becomes much closer.<br/>\n(<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shavian.org/hugh/ikonboard/ikonboard.cgi)\">http://www.shavian.org/hugh/ikonboard/ikonboard.cgi)</a><br/>\n<br/>\n   In an attempt to combat this problem, I modified the Jerome font <br/>\nand created the &#39;QSJ Block&#39;. My primary reason was that I wanted to <br/>\nplay around with the Golden Ratio in font shapes, but I also wanted <br/>\nto create something that might have fewer spacing problems. This is a <br/>\nQuickScript Junior font, with intentional separations between <br/>\nletters. It seems foolish to provide a font, no matter how &#39;junior&#39;, <br/>\nwithout at least the ligatures specified by Read himself, so my font <br/>\ndoes include them.<br/>\n   The Jerome and Junior fonts are provided free for all; since mine <br/>\nis a derivation of Jerome, I can do no less.<br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In Read_Alphabet@y..., &quot;andy_callaway&quot; &lt;acal@o...&gt; wrote:<br/>\n&gt; Chaps -<br/>\n&gt; <br/>\n&gt; On my system, I have two fonts that appear to be Quikscript: QSJ <br/>\n&gt; Block Black, and junior. Does anyone know the origin of these two?<br/>\n&gt; <br/>\n&gt; Cheers, Andy </span></blockquote></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;tinyallen@...&gt;\r\nX-Sender: tinyallen@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (EGP: mail-8_1_0_1); 28 Aug 2002 21:05:50 -0000\r\nReceived: (qmail 89392 invoked from network); 28 Aug 2002 21:05:48 -0000\r\nReceived: from unknown (66.218.66.216)\n  by m11.grp.scd.yahoo.com with QMQP; 28 Aug 2002 21:05:48 -0000\r\nReceived: from unknown (HELO n9.grp.scd.yahoo.com) (66.218.66.93)\n  by mta1.grp.scd.yahoo.com with SMTP; 28 Aug 2002 21:05:47 -0000\r\nReceived: from [66.218.67.182] by n9.grp.scd.yahoo.com with NNFMP; 28 Aug 2002 21:05:46 -0000\r\nDate: Wed, 28 Aug 2002 21:05:46 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nSubject: Re: Origin of fonts\r\nMessage-ID: &lt;akjdva+ch72@...&gt;\r\nIn-Reply-To: &lt;akg18q+ee1s@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 1534\r\nX-Mailer: Yahoo Groups Message Poster\r\nFrom: &quot;tinyallen&quot; &lt;tinyallen@...&gt;\r\nX-Yahoo-Group-Post: member; u=71466833\r\nX-Yahoo-Profile: tinyallen\r\n\r\n   It seems that Jerome was the original Quickscript font. It is \na &quot;senior&quot; font, with ligatures and is apparently supposed to join \nadjacent characters where appropriate.\n   Junior was a derivation of that, and provided some separation \nbetween characters. This made the shapes easier to see and easier to \nread for all us beginners.\n   The creator of these two fonts is apparently at \nhttp://www.qsl.net/ws8g/index.htm\n\n   There have been complaints about the spacing information in these \nfonts, for example in the excellent Shavian forum, when you highlight \nor select the QS text, the spacing changes and becomes much closer.\n(http://www.shavian.org/hugh/ikonboard/ikonboard.cgi)\n\n   In an attempt to combat this problem, I modified the Jerome font \nand created the &#39;QSJ Block&#39;. My primary reason was that I wanted to \nplay around with the Golden Ratio in font shapes, but I also wanted \nto create something that might have fewer spacing problems. This is a \nQuickScript Junior font, with intentional separations between \nletters. It seems foolish to provide a font, no matter how &#39;junior&#39;, \nwithout at least the ligatures specified by Read himself, so my font \ndoes include them.\n   The Jerome and Junior fonts are provided free for all; since mine \nis a derivation of Jerome, I can do no less.\n\n\n--- In Read_Alphabet@y..., &quot;andy_callaway&quot; &lt;acal@o...&gt; wrote:\n&gt; Chaps -\n&gt; \n&gt; On my system, I have two fonts that appear to be Quikscript: QSJ \n&gt; Block Black, and junior. Does anyone know the origin of these two?\n&gt; \n&gt; Cheers, Andy\n\n\n"
+}

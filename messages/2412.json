@@ -1,0 +1,33 @@
+{
+  "userId": 328329959,
+  "authorName": "Jean-Fran\u00e7ois Colson",
+  "from": "=?windows-1252?Q?Jean-Fran=E7ois_Colson?= &lt;jf@...&gt;",
+  "profile": "j_f_colson",
+  "replyTo": "LIST",
+  "senderId": "S4hsJ6fyuNmNNiJITng8VPRKpRBMsxa8o1JzyoLZuqt2YrkOctr7AnsVWrxuqCrMaFWeDolYrZ5BUxfFb3PzjMsLEy7K_2Rb3QGbI-R8jwk-PbeCRzbFo-5RNbP7H5Y",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "3"
+  },
+  "subject": "Re: [Read_Alphabet] Unicode Status",
+  "postDate": "1366121718",
+  "msgId": 2412,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDUxNkQ1Q0Y2LjQwMjAwMDRAY29sc29uLmV1Pg==",
+    "inReplyToHeader": "PEZGNjNDMTUyLTZDMjQtNDNGRS1CMUZFLUFCNENDMzA3REU0M0BldmVydHlwZS5jb20+",
+    "referencesHeader": "PGtrN3I0dit0c2hkQGVHcm91cHMuY29tPiA8MDU1QkEyODAtNUQzNy00MTYzLUJFNTYtRTFGNEU1OTdBMDY0QGV2ZXJ0eXBlLmNvbT4gPDM2NzMwNERFLUIyRTEtNEJGMC1BRDkzLTVGOTQ4N0E1NDI1NkBnbWFpbC5jb20+IDw0QzkxRTk3NS02NkRGLTQ0MTYtQTFCRC01NEYxOTg0MTk1QTJAZXZlcnR5cGUuY29tPiA8QjE4MEJDMTMtRkUxRi00MEQyLUI0RTUtNzZEOEZENUZGMUU1QGdtYWlsLmNvbT4gPEZGNjNDMTUyLTZDMjQtNDNGRS1CMUZFLUFCNENDMzA3REU0M0BldmVydHlwZS5jb20+"
+  },
+  "prevInTopic": 2410,
+  "nextInTopic": 2413,
+  "prevInTime": 2411,
+  "nextInTime": 2413,
+  "topicId": 2365,
+  "numMessagesInTopic": 34,
+  "msgSnippet": "... That\u2019s not weird. That\u2019s only natural since Shavian and Quikscript are two separate scripts. That unification is completely artificial. ... Couldn\u2019t",
+  "messageBody": "<div id=\"ygrps-yiv-1437743314\">Le 16/04/13 14:32, Michael Everson a \u00e9crit :<br/>\n<blockquote><span title=\"ireply\"> &gt; The fact that there are two different sort orders for Shavian and Quikscript is kind of weird.<br/>\n<br/>\n </span></blockquote>That\u2019s not weird. That\u2019s only natural since Shavian and Quikscript are <br/>\ntwo separate scripts. That unification is completely artificial.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;   But I have to recommend where to interleave the new characters in the Shavian based ordering.<br/>\n<br/>\n </span></blockquote>Couldn\u2019t you propose a new order for Quikscript? Different alphabets, <br/>\ndifferent collation rules.</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;jf@...&gt;\r\nX-Sender: jf@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 18134 invoked from network); 16 Apr 2013 14:15:21 -0000\r\nX-Received: from unknown (10.193.84.163)\n  by m11.grp.bf1.yahoo.com with QMQP; 16 Apr 2013 14:15:21 -0000\r\nX-Received: from unknown (HELO csmtp14.one.com) (195.47.247.114)\n  by mta3.grp.bf1.yahoo.com with SMTP; 16 Apr 2013 14:15:20 -0000\r\nX-Received: from [192.168.0.4] (host-213-213-224-210.brutele.be [213.213.224.210])\n\tby csmtp14.one.com (Postfix) with ESMTPA id 6DDCB80161E2A\n\tfor &lt;Read_Alphabet@yahoogroups.com&gt;; Tue, 16 Apr 2013 14:15:20 +0000 (UTC)\r\nMessage-ID: &lt;516D5CF6.4020004@...&gt;\r\nDate: Tue, 16 Apr 2013 16:15:18 +0200\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:17.0) Gecko/20130308 Thunderbird/17.0.4\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nReferences: &lt;kk7r4v+tshd@...&gt; &lt;055BA280-5D37-4163-BE56-E1F4E597A064@...&gt; &lt;367304DE-B2E1-4BF0-AD93-5F9487A54256@...&gt; &lt;4C91E975-66DF-4416-A1BD-54F1984195A2@...&gt; &lt;B180BC13-FE1F-40D2-B4E5-76D8FD5FF1E5@...&gt; &lt;FF63C152-6C24-43FE-B1FE-AB4CC307DE43@...&gt;\r\nIn-Reply-To: &lt;FF63C152-6C24-43FE-B1FE-AB4CC307DE43@...&gt;\r\nContent-Type: text/plain; charset=windows-1252; format=flowed\r\nContent-Transfer-Encoding: 8bit\r\nX-eGroups-Msg-Info: 2:3:4:0:0\r\nFrom: =?windows-1252?Q?Jean-Fran=E7ois_Colson?= &lt;jf@...&gt;\r\nSubject: Re: [Read_Alphabet] Unicode Status\r\nX-Yahoo-Group-Post: member; u=328329959; y=_-CBKSJRoAZLZVTT-tHbga5OAToDB-W0RcrPV6JGr5w-stunzA\r\nX-Yahoo-Profile: j_f_colson\r\n\r\nLe 16/04/13 14:32, Michael Everson a \ufffdcrit :\n&gt; The fact that there are two different sort orders for Shavian and Quikscript is kind of weird.\n\nThat\ufffds not weird. That\ufffds only natural since Shavian and Quikscript are \ntwo separate scripts. That unification is completely artificial.\n\n&gt;   But I have to recommend where to interleave the new characters in the Shavian based ordering.\n\nCouldn\ufffdt you propose a new order for Quikscript? Different alphabets, \ndifferent collation rules.\n\n\n"
+}

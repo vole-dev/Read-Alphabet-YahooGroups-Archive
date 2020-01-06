@@ -1,0 +1,78 @@
+{
+  "userId": 553263562,
+  "authorName": "",
+  "from": "mailinglists@...",
+  "profile": "dipartite",
+  "replyTo": "LIST",
+  "senderId": "cyiXbZin6qG7n3Cg-sE41YUZ-nE6awZ2W705VODapgp64VwbUKilAI65vF2zYwrBjJ_ea2sp3sVm7KHyuw",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Getting Quikscript out of the PUA",
+  "postDate": "1415154624",
+  "msgId": 2614,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PG0zYzIzdisxaXZqOXNsQFlhaG9vR3JvdXBzLmNvbT4="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 0,
+  "prevInTime": 2613,
+  "nextInTime": 2615,
+  "topicId": 2614,
+  "numMessagesInTopic": 1,
+  "msgSnippet": "The last time we discussed the possibility of getting Quikscript encoded in Unicode, there was a lot of FUD spread by the participants, myself most of all. I",
+  "messageBody": "<div id=\"ygrps-yiv-1831703944\"><p>The last time we discussed the possibility of getting Quikscript encoded in Unicode, there was a lot of FUD spread by the participants, myself most of all.</p><p><br></p><p>I was under the assumption that Quikscript, if it were added in a way that would make it dependent on Shavian, would use SHAVIAN LETTER THIGH (looks like a .Fee) for .Thaw. This would be an extraordinarily silly way to do it\u2013it\u2019d be as if Polish fonts all had a glyph that looks like \u0142 for U+0077 LATIN SMALL LETTER W. So to see what Quikscript would look like on a machine with no Quikscript fonts installed, I wrote the attached passage using the sorts of letters one would use.</p><p><br></p><p>While I have a bit of trouble with .Eight, .I, .Oy, and .Out, they can be inferred from context and the rest is surprisingly readable. As far as I can tell, Michael Everson\u2019s proposal would provide concrete benefits to us with a minimum of downsides.</p><p><br></p><p>As of this writing, the only OS that I know of that ships with Shavian fonts is OS X. iOS 8.1, Windows 8.1, and Android 4.0 don\u2019t ship with any. As such, this problem will likely be limited to OS X machines in the near future. As always, if you\u2019re putting Quikscript on the Web, the best thing to do is use @font-face. I don\u2019t have any suggestions for Quikscript-in-email other than \u201conly handle that mail on a desktop computer where you can install your own fonts.\u201d</p><p><br></p><p><span></span></p><p>So. If Mr. Everson\u2019s willing, should we try and get this in Unicode 8.0?</p><p><span><br class=\"ygrps-yiv-1831703944yui-cursor\"></span></p></div>",
+  "specialLinks": [],
+  "attachmentsInfo": [
+    {
+      "groupId": 2510463,
+      "attachmentId": 467566385,
+      "fileId": 302385003,
+      "title": "qs-as-shavian",
+      "creatorNickname": "dipartite",
+      "modificationDate": 1415154625,
+      "referenceId": 2614,
+      "size": 347777,
+      "filename": "qs-as-shavian.jpeg",
+      "fileType": "image/jpeg",
+      "type": "photo",
+      "canDelete": false,
+      "photoInfo": [
+        {
+          "displayURL": "https://xa.yimg.com/kq/groups/EuJk_p3uf9BcykpU/tn/_10.eLjvetO2pBfaAHw-/name/qs-as-shavian.jpg",
+          "height": 56,
+          "width": 95,
+          "size": 5260,
+          "photoType": "tn"
+        },
+        {
+          "displayURL": "https://xa.yimg.com/kq/groups/EuJk_p3uf9BcykpU/sn/_10.eLjvetO2pBfaAHw-/name/qs-as-shavian.jpg",
+          "height": 283,
+          "width": 480,
+          "size": 38559,
+          "photoType": "sn"
+        },
+        {
+          "displayURL": "https://xa.yimg.com/kq/groups/EuJk_p3uf9BcykpU/hr/_10.eLjvetO2pBfaAHw-/name/qs-as-shavian.jpg",
+          "height": 472,
+          "width": 800,
+          "size": 80640,
+          "photoType": "hr"
+        },
+        {
+          "displayURL": "https://xa.yimg.com/kq/groups/EuJk_p3uf9BcykpU/or/_10.eLjvetO2pBfaAHw-/name/qs-as-shavian.jpeg",
+          "height": 944,
+          "width": 1600,
+          "size": 347777,
+          "photoType": "or"
+        }
+      ],
+      "photomaticAlbumUrl": "https://groups.yahoo.com/neo/groups/Read_Alphabet/photos/photomatic/1917488077"
+    }
+  ],
+  "rawEmail": "Return-Path: &lt;Read_Alphabet@yahoogroups.com&gt;\r\nX-Sender: Read_Alphabet@yahoogroups.com\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 31848 invoked by uid 102); 5 Nov 2014 02:30:24 -0000\r\nX-Received: from unknown (HELO mtaq2.grp.bf1.yahoo.com) (10.193.84.33)\n  by m7.grp.bf1.yahoo.com with SMTP; 5 Nov 2014 02:30:24 -0000\r\nX-Received: (qmail 31847 invoked from network); 5 Nov 2014 02:30:24 -0000\r\nX-Received: from unknown (HELO n4-vm7.bullet.mail.bf1.yahoo.com) (98.139.245.165)\n  by mtaq2.grp.bf1.yahoo.com with SMTP; 5 Nov 2014 02:30:24 -0000\r\nX-Received: from [72.30.235.65] by n4.bullet.mail.bf1.yahoo.com with NNFMP; 05 Nov 2014 02:30:24 -0000\r\nX-Received: from [10.193.75.125] by t2.bullet.mail.bf1.yahoo.com with NNFMP; 05 Nov 2014 02:30:24 -0000\r\nDate: 04 Nov 2014 18:30:24 -0800\r\nX-Received: from [127.0.0.1] by gapi4.grp.bf1.yahoo.com with NNFMP; 05 Nov 2014 02:30:24 -0000\r\nTo: &lt;Read_Alphabet@yahoogroups.com&gt;\r\nMessage-ID: &lt;m3c23v+1ivj9sl@...&gt;\r\nMIME-Version: 1.0\r\nX-Mailer: Yahoo Groups Message Poster\r\nX-Original-Return-Path: mailinglists@...\r\nX-Original-From: mailinglists@...\r\nX-Yahoo-Newman-Property: groups-compose\r\nContent-Type: multipart/mixed; boundary=&quot;9nlWnTS9ocNmxdhsK3FKVLWiM6a5jwOaA8HvrLV&quot;\r\nReply-To: mailinglists@...\r\nSubject: Getting Quikscript out of the PUA\r\nX-Yahoo-Group-Post: member; u=553263562; y=upWMSxd5oIHzuGiCTMDwQmIm6cjuWth9TERkq3KF8bdkGdew\r\nX-Yahoo-Profile: dipartite\r\nFrom: mailinglists@...\r\n\r\n\r\n--9nlWnTS9ocNmxdhsK3FKVLWiM6a5jwOaA8HvrLV\r\nContent-Type: multipart/alternative; boundary=&quot;B2WnTS9ocNmxdhsK3FKVLWiM6a5jwOaA8HvrLV&quot;\r\n\r\n\r\n--B2WnTS9ocNmxdhsK3FKVLWiM6a5jwOaA8HvrLV\r\nContent-Type:  text/plain;  charset=utf-8 \r\nContent-Transfer-Encoding: base64\r\n\r\nVGhlIGxhc3QgdGltZSB3ZSBkaXNjdXNzZWQgdGhlIHBvc3NpYmlsaXR5IG9mIGdldHRpbmcgUXVp\r\na3NjcmlwdCBlbmNvZGVkIGluIFVuaWNvZGUsIHRoZXJlIHdhcyBhIGxvdCBvZiBGVUQgc3ByZWFk\r\nIGJ5IHRoZSBwYXJ0aWNpcGFudHMsIG15c2VsZiBtb3N0IG9mIGFsbC4NCiANCg0KIEkgd2FzIHVu\r\nZGVyIHRoZSBhc3N1bXB0aW9uIHRoYXQgUXVpa3NjcmlwdCwgaWYgaXQgd2VyZSBhZGRlZCBpbiBh\r\nIHdheSB0aGF0IHdvdWxkIG1ha2UgaXQgZGVwZW5kZW50IG9uIFNoYXZpYW4sIHdvdWxkIHVzZSBT\r\nSEFWSUFOIExFVFRFUiBUSElHSCAobG9va3MgbGlrZSBhIC5GZWUpIGZvciAuVGhhdy4gVGhpcyB3\r\nb3VsZCBiZSBhbiBleHRyYW9yZGluYXJpbHkgc2lsbHkgd2F5IHRvIGRvIGl04oCTaXTigJlkIGJl\r\nIGFzIGlmIFBvbGlzaCBmb250cyBhbGwgaGFkIGEgZ2x5cGggdGhhdCBsb29rcyBsaWtlIMWCIGZv\r\nciBVKzAwNzcgTEFUSU4gU01BTEwgTEVUVEVSIFcuIFNvIHRvIHNlZSB3aGF0IFF1aWtzY3JpcHQg\r\nd291bGQgbG9vayBsaWtlIG9uIGEgbWFjaGluZSB3aXRoIG5vIFF1aWtzY3JpcHQgZm9udHMgaW5z\r\ndGFsbGVkLCBJIHdyb3RlIHRoZSBhdHRhY2hlZCBwYXNzYWdlIHVzaW5nIHRoZSBzb3J0cyBvZiBs\r\nZXR0ZXJzIG9uZSB3b3VsZCB1c2UuDQogDQoNCiBXaGlsZSBJIGhhdmUgYSBiaXQgb2YgdHJvdWJs\r\nZSB3aXRoIC5FaWdodCwgLkksIC5PeSwgYW5kIC5PdXQsIHRoZXkgY2FuIGJlIGluZmVycmVkIGZy\r\nb20gY29udGV4dCBhbmQgdGhlIHJlc3QgaXMgc3VycHJpc2luZ2x5IHJlYWRhYmxlLiBBcyBmYXIg\r\nYXMgSSBjYW4gdGVsbCwgTWljaGFlbCBFdmVyc29u4oCZcyBwcm9wb3NhbCB3b3VsZCBwcm92aWRl\r\nIGNvbmNyZXRlIGJlbmVmaXRzIHRvIHVzIHdpdGggYSBtaW5pbXVtIG9mIGRvd25zaWRlcy4NCiAN\r\nCg0KIEFzIG9mIHRoaXMgd3JpdGluZywgdGhlIG9ubHkgT1MgdGhhdCBJIGtub3cgb2YgdGhhdCBz\r\naGlwcyB3aXRoIFNoYXZpYW4gZm9udHMgaXMgT1MgWC4gaU9TIDguMSwgV2luZG93cyA4LjEsIGFu\r\nZCBBbmRyb2lkIDQuMCBkb27igJl0IHNoaXAgd2l0aCBhbnkuIEFzIHN1Y2gsIHRoaXMgcHJvYmxl\r\nbSB3aWxsIGxpa2VseSBiZSBsaW1pdGVkIHRvIE9TIFggbWFjaGluZXMgaW4gdGhlIG5lYXIgZnV0\r\ndXJlLiBBcyBhbHdheXMsIGlmIHlvdeKAmXJlIHB1dHRpbmcgUXVpa3NjcmlwdCBvbiB0aGUgV2Vi\r\nLCB0aGUgYmVzdCB0aGluZyB0byBkbyBpcyB1c2UgQGZvbnQtZmFjZS4gSSBkb27igJl0IGhhdmUg\r\nYW55IHN1Z2dlc3Rpb25zIGZvciBRdWlrc2NyaXB0LWluLWVtYWlsIG90aGVyIHRoYW4g4oCcb25s\r\neSBoYW5kbGUgdGhhdCBtYWlsIG9uIGEgZGVza3RvcCBjb21wdXRlciB3aGVyZSB5b3UgY2FuIGlu\r\nc3RhbGwgeW91ciBvd24gZm9udHMu4oCdDQogDQoNCiANCiBTby4gSWYgTXIuIEV2ZXJzb27igJlz\r\nIHdpbGxpbmcsIHNob3VsZCB3ZSB0cnkgYW5kIGdldCB0aGlzIGluIFVuaWNvZGUgOC4wPw0KIA0K\r\nDQo=\r\n\r\n\r\n--B2WnTS9ocNmxdhsK3FKVLWiM6a5jwOaA8HvrLV\r\nContent-Type:  text/html;  charset=utf-8 \r\nContent-Transfer-Encoding: base64\r\n\r\nPHA+VGhlIGxhc3QgdGltZSB3ZSBkaXNjdXNzZWQgdGhlIHBvc3NpYmlsaXR5IG9mIGdldHRpbmcg\r\nUXVpa3NjcmlwdCBlbmNvZGVkIGluIFVuaWNvZGUsIHRoZXJlIHdhcyBhIGxvdCBvZiBGVUQgc3By\r\nZWFkIGJ5IHRoZSBwYXJ0aWNpcGFudHMsIG15c2VsZiBtb3N0IG9mIGFsbC48L3A+PHA+PGJyPjwv\r\ncD48cD5JIHdhcyB1bmRlciB0aGUgYXNzdW1wdGlvbiB0aGF0IFF1aWtzY3JpcHQsIGlmIGl0IHdl\r\ncmUgYWRkZWQgaW4gYSB3YXkgdGhhdCB3b3VsZCBtYWtlIGl0IGRlcGVuZGVudCBvbiBTaGF2aWFu\r\nLCB3b3VsZCB1c2UgU0hBVklBTiBMRVRURVIgVEhJR0ggKGxvb2tzIGxpa2UgYSAuRmVlKSBmb3Ig\r\nLlRoYXcuIFRoaXMgd291bGQgYmUgYW4gZXh0cmFvcmRpbmFyaWx5IHNpbGx5IHdheSB0byBkbyBp\r\ndOKAk2l04oCZZCBiZSBhcyBpZiBQb2xpc2ggZm9udHMgYWxsIGhhZCBhIGdseXBoIHRoYXQgbG9v\r\na3MgbGlrZSDFgiBmb3IgVSswMDc3IExBVElOIFNNQUxMIExFVFRFUiBXLiBTbyB0byBzZWUgd2hh\r\ndCBRdWlrc2NyaXB0IHdvdWxkIGxvb2sgbGlrZSBvbiBhIG1hY2hpbmUgd2l0aCBubyBRdWlrc2Ny\r\naXB0IGZvbnRzIGluc3RhbGxlZCwgSSB3cm90ZSB0aGUgYXR0YWNoZWQgcGFzc2FnZSB1c2luZyB0\r\naGUgc29ydHMgb2YgbGV0dGVycyBvbmUgd291bGQgdXNlLjwvcD48cD48YnI+PC9wPjxwPldoaWxl\r\nIEkgaGF2ZSBhIGJpdCBvZiB0cm91YmxlIHdpdGggLkVpZ2h0LCAuSSwgLk95LCBhbmQgLk91dCwg\r\ndGhleSBjYW4gYmUgaW5mZXJyZWQgZnJvbSBjb250ZXh0IGFuZCB0aGUgcmVzdCBpcyBzdXJwcmlz\r\naW5nbHkgcmVhZGFibGUuIEFzIGZhciBhcyBJIGNhbiB0ZWxsLCBNaWNoYWVsIEV2ZXJzb27igJlz\r\nIHByb3Bvc2FsIHdvdWxkIHByb3ZpZGUgY29uY3JldGUgYmVuZWZpdHMgdG8gdXMgd2l0aCBhIG1p\r\nbmltdW0gb2YgZG93bnNpZGVzLjwvcD48cD48YnI+PC9wPjxwPkFzIG9mIHRoaXMgd3JpdGluZywg\r\ndGhlIG9ubHkgT1MgdGhhdCBJIGtub3cgb2YgdGhhdCBzaGlwcyB3aXRoIFNoYXZpYW4gZm9udHMg\r\naXMgT1MgWC4gaU9TIDguMSwgV2luZG93cyA4LjEsIGFuZCBBbmRyb2lkIDQuMCBkb27igJl0IHNo\r\naXAgd2l0aCBhbnkuIEFzIHN1Y2gsIHRoaXMgcHJvYmxlbSB3aWxsIGxpa2VseSBiZSBsaW1pdGVk\r\nIHRvIE9TIFggbWFjaGluZXMgaW4gdGhlIG5lYXIgZnV0dXJlLiBBcyBhbHdheXMsIGlmIHlvdeKA\r\nmXJlIHB1dHRpbmcgUXVpa3NjcmlwdCBvbiB0aGUgV2ViLCB0aGUgYmVzdCB0aGluZyB0byBkbyBp\r\ncyB1c2UgQGZvbnQtZmFjZS4gSSBkb27igJl0IGhhdmUgYW55IHN1Z2dlc3Rpb25zIGZvciBRdWlr\r\nc2NyaXB0LWluLWVtYWlsIG90aGVyIHRoYW4g4oCcb25seSBoYW5kbGUgdGhhdCBtYWlsIG9uIGEg\r\nZGVza3RvcCBjb21wdXRlciB3aGVyZSB5b3UgY2FuIGluc3RhbGwgeW91ciBvd24gZm9udHMu4oCd\r\nPC9wPjxwPjxicj48L3A+PHA+PHNwYW4+PC9zcGFuPjwvcD48cD5Tby4gSWYgTXIuIEV2ZXJzb27i\r\ngJlzIHdpbGxpbmcsIHNob3VsZCB3ZSB0cnkgYW5kIGdldCB0aGlzIGluIFVuaWNvZGUgOC4wPzwv\r\ncD48cD48c3Bhbj48YnIgY2xhc3M9Inl1aS1jdXJzb3IiPjwvc3Bhbj48L3A+\r\n\r\n\r\n--B2WnTS9ocNmxdhsK3FKVLWiM6a5jwOaA8HvrLV--\r\n\n\r\n--9nlWnTS9ocNmxdhsK3FKVLWiM6a5jwOaA8HvrLV\r\nContent-Type: image/jpeg\r\nContent-Disposition: attachment; filename=&quot;qs-as-shavian.jpeg&quot;\r\n\r\n[ Attachment content not displayed ]\r\n--9nlWnTS9ocNmxdhsK3FKVLWiM6a5jwOaA8HvrLV--\r\n\n"
+}

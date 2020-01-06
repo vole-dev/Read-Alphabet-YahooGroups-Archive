@@ -1,0 +1,33 @@
+{
+  "userId": 115538967,
+  "authorName": "Josh Cogliati",
+  "from": "Josh Cogliati &lt;jjc@...&gt;",
+  "profile": "jrincayc",
+  "replyTo": "LIST",
+  "senderId": "wbKB_s4mYWk4uppfSjn6ohROCSm40icz2TqceXiGOWb6ob3XR-hq51FEpzYgwA61yXd5nqaCttMFiTKsh8tLfeq2za52n7efpx6n9Ew",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Hi, folks",
+  "postDate": "1029244983",
+  "msgId": 214,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDIwODEzMDcyMzAzLkE0MTZAbG9jYWxob3N0Pg==",
+    "inReplyToHeader": "PDNENTg0OEI5LkNGRkU5OUY3QGNvcmVjb21tLm5ldD47IGZyb20gcGdhYmhhcnRAY29yZWNvbW0ubmV0IG9uIE1vbiwgQXVnIDEyLCAyMDAyIGF0IDA3OjQ2OjAxUE0gLTA0MDA=",
+    "referencesHeader": "PGFqMG1jNCtiajVhQGVHcm91cHMuY29tPiA8M0Q1ODQ4QjkuQ0ZGRTk5RjdAY29yZWNvbW0ubmV0Pg=="
+  },
+  "prevInTopic": 213,
+  "nextInTopic": 219,
+  "prevInTime": 213,
+  "nextInTime": 215,
+  "topicId": 203,
+  "numMessagesInTopic": 9,
+  "msgSnippet": "... I have sucessfully gotten this to work. I added them to the /usr/X11R6/lib/X11/fonts/Type1 directory. Add this line to the fonts.scale file in the font",
+  "messageBody": "<div id=\"ygrps-yiv-1452166994\">On Mon, Aug 12, 2002 at 07:46:01PM -0400, C. Paige Gabhart wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; I am using a hybrid Linux/Windows OS, and have not worked out how to use<br/>\n&gt; Jerome or a version thereof on my Linux box yet, which in the past few<br/>\n&gt; months has kept me from sending messages on the site using QS.<br/>\n </span></blockquote>I have sucessfully gotten this to work.<br/>\n<br/>\nI added them to the /usr/X11R6/lib/X11/fonts/Type1 directory.<br/>\nAdd this line to the fonts.scale file in the font directory that you<br/>\nadd the file to:<br/>\njerome.pfb   -unknown-jerome-medium-r-normal--0-0-0-0-p-0-iso10646-1<br/>\n<br/>\nAdd these files to the font directory:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.honors.montana.edu/~jjc/jerome.pfb\">http://www.honors.montana.edu/~jjc/jerome.pfb</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.honors.montana.edu/~jjc/jerome.afm\">http://www.honors.montana.edu/~jjc/jerome.afm</a><br/>\n<br/>\nRun mkfontdir in the directory that you installed the fonts.<br/>\n<br/>\nGet the font server to reread the fonts.<br/>\n&quot;xset fp rehash&quot; might work.<br/>\n<br/>\nFor more help on installing fonts see the Font howto:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.tldp.org/HOWTO/Font-HOWTO/index.html\">http://www.tldp.org/HOWTO/Font-HOWTO/index.html</a><br/>\n<br/>\n-- <br/>\nJosh Cogliati<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:jjc@...\">jjc@...</a><br/>\nThis message created in Linux, the choice of a GNU generation.</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;jjc@...&gt;\r\nX-Sender: jjc@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (EGP: mail-8_0_7_4); 13 Aug 2002 13:19:30 -0000\r\nReceived: (qmail 56494 invoked from network); 13 Aug 2002 13:19:30 -0000\r\nReceived: from unknown (66.218.66.218)\n  by m2.grp.scd.yahoo.com with QMQP; 13 Aug 2002 13:19:30 -0000\r\nReceived: from unknown (HELO rupert.honors.montana.edu) (153.90.199.52)\n  by mta3.grp.scd.yahoo.com with SMTP; 13 Aug 2002 13:19:29 -0000\r\nReceived: from ekira (rupert.honors.montana.edu [153.90.199.52])\n\tby rupert.honors.montana.edu (8.11.3nb1/8.11.3) with ESMTP id g7DDJQZ27054\n\tfor &lt;Read_Alphabet@yahoogroups.com&gt;; Tue, 13 Aug 2002 07:19:27 -0600 (MDT)\r\nReceived: from jjc by ekira with local (Exim 3.12 #1 (Debian))\n\tid 17ebdX-00007t-00\n\tfor &lt;Read_Alphabet@yahoogroups.com&gt;; Tue, 13 Aug 2002 07:23:03 -0600\r\nDate: Tue, 13 Aug 2002 07:23:03 -0600\r\nTo: Read_Alphabet@yahoogroups.com\r\nSubject: Re: [Read_Alphabet] Hi, folks\r\nMessage-ID: &lt;20020813072303.A416@localhost&gt;\r\nReferences: &lt;aj0mc4+bj5a@...&gt; &lt;3D5848B9.CFFE99F7@...&gt;\r\nMime-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nUser-Agent: Mutt/1.2.5i\r\nIn-Reply-To: &lt;3D5848B9.CFFE99F7@...&gt;; from pgabhart@... on Mon, Aug 12, 2002 at 07:46:01PM -0400\r\nX-eGroups-From: Josh Cogliati &lt;jjc@...&gt;\r\nFrom: Josh Cogliati &lt;jjc@...&gt;\r\nReply-To: jjc@...\r\nX-Yahoo-Group-Post: member; u=115538967\r\nX-Yahoo-Profile: jrincayc\r\n\r\nOn Mon, Aug 12, 2002 at 07:46:01PM -0400, C. Paige Gabhart wrote:\n&gt; I am using a hybrid Linux/Windows OS, and have not worked out how to use\n&gt; Jerome or a version thereof on my Linux box yet, which in the past few\n&gt; months has kept me from sending messages on the site using QS.\nI have sucessfully gotten this to work.\n\nI added them to the /usr/X11R6/lib/X11/fonts/Type1 directory.\nAdd this line to the fonts.scale file in the font directory that you\nadd the file to:\njerome.pfb   -unknown-jerome-medium-r-normal--0-0-0-0-p-0-iso10646-1\n\nAdd these files to the font directory:\nhttp://www.honors.montana.edu/~jjc/jerome.pfb\nhttp://www.honors.montana.edu/~jjc/jerome.afm\n\nRun mkfontdir in the directory that you installed the fonts.\n\nGet the font server to reread the fonts.\n&quot;xset fp rehash&quot; might work.\n\nFor more help on installing fonts see the Font howto:\nhttp://www.tldp.org/HOWTO/Font-HOWTO/index.html\n\n-- \nJosh Cogliati\njjc@...\nThis message created in Linux, the choice of a GNU generation.\n\n\n"
+}

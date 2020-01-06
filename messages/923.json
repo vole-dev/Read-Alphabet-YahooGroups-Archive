@@ -1,0 +1,33 @@
+{
+  "userId": 180175951,
+  "authorName": "amd64_hacker",
+  "from": "amd64_hacker &lt;amd64_hacker@...&gt;",
+  "profile": "amd64_hacker",
+  "replyTo": "LIST",
+  "senderId": "teL99W9k4hfBCHnJJDp4E7LsN68qGRO0qL449GNOfu17BaxB-cbWBgSfDtTeP9qCElBFY33kxHAR_4DyP2YvIapjSMbswb8jO6XmwgI2",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Newsletter",
+  "postDate": "1177442693",
+  "msgId": 923,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ2MkU1OTg1LjQwNzA1MDdAeWFob28uY28udWs+",
+    "inReplyToHeader": "PDQ2MkQzN0E1LjkwNzAxMDVAeWFob28uY28udWs+",
+    "referencesHeader": "PDQ2MkQyNzk5LjkwODA5MDdAc2JjZ2xvYmFsLm5ldD4gPDQ2MkQzN0E1LjkwNzAxMDVAeWFob28uY28udWs+"
+  },
+  "prevInTopic": 922,
+  "nextInTopic": 924,
+  "prevInTime": 922,
+  "nextInTime": 924,
+  "topicId": 921,
+  "numMessagesInTopic": 12,
+  "msgSnippet": "I had further thoughts on point 1, I realise that it works for me probably wasn t the most helpful comment. I ve created a page which tests three methods of",
+  "messageBody": "<div id=\"ygrps-yiv-614182942\">I had further thoughts on point 1, I realise that &#39;it works for me&#39;<br/>\nprobably wasn&#39;t the most helpful comment.<br/>\nI&#39;ve created a page which tests three methods of displaying QS text in a<br/>\nbrowser.<br/>\n<br/>\nThe methods are:<br/>\nUnicode + Font hints.<br/>\nUnicode on it&#39;s own.<br/>\nASCII + Font hints.<br/>\n<br/>\nThe first is the best compromise, the text is Unicode but we tell the<br/>\nbrowser which font to use which solves the collision problem.<br/>\nThe second is the &#39;correct&#39; method since it doesn&#39;t require particular<br/>\nfonts to be installed or special mark up but it&#39;s also the most likely<br/>\nto fail due to code point collisions in the PUA. :(<br/>\nThe third method should display correctly in just about any browser but<br/>\nif you copy the text you&#39;ll get the underlying ascii/latin text.<br/>\n<br/>\nIdeally all three tests should display the same text on a properly setup<br/>\ncomputer.<br/>\nIn the real world if we can find a method which works for most people<br/>\nthen we use that to talk to each other.<br/>\n<br/>\nI&#39;d like to apologise for the spelling on the page, my ability to write<br/>\nin QS is not very good yet.<br/>\n<br/>\nI&#39;ve uploaded the test page to the Fonts folder, please let me know if<br/>\nyou have any ideas/suggestions/improvements.</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;amd64_hacker@...&gt;\r\nX-Sender: amd64_hacker@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 88686 invoked from network); 24 Apr 2007 19:24:35 -0000\r\nReceived: from unknown (66.218.67.34)\n  by m40.grp.scd.yahoo.com with QMQP; 24 Apr 2007 19:24:35 -0000\r\nReceived: from unknown (HELO smtp003.mail.ukl.yahoo.com) (217.12.11.34)\n  by mta8.grp.scd.yahoo.com with SMTP; 24 Apr 2007 19:24:35 -0000\r\nReceived: (qmail 94588 invoked from network); 24 Apr 2007 19:23:56 -0000\r\nReceived: from unknown (HELO ?192.168.0.1?) (amd64_hacker@82.19.52.162 with plain)\n  by smtp003.mail.ukl.yahoo.com with SMTP; 24 Apr 2007 19:23:56 -0000\r\nX-YMail-OSG: 1PVntE8VM1khSEnRPS0lDRzUdJkbLljhvQv8eNF.z4h2nLeHwNMKyc0W2i3PL5D_T5c37n86Aw--\r\nMessage-ID: &lt;462E5985.4070507@...&gt;\r\nDate: Tue, 24 Apr 2007 20:24:53 +0100\r\nUser-Agent: Thunderbird 1.5.0.10 (X11/20070306)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nReferences: &lt;462D2799.9080907@...&gt; &lt;462D37A5.9070105@...&gt;\r\nIn-Reply-To: &lt;462D37A5.9070105@...&gt;\r\nX-Enigmail-Version: 0.94.0.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: amd64_hacker &lt;amd64_hacker@...&gt;\r\nSubject: Re: [Read_Alphabet] Newsletter\r\nX-Yahoo-Group-Post: member; u=180175951; y=XuPnLcgRjFwBpnMqbOAOlo2-onNAN5H8wzQHJEAvLE_ytJ2Ndh_V\r\nX-Yahoo-Profile: amd64_hacker\r\n\r\nI had further thoughts on point 1, I realise that &#39;it works for me&#39;\nprobably wasn&#39;t the most helpful comment.\nI&#39;ve created a page which tests three methods of displaying QS text in a\nbrowser.\n\nThe methods are:\nUnicode + Font hints.\nUnicode on it&#39;s own.\nASCII + Font hints.\n\nThe first is the best compromise, the text is Unicode but we tell the\nbrowser which font to use which solves the collision problem.\nThe second is the &#39;correct&#39; method since it doesn&#39;t require particular\nfonts to be installed or special mark up but it&#39;s also the most likely\nto fail due to code point collisions in the PUA. :(\nThe third method should display correctly in just about any browser but\nif you copy the text you&#39;ll get the underlying ascii/latin text.\n\nIdeally all three tests should display the same text on a properly setup\ncomputer.\nIn the real world if we can find a method which works for most people\nthen we use that to talk to each other.\n\nI&#39;d like to apologise for the spelling on the page, my ability to write\nin QS is not very good yet.\n\nI&#39;ve uploaded the test page to the Fonts folder, please let me know if\nyou have any ideas/suggestions/improvements.\n\n"
+}

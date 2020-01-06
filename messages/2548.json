@@ -1,0 +1,31 @@
+{
+  "userId": 458641688,
+  "authorName": "Nathan Sharfi",
+  "from": "Nathan Sharfi &lt;bonusfrogs@...&gt;",
+  "profile": "dipartite",
+  "replyTo": "LIST",
+  "senderId": "zktGV8Epc5owh8AcjOWSVOuMkfeXOaAyZdy_TIaAJ0UCOdoE1FLsK_TLbf_cMWi9csv_kotzbFkyIoVRXlK8qUohADYmJ0zl0Uzx",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "King Kong updates",
+  "postDate": "1372368036",
+  "msgId": 2548,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PEZERDBGMjZGLUI2MjItNEQ4NS1BOUQ0LTQ2OTgyMTU1QTRCN0BnbWFpbC5jb20+"
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 2565,
+  "prevInTime": 2547,
+  "nextInTime": 2549,
+  "topicId": 2548,
+  "numMessagesInTopic": 3,
+  "msgSnippet": "I ve just updated King Kong with a bunch of changes. I ve moved the en and em dashes from % and T to T and G; the middle dot (\u00b7) on G got moved to H, and % is",
+  "messageBody": "<div id=\"ygrps-yiv-1856694305\">I&#39;ve just updated King Kong with a bunch of changes. I&#39;ve moved the en and em dashes from % and T to T and G; the middle dot (\u00b7) on G got moved to H, and % is now used for _.<br/>\n<br/>\nThe Windows version has also been updated to match, and the installer now ships with *all* the files it needs (as opposed to just the setup.exe shell).<br/>\n<br/>\nGrab it from &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"https://github.com/adiabatic/king-kong\">https://github.com/adiabatic/king-kong</a>&gt;.</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;bonusfrogs@...&gt;\r\nX-Sender: bonusfrogs@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 78489 invoked from network); 27 Jun 2013 22:21:47 -0000\r\nX-Received: from unknown (98.137.63.211)\n  by m8.grp.sp2.yahoo.com with QMQP; 27 Jun 2013 22:21:47 -0000\r\nX-Received: from unknown (HELO mail-pd0-f176.google.com) (209.85.192.176)\n  by mtaq1.grp.sp2.yahoo.com with SMTP; 27 Jun 2013 22:21:36 -0000\r\nX-Received: by mail-pd0-f176.google.com with SMTP id t12so634999pdi.21\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Thu, 27 Jun 2013 15:21:36 -0700 (PDT)\r\nX-Received: by 10.66.146.9 with SMTP id sy9mr8187804pab.16.1372368037905;\n        Thu, 27 Jun 2013 14:20:37 -0700 (PDT)\r\nReturn-Path: &lt;bonusfrogs@...&gt;\r\nX-Received: from spreadthinly.localdomain (pool-74-100-97-239.lsanca.fios.verizon.net. [74.100.97.239])\n        by mx.google.com with ESMTPSA id v7sm4697067pbq.32.2013.06.27.14.20.37\n        for &lt;Read_Alphabet@yahoogroups.com&gt;\n        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);\n        Thu, 27 Jun 2013 14:20:37 -0700 (PDT)\r\nContent-Type: text/plain; charset=iso-8859-1\r\nContent-Transfer-Encoding: quoted-printable\r\nMessage-Id: &lt;FDD0F26F-B622-4D85-A9D4-46982155A4B7@...&gt;\r\nDate: Thu, 27 Jun 2013 14:20:36 -0700\r\nTo: &quot;Read_Alphabet@yahoogroups.com&quot; &lt;Read_Alphabet@yahoogroups.com&gt;\r\nMime-Version: 1.0 (Mac OS X Mail 6.5 &#92;(1508&#92;))\r\nX-Mailer: Apple Mail (2.1508)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Nathan Sharfi &lt;bonusfrogs@...&gt;\r\nSubject: King Kong updates\r\nX-Yahoo-Group-Post: member; u=458641688; y=DISRWE1e0Z6rIY5Frq5-f7pehtFK_oY6WA2hnm9AU7GeknZG\r\nX-Yahoo-Profile: dipartite\r\n\r\nI&#39;ve just updated King Kong with a bunch of changes. I&#39;ve moved the en and =\r\nem dashes from % and T to T and G; the middle dot (=B7) on G got moved to H=\r\n, and % is now used for _.\n\nThe Windows version has also been updated to ma=\r\ntch, and the installer now ships with *all* the files it needs (as opposed =\r\nto just the setup.exe shell).\n\nGrab it from &lt;https://github.com/adiabatic/k=\r\ning-kong&gt;.\n"
+}

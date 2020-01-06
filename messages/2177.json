@@ -1,0 +1,33 @@
+{
+  "userId": 458641688,
+  "authorName": "Nathan Sharfi",
+  "from": "Nathan Sharfi &lt;bonusfrogs@...&gt;",
+  "profile": "dipartite",
+  "replyTo": "LIST",
+  "senderId": "P1CvWoGSvkaoD0CIKbttUpsnliGpJvo1zDRSy4rnYtAAh9nVO410MCSQLZFLAVY_nuyX_POy5JSWqJ5j1mBeVPD6JQ7nu46odHF3",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] ANNOUNCE: Configuratronic.with an actual link",
+  "postDate": "1290155168",
+  "msgId": 2177,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": true,
+  "headers": {
+    "messageIdInHeader": "PERDRjA0NjZGLTYyREYtNDAyMi05MzU2LTk2RDQwN0Y3M0Y1MUBnbWFpbC5jb20+",
+    "inReplyToHeader": "PEFBQzNBOEJCNUM0NTQ2RjM5M0M4NjEzOTBCMzNFNjg3QERhbWFyaXM+",
+    "referencesHeader": "PDA2NkM2RDcyLTAwRUYtNDU5MS05MTAyLUU5QTdFOUNEREFGM0BnbWFpbC5jb20+IDxBQUMzQThCQjVDNDU0NkYzOTNDODYxMzkwQjMzRTY4N0BEYW1hcmlzPg=="
+  },
+  "prevInTopic": 2175,
+  "nextInTopic": 0,
+  "prevInTime": 2176,
+  "nextInTime": 2178,
+  "topicId": 2174,
+  "numMessagesInTopic": 3,
+  "msgSnippet": "... Fixed. Thanks for reporting!",
+  "messageBody": "<div id=\"ygrps-yiv-1323263913\">On Nov 18, 2010, at 11:58 PM, Lauren Eaves wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; I can&#39;t get the check boxes to do anything, personally. I only see the quikscript and the IPA. The IPA is helpful, though.<br/>\n&gt;  <br/>\n&gt; I&#39;m using Firefox.<br/>\n&gt; <br/>\n<br/>\n </span></blockquote>Fixed. Thanks for reporting!</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;bonusfrogs@...&gt;\r\nReceived: (qmail 70724 invoked from network); 19 Nov 2010 15:41:33 -0000\r\nReceived: from unknown (98.137.34.46)\n  by m4.grp.sp2.yahoo.com with QMQP; 19 Nov 2010 15:41:33 -0000\r\nReceived: from unknown (HELO n44d.bullet.mail.sp1.yahoo.com) (66.163.169.158)\n  by mta3.grp.sp2.yahoo.com with SMTP; 19 Nov 2010 15:41:33 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1290181293; bh=GODJ2nQNpKPuRLMmxDBqLOk91kKaXNDu41g3naZJn7Y=; h=Received:Received:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:Mime-Version:Content-Type:X-Priority:In-Reply-To:Date:Content-Transfer-Encoding:Message-Id:References:To:X-Mailer:X-Originating-IP:X-eGroups-Msg-Info:From:Subject:X-Yahoo-Group-Post:X-Yahoo-Profile:X-YGroups-SubInfo:Sender:X-Yahoo-Newman-Property:X-eGroups-Approved-By:X-eGroups-Auth; b=d/05SIhWXjjAN+i5DBrJe36vHsQwql9FPQtXZLShD2Gs7Ar2/nMzO/O7PCPfUkOCEKal7IM86/6Gz7zg+RwTvulLdSjM57mKFRpC8J+r/DNLJIyp6PLIqcyHFvPnvoq0\r\nReceived: from [69.147.65.172] by n44.bullet.mail.sp1.yahoo.com with NNFMP; 19 Nov 2010 15:41:33 -0000\r\nReceived: from [98.137.35.12] by t14.bullet.mail.sp1.yahoo.com with NNFMP; 19 Nov 2010 15:41:33 -0000\r\nX-Sender: bonusfrogs@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 94452 invoked from network); 19 Nov 2010 08:26:12 -0000\r\nX-Received: from unknown (98.137.34.46)\n  by m3.grp.sp2.yahoo.com with QMQP; 19 Nov 2010 08:26:12 -0000\r\nX-Received: from unknown (HELO mail-pw0-f48.google.com) (209.85.160.48)\n  by mta3.grp.sp2.yahoo.com with SMTP; 19 Nov 2010 08:26:12 -0000\r\nX-Received: by pwj9 with SMTP id 9so1084536pwj.21\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Fri, 19 Nov 2010 00:26:12 -0800 (PST)\r\nX-Received: by 10.142.115.6 with SMTP id n6mr1464038wfc.169.1290155172105;\n        Fri, 19 Nov 2010 00:26:12 -0800 (PST)\r\nX-Received: from [192.168.0.100] (dsl-206-55-130-248.tstonramp.com [206.55.130.248])\n        by mx.google.com with ESMTPS id y42sm1566061wfd.22.2010.11.19.00.26.09\n        (version=TLSv1/SSLv3 cipher=RC4-MD5);\n        Fri, 19 Nov 2010 00:26:10 -0800 (PST)\r\nMime-Version: 1.0 (Apple Message framework v1082)\r\nContent-Type: text/plain; charset=us-ascii\r\nX-Priority: 3\r\nIn-Reply-To: &lt;AAC3A8BB5C4546F393C861390B33E687@Damaris&gt;\r\nDate: Fri, 19 Nov 2010 00:26:08 -0800\r\nContent-Transfer-Encoding: quoted-printable\r\nMessage-Id: &lt;DCF0466F-62DF-4022-9356-96D407F73F51@...&gt;\r\nReferences: &lt;066C6D72-00EF-4591-9102-E9A7E9CDDAF3@...&gt; &lt;AAC3A8BB5C4546F393C861390B33E687@Damaris&gt;\r\nTo: Read_Alphabet@yahoogroups.com\r\nX-Mailer: Apple Mail (2.1082)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Nathan Sharfi &lt;bonusfrogs@...&gt;\r\nSubject: Re: [Read_Alphabet] ANNOUNCE: Configuratronic.with an actual link\r\nX-Yahoo-Group-Post: member; u=458641688; y=zVZd6bjTZAvSbeNLZmel1gmHyfNBY3g8AVWbJLFvyWllPS3k\r\nX-Yahoo-Profile: dipartite\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Approved-By: tinyallen &lt;Tinyallen@...&gt; via web; 19 Nov 2010 15:41:32 -0000\r\n\r\nOn Nov 18, 2010, at 11:58 PM, Lauren Eaves wrote:\n\n&gt; \n&gt; I can&#39;t get the che=\r\nck boxes to do anything, personally. I only see the quikscript and the IPA.=\r\n The IPA is helpful, though.\n&gt;  \n&gt; I&#39;m using Firefox.\n&gt; \n\nFixed. Thanks for=\r\n reporting!\n\n"
+}

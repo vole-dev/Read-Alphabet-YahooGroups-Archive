@@ -1,0 +1,33 @@
+{
+  "userId": 180175951,
+  "authorName": "amd64_hacker",
+  "from": "amd64_hacker &lt;amd64_hacker@...&gt;",
+  "profile": "amd64_hacker",
+  "replyTo": "LIST",
+  "senderId": "PaPYFzj8OlPXAbHMQZXvVCRNGk5h141AZg7_wnZs6KNfRaPEJZ5rIvkJg9HlgTsFhgNPFzo038gdT1YKc2lBmPruMMTW6vX6lqSdCHl3",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Milligan poems",
+  "postDate": "1190046115",
+  "msgId": 1043,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ2RUVBOUEzLjQwNzA2QHlhaG9vLmNvLnVrPg==",
+    "inReplyToHeader": "PDIwMDcwOTE3MTU0NjE2LkdBMjc4NThAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "referencesHeader": "PGZjZmwzYStzdDRoQGVHcm91cHMuY29tPiA8NDZFQkRCNjcuNDA0MDkwNEB5YWhvby5jby51az4gPDIwMDcwOTE1MTg0MjIzLkdDMjk1NjNAbWVyY3VyeS5jY2lsLm9yZz4gPDQ2RUMyRkNFLjMwOTA5MDlAeWFob28uY28udWs+IDwyMDA3MDkxNzE1NDYxNi5HQTI3ODU4QG1lcmN1cnkuY2NpbC5vcmc+"
+  },
+  "prevInTopic": 1042,
+  "nextInTopic": 1044,
+  "prevInTime": 1042,
+  "nextInTime": 1044,
+  "topicId": 1014,
+  "numMessagesInTopic": 28,
+  "msgSnippet": "Nope, did much the same thing you did except I did a s/[^- a-zA-Z]+/ n/g. To be honest I m not entirely certain any more why I offered the word list. I just",
+  "messageBody": "<div id=\"ygrps-yiv-1263562624\">Nope, did much the same thing you did except I did a s/[^-&#39;a-zA-Z]+/&#92;n/g.<br/>\n<br/>\nTo be honest I&#39;m not entirely certain any more why I offered the word list.<br/>\nI just saw the name Baum and thought &quot;ooh, I&#39;ve still got a copy of that<br/>\nsome where&quot;.<br/>\nSpur of the moment email I guess. :)<br/>\n<br/>\nJohn Cowan wrote:<br/>\n<blockquote><span title=\"qreply\"> &gt;<br/>\n&gt; amd64_hacker scripsit:<br/>\n&gt;<br/>\n&gt; &gt; Also, on re-reading my e-mail, it looks like I&#39;m saying I have a word<br/>\n&gt; &gt; list with Latin and QuikScript equivalents.<br/>\n&gt; &gt; The word list is just the 2940 words in Latin I&#39;m afraid, I never got<br/>\n&gt; &gt; any further.<br/>\n&gt;<br/>\n&gt; Oh, I misunderstood.<br/>\n&gt;<br/>\n&gt; Good Ghu, you didn&#39;t develop that list by hand, did you? It&#39;s about<br/>\n&gt; a one-minute job with the Unix text toolkit:<br/>\n&gt;<br/>\n&gt; wget <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.gutenberg.org/dirs/etext93/wizoz10.txt\">http://www.gutenberg.org/dirs/etext93/wizoz10.txt</a><br/>\n&gt; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.gutenberg.org/dirs/etext93/wizoz10.txt\">http://www.gutenberg.org/dirs/etext93/wizoz10.txt</a>&gt;<br/>\n&gt; tr &lt;wiz0z10.txt -c &#39;[^a-zA-Z]&#39; &#39;&#92;012&#39; | sort -u &gt;wizoz10.wordlist<br/>\n&gt;<br/>\n&gt; -- <br/>\n&gt; You let them out again, Old Man Willow! John Cowan<br/>\n&gt; What you be a-thinking of? You should not be waking! <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a><br/>\n&gt; &lt;mailto:cowan%40ccil.org&gt;<br/>\n&gt; Eat earth! Dig deep! Drink water! Go to sleep!<br/>\n&gt; Bombadil is talking. <a rel=\"nofollow\" target=\"_blank\" href=\"http://ccil.org/~cowan\">http://ccil.org/~cowan</a> &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://ccil.org/%7Ecowan\">http://ccil.org/%7Ecowan</a>&gt;<br/>\n&gt;<br/>\n&gt; </span></blockquote></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;amd64_hacker@...&gt;\r\nX-Sender: amd64_hacker@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 47282 invoked from network); 17 Sep 2007 16:31:42 -0000\r\nReceived: from unknown (66.218.66.71)\n  by m36.grp.scd.yahoo.com with QMQP; 17 Sep 2007 16:31:42 -0000\r\nReceived: from unknown (HELO smtp010.mail.ukl.yahoo.com) (217.12.11.79)\n  by mta13.grp.scd.yahoo.com with SMTP; 17 Sep 2007 16:31:41 -0000\r\nReceived: (qmail 28618 invoked from network); 17 Sep 2007 16:21:04 -0000\r\nReceived: from unknown (HELO ?192.168.0.1?) (amd64_hacker@82.19.52.162 with plain)\n  by smtp010.mail.ukl.yahoo.com with SMTP; 17 Sep 2007 16:21:04 -0000\r\nX-YMail-OSG: 6NSy0U0VM1kySWvHzMhwCf7L8sk.tujlsOgvXYpw6OIRkdT_dXsM51IGGGt1gxiw_Yurz1mypkeZkNE5He98gTWXez_YdOdjKsWiV2..d7_T1Nr9JlnU7X1y.9A-\r\nMessage-ID: &lt;46EEA9A3.40706@...&gt;\r\nDate: Mon, 17 Sep 2007 17:21:55 +0100\r\nUser-Agent: Thunderbird 1.5.0.10 (X11/20070306)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nReferences: &lt;fcfl3a+st4h@...&gt; &lt;46EBDB67.4040904@...&gt; &lt;20070915184223.GC29563@...&gt; &lt;46EC2FCE.3090909@...&gt; &lt;20070917154616.GA27858@...&gt;\r\nIn-Reply-To: &lt;20070917154616.GA27858@...&gt;\r\nX-Enigmail-Version: 0.94.0.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: amd64_hacker &lt;amd64_hacker@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Milligan poems\r\nX-Yahoo-Group-Post: member; u=180175951; y=UJ1cHhTeL5aWJNDLjPPmaHyLW4ecx0WbV-nohtqYnbKn-P5AAOVC\r\nX-Yahoo-Profile: amd64_hacker\r\n\r\nNope, did much the same thing you did except I did a s/[^-&#39;a-zA-Z]+/&#92;n/g.\n\nTo be honest I&#39;m not entirely certain any more why I offered the word list.\nI just saw the name Baum and thought &quot;ooh, I&#39;ve still got a copy of that\nsome where&quot;.\nSpur of the moment email I guess. :)\n\nJohn Cowan wrote:\n&gt;\n&gt; amd64_hacker scripsit:\n&gt;\n&gt; &gt; Also, on re-reading my e-mail, it looks like I&#39;m saying I have a word\n&gt; &gt; list with Latin and QuikScript equivalents.\n&gt; &gt; The word list is just the 2940 words in Latin I&#39;m afraid, I never got\n&gt; &gt; any further.\n&gt;\n&gt; Oh, I misunderstood.\n&gt;\n&gt; Good Ghu, you didn&#39;t develop that list by hand, did you? It&#39;s about\n&gt; a one-minute job with the Unix text toolkit:\n&gt;\n&gt; wget http://www.gutenberg.org/dirs/etext93/wizoz10.txt\n&gt; &lt;http://www.gutenberg.org/dirs/etext93/wizoz10.txt&gt;\n&gt; tr &lt;wiz0z10.txt -c &#39;[^a-zA-Z]&#39; &#39;&#92;012&#39; | sort -u &gt;wizoz10.wordlist\n&gt;\n&gt; -- \n&gt; You let them out again, Old Man Willow! John Cowan\n&gt; What you be a-thinking of? You should not be waking! cowan@...\n&gt; &lt;mailto:cowan%40ccil.org&gt;\n&gt; Eat earth! Dig deep! Drink water! Go to sleep!\n&gt; Bombadil is talking. http://ccil.org/~cowan &lt;http://ccil.org/%7Ecowan&gt;\n&gt;\n&gt;  \n\n\n"
+}

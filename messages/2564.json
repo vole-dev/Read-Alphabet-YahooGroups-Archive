@@ -1,0 +1,32 @@
+{
+  "userId": 274193773,
+  "authorName": "Timothy",
+  "from": "&quot;Timothy&quot; &lt;tim_rice09@...&gt;",
+  "profile": "tim_rice09",
+  "replyTo": "LIST",
+  "senderId": "AT32zSy_WpciB4MGlNkdZA97-p6BCwGe-1D-bdsR6Jcg-IMBVcJFaOyIMJiDc3fUf1cWNGN4EbbZjuVrV_3y7OMK2txQaww",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Version-Controlled AdaptIt Kbs (was: Re: [Read_Alphabet] A draft of Walden is up! (Finally))",
+  "postDate": "1377057301",
+  "msgId": 2564,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGt2MWRtbCs1azFxQGVHcm91cHMuY29tPg==",
+    "inReplyToHeader": "PENCRTMwNDcyLTVGNDYtNDkwMC1CMUI3LTJBRkIwOTA1OTRCNUBnbWFpbC5jb20+"
+  },
+  "prevInTopic": 2563,
+  "nextInTopic": 0,
+  "prevInTime": 2563,
+  "nextInTime": 2565,
+  "topicId": 2562,
+  "numMessagesInTopic": 3,
+  "msgSnippet": "That s a really good idea. I m figuring out how AdaptIt writes out changes to KBs, but since they are in XML, it should work to share them between computers.",
+  "messageBody": "<div id=\"ygrps-yiv-89463918\">That&#39;s a really good idea. I&#39;m figuring out how AdaptIt writes out changes to KBs, but since they are in XML, it should work to share them between computers. Care will have to be taken to pull before starting work, though, because computers are dumb and conflict resolution between computer-built information is easily tiring.<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Read_Alphabet@yahoogroups.com\">Read_Alphabet@yahoogroups.com</a>, Nathan Sharfi &lt;bonusfrogs@...&gt; wrote:<br/>\n&gt;<br/>\n&gt; On Aug 18, 2013, at 8:21 PM, Timothy &lt;tim_rice09@...&gt; wrote:<br/>\n&gt; <br/>\n&gt; &gt; Finally, I have put Thoreau&#39;s long-winded masterworks into Quickscript and have them up at <a rel=\"nofollow\" target=\"_blank\" href=\"https://sourceforge.net/projects/qs-classics/\">https://sourceforge.net/projects/qs-classics/</a> .<br/>\n&gt; &gt; There are likely a few mistakes, but Linus&#39; law can apply now. Happy remixing!<br/>\n&gt; <br/>\n&gt; Have you considered putting your AdaptIt KB in a publicly-available (D)VCS? My hunch is that a bunch of the things I catch in Call of Cthulhu (still working on it) are best propagated back there\u0085<br/>\n&gt; <br/>\n&gt; I don&#39;t use AdaptIt myself (it&#39;s quite crashy on all my machines), but if I can help tune an Orthodox-to-Quikscript mapping and post diffs someplace, that&#39;ll save us all work down the line when we adapt other things.<br/>\n&gt; <br/>\n&gt; \u0097 Nathan<br/>\n&gt; </span></blockquote></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;tim_rice09@...&gt;\r\nX-Sender: tim_rice09@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 37248 invoked by uid 102); 21 Aug 2013 03:55:01 -0000\r\nX-Received: from unknown (HELO mtaq2.grp.bf1.yahoo.com) (10.193.84.33)\n  by m11.grp.bf1.yahoo.com with SMTP; 21 Aug 2013 03:55:01 -0000\r\nX-Received: (qmail 17216 invoked from network); 21 Aug 2013 03:55:01 -0000\r\nX-Received: from unknown (HELO ng25-vm10.bullet.mail.bf1.yahoo.com) (66.196.80.43)\n  by mtaq2.grp.bf1.yahoo.com with SMTP; 21 Aug 2013 03:55:01 -0000\r\nX-Received: from [66.196.81.181] by ng25.bullet.mail.bf1.yahoo.com with NNFMP; 21 Aug 2013 03:55:01 -0000\r\nX-Received: from [10.193.94.44] by tg9.bullet.mail.bf1.yahoo.com with NNFMP; 21 Aug 2013 03:55:01 -0000\r\nDate: Wed, 21 Aug 2013 03:55:01 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;kv1dml+5k1q@...&gt;\r\nIn-Reply-To: &lt;CBE30472-5F46-4900-B1B7-2AFB090594B5@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=&quot;ISO-8859-1&quot;\r\nContent-Transfer-Encoding: quoted-printable\r\nX-Mailer: Yahoo Groups Message Poster\r\nX-Yahoo-Newman-Property: groups-compose\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: &quot;Timothy&quot; &lt;tim_rice09@...&gt;\r\nSubject: Version-Controlled AdaptIt Kbs (was: Re: [Read_Alphabet] A draft of Walden is up! (Finally))\r\nX-Yahoo-Group-Post: member; u=274193773; y=6i0FefwLMtj4BMPhoRAuctjQDEUUxelaPpq2y0TPUK6xDrvT-w\r\nX-Yahoo-Profile: tim_rice09\r\n\r\nThat&#39;s a really good idea. I&#39;m figuring out how AdaptIt writes out changes =\r\nto KBs, but since they are in XML, it should work to share them between com=\r\nputers. Care will have to be taken to pull before starting work, though, be=\r\ncause computers are dumb and conflict resolution between computer-built inf=\r\normation is easily tiring.\n\n--- In Read_Alphabet@yahoogroups.com, Nathan Sh=\r\narfi &lt;bonusfrogs@...&gt; wrote:\n&gt;\n&gt; On Aug 18, 2013, at 8:21 PM, Timothy &lt;tim_=\r\nrice09@...&gt; wrote:\n&gt; \n&gt; &gt; Finally, I have put Thoreau&#39;s long-winded masterw=\r\norks into Quickscript and have them up at https://sourceforge.net/projects/=\r\nqs-classics/ .\n&gt; &gt; There are likely a few mistakes, but Linus&#39; law can appl=\r\ny now. Happy remixing!\n&gt; \n&gt; Have you considered putting your AdaptIt KB in =\r\na publicly-available (D)VCS? My hunch is that a bunch of the things I catch=\r\n in Call of Cthulhu (still working on it) are best propagated back there=85=\r\n\n&gt; \n&gt; I don&#39;t use AdaptIt myself (it&#39;s quite crashy on all my machines), bu=\r\nt if I can help tune an Orthodox-to-Quikscript mapping and post diffs somep=\r\nlace, that&#39;ll save us all work down the line when we adapt other things.\n&gt; =\r\n\n&gt; =97 Nathan\n&gt;\n\n\n\n"
+}

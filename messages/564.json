@@ -1,0 +1,31 @@
+{
+  "userId": 6166478,
+  "authorName": "Jeff Smith",
+  "from": "Jeff Smith &lt;jeff_smith_8992@...&gt;",
+  "profile": "jeff_smith_8992",
+  "replyTo": "LIST",
+  "senderId": "MEZvDL7KSeij98CO4JUoUxuhxVJwDK2462TYyiE9drf6fAwVTiBFV0pZZH2fwugGacCaWd2yQSxcealavVoPy5-z1tYXzsNFMiVF3uI",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Another Test",
+  "postDate": "1095101133",
+  "msgId": 564,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDQwOTEzMTg0NTMzLjE5OTcucW1haWxAd2ViNTE0MDkubWFpbC55YWhvby5jb20+"
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 565,
+  "prevInTime": 563,
+  "nextInTime": 565,
+  "topicId": 564,
+  "numMessagesInTopic": 4,
+  "msgSnippet": "__________________________________ Do you Yahoo!? Yahoo! Mail - 50x more storage than other providers! http://promotions.yahoo.com/new_mail His iz a fynt test.",
+  "messageBody": "<div id=\"ygrps-yiv-1991114163\"><html>\n \n<p><font FACE=\"Jerome\" SIZE=\"10\">His iz a fynt test.</font></p>\n \n</html></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;jeff_smith_8992@...&gt;\r\nX-Sender: jeff_smith_8992@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 40297 invoked from network); 13 Sep 2004 18:45:33 -0000\r\nReceived: from unknown (66.218.66.166)\n  by m23.grp.scd.yahoo.com with QMQP; 13 Sep 2004 18:45:33 -0000\r\nReceived: from unknown (HELO web51409.mail.yahoo.com) (206.190.38.188)\n  by mta5.grp.scd.yahoo.com with SMTP; 13 Sep 2004 18:45:33 -0000\r\nMessage-ID: &lt;20040913184533.1997.qmail@...&gt;\r\nReceived: from [155.104.248.11] by web51409.mail.yahoo.com via HTTP; Mon, 13 Sep 2004 11:45:33 PDT\r\nDate: Mon, 13 Sep 2004 11:45:33 -0700 (PDT)\r\nTo: Read_Alphabet@yahoogroups.com\r\nMIME-Version: 1.0\r\nContent-Type: multipart/mixed; boundary=&quot;0-1789110650-1095101133=:862&quot;\r\nX-eGroups-Remote-IP: 206.190.38.188\r\nFrom: Jeff Smith &lt;jeff_smith_8992@...&gt;\r\nSubject: Another Test\r\nX-Yahoo-Group-Post: member; u=6166478\r\nX-Yahoo-Profile: jeff_smith_8992\r\n\r\n\r\n--0-1789110650-1095101133=:862\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Id: \r\nContent-Disposition: inline\r\n\r\n[ Attachment content not displayed ]\r\n--0-1789110650-1095101133=:862\r\nContent-Type: text/html; name=&quot;Test.htm&quot;\r\nContent-Description: Test.htm\r\nContent-Disposition: inline; filename=&quot;Test.htm&quot;\r\n\r\n[ Attachment content not displayed ]\r\n--0-1789110650-1095101133=:862--\r\n\n"
+}

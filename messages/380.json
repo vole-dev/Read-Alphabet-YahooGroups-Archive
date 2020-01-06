@@ -1,0 +1,32 @@
+{
+  "userId": 158829007,
+  "authorName": "adsl413593@tiscali.nl",
+  "from": "adsl413593@...",
+  "profile": "teraiten",
+  "replyTo": "LIST",
+  "senderId": "EC9TBJURtCq4y5sfIz_gD4z4oc9i60ixmjMyN375XnvTyqRLn-sb1B7qYydxxmJfHfu241WS2z9BMNZL",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Proposal for a new font",
+  "postDate": "1067462058",
+  "msgId": 380,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDNGOTc5QjA3MDAwMDdCODNAb2NwbXRhNi5mcmVlZ2F0ZXMubmV0Pg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 0,
+  "prevInTime": 379,
+  "nextInTime": 381,
+  "topicId": 380,
+  "numMessagesInTopic": 1,
+  "msgSnippet": "Hi all, I was thinking about a new Quickscript font, one which is perhaps easier to read. Whether this is the case remains to be seen, as the font doesn t ",
+  "messageBody": "<div id=\"ygrps-yiv-346524714\">Hi all,<br/>\n<br/>\nI was thinking about a new Quickscript font, one which is perhaps easier<br/>\nto read. Whether this is the case remains to be seen, as the font doesn&#39;t<br/>\nexist yet :)<br/>\n<br/>\nAttached you will find an image about what I want to do. It doesn&#39;t look<br/>\ntoo good but I can&#39;t seem to get my scanner to work :(<br/>\n<br/>\nAnyway, what I want is a monospaced Quickscript font. Characters should be<br/>\nwider and with big, obvious loops. Even characters such as y and Y should<br/>\nbe made a bit different (see the attached file) to increase legibility.<br/>\n<br/>\nThere are still a few problems: What to do about the three thin letters:<br/>\ni, I and t?<br/>\n<br/>\nShall we ignore them (make everything monospaced except for these three)<br/>\nor shall we add serifs? (see attached picture).<br/>\n<br/>\nWhat will perhaps also increase legibility is continuous line width of the<br/>\nletters, which is the case now in the Kingsley font.<br/>\n<br/>\nEwout</div>",
+  "specialLinks": [],
+  "attachmentsInfo": [],
+  "rawEmail": "Return-Path: &lt;adsl413593@...&gt;\r\nX-Sender: adsl413593@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 15145 invoked from network); 29 Oct 2003 21:14:21 -0000\r\nReceived: from unknown (66.218.66.216)\n  by m10.grp.scd.yahoo.com with QMQP; 29 Oct 2003 21:14:21 -0000\r\nReceived: from unknown (HELO cpout1.tiscali.be) (62.235.13.193)\n  by mta1.grp.scd.yahoo.com with SMTP; 29 Oct 2003 21:14:20 -0000\r\nReceived: from [62.235.14.106] (helo=mail.tiscali.nl)\n\tby cpout1.tiscali.be with esmtp (Tiscali) \n\tid 1AExdz-0006Kp-00\n\tfor &lt;Read_Alphabet@yahoogroups.com&gt;; Wed, 29 Oct 2003 22:14:19 +0100\r\nReceived: from [212.123.189.52] by mail.tiscali.nl with HTTP; Wed, 29 Oct 2003 22:14:18 +0100\r\nDate: Wed, 29 Oct 2003 22:14:18 +0100\r\nMessage-ID: &lt;3F979B0700007B83@...&gt;\r\nSubject: Proposal for a new font\r\nTo: Read_Alphabet@yahoogroups.com\r\nMIME-Version: 1.0\r\nContent-Type: multipart/mixed; boundary=&quot;========/3F979B0700007B83/mail.tiscali.nl&quot;\r\nFrom: adsl413593@...\r\nX-Yahoo-Group-Post: member; u=158829007\r\nX-Yahoo-Profile: teraiten\r\n\r\n\r\n--========/3F979B0700007B83/mail.tiscali.nl\r\nContent-Type: text/plain; charset=&quot;US-ASCII&quot;\r\nContent-Transfer-Encoding: 7bit\r\n\r\nHi all,\n\nI was thinking about a new Quickscript font, one which is perhaps easier\nto read. Whether this is the case remains to be seen, as the font doesn&#39;t\nexist yet :)\n\nAttached you will find an image about what I want to do. It doesn&#39;t look\ntoo good but I can&#39;t seem to get my scanner to work :(\n\nAnyway, what I want is a monospaced Quickscript font. Characters should be\nwider and with big, obvious loops. Even characters such as y and Y should\nbe made a bit different (see the attached file) to increase legibility.\n\nThere are still a few problems: What to do about the three thin letters:\ni, I and t?\n\nShall we ignore them (make everything monospaced except for these three)\nor shall we add serifs? (see attached picture).\n\nWhat will perhaps also increase legibility is continuous line width of the\nletters, which is the case now in the Kingsley font.\n\nEwout\n\n\r\n--========/3F979B0700007B83/mail.tiscali.nl\r\nContent-Type: image/gif\r\nContent-Disposition: attachment; filename=&quot;revised QS font.GIF&quot;\r\n\r\n[ Attachment content not displayed ]\r\n--========/3F979B0700007B83/mail.tiscali.nl--\r\n\n"
+}

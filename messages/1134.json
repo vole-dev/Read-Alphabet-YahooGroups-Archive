@@ -1,0 +1,31 @@
+{
+  "userId": 214981082,
+  "authorName": "Paul Tremblay",
+  "from": "Paul Tremblay &lt;phthenry@...&gt;",
+  "profile": "paulhtremblay",
+  "replyTo": "LIST",
+  "senderId": "ObubOa1RjQp92I8YaOUz52r28WV_rKrOyyEZTOkDyNMqMdM7Bld8ctRsdw8nwlhO3lbsstc4Hufgl7vwgHUAKgRrJzKiYRBBKA",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "help on new font",
+  "postDate": "1193432934",
+  "msgId": 1134,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ3MjI1NzY2LjUwMzA0MDdAaWdsb3UuY29tPg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 1135,
+  "prevInTime": 1133,
+  "nextInTime": 1135,
+  "topicId": 1134,
+  "numMessagesInTopic": 4,
+  "msgSnippet": "Hi group, I am about to release a new font. When I do, hopefully users can give me feedback on how to improve it. Before I do, I need help with two items. 1.",
+  "messageBody": "<div id=\"ygrps-yiv-1742467518\">Hi group,<br/>\n<br/>\nI am about to release a new font. When I do, hopefully users can give me <br/>\nfeedback on how to improve it. Before I do, I need help with two items.<br/>\n<br/>\n1. Unicode points. The will actually release two fonts, one with wan <br/>\nascii encoding scheme and one with a scheme using the Unicode points in <br/>\nthe private area. The Unicode font, based on the Gentium font, will <br/>\ncontain thousands of letters with the addition of the QS letters, so you <br/>\ncould use it on a web page and mix both Traditional Orthography and QS.<br/>\n<br/>\nI have figured out how most letters correspond to these Uniocde numbers <br/>\nwith the exception of the 7 ligatures Ian, Air, Ear, Earth, Or, Are, and <br/>\nYew. I guess technically speaking, Unicode should not have ligatures. Is <br/>\nthat the reason they are not present in the current Unicode scheme?<br/>\n<br/>\n2. I need a name for the font. I am thinking of just using shawtwo, as <br/>\nQS is sometimes referred to. Other possibilitites:<br/>\n<br/>\n   catma (A shaw play on the words dogma)<br/>\n   shawclear<br/>\n   shawswill (Shaw&#39;s will which dictated money for a new alphabet)<br/>\n<br/>\n   ???<br/>\n<br/>\nPaul</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;phthenry@...&gt;\r\nX-Sender: phthenry@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 80993 invoked from network); 26 Oct 2007 21:08:55 -0000\r\nX-Received: from unknown (66.218.67.95)\n  by m42.grp.scd.yahoo.com with QMQP; 26 Oct 2007 21:08:55 -0000\r\nX-Received: from unknown (HELO rdsmtp.iglou.com) (192.107.41.63)\n  by mta16.grp.scd.yahoo.com with SMTP; 26 Oct 2007 21:08:55 -0000\r\nX-Received: from iglou4.iglou.com ([192.107.41.39] helo=mail.iglou.com)\n\tby rdsmtp.iglou.com with esmtpa (Exim MTA/8.19.3)\n\t(envelope-from &lt;phthenry@...&gt;)\n\tid 1IlWQI-0006be-Oj by authid &lt;igloumta&gt; with igloumta_auth\n\tfor Read_Alphabet@yahoogroups.com; Fri, 26 Oct 2007 17:08:54 -0400\r\nX-Received: from loudsl01-253-111-18.iglou.com ([64.253.111.18] helo=Enid-Johnsons-Computer.local)\n\tby smtp.iglou.com with esmtp (Exim MTA/8.19.3)\n\t(envelope-from &lt;phthenry@...&gt;)\n\tid 1IlWQI-0003Lo-FT\n\tfor Read_Alphabet@yahoogroups.com; Fri, 26 Oct 2007 17:08:54 -0400\r\nMessage-ID: &lt;47225766.5030407@...&gt;\r\nDate: Fri, 26 Oct 2007 17:08:54 -0400\r\nUser-Agent: Thunderbird 2.0.0.6 (Macintosh/20070728)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nContent-Type: text/plain; charset=ISO-8859-1; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\nX-IgLou-Customer: 6ab7d2bd86677d7d54d075759b28f06c\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Paul Tremblay &lt;phthenry@...&gt;\r\nSubject: help on new font\r\nX-Yahoo-Group-Post: member; u=214981082; y=1FX3oS6AxycgHiwFbivgUg9oL5hozKFGGvl-QjrGr-bFmb_yV8s1cA\r\nX-Yahoo-Profile: paulhtremblay\r\n\r\nHi group,\n\nI am about to release a new font. When I do, hopefully users can give me \nfeedback on how to improve it. Before I do, I need help with two items.\n\n1. Unicode points. The will actually release two fonts, one with wan \nascii encoding scheme and one with a scheme using the Unicode points in \nthe private area. The Unicode font, based on the Gentium font, will \ncontain thousands of letters with the addition of the QS letters, so you \ncould use it on a web page and mix both Traditional Orthography and QS.\n\nI have figured out how most letters correspond to these Uniocde numbers \nwith the exception of the 7 ligatures Ian, Air, Ear, Earth, Or, Are, and \nYew. I guess technically speaking, Unicode should not have ligatures. Is \nthat the reason they are not present in the current Unicode scheme?\n\n2. I need a name for the font. I am thinking of just using shawtwo, as \nQS is sometimes referred to. Other possibilitites:\n\n   catma (A shaw play on the words dogma)\n   shawclear\n   shawswill (Shaw&#39;s will which dictated money for a new alphabet)\n\n   ???\n\nPaul\n\n\n"
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 134841503,
+  "authorName": "Ted Larson Freeman",
+  "from": "&quot;Ted Larson Freeman&quot; &lt;freeman@...&gt;",
+  "profile": "tedf255",
+  "replyTo": "LIST",
+  "senderId": "Es9cZZzP3LxpjiqdTUPRJqKZuZTtaJTW1qWbmbH7zgUOEBFmd52NhHQubZ_Bx8EsD6tn7NfVcNNweTzoRw7HjLFtiVWTwz8bj_zhL2q951Z1q_3iq8KAOA",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Help getting software",
+  "postDate": "1190909004",
+  "msgId": 1075,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDVkODcyOWYwMDcwOTI3MDkwM3YzZmY2NjRlOWxmNTA3Nzg4MTJjZTgyNDZlQG1haWwuZ21haWwuY29tPg==",
+    "inReplyToHeader": "PDQ2RkIzMTcxLjIwMDA4MDRAaWdsb3UuY29tPg==",
+    "referencesHeader": "PDQ2RkIzMTcxLjIwMDA4MDRAaWdsb3UuY29tPg=="
+  },
+  "prevInTopic": 1073,
+  "nextInTopic": 1076,
+  "prevInTime": 1074,
+  "nextInTime": 1076,
+  "topicId": 1073,
+  "numMessagesInTopic": 7,
+  "msgSnippet": "I find the simplest thing to do on a Mac is to use TextEdit. Newly installed fonts appear just as in MS Word, and you can save files in .rtf format, which is",
+  "messageBody": "<div id=\"ygrps-yiv-24757964\">I find the simplest thing to do on a Mac is to use TextEdit. Newly installed fonts appear just as in MS Word, and you can save files in .rtf format, which is just text and is easily manipulated with scripts.<br><br>Ted<br>\n<br><br><blockquote><span title=\"qreply\"> <div><span class=\"ygrps-yiv-24757964gmail_quote\">On 9/26/07, <b class=\"ygrps-yiv-24757964gmail_sendername\">Paul Tremblay</b> &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:phthenry@...\">phthenry@...</a>&gt; wrote:</span><blockquote class=\"ygrps-yiv-24757964gmail_quote\" style=\"border-left:1px solid rgb(204, 204, 204);margin:0pt 0pt 0pt 0.8ex;padding-left:1ex;\">\n\n\n\n\n\n\n\n\n\n<div style=\"background-color:rgb(255, 255, 255);\">\n\n\n<div style=\"width:655px;\">\n  <div style=\"padding:0pt 15px 0pt 0pt;width:490px;float:left;\">\n\n\n    <div>\n            <p>I&#39;m happy to see that this group consists of a lot of computer literate <br>\nposters.<br>\n<br>\nI need help in setting up my computer so I can read and compose <br>\nQuickscript. I am typing on a Mac which has 10.3. I am using Thuderbird <br>\nas my email viewer, but I can easily switch. To compose text in <br>\nQuickscript, I use MS Word (yuck!) simply because I didn&#39;t have to <br>\nconfigure it. I simply downloaded the Kingsley font, double clicked on <br>\nthe .ttf file, which installed the font. The font was then available in <br>\nWord as well as Firefox.<br>\n<br>\nI also have a linux box, but I don&#39;t really want to use this, simply <br>\nbecause the monitor is so darn big, and I like to just have one computer <br>\nin our apartment, my girlfriend&#39;s laptop. I prefer the linux box and <br>\nknow how to write complicated scripts to convert text. (I wrote an <br>\nscript rtf2xml, available at sourceforge.) I know about different types <br>\nof encoding and working with unicode.<br>\n<br>\nAs a first step, I would like to set up latex so I can write in <br>\nQuickscript. I don&#39;t think that should pose a herculean challenge. I <br>\nknow I have to convert the ttf file to a font metrics, install the font <br>\nmetrics in the right TeX folder, and then in the LaTeX file tell LaTeX <br>\nto use this font. Has anyone done this? Adding fonts in LaTeX--though <br>\nnot herculean--never proceeds easily.<br>\n<br>\nIf posters know of a better way of composing text besides LaTeX, I would <br>\nlike to hear. I know that even if I get the Fonts installed in LaTeX, <br>\nwhen I type a document, rather than Seeing Quicksript characters I will <br>\nsee their ASCII counterparts (F wil sI His).<br>\n<br>\nThanks<br>\n<br>\nPaul<br>\n<br>\n</p>\n    </div>  \n\n    \n    <span style=\"color:white;\"></span>\n\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></blockquote></div><br>\n </span></blockquote></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;tedf255@...&gt;\r\nX-Sender: tedf255@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 10780 invoked from network); 27 Sep 2007 16:03:26 -0000\r\nReceived: from unknown (69.147.108.202)\n  by m45.grp.scd.yahoo.com with QMQP; 27 Sep 2007 16:03:26 -0000\r\nReceived: from unknown (HELO nf-out-0910.google.com) (64.233.182.186)\n  by mta3.grp.re1.yahoo.com with SMTP; 27 Sep 2007 16:03:25 -0000\r\nReceived: by nf-out-0910.google.com with SMTP id h3so1820640nfh\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Thu, 27 Sep 2007 09:03:24 -0700 (PDT)\r\nReceived: by 10.78.140.16 with SMTP id n16mr1957951hud.1190909004326;\n        Thu, 27 Sep 2007 09:03:24 -0700 (PDT)\r\nReceived: by 10.78.150.15 with HTTP; Thu, 27 Sep 2007 09:03:24 -0700 (PDT)\r\nMessage-ID: &lt;5d8729f00709270903v3ff664e9lf50778812ce8246e@...&gt;\r\nDate: Thu, 27 Sep 2007 09:03:24 -0700\r\nTo: Read_Alphabet@yahoogroups.com\r\nIn-Reply-To: &lt;46FB3171.2000804@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: multipart/alternative; \n\tboundary=&quot;----=_Part_2599_29488976.1190909004296&quot;\r\nReferences: &lt;46FB3171.2000804@...&gt;\r\nX-Google-Sender-Auth: a8d537a3dc30bb6c\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: &quot;Ted Larson Freeman&quot; &lt;freeman@...&gt;\r\nSubject: Re: [Read_Alphabet] Help getting software\r\nX-Yahoo-Group-Post: member; u=134841503; y=CtuWLJmUv3_paOIyILjl_hdrvwqW9P4u-xp_FxuP2l22RQ\r\nX-Yahoo-Profile: tedf255\r\n\r\n\r\n------=_Part_2599_29488976.1190909004296\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Disposition: inline\r\n\r\n[ Attachment content not displayed ]\r\n------=_Part_2599_29488976.1190909004296\r\nContent-Type: text/html; charset=ISO-8859-1\r\nContent-Disposition: inline\r\n\r\n[ Attachment content not displayed ]\r\n------=_Part_2599_29488976.1190909004296--\r\n\n"
+}

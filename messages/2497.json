@@ -1,0 +1,33 @@
+{
+  "userId": 458641688,
+  "authorName": "Nathan Sharfi",
+  "from": "Nathan Sharfi &lt;bonusfrogs@...&gt;",
+  "profile": "dipartite",
+  "replyTo": "LIST",
+  "senderId": "EAlA9wqMFptmxQnizBdeY3kI9Hwe6XgN87rgb47kT6kUmpFOeomX1n-m8MFsMdwzIBQtIsgr9g7NmhzpX8w_TxWomDKz4tUcPKss",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Call of Cthulhu fixes",
+  "postDate": "1368305823",
+  "msgId": 2497,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDk4REJBRDAxLTIyMkEtNEE3NC05OEY4LUI1NzU0MDg4Q0E2RkBnbWFpbC5jb20+",
+    "inReplyToHeader": "PGttbGd2dStnODdmQGVHcm91cHMuY29tPg==",
+    "referencesHeader": "PGttbGd2dStnODdmQGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 2496,
+  "nextInTopic": 2498,
+  "prevInTime": 2496,
+  "nextInTime": 2498,
+  "topicId": 2493,
+  "numMessagesInTopic": 7,
+  "msgSnippet": "... I tried to run it (and the previous .odt) through Pandoc, and this is what I got: $ pandoc -t html Call of Cthulhu-QS.odt pandoc: Cannot decode byte",
+  "messageBody": "<div id=\"ygrps-yiv-998315507\">On May 11, 2013, at 6:27 AM, Timothy &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:tim_rice09@...\">tim_rice09@...</a>&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Awesome. I fixed the typo (and another besides, &quot;moment&quot; was transferred as &quot;movement&quot; further down in the file) and am in the process of uploading the corrected set to qs-classics.<br/>\n<br/>\n </span></blockquote>I tried to run it (and the previous .odt) through Pandoc, and this is what I got:<br/>\n<br/>\n$ pandoc -t html Call&#92; of&#92; Cthulhu-QS.odt <br/>\npandoc: Cannot decode byte &#39;&#92;xab&#39;: Data.Text.Encoding.decodeUtf8: Invalid UTF-8 stream<br/>\n<br/>\nWhat&#39;re you using to generate it? Is generating HTML (the plainer, the better) an option?</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;bonusfrogs@...&gt;\r\nX-Sender: bonusfrogs@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 83605 invoked by uid 102); 11 May 2013 20:57:06 -0000\r\nX-Received: from unknown (HELO mtaq5.grp.bf1.yahoo.com) (10.193.84.36)\n  by m9.grp.bf1.yahoo.com with SMTP; 11 May 2013 20:57:06 -0000\r\nX-Received: (qmail 29669 invoked from network); 11 May 2013 20:57:06 -0000\r\nX-Received: from unknown (HELO mail-ie0-f174.google.com) (209.85.223.174)\n  by mtaq5.grp.bf1.yahoo.com with SMTP; 11 May 2013 20:57:06 -0000\r\nX-Received: by mail-ie0-f174.google.com with SMTP id 10so9818770ied.5\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Sat, 11 May 2013 13:57:06 -0700 (PDT)\r\nX-Received: by 10.50.134.100 with SMTP id pj4mr6032578igb.73.1368305826563;\n        Sat, 11 May 2013 13:57:06 -0700 (PDT)\r\nReturn-Path: &lt;bonusfrogs@...&gt;\r\nX-Received: from spreadthinly.localdomain (pool-74-100-97-239.lsanca.fios.verizon.net. [74.100.97.239])\n        by mx.google.com with ESMTPSA id ct8sm7117712igb.7.2013.05.11.13.57.04\n        for &lt;Read_Alphabet@yahoogroups.com&gt;\n        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);\n        Sat, 11 May 2013 13:57:05 -0700 (PDT)\r\nContent-Type: text/plain; charset=iso-8859-1\r\nMime-Version: 1.0 (Mac OS X Mail 6.3 &#92;(1503&#92;))\r\nIn-Reply-To: &lt;kmlgvu+g87f@...&gt;\r\nDate: Sat, 11 May 2013 13:57:03 -0700\r\nContent-Transfer-Encoding: quoted-printable\r\nMessage-Id: &lt;98DBAD01-222A-4A74-98F8-B5754088CA6F@...&gt;\r\nReferences: &lt;kmlgvu+g87f@...&gt;\r\nTo: Read_Alphabet@yahoogroups.com\r\nX-Mailer: Apple Mail (2.1503)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Nathan Sharfi &lt;bonusfrogs@...&gt;\r\nSubject: Re: [Read_Alphabet] Call of Cthulhu fixes\r\nX-Yahoo-Group-Post: member; u=458641688; y=YDyVtdJedaG2DlUt1206DKLgk0l19IzhEqrB-VdCpQj674oT\r\nX-Yahoo-Profile: dipartite\r\n\r\nOn May 11, 2013, at 6:27 AM, Timothy &lt;tim_rice09@...&gt; wrote:\n\n&gt; Aweso=\r\nme. I fixed the typo (and another besides, &quot;moment&quot; was transferred as &quot;mov=\r\nement&quot; further down in the file) and am in the process of uploading the cor=\r\nrected set to qs-classics.\n\nI tried to run it (and the previous .odt) throu=\r\ngh Pandoc, and this is what I got:\n\n$ pandoc -t html Call&#92; of&#92; Cthulhu-QS.o=\r\ndt \npandoc: Cannot decode byte &#39;&#92;xab&#39;: Data.Text.Encoding.decodeUtf8: Inval=\r\nid UTF-8 stream\n\nWhat&#39;re you using to generate it? Is generating HTML (the =\r\nplainer, the better) an option?\n"
+}

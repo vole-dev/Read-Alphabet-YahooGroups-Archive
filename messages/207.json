@@ -1,0 +1,31 @@
+{
+  "userId": 115660638,
+  "authorName": "wonder_roast",
+  "from": "&quot;wonder_roast&quot; &lt;Roasted_Beanie@...&gt;",
+  "profile": "wonder_roast",
+  "replyTo": "LIST",
+  "senderId": "fEPIqQTQrjlJxn1yRjBuy-oSRYa543BWzE08uQffV923Vh1QrzYFMtvXmS20OpS4EU_Pu5hLcLvlm7EiOe9gXlqBUBlagsrDHZ1hyZT9",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "New keyboard mapping",
+  "postDate": "1029024784",
+  "msgId": 207,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGFqNGE2Zys0cjlpQGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 211,
+  "prevInTime": 206,
+  "nextInTime": 208,
+  "topicId": 207,
+  "numMessagesInTopic": 2,
+  "msgSnippet": "I recently downloaded rmgburke s new keyboard mapping for Keyman and the html file to go with it.  First, some of the keys he claims are assigned are wrong.",
+  "messageBody": "<div id=\"ygrps-yiv-1942013364\">I recently downloaded rmgburke&#39;s new keyboard mapping for Keyman and <br/>\nthe html file to go with it.  First, some of the keys he claims are <br/>\nassigned are wrong.  I.e. typing aj yields the alternate form of <br/>\nthe &#39;uh&#39; character, not typing uh.  I made quite a few changes (both <br/>\nto the keyman file and the html file) to suit my own personal <br/>\npreferences.  If anyone would like me to post the files, please let <br/>\nme know.</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;Roasted_Beanie@...&gt;\r\nX-Sender: Roasted_Beanie@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (EGP: mail-8_0_7_4); 11 Aug 2002 00:13:05 -0000\r\nReceived: (qmail 72478 invoked from network); 11 Aug 2002 00:13:05 -0000\r\nReceived: from unknown (66.218.66.218)\n  by m8.grp.scd.yahoo.com with QMQP; 11 Aug 2002 00:13:05 -0000\r\nReceived: from unknown (HELO n27.grp.scd.yahoo.com) (66.218.66.83)\n  by mta3.grp.scd.yahoo.com with SMTP; 11 Aug 2002 00:13:05 -0000\r\nReceived: from [66.218.67.184] by n27.grp.scd.yahoo.com with NNFMP; 11 Aug 2002 00:13:05 -0000\r\nDate: Sun, 11 Aug 2002 00:13:04 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nSubject: New keyboard mapping\r\nMessage-ID: &lt;aj4a6g+4r9i@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 416\r\nX-Mailer: Yahoo Groups Message Poster\r\nFrom: &quot;wonder_roast&quot; &lt;Roasted_Beanie@...&gt;\r\nX-Yahoo-Group-Post: member; u=115660638\r\nX-Yahoo-Profile: wonder_roast\r\n\r\nI recently downloaded rmgburke&#39;s new keyboard mapping for Keyman and \nthe html file to go with it.  First, some of the keys he claims are \nassigned are wrong.  I.e. typing aj yields the alternate form of \nthe &#39;uh&#39; character, not typing uh.  I made quite a few changes (both \nto the keyman file and the html file) to suit my own personal \npreferences.  If anyone would like me to post the files, please let \nme know.\n\n\n"
+}

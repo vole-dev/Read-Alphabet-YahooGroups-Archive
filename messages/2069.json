@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "fWxXYBWJiNI4I7-BxF0q0pjKA2xGaJ9glnk8iiFcv62de835W5_-05o_jYRg7qrIqxecVk7WbgTKM9F81G9oRZvu",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] New file uploaded to Read_Alphabet",
+  "postDate": "1229099133",
+  "msgId": 2069,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDgxMjEyMTYyNTMzLkdCMjczNDBAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PDEyMjg5NDQwNTYuODkyOS4yMzg4MC53MTE5QHlhaG9vZ3JvdXBzLmNvbT4=",
+    "referencesHeader": "PDEyMjg5NDQwNTYuODkyOS4yMzg4MC53MTE5QHlhaG9vZ3JvdXBzLmNvbT4="
+  },
+  "prevInTopic": 2068,
+  "nextInTopic": 2070,
+  "prevInTime": 2068,
+  "nextInTime": 2070,
+  "topicId": 3,
+  "numMessagesInTopic": 91,
+  "msgSnippet": "... I think this is an excellent proposal.  A few points: In the four cases NEAR, CURE, FIRE, SHOWER you ve decided whether to put in an Utter or not based on",
+  "messageBody": "<div id=\"ygrps-yiv-1018326229\">peter_r_guinness scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;   File        : /International Quikscript/Malt&#39;s International Quikscript Project/Intro and Notes.pdf <br/>\n&gt;   Uploaded by : peter_r_guinness &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:malt99@...\">malt99@...</a>&gt; <br/>\n<br/>\n </span></blockquote>I think this is an excellent proposal.  A few points:<br/>\n<br/>\nIn the four cases NEAR, CURE, FIRE, SHOWER you&#39;ve decided whether to put<br/>\nin an Utter or not based on ease of writing, which is reasonable given<br/>\nQuikscript&#39;s purposes.  It&#39;s more or less an arbitrary choice: I would<br/>\nhave gone without an Utter in NEAR, CURE and with one in FIRE, SHOWER.<br/>\n<br/>\nIt&#39;s worth adding some examples to rule 31 that don&#39;t involve &quot;ew&quot;,<br/>\nsuch as tune, dune, lute.<br/>\n<br/>\nI haven&#39;t been able to look at the spreadsheet yet.  Is it posted?<br/>\n<br/>\n-- <br/>\nThe Unicode Standard does not encode            John Cowan<br/>\nidiosyncratic, personal, novel, or private      <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a><br/>\nuse characters, nor does it encode logos<br/>\nor graphics.                                    <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 35155 invoked from network); 12 Dec 2008 16:25:33 -0000\r\nX-Received: from unknown (66.218.67.97)\n  by m54.grp.scd.yahoo.com with QMQP; 12 Dec 2008 16:25:33 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta18.grp.scd.yahoo.com with SMTP; 12 Dec 2008 16:25:33 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1LBApZ-0008Qc-7f\n\tfor Read_Alphabet@yahoogroups.com; Fri, 12 Dec 2008 11:25:33 -0500\r\nDate: Fri, 12 Dec 2008 11:25:33 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20081212162533.GB27340@...&gt;\r\nReferences: &lt;1228944056.8929.23880.w119@yahoogroups.com&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;1228944056.8929.23880.w119@yahoogroups.com&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] New file uploaded to Read_Alphabet\r\nX-Yahoo-Group-Post: member; u=212516; y=oE4uEJsm3sY8DoXHn0aImDBDbu0VxuLX8IvrCxqULIGXY1kd0Q\r\nX-Yahoo-Profile: johnwcowan\r\n\r\npeter_r_guinness scripsit:\n\n&gt;   File        : /International Quikscript/Malt&#39;s International Quikscript Project/Intro and Notes.pdf \n&gt;   Uploaded by : peter_r_guinness &lt;malt99@...&gt; \n\nI think this is an excellent proposal.  A few points:\n\nIn the four cases NEAR, CURE, FIRE, SHOWER you&#39;ve decided whether to put\nin an Utter or not based on ease of writing, which is reasonable given\nQuikscript&#39;s purposes.  It&#39;s more or less an arbitrary choice: I would\nhave gone without an Utter in NEAR, CURE and with one in FIRE, SHOWER.\n\nIt&#39;s worth adding some examples to rule 31 that don&#39;t involve &quot;ew&quot;,\nsuch as tune, dune, lute.\n\nI haven&#39;t been able to look at the spreadsheet yet.  Is it posted?\n\n-- \nThe Unicode Standard does not encode            John Cowan\nidiosyncratic, personal, novel, or private      http://www.ccil.org/~cowan\nuse characters, nor does it encode logos\nor graphics.                                    cowan@...\n\n"
+}

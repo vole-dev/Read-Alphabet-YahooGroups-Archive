@@ -1,0 +1,33 @@
+{
+  "userId": 149542193,
+  "authorName": "Benct Philip Jonsson",
+  "from": "Benct Philip Jonsson &lt;bpj@...&gt;",
+  "profile": "melroch",
+  "replyTo": "LIST",
+  "senderId": "H_P7TRZhEJzJro1dMQy-G9HDyaRrkami-FE2hBfGsVwdl5tefvxxHHkfbAJfhMeIZ6bRSeZZDWtjokpGVf8PUAIJllsIRjxqfp6sXA",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Using SCIM to type Quikscript",
+  "postDate": "1212139517",
+  "msgId": 2005,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ4M0ZDN0ZELjIwMjAyMDlAbWVscm9jaC5zZT4=",
+    "inReplyToHeader": "PGcxaG5qMCtudG42QGVHcm91cHMuY29tPg==",
+    "referencesHeader": "PGcxaG5qMCtudG42QGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 2004,
+  "nextInTopic": 2006,
+  "prevInTime": 2004,
+  "nextInTime": 2006,
+  "topicId": 2002,
+  "numMessagesInTopic": 6,
+  "msgSnippet": "... What about KMFL?  It s a *lot* easier to write layouts for than directly for SCIM! /BP -- Ubuntu newbie! /BP 8^) -- Benct Philip Jonsson -- melroch atte",
+  "messageBody": "<div id=\"ygrps-yiv-1791961038\">On 2008-05-27 Anthony Hagan wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; Since the keyboard layout poll, I&#39;ve set up some SCIM tables so that <br/>\n&gt; one can type using Peter Guiness&#39; layout, and get QS text in either <br/>\n&gt; the Unicode Private Use Area (as used by Paul Tremblay&#39;s ThothUni <br/>\n&gt; font) or in the Jerome or King Plus fonts.  If anyone is at all <br/>\n&gt; interested, I&#39;ll put the tables up in the files area.<br/>\n<br/>\n </span></blockquote>What about KMFL?  It&#39;s a *lot* easier to write layouts for <br/>\nthan directly for SCIM!<br/>\n<br/>\n/BP -- Ubuntu newbie!<br/>\n<br/>\n/BP 8^)&gt;<br/>\n-- <br/>\nBenct Philip Jonsson -- melroch atte melroch dotte se<br/>\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br/>\n  &quot;C&#39;est en vain que nos Josu\u00e9s litt\u00e9raires crient<br/>\n  \u00e0 la langue de s&#39;arr\u00eater; les langues ni le soleil<br/>\n  ne s&#39;arr\u00eatent plus. Le jour o\u00f9 elles se *fixent*,<br/>\n  c&#39;est qu&#39;elles meurent.&quot;           (Victor Hugo)</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;bpj@...&gt;\r\nX-Sender: bpj@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 96212 invoked from network); 30 May 2008 09:25:21 -0000\r\nX-Received: from unknown (66.218.67.94)\n  by m44.grp.scd.yahoo.com with QMQP; 30 May 2008 09:25:21 -0000\r\nX-Received: from unknown (HELO mta1.glocalnet.net) (213.163.128.203)\n  by mta15.grp.scd.yahoo.com with SMTP; 30 May 2008 09:25:21 -0000\r\nX-Received: from [84.217.241.242] (84.217.241.242) by mta1.glocalnet.net (7.3.130) (authenticated as bpj@...)\n        id 482051F1002DFAE4 for Read_Alphabet@yahoogroups.com; Fri, 30 May 2008 11:25:17 +0200\r\nMessage-ID: &lt;483FC7FD.2020209@...&gt;\r\nDate: Fri, 30 May 2008 11:25:17 +0200\r\nUser-Agent: Thunderbird 2.0.0.14 (X11/20080505)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nReferences: &lt;g1hnj0+ntn6@...&gt;\r\nIn-Reply-To: &lt;g1hnj0+ntn6@...&gt;\r\nContent-Type: text/plain; charset=ISO-8859-1; format=flowed\r\nContent-Transfer-Encoding: 8bit\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Benct Philip Jonsson &lt;bpj@...&gt;\r\nSubject: Re: [Read_Alphabet] Using SCIM to type Quikscript\r\nX-Yahoo-Group-Post: member; u=149542193; y=ZqOi6BbLhMxUTahh_zeSEK7EHaVBvh_IjH-wL7H5mAIRWQ\r\nX-Yahoo-Profile: melroch\r\n\r\nOn 2008-05-27 Anthony Hagan wrote:\n&gt; Since the keyboard layout poll, I&#39;ve set up some SCIM tables so that \n&gt; one can type using Peter Guiness&#39; layout, and get QS text in either \n&gt; the Unicode Private Use Area (as used by Paul Tremblay&#39;s ThothUni \n&gt; font) or in the Jerome or King Plus fonts.  If anyone is at all \n&gt; interested, I&#39;ll put the tables up in the files area.\n\nWhat about KMFL?  It&#39;s a *lot* easier to write layouts for \nthan directly for SCIM!\n\n/BP -- Ubuntu newbie!\n\n/BP 8^)&gt;\n-- \nBenct Philip Jonsson -- melroch atte melroch dotte se\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n  &quot;C&#39;est en vain que nos Josu\ufffds litt\ufffdraires crient\n  \ufffd la langue de s&#39;arr\ufffdter; les langues ni le soleil\n  ne s&#39;arr\ufffdtent plus. Le jour o\ufffd elles se *fixent*,\n  c&#39;est qu&#39;elles meurent.&quot;           (Victor Hugo)\n\n\n\n\n"
+}

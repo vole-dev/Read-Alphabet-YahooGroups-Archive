@@ -1,0 +1,31 @@
+{
+  "userId": 111629939,
+  "authorName": "Jon",
+  "from": "&quot;Jon&quot; &lt;jon@...&gt;",
+  "profile": "frimmin",
+  "replyTo": "LIST",
+  "senderId": "lVeFhO_Nrz0i6H5qiZpClXs7Ozi7fp3m1QD5frlR3ubbdtLOYz1s8AA3O_l21StHT03vKsAfg1NC_KJLq3o",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Will Get Right Back to You",
+  "postDate": "1036019018",
+  "msgId": 259,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PEUxODcxc0EtMDAwMmhQLTAwQGFzcGVuLmRuc3ZhdWx0LmNvbT4="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 261,
+  "prevInTime": 258,
+  "nextInTime": 260,
+  "topicId": 259,
+  "numMessagesInTopic": 6,
+  "msgSnippet": "I m sorry I can t respond right now.  I m taking some very well-earned time off, but I ll be back soon and I ll get right back to you. Thanks, and Shalom",
+  "messageBody": "<div id=\"ygrps-yiv-1362549291\">I&#39;m sorry I can&#39;t respond right now.  I&#39;m taking some very well-earned time off, but I&#39;ll be back soon and I&#39;ll get right back to you.\r<br/>\n\r<br/>\nThanks, and Shalom v&#39;Tovah,\r<br/>\n\r<br/>\njon</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;frimmin@...&gt;\r\nX-Sender: frimmin@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (EGP: mail-8_2_2_1); 30 Oct 2002 23:02:12 -0000\r\nReceived: (qmail 47331 invoked from network); 30 Oct 2002 23:02:09 -0000\r\nReceived: from unknown (66.218.66.216)\n  by m10.grp.scd.yahoo.com with QMQP; 30 Oct 2002 23:02:09 -0000\r\nReceived: from unknown (HELO aspen.dnsvault.com) (209.124.83.130)\n  by mta1.grp.scd.yahoo.com with SMTP; 30 Oct 2002 23:02:09 -0000\r\nReceived: from frimmin by aspen.dnsvault.com with local (Exim 3.36 #1)\n\tid 1871sA-0002hP-00\n\tfor Read_Alphabet@yahoogroups.com; Wed, 30 Oct 2002 18:03:38 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nX-Autorespond: [Read_Alphabet] Read Alphabet Pen-Pals\r\nX-Loop: Read_Alphabet@yahoogroups.com\r\nSubject: Will Get Right Back to You\r\nMessage-Id: &lt;E1871sA-0002hP-00@...&gt;\r\nDate: Wed, 30 Oct 2002 18:03:38 -0500\r\nX-AntiAbuse: This header was added to track abuse, please include it with any abuse report\r\nX-AntiAbuse: Primary Hostname - aspen.dnsvault.com\r\nX-AntiAbuse: Original Domain - yahoogroups.com\r\nX-AntiAbuse: Originator/Caller UID/GID - [32376 99] / [32376 99]\r\nX-AntiAbuse: Sender Address Domain - aspen.dnsvault.com\r\nFrom: &quot;Jon&quot; &lt;jon@...&gt;\r\nX-Yahoo-Group-Post: member; u=111629939\r\nX-Yahoo-Profile: frimmin\r\n\r\nI&#39;m sorry I can&#39;t respond right now.  I&#39;m taking some very well-earned time off, but I&#39;ll be back soon and I&#39;ll get right back to you.\r\n\r\nThanks, and Shalom v&#39;Tovah,\r\n\r\njon\n\n"
+}

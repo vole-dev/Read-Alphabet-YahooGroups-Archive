@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "PwOqU7h9sHAg0YTVUrVwni-um6ExdVbSaghiG7O2w7AwSvSdggVyY88JltxaU8ZwkyKxtLRil1RGkzxehAiSfybx",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] how to spell words with /tS/",
+  "postDate": "1196825566",
+  "msgId": 1754,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMjA1MDMzMjQ2LkdCMTA4MDdAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PDQ3NTYxMjM2LjMwODA1MDNAaWdsb3UuY29tPg==",
+    "referencesHeader": "PDQ3NTYxMjM2LjMwODA1MDNAaWdsb3UuY29tPg=="
+  },
+  "prevInTopic": 1752,
+  "nextInTopic": 1755,
+  "prevInTime": 1753,
+  "nextInTime": 1755,
+  "topicId": 1752,
+  "numMessagesInTopic": 6,
+  "msgSnippet": "... They should indeed.  tS and dZ are the IPA way of writing ch and j , and there is no effective difference between the one and the other. -- Her he asked",
+  "messageBody": "<div id=\"ygrps-yiv-1428751179\">Paul Tremblay scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; I am editing a large word base right now, generated from getting<br/>\n&gt; phonetical pronunciations from words, and I keep coming across words<br/>\n&gt; like &quot;branch&quot; and &quot;beach&quot; which my program has transliterated,<br/>\n&gt; according to the pronunciations, as /&lt;font face=&quot;Thoth Sampa&quot;&gt;bratS&lt;/font&gt;/<br/>\n&gt; and /&lt;font face=&quot;Thoth Sampa&quot;&gt;bits&lt;/font&gt;/. This seems wrong. It seems<br/>\n&gt; they should be spelled /&lt;font face=&quot;Thoth Sampa&quot;&gt;brac&lt;/font&gt;/ and /&lt;font<br/>\n&gt;  face=&quot;Thoth Sampa&quot;&gt;bitc&lt;/font&gt;/.&lt;br&gt;<br/>\n<br/>\n </span></blockquote>They should indeed.  tS and dZ are the IPA way of writing &quot;ch&quot; and &quot;j&quot;,<br/>\nand there is no effective difference between the one and the other.<br/>\n<br/>\n-- <br/>\nHer he asked if O&#39;Hare Doctor tidings sent from far     John Cowan<br/>\ncoast and she with grameful sigh him answered that      <a rel=\"nofollow\" target=\"_blank\" href=\"http://ccil.org/~cowan\">http://ccil.org/~cowan</a><br/>\nO&#39;Hare Doctor in heaven was. Sad was the man that word  <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a><br/>\nto hear that him so heavied in bowels ruthful. All<br/>\nshe there told him, ruing death for friend so young,    James Joyce, Ulysses<br/>\nalgate sore unwilling God&#39;s rightwiseness to withsay.   &quot;Oxen of the Sun&quot;</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 52491 invoked from network); 5 Dec 2007 03:32:47 -0000\r\nX-Received: from unknown (66.218.67.94)\n  by m56.grp.scd.yahoo.com with QMQP; 5 Dec 2007 03:32:47 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta15.grp.scd.yahoo.com with SMTP; 5 Dec 2007 03:32:47 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1Izl0A-00034c-6k\n\tfor Read_Alphabet@yahoogroups.com; Tue, 04 Dec 2007 22:32:46 -0500\r\nDate: Tue, 4 Dec 2007 22:32:46 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20071205033246.GB10807@...&gt;\r\nReferences: &lt;47561236.3080503@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;47561236.3080503@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] how to spell words with /tS/\r\nX-Yahoo-Group-Post: member; u=212516; y=7MwlaUL5UdWXHAp6ESNsJ336T3r3MJDPxUa84CuQIqudOmXKNw\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nPaul Tremblay scripsit:\n\n&gt; I am editing a large word base right now, generated from getting\n&gt; phonetical pronunciations from words, and I keep coming across words\n&gt; like &quot;branch&quot; and &quot;beach&quot; which my program has transliterated,\n&gt; according to the pronunciations, as /&lt;font face=&quot;Thoth Sampa&quot;&gt;bratS&lt;/font&gt;/\n&gt; and /&lt;font face=&quot;Thoth Sampa&quot;&gt;bits&lt;/font&gt;/. This seems wrong. It seems\n&gt; they should be spelled /&lt;font face=&quot;Thoth Sampa&quot;&gt;brac&lt;/font&gt;/ and /&lt;font\n&gt;  face=&quot;Thoth Sampa&quot;&gt;bitc&lt;/font&gt;/.&lt;br&gt;\n\nThey should indeed.  tS and dZ are the IPA way of writing &quot;ch&quot; and &quot;j&quot;,\nand there is no effective difference between the one and the other.\n\n-- \nHer he asked if O&#39;Hare Doctor tidings sent from far     John Cowan\ncoast and she with grameful sigh him answered that      http://ccil.org/~cowan\nO&#39;Hare Doctor in heaven was. Sad was the man that word  cowan@...\nto hear that him so heavied in bowels ruthful. All\nshe there told him, ruing death for friend so young,    James Joyce, Ulysses\nalgate sore unwilling God&#39;s rightwiseness to withsay.   &quot;Oxen of the Sun&quot;\n\n"
+}

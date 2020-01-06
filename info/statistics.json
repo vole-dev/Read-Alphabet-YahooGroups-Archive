@@ -1,0 +1,63 @@
+{
+  "numOfMembers": 518,
+  "dateCreated": 975512409,
+  "name": "Read_Alphabet",
+  "membersVis": "SUBSCRIBERS",
+  "groupVis": "ALL",
+  "messagesVis": "SUBSCRIBERS",
+  "filesVis": "SUBSCRIBERS",
+  "linksVis": "SUBSCRIBERS",
+  "calendarVis": "NOBODY",
+  "databaseVis": "SUBSCRIBERS",
+  "pollsVis": "SUBSCRIBERS",
+  "photosVis": "SUBSCRIBERS",
+  "replyTo": "LIST",
+  "summary": "Promoting the Read Alphabet (Quikscript)",
+  "categoryId": 1600082353,
+  "categoryPath": "/Schools & Education/Other/",
+  "categoryName": "Other",
+  "attachments": "STORE_ON_SITE_AND_SEND_LINK_IN_EMAIL",
+  "restricted": "OPEN",
+  "groupHomePage": {
+    "groupId": 2510463,
+    "photoInfo": [
+      {
+        "displayURL": "http://xa.yimg.com/kq/groups/EuJk_p3uf9BcykpU/homepage/name/81518.jpg?type=sn",
+        "height": 360,
+        "width": 312,
+        "size": 0,
+        "photoType": "sn"
+      },
+      {
+        "displayURL": "http://xa.yimg.com/kq/groups/EuJk_p3uf9BcykpU/homepage/name/81518.jpg?type=tn",
+        "height": 96,
+        "width": 83,
+        "size": 0,
+        "photoType": "tn"
+      },
+      {
+        "displayURL": "http://xa.yimg.com/kq/groups/EuJk_p3uf9BcykpU/homepage/name/81518.jpg?type=hr",
+        "height": 360,
+        "width": 312,
+        "size": 0,
+        "photoType": "hr"
+      }
+    ]
+  },
+  "groupCoverPhoto": {
+    "groupId": 2510463,
+    "hasCoverImage": false,
+    "photoInfo": [
+      {
+        "displayURL": "http://l.yimg.com/ru/defcovers/1600077623/cat.jpg",
+        "height": 0,
+        "width": 0,
+        "size": 0,
+        "photoType": "or"
+      }
+    ]
+  },
+  "emailDomain": "yahoogroups.com",
+  "adult": false,
+  "bucketId": "GB0"
+}

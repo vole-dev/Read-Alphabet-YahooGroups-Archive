@@ -1,0 +1,32 @@
+{
+  "userId": 70439622,
+  "authorName": "fctarbox3",
+  "from": "&quot;fctarbox3&quot; &lt;rtarbox@...&gt;",
+  "profile": "fctarbox3",
+  "replyTo": "LIST",
+  "senderId": "M2brh6rI0WafqD496sQRFn-mHwQJwDE3XDiv6gP2gOhrZ3hCWpnBPnQOTWtKeZITPi15qYHzsUpqGIoY2hcYBqi9KdPkzRdxv7LSoaM",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: Update on intelligent Senior QS Font.",
+  "postDate": "1058995733",
+  "msgId": 354,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGJmbXVtbCtmNmlzQGVHcm91cHMuY29tPg==",
+    "inReplyToHeader": "PDIwMDMwNzIzMTMzMzI0LjgyNTU4LnFtYWlsQHdlYjEyNTA3Lm1haWwueWFob28uY29tPg=="
+  },
+  "prevInTopic": 351,
+  "nextInTopic": 355,
+  "prevInTime": 353,
+  "nextInTime": 355,
+  "topicId": 350,
+  "numMessagesInTopic": 11,
+  "msgSnippet": "... Just because it looks like fun to me, I m probably going to code the Layout properties I think a QS font should have.  The end result is a file that I can",
+  "messageBody": "<div id=\"ygrps-yiv-836446095\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Read_Alphabet@yahoogroups.com\">Read_Alphabet@yahoogroups.com</a>, Chuck Peck &lt;chuck091956@y...&gt; <br/>\nwrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; What I thought would help in a new QS font most, would<br/>\n&gt; be better &quot;kerning&quot; and letter shape. Between the two<br/>\n&gt; of them I think we could get a font that would connect<br/>\n&gt; well and look good.<br/>\n<br/>\n </span></blockquote>Just because it looks like fun to me, I&#39;m probably going to code the <br/>\nLayout properties I think a QS font should have.  The end result is <br/>\na file that I can use to turn practically any existing TrueType QS <br/>\nfont into an OpenType font that intelligently produces Senior QS.<br/>\n<br/>\nFYI.  No expected delivery date; might be vaporware.<br/>\n<br/>\nI&#39;d contribute on the kerning, but that would require actually <br/>\ndrawing or modifying glyphs, which I&#39;m disinclined to do (I can&#39;t <br/>\nfind a glyph-editing tool that I both like and can afford).<br/>\n<br/>\n(For example, I tried just adding kerning to Jerome.ttf, and I found <br/>\nthat s and t -- the first one I tried -- just won&#39;t line up, the <br/>\nangles of the strokes are too different, and I don&#39;t have any tools <br/>\nto &quot;bulk them up.&quot;</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;rtarbox@...&gt;\r\nX-Sender: rtarbox@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 65160 invoked from network); 23 Jul 2003 21:28:56 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m13.grp.scd.yahoo.com with QMQP; 23 Jul 2003 21:28:56 -0000\r\nReceived: from unknown (HELO n17.grp.scd.yahoo.com) (66.218.66.72)\n  by mta2.grp.scd.yahoo.com with SMTP; 23 Jul 2003 21:28:56 -0000\r\nReceived: from [66.218.67.168] by n17.grp.scd.yahoo.com with NNFMP; 23 Jul 2003 21:28:55 -0000\r\nDate: Wed, 23 Jul 2003 21:28:53 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nSubject: Re: Update on intelligent Senior QS Font.\r\nMessage-ID: &lt;bfmuml+f6is@...&gt;\r\nIn-Reply-To: &lt;20030723133324.82558.qmail@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 1014\r\nX-Mailer: Yahoo Groups Message Poster\r\nFrom: &quot;fctarbox3&quot; &lt;rtarbox@...&gt;\r\nX-Yahoo-Group-Post: member; u=70439622\r\nX-Yahoo-Profile: fctarbox3\r\n\r\n--- In Read_Alphabet@yahoogroups.com, Chuck Peck &lt;chuck091956@y...&gt; \nwrote:\n&gt; What I thought would help in a new QS font most, would\n&gt; be better &quot;kerning&quot; and letter shape. Between the two\n&gt; of them I think we could get a font that would connect\n&gt; well and look good.\n\nJust because it looks like fun to me, I&#39;m probably going to code the \nLayout properties I think a QS font should have.  The end result is \na file that I can use to turn practically any existing TrueType QS \nfont into an OpenType font that intelligently produces Senior QS.\n\nFYI.  No expected delivery date; might be vaporware.\n\nI&#39;d contribute on the kerning, but that would require actually \ndrawing or modifying glyphs, which I&#39;m disinclined to do (I can&#39;t \nfind a glyph-editing tool that I both like and can afford).\n\n(For example, I tried just adding kerning to Jerome.ttf, and I found \nthat s and t -- the first one I tried -- just won&#39;t line up, the \nangles of the strokes are too different, and I don&#39;t have any tools \nto &quot;bulk them up.&quot;\n\n\n\n"
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 82638473,
+  "authorName": "Michael Everson",
+  "from": "Michael Everson &lt;everson@...&gt;",
+  "profile": "evertype",
+  "replyTo": "LIST",
+  "senderId": "LgT-GNc7zOIrbzQs7T4y1Kc0E3789jhID0xGPMsYkKIxuXkO2CDu5jHzBnvijlT1rjgJwOYCTMm5Pxk3ZZ87maxu7zuekY1D7EARblw",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Quikscript extensions to Shavian (or separate script)",
+  "postDate": "1366448666",
+  "msgId": 2445,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDhGOEUxQTAyLUI2MTUtNEU2Ni04QzQ0LUM2RDVGMzhFODI4REBldmVydHlwZS5jb20+",
+    "inReplyToHeader": "PDUxNzI1MkEwLjEwMjA4MDlAY29sc29uLmV1Pg==",
+    "referencesHeader": "PDkyMDNFNUIzLUFFN0MtNDA0RC05NDYzLUQzNkQ3RDgzOTgzNEBldmVydHlwZS5jb20+IDw1MTcxREY1NC41MDMwNjAzQGNvbHNvbi5ldT4gPDE3NjM1MDMwLTJEQTktNEYxNC1BQ0I1LTNGODkyNEIyNDEyMUBnbWFpbC5jb20+IDw2MDA0RDIzRS04QjlBLTQ3ODgtODdGRS0yODQ5MENGNDNCRjlAZXZlcnR5cGUuY29tPiA8NTE3MjUyQTAuMTAyMDgwOUBjb2xzb24uZXU+"
+  },
+  "prevInTopic": 2444,
+  "nextInTopic": 2447,
+  "prevInTime": 2444,
+  "nextInTime": 2446,
+  "topicId": 2433,
+  "numMessagesInTopic": 25,
+  "msgSnippet": "... Then you end up with multiple spellings that look alike. ... I have no idea. You have to supply images. ... Yes, probably. ... Probably some specification",
+  "messageBody": "<div id=\"ygrps-yiv-947988325\">On 20 Apr 2013, at 09:32, Jean-Fran\u00e7ois Colson &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:jf@...\">jf@...</a>&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;&gt; Shavian, in having explicitly-encoded -r characters, solves that problem. If QS and Shavian were unified, wouldn&#39;t you be better off using those -r characters?<br/>\n&gt; <br/>\n&gt; I think QS ligatures should be handled by the rendering engine. There <br/>\n&gt; are many more ligatures in QS than the 8 Shavian ones, which are reduced <br/>\n&gt; to 7 after the \u201cunification\u201d of ERR and ARRAY.<br/>\n<br/>\n </span></blockquote>Then you end up with multiple spellings that look alike. <br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; In \u201coutnumber\u201d, which letters would you use? Would you link a full t to <br/>\n&gt; an alternate form of n or would you write \u201cout\u201d separately with a half t?<br/>\n<br/>\n </span></blockquote>I have no idea. You have to supply images. <br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; ZWJ, ZWNJ or variation selectors would be useful in such cases.<br/>\n<br/>\n </span></blockquote>Yes, probably.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; To use them consistently across different implementations of the <br/>\n&gt; standard, such variation sequences should be defined precisely and not <br/>\n&gt; left at the discretion of the font makers or rendering engine programmers.<br/>\n<br/>\n </span></blockquote>Probably some specification would be necessary, to handle cursivity as in other shorthands. <br/>\n<br/>\nMichael Everson * <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.evertype.com/\">http://www.evertype.com/</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;everson@...&gt;\r\nX-Sender: everson@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 83273 invoked from network); 20 Apr 2013 09:04:33 -0000\r\nX-Received: from unknown (10.193.84.131)\n  by m10.grp.bf1.yahoo.com with QMQP; 20 Apr 2013 09:04:33 -0000\r\nX-Received: from unknown (HELO lh19.dnsireland.com) (78.137.164.59)\n  by mta4.grp.bf1.yahoo.com with SMTP; 20 Apr 2013 09:04:32 -0000\r\nX-Received: from [77.107.209.124] (port=62207 helo=[192.168.10.11])\n\tby lh19.dnsireland.com with esmtpsa (TLSv1:AES128-SHA:128)\n\t(Exim 4.80)\n\t(envelope-from &lt;everson@...&gt;)\n\tid 1UTTic-0004k9-8z; Sat, 20 Apr 2013 10:04:26 +0100\r\nContent-Type: text/plain; charset=windows-1252\r\nMime-Version: 1.0 (Mac OS X Mail 6.5 &#92;(1507&#92;))\r\nIn-Reply-To: &lt;517252A0.1020809@...&gt;\r\nDate: Sat, 20 Apr 2013 10:04:26 +0100\r\nCc: Van Anderson &lt;vanisaac@...&gt;\r\nContent-Transfer-Encoding: quoted-printable\r\nMessage-Id: &lt;8F8E1A02-B615-4E66-8C44-C6D5F38E828D@...&gt;\r\nReferences: &lt;9203E5B3-AE7C-404D-9463-D36D7D839834@...&gt; &lt;5171DF54.5030603@...&gt; &lt;17635030-2DA9-4F14-ACB5-3F8924B24121@...&gt; &lt;6004D23E-8B9A-4788-87FE-28490CF43BF9@...&gt; &lt;517252A0.1020809@...&gt;\r\nTo: Read_Alphabet@yahoogroups.com,\n &quot;shawalphabet@yahoogroups.com&quot; &lt;shawalphabet@yahoogroups.com&gt;\r\nX-Mailer: Apple Mail (2.1507)\r\nX-AntiAbuse: This header was added to track abuse, please include it with any abuse report\r\nX-AntiAbuse: Primary Hostname - lh19.dnsireland.com\r\nX-AntiAbuse: Original Domain - yahoogroups.com\r\nX-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]\r\nX-AntiAbuse: Sender Address Domain - evertype.com\r\nX-Source: \r\nX-Source-Args: \r\nX-Source-Dir: \r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Michael Everson &lt;everson@...&gt;\r\nSubject: Re: [Read_Alphabet] Quikscript extensions to Shavian (or separate script)\r\nX-Yahoo-Group-Post: member; u=82638473; y=Bpvztzj823Xqd7yHMEnved_IGlWtZhza7V5_Ra2KJZ39LZk\r\nX-Yahoo-Profile: evertype\r\n\r\nOn 20 Apr 2013, at 09:32, Jean-Fran=E7ois Colson &lt;jf@...&gt; wrote:\n\n&gt;&gt; =\r\nShavian, in having explicitly-encoded -r characters, solves that problem. I=\r\nf QS and Shavian were unified, wouldn&#39;t you be better off using those -r ch=\r\naracters?\n&gt; \n&gt; I think QS ligatures should be handled by the rendering engi=\r\nne. There \n&gt; are many more ligatures in QS than the 8 Shavian ones, which a=\r\nre reduced \n&gt; to 7 after the =93unification=94 of ERR and ARRAY.\n\nThen you =\r\nend up with multiple spellings that look alike. \n\n&gt; In =93outnumber=94, whi=\r\nch letters would you use? Would you link a full t to \n&gt; an alternate form o=\r\nf n or would you write =93out=94 separately with a half t?\n\nI have no idea.=\r\n You have to supply images. \n\n&gt; ZWJ, ZWNJ or variation selectors would be u=\r\nseful in such cases.\n\nYes, probably.\n\n&gt; To use them consistently across dif=\r\nferent implementations of the \n&gt; standard, such variation sequences should =\r\nbe defined precisely and not \n&gt; left at the discretion of the font makers o=\r\nr rendering engine programmers.\n\nProbably some specification would be neces=\r\nsary, to handle cursivity as in other shorthands. \n\nMichael Everson * http:=\r\n//www.evertype.com/\n\n\n"
+}

@@ -1,0 +1,234 @@
+QuikScript Unicode Proposal.
+
+What is QuikScript?
+
+	A caseless, phonetic, left-to-right alphabet optimised for
+	the English language (but still useful for other languages
+	with similar sounds) created by (Ronald) Kingsley Read.
+	It is the successor to and has much in common with Shavian.
+	Authoritative documentation for it can be found in “The
+	QuikScript Alphabet”.
+
+	QuikScript has 44 letters, of which 40 are ‘core’ letters,
+	2 are labour saving ‘x’ letters and 2 letters are for handling
+	words with Celtic origins.
+
+	The 44 letters in order of their introduction in “The QuikScript
+	Alphabet” are:
+
+	QUIKSCRIPT LETTER PEA
+	QUIKSCRIPT LETTER BAY
+	QUIKSCRIPT LETTER TEA
+	QUIKSCRIPT LETTER DAY
+	QUIKSCRIPT LETTER KEY
+	QUIKSCRIPT LETTER GAY
+	QUIKSCRIPT LETTER THAW
+	QUIKSCRIPT LETTER THEY
+	QUIKSCRIPT LETTER FEE
+	QUIKSCRIPT LETTER VIE
+	QUIKSCRIPT LETTER SEE
+	QUIKSCRIPT LETTER ZOO
+	QUIKSCRIPT LETTER SHE
+	QUIKSCRIPT LETTER J'AI
+	QUIKSCRIPT LETTER CHEER
+	QUIKSCRIPT LETTER JAY
+	QUIKSCRIPT LETTER YE
+	QUIKSCRIPT LETTER WAY
+	QUIKSCRIPT LETTER HE
+	QUIKSCRIPT LETTER WHY
+	QUIKSCRIPT LETTER ING
+	QUIKSCRIPT LETTER MAY
+	QUIKSCRIPT LETTER NO
+	QUIKSCRIPT LETTER LOW
+	QUIKSCRIPT LETTER ROE
+	QUIKSCRIPT LETTER IT
+	QUIKSCRIPT LETTER EAT
+	QUIKSCRIPT LETTER ET
+	QUIKSCRIPT LETTER EIGHT
+	QUIKSCRIPT LETTER AT
+	QUIKSCRIPT LETTER I
+	QUIKSCRIPT LETTER AH
+	QUIKSCRIPT LETTER AWE
+	QUIKSCRIPT LETTER OX
+	QUIKSCRIPT LETTER OY
+	QUIKSCRIPT LETTER UTTER
+	QUIKSCRIPT LETTER OUT
+	QUIKSCRIPT LETTER OWE
+	QUIKSCRIPT LETTER FOOT
+	QUIKSCRIPT LETTER OOZE
+	QUIKSCRIPT LETTER LOCH
+	QUIKSCRIPT LETTER LLAN
+	QUIKSCRIPT LETTER EXCITE
+	QUIKSCRIPT LETTER EXAMINE
+
+	There are also 3 punctuation glyphs, a naming dot which
+	is used to identify proper nouns and a pair of parenthesis
+	which serve the same functions as U+0028 LEFT PARENTHESIS
+	and U+0029 RIGHT PARENTHESIS but are more angular to help
+	distinguish them in text.
+
+	Since U+00B7 MIDDLE DOT is already established as a naming
+	dot the only characters which need to be encoded are the 2
+	parenthesis:
+
+	QUIKSCRIPT LEFT PARENTHESIS
+	QUIKSCRIPT RIGHT PARENTHESIS
+
+Presentation and Alternate Forms
+
+	There are two writing styles used with QuikScript text,
+	‘junior’ and ‘senior’.
+
+	In junior QuikScript each glyph is isolated from its neighbours
+	and has no effect on their presentation.
+
+	Senior QuikScript is highly cursive and employs half height
+	letters and alternate forms in order to speed up writing
+	by reducing the number of strokes and pen lifts.
+
+	Junior QuikScript can be used for either proportionally spaced
+	or mono spaced text. Senior QuikScript should only be used with
+	proportionally spaced text.
+
+	Since the meaning of a letter isn't altered by its form the
+	choice of glyph to use for a letter is a matter of personal
+	preference. On rare occasions it may be beneficial to be able
+	encode a specific form.
+
+	Assigning two variation selectors to choose between normal and
+	half height/alternate forms would meet this need.
+
+	The following letters have half-height forms:
+
+	QUIKSCRIPT LETTER PEA
+	QUIKSCRIPT LETTER TEA
+	QUIKSCRIPT LETTER DAY
+	QUIKSCRIPT LETTER ZOO
+	QUIKSCRIPT LETTER WAY
+	QUIKSCRIPT LETTER HE
+	QUIKSCRIPT LETTER YE
+	QUIKSCRIPT LETTER WHY
+
+	The following letters have alternate forms:
+
+	QUIKSCRIPT LETTER THEY
+	QUIKSCRIPT LETTER MAY
+	QUIKSCRIPT LETTER NO
+	QUIKSCRIPT LETTER UTTER
+
+Current Encodings and Issues.
+
+	Currently there are two methods for storing QuikScript data.
+
+	The most common method is to use a font with the printable ASCII
+	characters mapped to QuikScript Glyphs.
+
+	This unfortunately means that mixing Basic Latin and QuikScript
+	is impossible in situations where raw (not marked up) text must
+	be used.  For example in file names, title bars or in URLs.
+	It also has the side effect of making processing very difficult,
+	it is difficult to determine without user supplied hints
+	which words are made of Latin characters and which are made of
+	QuikScript characters.
+
+	Recently an encoding using the PUA has been developed, this
+	system allows for mixed Latin and QuikScript.
+
+	This solution works for the most part but still suffers from
+	the same problems as the first method if another font has Glyphs
+	assigned to same code points.
+
+Collation
+
+	There is no accepted collation method for QuikScript currently.
+	The 40 core letters are numbered and can therefore be arranged
+	alphabetically, the remaining 4 letters have no number assigned
+	to them.  In absence of a number it would be sensible to sort
+	these letters after the core 40 in order they were introduced
+	in “The QuikScript Alphabet”.
+
+Overlap with Shavian
+
+	Since QuikScript and Shavian are both phonic alphabets the way
+	a letter sounds is perhaps more important than how it looks, we
+	would like to keep the phonic information associated with each
+	code point if at all possible.	This means that any candidates
+	for merging in QuikScript and Shavian have to have both the same
+	phoneme and the same glyph.
+
+	There are 17 letters which are candidates for merging:
+
+	QUIKSCRIPT LETTER DAY	U+1045B SHAVIAN LETTER DEAD
+	QUIKSCRIPT LETTER KEY	U+10452 SHAVIAN LETTER KICK
+	QUIKSCRIPT LETTER SEE	U+10455 SHAVIAN LETTER SO
+	QUIKSCRIPT LETTER ZOO	U+1045F SHAVIAN LETTER ZOO
+	QUIKSCRIPT LETTER SHE	U+10456 SHAVIAN LETTER SURE
+	QUIKSCRIPT LETTER CHEER	U+10457 SHAVIAN LETTER CHURCH
+	QUIKSCRIPT LETTER JAY	U+10461 SHAVIAN LETTER JUDGE
+	QUIKSCRIPT LETTER WAY	U+10462 SHAVIAN LETTER WOE
+	QUIKSCRIPT LETTER ING	U+10459 SHAVIAN LETTER HUNG
+	QUIKSCRIPT LETTER ROE	U+1046E SHAVIAN LETTER ROAR
+	QUIKSCRIPT LETTER IT	U+10466 SHAVIAN LETTER IF
+	QUIKSCRIPT LETTER ET	U+10467 SHAVIAN LETTER EGG
+	QUIKSCRIPT LETTER AT	U+10468 SHAVIAN LETTER ASH
+	QUIKSCRIPT LETTER OX	U+1046A SHAVIAN LETTER ON
+	QUIKSCRIPT LETTER OWE	U+10474 SHAVIAN LETTER OAK
+	QUIKSCRIPT LETTER FOOT	U+1046B SHAVIAN LETTER WOOL
+	QUIKSCRIPT LETTER OOZE	U+10475 SHAVIAN LETTER OOZE
+
+Proposal 1
+
+	A new 48 block assigned in plane 1 containing the 44 QuikScript
+	letters in the order they are introduced in “The QuikScript
+	Alphabet”, followed by the left and right QuikScript
+	parenthesis.
+
+	Reuse U+00B7 MIDDLE DOT for the naming dot.
+
+	Assign U+FE00 VARIATION SELECTOR-1 to force the selection of
+	a full or normal form (junior) glyph during rendering.
+
+	Assign U+FE01 VARIATION SELECTOR-2 to force the selection of
+	a half or alternate form (senior) glyph during rendering.
+
+	Assign the four letter script code ‘quik’.
+
+	44  New Letter Glyphs
+	 2  New Punctuation Glyphs
+	----------------------------
+	46  New Code Points
+
+	 2  Variant Selectors Reused
+	 1  Punctuation Glyph Reused
+	----------------------------
+	 3  Reused Code Points
+
+Proposal 2
+
+	A new 32 block assigned in plane 1 containing the 27 QuikScript
+	letters which are not shared with Shavian in the order they are
+	introduced in “The QuikScript Alphabet”, followed by the
+	left and right QuikScript parenthesis.
+
+	Reuse the 17 Shavian code points with QuikScript equivalents.
+
+	Reuse U+00B7 MIDDLE DOT for the naming dot.
+
+	Assign U+FE00 VARIATION SELECTOR-1 to force the selection of
+	a full or normal form (junior) glyph during rendering.
+
+	Assign U+FE01 VARIATION SELECTOR-2 to force the selection of
+	a half or alternate form (senior) glyph during rendering.
+
+	Assign the four letter script code ‘quik’.
+
+	27  New Letter Glyphs
+	 2  New Punctuation Glyphs
+	----------------------------
+	29  New Code Points
+
+	 2  Variant Selectors Reused
+	17  Shavian Glyphs Reused
+	 1  Punctuation Glyph Reused
+	----------------------------
+	20  Reused Code Points

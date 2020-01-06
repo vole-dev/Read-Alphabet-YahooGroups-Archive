@@ -1,0 +1,33 @@
+{
+  "userId": 82638473,
+  "authorName": "Michael Everson",
+  "from": "Michael Everson &lt;everson@...&gt;",
+  "profile": "evertype",
+  "replyTo": "LIST",
+  "senderId": "c1eQxKzHW1UX-yvUFtYMNBCIKrxQrU-G2dzlvHs7btNBRUVLld9MuT33h2aB2FrrrhMzPkdm8g3zMKtdBwEt1K80kmT0MT_J4APaxDQ",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Unicode proposal again.",
+  "postDate": "1180477288",
+  "msgId": 971,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PHAwNjI0MDgwY2MyODI1N2JkNzYyNkBbMTAuMC4xLjJdPg==",
+    "inReplyToHeader": "PDIwMDcwNTI5MjEyMDM2LkdPMjc0NkBtZXJjdXJ5LmNjaWwub3JnPg==",
+    "referencesHeader": "PGYzZjU2OCtuc2MwQGVHcm91cHMuY29tPiA8NDY1QjQ4RjUuNzAyMDcwMEB5YWhvby5jby51az4gPHAwNjI0MDgxZGMyODBmYTg5N2EwOEBbMTkyLjE2OC4xLjEzNF0+IDw0NjVDNjBEQy4zMDkwNzAwQHlhaG9vLmNvLnVrPiA8MjAwNzA1MjkxODMxMTIuR0cyNzQ2QG1lcmN1cnkuY2NpbC5vcmc+IDw0NjVDODdFMC44MDEwOTA3QHlhaG9vLmNvLnVrPiA8MjAwNzA1MjkyMTIwMzYuR08yNzQ2QG1lcmN1cnkuY2NpbC5vcmc+"
+  },
+  "prevInTopic": 970,
+  "nextInTopic": 972,
+  "prevInTime": 970,
+  "nextInTime": 972,
+  "topicId": 947,
+  "numMessagesInTopic": 45,
+  "msgSnippet": "... I m working on one. Though please be patient as I am about to travel. -- Michael Everson * http://www.evertype.com",
+  "messageBody": "<div id=\"ygrps-yiv-1458160559\">At 17:20 -0400 2007-05-29, John Cowan wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;I really need a side-by-side table before I can make rational judgments.<br/>\n<br/>\n </span></blockquote>I&#39;m working on one. Though please be patient as I am about to travel.<br/>\n-- <br/>\nMichael Everson * <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.evertype.com\">http://www.evertype.com</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;everson@...&gt;\r\nX-Sender: everson@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 34259 invoked from network); 30 May 2007 08:05:54 -0000\r\nReceived: from unknown (66.218.67.34)\n  by m38.grp.scd.yahoo.com with QMQP; 30 May 2007 08:05:53 -0000\r\nReceived: from unknown (HELO white.dnsireland.com) (67.15.182.33)\n  by mta8.grp.scd.yahoo.com with SMTP; 30 May 2007 08:05:52 -0000\r\nReceived: from localhost ([127.0.0.1]:59634 helo=[10.0.1.2])\n\tby white.dnsireland.com with esmtp (Exim 4.63)\n\t(envelope-from &lt;everson@...&gt;)\n\tid 1HtJBa-0007hc-2N\n\tfor Read_Alphabet@yahoogroups.com; Wed, 30 May 2007 09:05:38 +0100\r\nMime-Version: 1.0\r\nMessage-Id: &lt;p0624080cc28257bd7626@[10.0.1.2]&gt;\r\nIn-Reply-To: &lt;20070529212036.GO2746@...&gt;\r\nReferences: &lt;f3f568+nsc0@...&gt; &lt;465B48F5.7020700@...&gt;\n &lt;p0624081dc280fa897a08@[192.168.1.134]&gt; &lt;465C60DC.3090700@...&gt;\n &lt;20070529183112.GG2746@...&gt; &lt;465C87E0.8010907@...&gt;\n &lt;20070529212036.GO2746@...&gt;\r\nDate: Tue, 29 May 2007 23:21:28 +0100\r\nTo: Read_Alphabet@yahoogroups.com\r\nContent-Type: text/plain; charset=&quot;us-ascii&quot; ; format=&quot;flowed&quot;\r\nX-AntiAbuse: This header was added to track abuse, please include it with any abuse report\r\nX-AntiAbuse: Primary Hostname - white.dnsireland.com\r\nX-AntiAbuse: Original Domain - yahoogroups.com\r\nX-AntiAbuse: Originator/Caller UID/GID - [0 0] / [47 12]\r\nX-AntiAbuse: Sender Address Domain - evertype.com\r\nX-Source: \r\nX-Source-Args: \r\nX-Source-Dir: \r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: Michael Everson &lt;everson@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Unicode proposal again.\r\nX-Yahoo-Group-Post: member; u=82638473; y=oG5EQCwvKAC1MogeireDY2dDUSdEmjts1b24AztsAcmtYok\r\nX-Yahoo-Profile: evertype\r\n\r\nAt 17:20 -0400 2007-05-29, John Cowan wrote:\n\n&gt;I really need a side-by-side table before I can make rational judgments.\n\nI&#39;m working on one. Though please be patient as I am about to travel.\n-- \nMichael Everson * http://www.evertype.com\n\n"
+}

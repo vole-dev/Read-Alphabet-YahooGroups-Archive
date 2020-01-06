@@ -1,0 +1,32 @@
+{
+  "userId": 227743152,
+  "authorName": "Ph.D.",
+  "from": "&quot;Ph.D.&quot; &lt;phil@...&gt;",
+  "profile": "utegrepublic",
+  "replyTo": "LIST",
+  "senderId": "UirWKrRndatxJTOHj9Nv7sOM5u6b6ksLNjm_78KAwxMmLA_RAjzNSYw08tVH8gXr7EJDydT-VDdhuwU9epZvUcZZ-ZQRWyi9QQ",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Unicode proposal again.",
+  "postDate": "1180616788",
+  "msgId": 979,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDAwOTgwMWM3YTM4NCQ4N2JkNzcyMCQwMzAwMDAwYUB1bGIxaT4=",
+    "referencesHeader": "PGYzZjU2OCtuc2MwQGVHcm91cHMuY29tPiA8MDA1MDAxYzdhMWIzJDc4MTFkMTQwJDAzMDAwMDBhQHVsYjFpPiA8cDA2MjQwODAzYzI4MThjNWNhNzY3QFsxOTIuMTY4LjEuMTM0XT4gPDQ2NUM2Rjg3LjcwNzA4QG1lbHJvY2guc2U+IDxwMDYyNDA4MDhjMjgyNDUzZjIwN2NAWzEwLjAuMS4yXT4gPDQ2NUQ2NjE2LjYwNTAwMDVAbWVscm9jaC5zZT4gPDQ2NURCOTg3LjEwMzAzMDZAeWFob28uY28udWs+IDwyMDA3MDUzMDIxMTAzOS5HRzk3MTJAbWVyY3VyeS5jY2lsLm9yZz4gPDQ2NURFQUU3LjgwNTA1MDZAeWFob28uY28udWs+IDwyMDA3MDUzMDIxMjc0MC5HQjExODYyQG1lcmN1cnkuY2NpbC5vcmc+"
+  },
+  "prevInTopic": 978,
+  "nextInTopic": 980,
+  "prevInTime": 978,
+  "nextInTime": 980,
+  "topicId": 947,
+  "numMessagesInTopic": 45,
+  "msgSnippet": "Just to be sure I m clear on this: We re talking about assigning QS and Shavian to code points in Plane 1, right? --Ph. D.",
+  "messageBody": "<div id=\"ygrps-yiv-632076360\">Just to be sure I&#39;m clear on this: <br/>\nWe&#39;re talking about assigning QS and Shavian <br/>\nto code points in Plane 1, right?<br/>\n<br/>\n--Ph. D.</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;phil@...&gt;\r\nX-Sender: phil@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 95359 invoked from network); 31 May 2007 13:19:29 -0000\r\nReceived: from unknown (66.218.66.72)\n  by m46.grp.scd.yahoo.com with QMQP; 31 May 2007 13:19:29 -0000\r\nReceived: from unknown (HELO pro60.cedant.com) (66.175.0.12)\n  by mta14.grp.scd.yahoo.com with SMTP; 31 May 2007 13:19:29 -0000\r\nReceived: from ulb1i (240-215-112-64.dsl.tc3net.com [64.112.215.240])\n\t(authenticated bits=0)\n\tby pro60.cedant.com (8.13.6/8.13.6) with ESMTP id l4VDDkeZ024428\n\tfor &lt;Read_Alphabet@yahoogroups.com&gt;; Thu, 31 May 2007 06:13:49 -0700 (PDT)\n\t(envelope-from phil@...)\r\nMessage-ID: &lt;009801c7a384$87bd7720$0300000a@ulb1i&gt;\r\nTo: &lt;Read_Alphabet@yahoogroups.com&gt;\r\nReferences: &lt;f3f568+nsc0@...&gt; &lt;005001c7a1b3$7811d140$0300000a@ulb1i&gt; &lt;p06240803c2818c5ca767@[192.168.1.134]&gt; &lt;465C6F87.70708@...&gt; &lt;p06240808c282453f207c@[10.0.1.2]&gt; &lt;465D6616.6050005@...&gt; &lt;465DB987.1030306@...&gt; &lt;20070530211039.GG9712@...&gt; &lt;465DEAE7.8050506@...&gt; &lt;20070530212740.GB11862@...&gt;\r\nDate: Thu, 31 May 2007 09:06:28 -0400\r\nMIME-Version: 1.0\r\nContent-Type: text/plain;\n\tcharset=&quot;iso-8859-1&quot;\r\nContent-Transfer-Encoding: 7bit\r\nX-Priority: 3\r\nX-MSMail-Priority: Normal\r\nX-Mailer: Microsoft Outlook Express 6.00.2600.0000\r\nX-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2600.0000\r\nX-Antivirus: avast! (VPS 0702-1, 01/11/2007), Outbound message\r\nX-Antivirus-Status: Clean\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: &quot;Ph.D.&quot; &lt;phil@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Unicode proposal again.\r\nX-Yahoo-Group-Post: member; u=227743152; y=Wwjt5k53HKAQpDlKHd6EfaYylbBeXTdbdj57XkQWmah-XFF0Uz0p\r\nX-Yahoo-Profile: utegrepublic\r\n\r\nJust to be sure I&#39;m clear on this: \nWe&#39;re talking about assigning QS and Shavian \nto code points in Plane 1, right?\n\n--Ph. D. \n\n\n\n"
+}

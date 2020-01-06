@@ -1,0 +1,33 @@
+{
+  "userId": 149542193,
+  "authorName": "BPJ",
+  "from": "BPJ &lt;bpj@...&gt;",
+  "profile": "melroch",
+  "replyTo": "LIST",
+  "senderId": "tRgqSiRFamEZ0b6iqhysbHgDsfLLdFXH_XFWDwV1nvZ4Te8VOKTpmJI9CA9gLJQZkweVqIYpdiNoqcw",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Unicode Status",
+  "postDate": "1366143660",
+  "msgId": 2419,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDUxNkRCMkFDLjMwNzA5MDNAbWVscm9jaC5zZT4=",
+    "inReplyToHeader": "PDNENjJBRDQ4LUE3MkUtNEU3Qy1BMUEwLUQ2NUJGRUM2MkVGNEBldmVydHlwZS5jb20+",
+    "referencesHeader": "PGtramY3Yys2dG5mQGVHcm91cHMuY29tPiA8NTZEOUM4MDAtMjc5Mi00NDQ2LTk5RkItRkE2QkZFM0JERUNEQGV2ZXJ0eXBlLmNvbT4gPDUxNkQ2NEQxLjkwMDA5MDBAY29sc29uLmV1PiA8M0Q2MkFENDgtQTcyRS00RTdDLUExQTAtRDY1QkZFQzYyRUY0QGV2ZXJ0eXBlLmNvbT4="
+  },
+  "prevInTopic": 2418,
+  "nextInTopic": 2420,
+  "prevInTime": 2418,
+  "nextInTime": 2420,
+  "topicId": 2365,
+  "numMessagesInTopic": 34,
+  "msgSnippet": "... Meaning they have learnt nothing from the Coptic affair! They should clearly have unified also Latin and Cyrillic with Greek, of which they both are mere ",
+  "messageBody": "<div id=\"ygrps-yiv-1475249184\">2013-04-16 17:54, Michael Everson skrev:<br/>\n<blockquote><span title=\"ireply\"> &gt; You will, orthographically. But I can&#39;t say that I believe that there is any chance whatsoever that the UCS will have both Shavian and Quikscript as two separate scripts.<br/>\n<br/>\n </span></blockquote>Meaning they have learnt nothing from the Coptic affair!<br/>\n<br/>\nThey should clearly have unified also Latin and<br/>\nCyrillic with Greek, of which they both are mere<br/>\nvariants, and surely the separate encoding of three<br/>\nGeorgian alphabets and their disunification from<br/>\nArmenian was a mistake since the three are clearly only<br/>\nglyph variants and since some claim that both the<br/>\nGeorgian and Armenian alphabets were designed by the<br/>\nsame man, St. Mesrop, not to mention the obviously<br/>\nisosystemic katakana and hiragana, or the various<br/>\nBrahmic scripts -- eh glyph variants -- which you did<br/>\nalready mention yourself!<br/>\n<br/>\nAre they running out of codepoints, or what?<br/>\n<br/>\n/bpj</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;melroch@...&gt;\r\nX-Sender: melroch@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 96035 invoked from network); 16 Apr 2013 20:21:04 -0000\r\nX-Received: from unknown (10.193.84.151)\n  by m6.grp.bf1.yahoo.com with QMQP; 16 Apr 2013 20:21:04 -0000\r\nX-Received: from unknown (HELO mail-lb0-f180.google.com) (209.85.217.180)\n  by mta5.grp.bf1.yahoo.com with SMTP; 16 Apr 2013 20:21:04 -0000\r\nX-Received: by mail-lb0-f180.google.com with SMTP id t11so950760lbi.11\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Tue, 16 Apr 2013 13:21:03 -0700 (PDT)\r\nX-Received: by 10.112.161.97 with SMTP id xr1mr2206378lbb.15.1366143663895;\n        Tue, 16 Apr 2013 13:21:03 -0700 (PDT)\r\nReturn-Path: &lt;melroch@...&gt;\r\nX-Received: from [192.168.1.33] ([31.210.255.158])\n        by mx.google.com with ESMTPS id p1sm1435948lae.0.2013.04.16.13.21.01\n        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);\n        Tue, 16 Apr 2013 13:21:02 -0700 (PDT)\r\nMessage-ID: &lt;516DB2AC.3070903@...&gt;\r\nDate: Tue, 16 Apr 2013 22:21:00 +0200\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:17.0) Gecko/20130329 Thunderbird/17.0.5\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nReferences: &lt;kkjf7c+6tnf@...&gt; &lt;56D9C800-2792-4446-99FB-FA6BFE3BDECD@...&gt; &lt;516D64D1.9000900@...&gt; &lt;3D62AD48-A72E-4E7C-A1A0-D65BFEC62EF4@...&gt;\r\nIn-Reply-To: &lt;3D62AD48-A72E-4E7C-A1A0-D65BFEC62EF4@...&gt;\r\nContent-Type: text/plain; charset=UTF-8; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: BPJ &lt;bpj@...&gt;\r\nSubject: Re: [Read_Alphabet] Unicode Status\r\nX-Yahoo-Group-Post: member; u=149542193; y=V7BJDFGXwRPqNIETLl0RBpemb1AKfoWJIiLUY78zmPVE1g\r\nX-Yahoo-Profile: melroch\r\n\r\n2013-04-16 17:54, Michael Everson skrev:\n&gt; You will, orthographically. But I can&#39;t say that I believe that there is any chance whatsoever that the UCS will have both Shavian and Quikscript as two separate scripts.\n\nMeaning they have learnt nothing from the Coptic affair!\n\nThey should clearly have unified also Latin and\nCyrillic with Greek, of which they both are mere\nvariants, and surely the separate encoding of three\nGeorgian alphabets and their disunification from\nArmenian was a mistake since the three are clearly only\nglyph variants and since some claim that both the\nGeorgian and Armenian alphabets were designed by the\nsame man, St. Mesrop, not to mention the obviously\nisosystemic katakana and hiragana, or the various\nBrahmic scripts -- eh glyph variants -- which you did\nalready mention yourself!\n\nAre they running out of codepoints, or what?\n\n/bpj\n\n"
+}

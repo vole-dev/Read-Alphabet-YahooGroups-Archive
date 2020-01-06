@@ -1,0 +1,78 @@
+{
+  "userId": 553263562,
+  "authorName": "Nathan",
+  "from": "Nathan &lt;mailinglists@...&gt;",
+  "profile": "dipartite",
+  "replyTo": "LIST",
+  "senderId": "MQvxzZRGlnKuk6peJgP4DoiMSZJ-cImkxpAUhHQ18LmQbnnVUnSthtS9BJJDjM17eNIoiABCq9RP6FEWwkXIOfiUCBYYqg",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "5"
+  },
+  "subject": "Is this legible?",
+  "postDate": "1401605082",
+  "msgId": 2611,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDdGMkZGN0NGLUUxRDMtNDA3MS1CREI4LUIwQjZCOTU3QkQwRUBuZ2FsdC5jb20+"
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 0,
+  "prevInTime": 2610,
+  "nextInTime": 2612,
+  "topicId": 2611,
+  "numMessagesInTopic": 1,
+  "msgSnippet": "Apologies for the familiar text, but I don t have any short original pangrams handy. While this question is primarily aimed at Quikscript readers who don t",
+  "messageBody": "<div id=\"ygrps-yiv-1250974072\"><html><head></head>Apologies for the familiar text, but I don&#39;t have any short original pangrams handy. While this question is primarily aimed at Quikscript readers who don&#39;t know Shavian, I&#39;m opening it to everyone (although please do say what you do know, and how well you know it).<div><br></div><div><ul class=\"ygrps-yiv-1250974072MailOutline\"><li>Can you read this, or at least figure out most of what it says?</li><li>If you had to read something on a computer in Quikscript made with letterforms like this, would you be able to? If not, how long do you think it would take?</li></ul><div><br></div></div><div>I&#39;ll explain why I&#39;m asking in a couple days.</div><div><br></div><div><img id=\"ygrps-yiv-1250974072D5713544-1BB6-4959-926F-30E83BFF575B\" height=\"335\" width=\"670\" src=\"cid:CADB303C-F012-478F-BA04-BAD6C31263E4@lag\"></div></html></div>",
+  "specialLinks": [],
+  "attachmentsInfo": [
+    {
+      "groupId": 2510463,
+      "attachmentId": 320727938,
+      "fileId": 1837468571,
+      "title": "merged",
+      "creatorNickname": "dipartite",
+      "modificationDate": 1401605089,
+      "referenceId": 2611,
+      "size": 782141,
+      "filename": "merged.jpeg",
+      "fileType": "image/jpeg",
+      "type": "photo",
+      "canDelete": false,
+      "photoInfo": [
+        {
+          "displayURL": "https://xa.yimg.com/kq/groups/EuJk_p3uf9BcykpU/tn/1xm9P5rtctLDUKOiLBA7/name/merged.jpg",
+          "height": 47,
+          "width": 94,
+          "size": 6500,
+          "photoType": "tn"
+        },
+        {
+          "displayURL": "https://xa.yimg.com/kq/groups/EuJk_p3uf9BcykpU/sn/1xm9P5rtctLDUKOiLBA7/name/merged.jpg",
+          "height": 239,
+          "width": 479,
+          "size": 37088,
+          "photoType": "sn"
+        },
+        {
+          "displayURL": "https://xa.yimg.com/kq/groups/EuJk_p3uf9BcykpU/hr/1xm9P5rtctLDUKOiLBA7/name/merged.jpg",
+          "height": 399,
+          "width": 800,
+          "size": 77704,
+          "photoType": "hr"
+        },
+        {
+          "displayURL": "https://xa.yimg.com/kq/groups/EuJk_p3uf9BcykpU/or/1xm9P5rtctLDUKOiLBA7/name/merged.jpeg",
+          "height": 1218,
+          "width": 2441,
+          "size": 782141,
+          "photoType": "or"
+        }
+      ],
+      "photomaticAlbumUrl": "https://groups.yahoo.com/neo/groups/Read_Alphabet/photos/photomatic/2028529260"
+    }
+  ],
+  "rawEmail": "Return-Path: &lt;mailinglists@...&gt;\r\nX-Sender: mailinglists@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 97764 invoked by uid 102); 1 Jun 2014 06:44:48 -0000\r\nX-Received: from unknown (HELO mtaq3.grp.bf1.yahoo.com) (10.193.84.142)\n  by m7.grp.bf1.yahoo.com with SMTP; 1 Jun 2014 06:44:48 -0000\r\nX-Received: (qmail 17303 invoked from network); 1 Jun 2014 06:44:47 -0000\r\nX-Received: from unknown (HELO out1-smtp.messagingengine.com) (66.111.4.25)\n  by mtaq3.grp.bf1.yahoo.com with SMTP; 1 Jun 2014 06:44:47 -0000\r\nX-Received: from compute6.internal (compute6.nyi.mail.srv.osa [10.202.2.46])\n\tby gateway1.nyi.mail.srv.osa (Postfix) with ESMTP id C1D64217AE\n\tfor &lt;Read_Alphabet@yahoogroups.com&gt;; Sun,  1 Jun 2014 02:44:47 -0400 (EDT)\r\nX-Received: from frontend1 ([10.202.2.160])\n  by compute6.internal (MEProxy); Sun, 01 Jun 2014 02:44:47 -0400\r\nX-Sasl-enc: fP1M9h0+PeSF7tryIlIybM+avcDHChSqAXbdpNJl1FRO 1401605084\r\nX-Received: from spreadthinly.lag (unknown [173.58.137.87])\n\tby mail.messagingengine.com (Postfix) with ESMTPA id 2F9AFC00005\n\tfor &lt;Read_Alphabet@yahoogroups.com&gt;; Sun,  1 Jun 2014 02:44:43 -0400 (EDT)\r\nContent-Type: multipart/alternative; boundary=&quot;Apple-Mail=_A4BE5E35-AEB0-4349-AC25-48B973466090&quot;\r\nMessage-Id: &lt;7F2FF7CF-E1D3-4071-BDB8-B0B6B957BD0E@...&gt;\r\nDate: Sat, 31 May 2014 23:44:42 -0700\r\nTo: Read_Alphabet@yahoogroups.com\r\nMime-Version: 1.0 (Mac OS X Mail 7.3 &#92;(1878.2&#92;))\r\nX-Mailer: Apple Mail (2.1878.2)\r\nX-eGroups-Msg-Info: 1:5:0:0:0\r\nSubject: Is this legible?\r\nX-Yahoo-Group-Post: member; u=553263562; y=WqOhEBzFIgghWJ28HoALIVRMZCfy62nN4RlAr9VMs7z1CTgF\r\nX-Yahoo-Profile: dipartite\r\nFrom: Nathan &lt;mailinglists@...&gt;\r\n\r\n\r\n--Apple-Mail=_A4BE5E35-AEB0-4349-AC25-48B973466090\r\nContent-Transfer-Encoding: quoted-printable\r\nContent-Type: text/plain;\n\tcharset=us-ascii\r\n\r\nApologies for the familiar text, but I don&#39;t have any short original pangra=\r\nms handy. While this question is primarily aimed at Quikscript readers who =\r\ndon&#39;t know Shavian, I&#39;m opening it to everyone (although please do say what=\r\n you do know, and how well you know it).\n\nCan you read this, or at least fi=\r\ngure out most of what it says?\nIf you had to read something on a computer i=\r\nn Quikscript made with letterforms like this, would you be able to? If not,=\r\n how long do you think it would take?\n\nI&#39;ll explain why I&#39;m asking in a cou=\r\nple days.\n\n\r\n--Apple-Mail=_A4BE5E35-AEB0-4349-AC25-48B973466090\r\nContent-Type: multipart/related;\n\ttype=&quot;text/html&quot;;\n\tboundary=&quot;Apple-Mail=_A742D817-23F2-40B3-9C8F-13EF29D8FDF7&quot;\r\n\r\n\r\n--Apple-Mail=_A742D817-23F2-40B3-9C8F-13EF29D8FDF7\r\nContent-Transfer-Encoding: quoted-printable\r\nContent-Type: text/html;\n\tcharset=us-ascii\r\n\r\n&lt;html&gt;&lt;head&gt;&lt;meta http-equiv=3D&quot;Content-Type&quot; content=3D&quot;text/html charset=\r\n=3Dus-ascii&quot;&gt;&lt;/head&gt;&lt;body style=3D&quot;word-wrap: break-word; -webkit-nbsp-mode=\r\n: space; -webkit-line-break: after-white-space;&quot;&gt;Apologies for the familiar=\r\n text, but I don&#39;t have any short original pangrams handy. While this quest=\r\nion is primarily aimed at Quikscript readers who don&#39;t know Shavian, I&#39;m op=\r\nening it to everyone (although please do say what you do know, and how well=\r\n you know it).&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ul class=3D&quot;MailOutline&quot;&gt;&lt;li&gt;Can you rea=\r\nd this, or at least figure out most of what it says?&lt;/li&gt;&lt;li&gt;If you had to =\r\nread something on a computer in Quikscript made with letterforms like this,=\r\n would you be able to? If not, how long do you think it would take?&lt;/li&gt;&lt;/u=\r\nl&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;I&#39;ll explain why I&#39;m asking in a couple days.&lt;/=\r\ndiv&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;img apple-inline=3D&quot;yes&quot; id=3D&quot;D5713544-1BB6-4959-=\r\n926F-30E83BFF575B&quot; height=3D&quot;335&quot; width=3D&quot;670&quot; apple-width=3D&quot;yes&quot; apple-h=\r\neight=3D&quot;yes&quot; src=3D&quot;cid:CADB303C-F012-478F-BA04-BAD6C31263E4@lag&quot;&gt;&lt;/div&gt;&lt;/=\r\nbody&gt;&lt;/html&gt;\r\n--Apple-Mail=_A742D817-23F2-40B3-9C8F-13EF29D8FDF7\r\nContent-Disposition: inline;\n\tfilename=merged.jpeg\r\nContent-Type: image/jpeg;\n\tx-unix-mode=0600;\n\tname=&quot;merged.jpeg&quot;\r\nContent-Id: &lt;CADB303C-F012-478F-BA04-BAD6C31263E4@lag&gt;\r\n\r\n[ Attachment content not displayed ]\r\n--Apple-Mail=_A742D817-23F2-40B3-9C8F-13EF29D8FDF7--\r\n\n\r\n--Apple-Mail=_A4BE5E35-AEB0-4349-AC25-48B973466090--\r\n\n"
+}

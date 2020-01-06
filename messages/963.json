@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "00QyIzW7vjA0bND1DywpK8bHODZRFT2DQ_KWmkqME0ruiEK6QoJHSJu85J7R5JloEYgt4KKCq-YYuFfOk20CpHu-",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Unicode proposal again.",
+  "postDate": "1180473636",
+  "msgId": 963,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcwNTI5MjEyMDM2LkdPMjc0NkBtZXJjdXJ5LmNjaWwub3JnPg==",
+    "inReplyToHeader": "PDQ2NUM4N0UwLjgwMTA5MDdAeWFob28uY28udWs+",
+    "referencesHeader": "PGYzZjU2OCtuc2MwQGVHcm91cHMuY29tPiA8NDY1QjQ4RjUuNzAyMDcwMEB5YWhvby5jby51az4gPHAwNjI0MDgxZGMyODBmYTg5N2EwOEBbMTkyLjE2OC4xLjEzNF0+IDw0NjVDNjBEQy4zMDkwNzAwQHlhaG9vLmNvLnVrPiA8MjAwNzA1MjkxODMxMTIuR0cyNzQ2QG1lcmN1cnkuY2NpbC5vcmc+IDw0NjVDODdFMC44MDEwOTA3QHlhaG9vLmNvLnVrPg=="
+  },
+  "prevInTopic": 962,
+  "nextInTopic": 964,
+  "prevInTime": 962,
+  "nextInTime": 964,
+  "topicId": 947,
+  "numMessagesInTopic": 45,
+  "msgSnippet": "... True. ... I agree with that. ... If the meaning is identical and the glyph only slightly different, we can unify.  If the meaning is *completely*",
+  "messageBody": "<div id=\"ygrps-yiv-1545688734\">amd64_hacker scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; If we work purely on the appearance we lose the phonic information and a<br/>\n&gt; lot of ease of use.<br/>\n<br/>\n </span></blockquote>True.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; We can consolidate Shavian and Quikscript characters which are identical<br/>\n<br/>\n </span></blockquote>I agree with that.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; but we shouldn&#39;t throw away all that extra information/functionality for<br/>\n&gt; the sake of a few code points.<br/>\n<br/>\n </span></blockquote>If the meaning is identical and the glyph only slightly different,<br/>\nwe can unify.  If the meaning is *completely* different, unification<br/>\nis questionable.<br/>\n<br/>\nI really need a side-by-side table before I can make rational judgments.<br/>\n<br/>\n-- <br/>\nIn politics, obedience and support      John Cowan &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>&gt;<br/>\nare the same thing.  --Hannah Arendt    <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 78125 invoked from network); 29 May 2007 21:20:38 -0000\r\nReceived: from unknown (66.218.66.166)\n  by m36.grp.scd.yahoo.com with QMQP; 29 May 2007 21:20:38 -0000\r\nReceived: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta5.grp.scd.yahoo.com with SMTP; 29 May 2007 21:20:38 -0000\r\nReceived: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1Ht97M-0007Tr-Nt\n\tfor Read_Alphabet@yahoogroups.com; Tue, 29 May 2007 17:20:36 -0400\r\nDate: Tue, 29 May 2007 17:20:36 -0400\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20070529212036.GO2746@...&gt;\r\nReferences: &lt;f3f568+nsc0@...&gt; &lt;465B48F5.7020700@...&gt; &lt;p0624081dc280fa897a08@[192.168.1.134]&gt; &lt;465C60DC.3090700@...&gt; &lt;20070529183112.GG2746@...&gt; &lt;465C87E0.8010907@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;465C87E0.8010907@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Unicode proposal again.\r\nX-Yahoo-Group-Post: member; u=212516; y=J-7q4lTcftvH47662GFlq8CFwDs-SIZ4ezc1ntlcmtuVpM65Vg\r\nX-Yahoo-Profile: johnwcowan\r\n\r\namd64_hacker scripsit:\n\n&gt; If we work purely on the appearance we lose the phonic information and a\n&gt; lot of ease of use.\n\nTrue.\n\n&gt; We can consolidate Shavian and Quikscript characters which are identical\n\nI agree with that.\n\n&gt; but we shouldn&#39;t throw away all that extra information/functionality for\n&gt; the sake of a few code points.\n\nIf the meaning is identical and the glyph only slightly different,\nwe can unify.  If the meaning is *completely* different, unification\nis questionable.\n\nI really need a side-by-side table before I can make rational judgments.\n\n-- \nIn politics, obedience and support      John Cowan &lt;cowan@...&gt;\nare the same thing.  --Hannah Arendt    http://www.ccil.org/~cowan\n\n"
+}

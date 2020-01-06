@@ -1,0 +1,30 @@
+{
+  "userId": 0,
+  "authorName": "Jon Zuck",
+  "from": "Jon Zuck &lt;frimmin@...&gt;",
+  "replyTo": "LIST",
+  "senderId": "IXzqH3S1PcqvcZ0Z7UnecvHPn0UU1NQvIKRyoXGw_VBWZfxJ-39Kra39Lxoe4pfO8ZY_M96viK3Cul47S0qgJXlu",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Netscape and IE troubleshooting",
+  "postDate": "975601693",
+  "msgId": 4,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDNBMjY4MDFELjc4RjI5MTg2QGV4aXMubmV0Pg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 0,
+  "prevInTime": 3,
+  "nextInTime": 5,
+  "topicId": 4,
+  "numMessagesInTopic": 1,
+  "msgSnippet": "I don t know why, but Netscape Messenger doesn t seem to recognize any of the Shavian fonts.  So even in the Read newsgroup, anyone using it won t be able to",
+  "messageBody": "<div id=\"ygrps-yiv-975119306\">I don&#39;t know why, but Netscape Messenger doesn&#39;t seem to recognize any<br/>\nof the Shavian fonts.  So even in the Read newsgroup, anyone using it<br/>\nwon&#39;t be able to send info in a Shavian set, (although you should be<br/>\nable to read it if you select Edit/Preferences/Mail and<br/>\nNewgroups/Formatting/ and hit the radio buttons for use HTML editor, and<br/>\nSend in HTML.)  I don&#39;t know how to troubleshoot the problem of not<br/>\nbeing able to select Shaw fonts.  Very strange.<br/>\n<br/>\nWith IE, it&#39;s very easy to read and write in Shavian fonts:  Just hit<br/>\nFormat/Rich Text (HTML) and some font editing tools appear which allow<br/>\nyou to specify Shavian fonts, change sizes, etc.<br/>\n<br/>\n--<br/>\nShalom v&#39;Tovah,<br/>\n<br/>\nJon<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://surf.to/frimmin\">http://surf.to/frimmin</a><br/>\n<br/>\nIt is more necessary to love much than to think much;<br/>\nalways do that which impels you most to love.<br/>\n<br/>\n        --St. Teresa of Avila, The Interior Castle</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;frimmin@...&gt;\r\nX-Sender: frimmin@...\r\nX-Apparently-To: Read_Alphabet@egroups.com\r\nReceived: (EGP: mail-6_3_1_2); 30 Nov 2000 16:27:35 -0000\r\nReceived: (qmail 64103 invoked from network); 30 Nov 2000 16:27:34 -0000\r\nReceived: from unknown (10.1.10.27) by l7.egroups.com with QMQP; 30 Nov 2000 16:27:34 -0000\r\nReceived: from unknown (HELO marlin.exis.net) (205.252.72.2) by mta2 with SMTP; 30 Nov 2000 16:27:34 -0000\r\nReceived: from exis.net (digital-5-27.exis.net [205.252.74.27]) by marlin.exis.net (8.9.3/8.9.3) with ESMTP id LAA01325 for &lt;Read_Alphabet@egroups.com&gt;; Thu, 30 Nov 2000 11:27:33 -0500\r\nMessage-ID: &lt;3A26801D.78F29186@...&gt;\r\nDate: Thu, 30 Nov 2000 11:28:13 -0500\r\nX-Mailer: Mozilla 4.75 [en] (Win98; U)\r\nX-Accept-Language: zh,zh-CN,zh-TW,ja\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@egroups.com\r\nSubject: Netscape and IE troubleshooting\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Transfer-Encoding: 7bit\r\nFrom: Jon Zuck &lt;frimmin@...&gt;\r\n\r\nI don&#39;t know why, but Netscape Messenger doesn&#39;t seem to recognize any\nof the Shavian fonts.  So even in the Read newsgroup, anyone using it\nwon&#39;t be able to send info in a Shavian set, (although you should be\nable to read it if you select Edit/Preferences/Mail and\nNewgroups/Formatting/ and hit the radio buttons for use HTML editor, and\nSend in HTML.)  I don&#39;t know how to troubleshoot the problem of not\nbeing able to select Shaw fonts.  Very strange.\n\nWith IE, it&#39;s very easy to read and write in Shavian fonts:  Just hit\nFormat/Rich Text (HTML) and some font editing tools appear which allow\nyou to specify Shavian fonts, change sizes, etc.\n\n--\nShalom v&#39;Tovah,\n\nJon\nhttp://surf.to/frimmin\n\nIt is more necessary to love much than to think much;\nalways do that which impels you most to love.\n\n        --St. Teresa of Avila, The Interior Castle\n\n\n\n"
+}

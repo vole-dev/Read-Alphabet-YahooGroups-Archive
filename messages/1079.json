@@ -1,0 +1,33 @@
+{
+  "userId": 214981082,
+  "authorName": "Paul Tremblay",
+  "from": "Paul Tremblay &lt;phthenry@...&gt;",
+  "profile": "paulhtremblay",
+  "replyTo": "LIST",
+  "senderId": "XJOK4LQjBU_oJz-6Q02vM7j5MdyIX7b40KC6ZwZTys552ZQ-kiwhXHRAHH7wY4jUZGjNrzfGG0Q49ArrcN6fui1FG9q9MVsuvg",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Help getting software",
+  "postDate": "1190918744",
+  "msgId": 1079,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ2RkJGQTU4LjgwNDA5MDVAaWdsb3UuY29tPg==",
+    "inReplyToHeader": "PDQ2RkJGN0UyLjgwOTA1MDZAeWFob28uY28udWs+",
+    "referencesHeader": "PDQ2RkIzMTcxLjIwMDA4MDRAaWdsb3UuY29tPiA8NDZGQkU1MUMuODA2MDEwMkB5YWhvby5jby51az4gPDQ2RkJGMzk1LjYwNTAwMDFAaWdsb3UuY29tPiA8NDZGQkY3RTIuODA5MDUwNkB5YWhvby5jby51az4="
+  },
+  "prevInTopic": 1078,
+  "nextInTopic": 1080,
+  "prevInTime": 1078,
+  "nextInTime": 1080,
+  "topicId": 1073,
+  "numMessagesInTopic": 7,
+  "msgSnippet": "I have to download and burn a DVD to get TeX Live working, I believe. That might not be a bad idea. I thought you might use the private area. But how do you",
+  "messageBody": "<div id=\"ygrps-yiv-55750638\">I have to download and burn a DVD to get TeX Live working, I believe. <br/>\nThat might not be a bad idea.<br/>\n<br/>\nI thought you might use the private area. But how do you get the font to <br/>\ncorrespond to the Unicode you have set aside? I&#39;m sorry since I know <br/>\nposters have already discussed this issue, but I just joined the group. <br/>\nAlso, now that I think of it, what exactly do your perl scripts do?<br/>\n<br/>\nUsing HTML is a good idea. I hadn&#39;t thought of that. You can even set up <br/>\nCSS stylesheets for printing, so you could get reasonable good quality. <br/>\nOn Mac and linux, you can write the HTML, bring it up in a browser, then <br/>\nsave it as PDF. Voila. Not as nice as TeX, but I don&#39;t plan on writing <br/>\nany books, so for now...<br/>\n<br/>\nPaul</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;phthenry@...&gt;\r\nX-Sender: phthenry@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 58355 invoked from network); 27 Sep 2007 18:45:46 -0000\r\nReceived: from unknown (69.147.108.200)\n  by m52.grp.scd.yahoo.com with QMQP; 27 Sep 2007 18:45:46 -0000\r\nReceived: from unknown (HELO rdsmtp.iglou.com) (192.107.41.63)\n  by mta1.grp.re1.yahoo.com with SMTP; 27 Sep 2007 18:45:46 -0000\r\nReceived: from [192.107.41.6] (helo=iglou3.iglou.com)\n\tby rdsmtp.iglou.com with esmtp (8.12.5/8.12.5)\n\t(envelope-from &lt;phthenry@...&gt;)\n\tid 1IayMr-0003pO-Ri\n\tfor Read_Alphabet@yahoogroups.com; Thu, 27 Sep 2007 14:45:45 -0400\r\nReceived: from [64.253.111.18] (helo=Enid-Johnsons-Computer.local)\n\tby iglou3.iglou.com with esmtp (8.12.5/8.12.5)\n\t(envelope-from &lt;phthenry@...&gt;)\n\tid 1IayMr-0005iJ-Ku\n\tfor Read_Alphabet@yahoogroups.com; Thu, 27 Sep 2007 14:45:45 -0400\r\nMessage-ID: &lt;46FBFA58.8040905@...&gt;\r\nDate: Thu, 27 Sep 2007 14:45:44 -0400\r\nUser-Agent: Thunderbird 2.0.0.6 (Macintosh/20070728)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nReferences: &lt;46FB3171.2000804@...&gt; &lt;46FBE51C.8060102@...&gt; &lt;46FBF395.6050001@...&gt; &lt;46FBF7E2.8090506@...&gt;\r\nIn-Reply-To: &lt;46FBF7E2.8090506@...&gt;\r\nContent-Type: text/plain; charset=ISO-8859-1; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\nX-IgLou-Customer: 6ab7d2bd86677d7d54d075759b28f06c\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Paul Tremblay &lt;phthenry@...&gt;\r\nSubject: Re: [Read_Alphabet] Help getting software\r\nX-Yahoo-Group-Post: member; u=214981082; y=TAkMDPVNWkWKRRII1PemyEcsx_-zhlaBL3XJtauytMJIiUI_dGxmjA\r\nX-Yahoo-Profile: paulhtremblay\r\n\r\nI have to download and burn a DVD to get TeX Live working, I believe. \nThat might not be a bad idea.\n\nI thought you might use the private area. But how do you get the font to \ncorrespond to the Unicode you have set aside? I&#39;m sorry since I know \nposters have already discussed this issue, but I just joined the group. \nAlso, now that I think of it, what exactly do your perl scripts do?\n\nUsing HTML is a good idea. I hadn&#39;t thought of that. You can even set up \nCSS stylesheets for printing, so you could get reasonable good quality. \nOn Mac and linux, you can write the HTML, bring it up in a browser, then \nsave it as PDF. Voila. Not as nice as TeX, but I don&#39;t plan on writing \nany books, so for now...\n\nPaul\n\n"
+}

@@ -1,0 +1,78 @@
+{
+  "userId": 23677616,
+  "authorName": "Warren Janssens",
+  "from": "Warren Janssens &lt;warren_janssens@...&gt;",
+  "profile": "warren_janssens",
+  "replyTo": "LIST",
+  "senderId": "2Jryk4DHkW2b-ToIWLJNiHmo0Iv5R9xg_bVd5K6FOjxdX6hfJLd3xYtVuzDX2MVIHoW6JsfpFcc6qAvuQqu1FkDH_w8uRsPhuOR0_JqMiI3scA",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Helvetica inspired font",
+  "postDate": "1258173909",
+  "msgId": 2134,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": true,
+  "headers": {
+    "messageIdInHeader": "PDcyOTk1My43Nzk1My5xbUB3ZWIzNDUwNy5tYWlsLm11ZC55YWhvby5jb20+"
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 0,
+  "prevInTime": 2133,
+  "nextInTime": 2135,
+  "topicId": 2134,
+  "numMessagesInTopic": 1,
+  "msgSnippet": "Here is my second revision of the font I m working on.  I decided to take some additional liberties and I think it looks much cleaner. I basically changed all",
+  "messageBody": "<div id=\"ygrps-yiv-448953801\">Here is my second revision of the font I&#39;m working on.  I decided to take some additional liberties and I think it looks much cleaner.<br/>\n<br/>\nI basically changed all consonants that have a loop in them.<br/>\n Warren<br/>\n<br/>\n<br/>\n<br/>\n      __________________________________________________________________<br/>\nYahoo! Canada Toolbar: Search from anywhere on the web, and bookmark your favourite sites. Download it now<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://ca.toolbar.yahoo.com\">http://ca.toolbar.yahoo.com</a></div>",
+  "specialLinks": [],
+  "attachmentsInfo": [
+    {
+      "groupId": 2510463,
+      "attachmentId": 1153442805,
+      "fileId": 1351978259,
+      "title": "Picture 2",
+      "creatorNickname": "warren_janssens",
+      "modificationDate": 1258183324,
+      "referenceId": 2134,
+      "size": 59310,
+      "filename": "Picture 2.png",
+      "fileType": "image/png",
+      "type": "photo",
+      "canDelete": false,
+      "photoInfo": [
+        {
+          "displayURL": "https://xa.yimg.com/kq/groups/EuJk_p3uf9BcykpU/tn/FtRpMELtedRKzMXGGybM/name/Picture+2.jpg",
+          "height": 96,
+          "width": 81,
+          "size": 6752,
+          "photoType": "tn"
+        },
+        {
+          "displayURL": "https://xa.yimg.com/kq/groups/EuJk_p3uf9BcykpU/sn/FtRpMELtedRKzMXGGybM/name/Picture+2.jpg",
+          "height": 480,
+          "width": 406,
+          "size": 106715,
+          "photoType": "sn"
+        },
+        {
+          "displayURL": "https://xa.yimg.com/kq/groups/EuJk_p3uf9BcykpU/hr/FtRpMELtedRKzMXGGybM/name/Picture+2.jpg",
+          "height": 714,
+          "width": 605,
+          "size": 59392,
+          "photoType": "hr"
+        },
+        {
+          "displayURL": "https://xa.yimg.com/kq/groups/EuJk_p3uf9BcykpU/or/FtRpMELtedRKzMXGGybM/name/Picture+2.png",
+          "height": 714,
+          "width": 605,
+          "size": 59310,
+          "photoType": "or"
+        }
+      ],
+      "photomaticAlbumUrl": ""
+    }
+  ],
+  "rawEmail": "Return-Path: &lt;warren_janssens@...&gt;\r\nReceived: (qmail 87035 invoked from network); 14 Nov 2009 07:22:00 -0000\r\nReceived: from unknown (66.196.94.107)\n  by m13.grp.re1.yahoo.com with QMQP; 14 Nov 2009 07:22:00 -0000\r\nReceived: from unknown (HELO n45b.bullet.mail.sp1.yahoo.com) (66.163.168.159)\n  by mta3.grp.re1.yahoo.com with SMTP; 14 Nov 2009 07:21:59 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1258183314; bh=l0PWtXSC5kvmRYGeEKhStxbRmVVzK8SLU5dxBy6s5Bs=; h=Received:Received:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:Message-ID:X-YMail-OSG:X-Received:X-Mailer:Date:To:MIME-Version:Content-Type:X-Originating-IP:X-eGroups-Msg-Info:From:Subject:X-Yahoo-Group-Post:X-Yahoo-Profile:X-YGroups-SubInfo:Sender:X-Yahoo-Newman-Property:X-eGroups-Approved-By:X-eGroups-Auth; b=Ltc9gyepvE1dJrnVfrH2TWAIj3y/MmmaVi8hrBD90XnVz6fqtvv6Vnp9fZ1zarsx4enim8MnRyK6oOgRH7FvJnYA7mn0c76ZHPtU2Cvt9z9m9qUeVX2xlopXmUSRRed+\r\nReceived: from [69.147.65.173] by n45.bullet.mail.sp1.yahoo.com with NNFMP; 14 Nov 2009 07:21:54 -0000\r\nReceived: from [98.137.34.36] by t15.bullet.mail.sp1.yahoo.com with NNFMP; 14 Nov 2009 07:21:54 -0000\r\nX-Sender: warren_janssens@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 55405 invoked from network); 14 Nov 2009 04:45:28 -0000\r\nX-Received: from unknown (66.196.94.105)\n  by m14.grp.re1.yahoo.com with QMQP; 14 Nov 2009 04:45:28 -0000\r\nX-Received: from unknown (HELO web34507.mail.mud.yahoo.com) (66.163.178.173)\n  by mta1.grp.re1.yahoo.com with SMTP; 14 Nov 2009 04:45:27 -0000\r\nX-Received: (qmail 78564 invoked by uid 60001); 14 Nov 2009 04:45:09 -0000\r\nMessage-ID: &lt;729953.77953.qm@...&gt;\r\nX-YMail-OSG: 9RUEra8VM1ke5v1fxgQcqvUi3VxNFxyjfVWzw3tmdstuMrGmfauwLx05ehXscLqM62rGMCCK5QuimRD9gwN_Jsaow6.cATwXopqqN0nJuM5JtbFuKzHn3yjTbKnCfaM4m6mxBQSmntl5HMmTi2b8LdZj6IPc9tBqR7PbuMjlDVrPA2e8XYmFMaEW8J2N7x6LrlEctlQO2AwSCNiaRTFZMHdiBgTfGX4b8t92TeEzpC2yDI6r7U.DyVhtKAcvk0AHCKx.ATCITomewHPxqQQxuntjwIO1bYIuZCrxOXefEk2klqL970j_qQdl0EMQnu4C0M5wTFyn6GW2.9IKwdFvzZj7UJPYesoZhhDOiIrHHVBC6lf_JyZETmNmoVn.zRfvNqCjncwl4qqRJ2QEeaXvIEqG0SxNVZBnLV8_JMWzpjSiSZKw_np6zg--\r\nX-Received: from [68.146.18.213] by web34507.mail.mud.yahoo.com via HTTP; Fri, 13 Nov 2009 20:45:09 PST\r\nX-Mailer: YahooMailRC/211.6 YahooMailWebService/0.7.361.4\r\nDate: Fri, 13 Nov 2009 20:45:09 -0800 (PST)\r\nTo: Read_Alphabet@yahoogroups.com\r\nMIME-Version: 1.0\r\nContent-Type: multipart/mixed; boundary=&quot;0-1496614391-1258173909=:77953&quot;\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Warren Janssens &lt;warren_janssens@...&gt;\r\nSubject: Helvetica inspired font\r\nX-Yahoo-Group-Post: member; u=23677616; y=D0gsRSPFXe7k8Taokkvo-9J560_XouD7Tjbnv6xASeaeXbIjnW6u_QEF\r\nX-Yahoo-Profile: warren_janssens\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Approved-By: tinyallen &lt;Tinyallen@...&gt; via web; 14 Nov 2009 07:21:54 -0000\r\n\r\n\r\n--0-1496614391-1258173909=:77953\r\nContent-Type: text/plain; charset=us-ascii\r\n\r\nHere is my second revision of the font I&#39;m working on.  I decided to take some additional liberties and I think it looks much cleaner.\n\nI basically changed all consonants that have a loop in them.\n Warren\n\n\n\n      __________________________________________________________________\nYahoo! Canada Toolbar: Search from anywhere on the web, and bookmark your favourite sites. Download it now\nhttp://ca.toolbar.yahoo.com.\r\n--0-1496614391-1258173909=:77953\r\nContent-Type: image/png; name=&quot;Picture 2.png&quot;\r\nContent-Disposition: attachment; filename=&quot;Picture 2.png&quot;\r\n\r\n[ Attachment content not displayed ]\r\n--0-1496614391-1258173909=:77953--\r\n\n"
+}

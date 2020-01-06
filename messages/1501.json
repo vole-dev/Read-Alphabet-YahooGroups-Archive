@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "I5bxT1YbMs1q_J3jt6cNbjEAeB8yjtjMwi3P3ipFAW44FQv4HP-LEQ7qsegbtW6exwVkumDpHdxY4WRzluah4o6N",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Re: QS news update",
+  "postDate": "1195221596",
+  "msgId": 1501,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMTE2MTM1OTU2LkdDNTE1MEBtZXJjdXJ5LmNjaWwub3JnPg==",
+    "inReplyToHeader": "PGZoanJkaSttN2pjQGVHcm91cHMuY29tPg==",
+    "referencesHeader": "PDQ3M0NFRDAzLjkwODAwMDVAaWdsb3UuY29tPiA8ZmhqcmRpK203amNAZUdyb3Vwcy5jb20+"
+  },
+  "prevInTopic": 1497,
+  "nextInTopic": 1503,
+  "prevInTime": 1500,
+  "nextInTime": 1502,
+  "topicId": 1434,
+  "numMessagesInTopic": 69,
+  "msgSnippet": "... My personal view on this one is that all -ing endings, including verbal ones (bathing, thinking), nominal ones (shirting, stuffing (as in what you put in a",
+  "messageBody": "<div id=\"ygrps-yiv-1597056190\">Anthony Grahn scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; &gt;2. Quickscript manual abbreviations<br/>\n&gt; &gt;Should we implement QS manual abbreviations, such as #21iNG (instead<br/>\n&gt; &gt;of -#26It-#21iNG) for the gerund-participle suffix &quot;ing&quot;? Do you<br/>\n&gt; &gt;want to do these one-by-one, or leave them for you to do a global<br/>\n&gt; &gt;update at some point?<br/>\n<br/>\n </span></blockquote>My personal view on this one is that all -ing endings, including<br/>\nverbal ones (bathing, thinking), nominal ones (shirting, stuffing<br/>\n(as in what you put in a turkey)), and root ones (nothing) should be<br/>\nwritten without a vowel except as needed to resolve ambiguity.<br/>\nRead clearly uses It in all these words, but there are plenty<br/>\nwho use Eat, or who vary between one and the other, or who use<br/>\nan intermediate sound.  This is another neutralization, but unlike<br/>\nthe t/d and It/Et-before-nasals, it occurs in all accents --<br/>\nthere are no English words ending in -eeng or -eang or the like.<br/>\n<br/>\n-- <br/>\nHer he asked if O&#39;Hare Doctor tidings sent from far     John Cowan<br/>\ncoast and she with grameful sigh him answered that      <a rel=\"nofollow\" target=\"_blank\" href=\"http://ccil.org/~cowan\">http://ccil.org/~cowan</a><br/>\nO&#39;Hare Doctor in heaven was. Sad was the man that word  <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a><br/>\nto hear that him so heavied in bowels ruthful. All<br/>\nshe there told him, ruing death for friend so young,    James Joyce, Ulysses<br/>\nalgate sore unwilling God&#39;s rightwiseness to withsay.   &quot;Oxen of the Sun&quot;</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 60908 invoked from network); 16 Nov 2007 14:00:01 -0000\r\nX-Received: from unknown (66.218.67.96)\n  by m45.grp.scd.yahoo.com with QMQP; 16 Nov 2007 14:00:01 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta17.grp.scd.yahoo.com with SMTP; 16 Nov 2007 14:00:01 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1It1jg-0004Ce-PC\n\tfor Read_Alphabet@yahoogroups.com; Fri, 16 Nov 2007 08:59:56 -0500\r\nDate: Fri, 16 Nov 2007 08:59:56 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20071116135956.GC5150@...&gt;\r\nReferences: &lt;473CED03.9080005@...&gt; &lt;fhjrdi+m7jc@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;fhjrdi+m7jc@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: QS news update\r\nX-Yahoo-Group-Post: member; u=212516; y=s8RX_M8Huj7TLZiEI74CpaQCEf7nIrXcQllP591Kb1DQjv5acg\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nAnthony Grahn scripsit:\n\n&gt; &gt;2. Quickscript manual abbreviations\n&gt; &gt;Should we implement QS manual abbreviations, such as #21iNG (instead\n&gt; &gt;of -#26It-#21iNG) for the gerund-participle suffix &quot;ing&quot;? Do you\n&gt; &gt;want to do these one-by-one, or leave them for you to do a global\n&gt; &gt;update at some point?\n\nMy personal view on this one is that all -ing endings, including\nverbal ones (bathing, thinking), nominal ones (shirting, stuffing\n(as in what you put in a turkey)), and root ones (nothing) should be\nwritten without a vowel except as needed to resolve ambiguity.\nRead clearly uses It in all these words, but there are plenty\nwho use Eat, or who vary between one and the other, or who use\nan intermediate sound.  This is another neutralization, but unlike\nthe t/d and It/Et-before-nasals, it occurs in all accents --\nthere are no English words ending in -eeng or -eang or the like.\n\n-- \nHer he asked if O&#39;Hare Doctor tidings sent from far     John Cowan\ncoast and she with grameful sigh him answered that      http://ccil.org/~cowan\nO&#39;Hare Doctor in heaven was. Sad was the man that word  cowan@...\nto hear that him so heavied in bowels ruthful. All\nshe there told him, ruing death for friend so young,    James Joyce, Ulysses\nalgate sore unwilling God&#39;s rightwiseness to withsay.   &quot;Oxen of the Sun&quot;\n\n"
+}

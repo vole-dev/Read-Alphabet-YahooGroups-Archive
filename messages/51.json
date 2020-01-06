@@ -1,0 +1,30 @@
+{
+  "userId": 0,
+  "authorName": "jlweaver@lat-inc.com",
+  "from": "jlweaver@...",
+  "replyTo": "LIST",
+  "senderId": "BAjgFvrugc3dW27yNxqJ4yFHhlbfq5D2SdVXlJdCg652k6jNodX5-7-mYRxfzYSunmLwbdMjX_m5GV8",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Problem trying to download the QuikScriptManual pdf file",
+  "postDate": "1001107829",
+  "msgId": 51,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDlvZ2JobCtyc2lqQGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 52,
+  "prevInTime": 50,
+  "nextInTime": 52,
+  "topicId": 51,
+  "numMessagesInTopic": 2,
+  "msgSnippet": "Hi, Just joined this list after finding out about Shavian.  I created a phonetic alphabet for fun when I was younger that was organized in much the same way as",
+  "messageBody": "<div id=\"ygrps-yiv-1496613185\">Hi,<br/>\n<br/>\nJust joined this list after finding out about Shavian.  I created a <br/>\nphonetic alphabet for fun when I was younger that was organized in <br/>\nmuch the same way as Shavian, except there were only 38 phonemes.   <br/>\nThe characters were rendered on a 7 segment display (like a <br/>\ncalculator) for ease of displaying in electronic form.  Glad to see <br/>\nthat Shavian has been proposed as a Unicode standard.  Anyway, I&#39;m <br/>\ninterested in becoming fluent in QuickScript, but am having trouble <br/>\ndownloading the file.<br/>\n <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/Read_Alphabet/files/Resources/QuikScript\">http://groups.yahoo.com/group/Read_Alphabet/files/Resources/QuikScript</a><br/>\nManual%28Image%29.pdf<br/>\n<br/>\nIt gets almost to the end of the download and completes suddenly, <br/>\nleaving me with an unreadable file.  Anyone have a way around this?  <br/>\nThanks.<br/>\n<br/>\nJim Weaver</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;jlweaver@...&gt;\r\nX-Sender: jlweaver@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (EGP: mail-7_3_2_2); 21 Sep 2001 21:30:29 -0000\r\nReceived: (qmail 14398 invoked from network); 21 Sep 2001 21:30:29 -0000\r\nReceived: from unknown (10.1.10.26)\n  by 10.1.1.222 with QMQP; 21 Sep 2001 21:30:29 -0000\r\nReceived: from unknown (HELO n2.groups.yahoo.com) (10.1.10.41)\n  by mta1 with SMTP; 21 Sep 2001 21:30:32 -0000\r\nX-eGroups-Return: jlweaver@...\r\nReceived: from [10.1.2.207] by hi.egroups.com with NNFMP; 21 Sep 2001 21:30:32 -0000\r\nDate: Fri, 21 Sep 2001 21:30:29 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nSubject: Problem trying to download the QuikScriptManual pdf file\r\nMessage-ID: &lt;9ogbhl+rsij@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 753\r\nX-Mailer: eGroups Message Poster\r\nFrom: jlweaver@...\r\n\r\nHi,\n\nJust joined this list after finding out about Shavian.  I created a \nphonetic alphabet for fun when I was younger that was organized in \nmuch the same way as Shavian, except there were only 38 phonemes.   \nThe characters were rendered on a 7 segment display (like a \ncalculator) for ease of displaying in electronic form.  Glad to see \nthat Shavian has been proposed as a Unicode standard.  Anyway, I&#39;m \ninterested in becoming fluent in QuickScript, but am having trouble \ndownloading the file.\n \nhttp://groups.yahoo.com/group/Read_Alphabet/files/Resources/QuikScript\nManual%28Image%29.pdf\n\nIt gets almost to the end of the download and completes suddenly, \nleaving me with an unreadable file.  Anyone have a way around this?  \nThanks.\n\nJim Weaver\n\n\n"
+}

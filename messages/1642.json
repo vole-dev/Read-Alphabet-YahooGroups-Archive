@@ -1,0 +1,31 @@
+{
+  "userId": 214981082,
+  "authorName": "Paul Tremblay",
+  "from": "Paul Tremblay &lt;phthenry@...&gt;",
+  "profile": "paulhtremblay",
+  "replyTo": "LIST",
+  "senderId": "FvRTXRNzqnNJjfwO49kDX8zgJDjLObv5ctQaKZOGXqviX2guhsbqOXe3cD3uyliJ3p2vPlmsTx9bhIoK3RE7u8TXt1C7OVV0uQ",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "QS news update Nov 25",
+  "postDate": "1195971751",
+  "msgId": 1642,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ3NDkxNEE3LjUwMjA4MDlAaWdsb3UuY29tPg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 1645,
+  "prevInTime": 1641,
+  "nextInTime": 1643,
+  "topicId": 1642,
+  "numMessagesInTopic": 3,
+  "msgSnippet": "I have changed the dictionary that converts the QS news. You will notice that the combination that was formerly Ado Roar is now just plain Roar. So the word",
+  "messageBody": "<div id=\"ygrps-yiv-75875258\">I have changed the dictionary that converts the QS news. You will notice <br/>\nthat the combination that was formerly Ado Roar is now just plain Roar. <br/>\nSo the word &quot;utter&quot; should not appear as:<br/>\n<br/>\nAdo Tut Roar<br/>\n<br/>\nI made this change to test out a new way of handling the ambiguous <br/>\ncombination of &quot;ar,&quot; when forming the sound in &quot;bird&quot; or &quot;nurse.&quot; We had <br/>\nsituation in which the word &quot;arrest&quot; and &quot;urban&quot; both started with Ado <br/>\nRoar, but each had a very different sound. Anthony has made a suggestion <br/>\nto simply get rid of the vowel before the &quot;r&quot; in words like &quot;urban,&quot; but <br/>\nto keep it for words like &quot;arrest.&quot;<br/>\n<br/>\nThis is just an experiment as we try to work out a solution, so let me <br/>\nknow any difficulties you have, and what you think.<br/>\n<br/>\nPaul</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;phthenry@...&gt;\r\nX-Sender: phthenry@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 11367 invoked from network); 25 Nov 2007 06:22:28 -0000\r\nX-Received: from unknown (66.218.67.96)\n  by m42.grp.scd.yahoo.com with QMQP; 25 Nov 2007 06:22:28 -0000\r\nX-Received: from unknown (HELO rdsmtp.iglou.com) (192.107.41.63)\n  by mta17.grp.scd.yahoo.com with SMTP; 25 Nov 2007 06:22:28 -0000\r\nX-Received: from iglou1.iglou.com ([192.107.41.3] helo=mail.iglou.com)\n\tby rdsmtp.iglou.com with esmtpa (Exim MTA/8.19.3)\n\t(envelope-from &lt;phthenry@...&gt;)\n\tid 1IwAst-0002lv-Uq by authid &lt;igloumta&gt; with igloumta_auth\n\tfor Read_Alphabet@yahoogroups.com; Sun, 25 Nov 2007 01:22:27 -0500\r\nX-Received: from loudsl01-253-111-18.iglou.com ([64.253.111.18] helo=Enid-Johnsons-Computer.local)\n\tby smtp.iglou.com with esmtp (Exim MTA/8.19.3)\n\t(envelope-from &lt;phthenry@...&gt;)\n\tid 1IwAst-0006RC-NZ\n\tfor Read_Alphabet@yahoogroups.com; Sun, 25 Nov 2007 01:22:27 -0500\r\nMessage-ID: &lt;474914A7.5020809@...&gt;\r\nDate: Sun, 25 Nov 2007 01:22:31 -0500\r\nUser-Agent: Thunderbird 2.0.0.9 (Macintosh/20071031)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nContent-Type: text/plain; charset=ISO-8859-1; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\nX-IgLou-Customer: 6ab7d2bd86677d7d54d075759b28f06c\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Paul Tremblay &lt;phthenry@...&gt;\r\nSubject: QS news update Nov 25\r\nX-Yahoo-Group-Post: member; u=214981082; y=zba22r1ZSWnW_QJpEolNj27ztlxmeTWlXqfaUBlrHtVfKmy8SoxD8g\r\nX-Yahoo-Profile: paulhtremblay\r\n\r\nI have changed the dictionary that converts the QS news. You will notice \nthat the combination that was formerly Ado Roar is now just plain Roar. \nSo the word &quot;utter&quot; should not appear as:\n\nAdo Tut Roar\n\nI made this change to test out a new way of handling the ambiguous \ncombination of &quot;ar,&quot; when forming the sound in &quot;bird&quot; or &quot;nurse.&quot; We had \nsituation in which the word &quot;arrest&quot; and &quot;urban&quot; both started with Ado \nRoar, but each had a very different sound. Anthony has made a suggestion \nto simply get rid of the vowel before the &quot;r&quot; in words like &quot;urban,&quot; but \nto keep it for words like &quot;arrest.&quot;\n\nThis is just an experiment as we try to work out a solution, so let me \nknow any difficulties you have, and what you think.\n\nPaul\n\n"
+}

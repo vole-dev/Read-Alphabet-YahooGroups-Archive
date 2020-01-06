@@ -1,0 +1,99 @@
+{
+  "groupName": "Read_Alphabet",
+  "creator": "tim_rice09",
+  "surveyId": 3051193,
+  "listId": 2510463,
+  "dateCreated": 1308521817,
+  "userIdCreated": 274193773,
+  "dateEnd": 0,
+  "sendToId": "GROUP",
+  "resultsId": "COUNTS",
+  "visibleId": "ALWAYS",
+  "statusId": "ENABLED",
+  "isCreator": false,
+  "surveyText": "Can you write Unicode Quickscript on your computer?",
+  "flagBits": 0,
+  "multiResponse": false,
+  "addOptions": false,
+  "selections": [
+    {
+      "selectionId": 21469712,
+      "selectionText": "Yes",
+      "selections": 3,
+      "responses": [
+        {
+          "selectionId": 21469712,
+          "surveyId": 3051193,
+          "userId": 274193773,
+          "guid": "2LQFF56JXQ3U2O7W2WFPAVZ7U4"
+        },
+        {
+          "selectionId": 21469712,
+          "surveyId": 3051193,
+          "userId": 413547070,
+          "guid": "ZOJ5WMQW4QBNNW6MO2JEN6CWPE"
+        }
+      ],
+      "voted": false
+    },
+    {
+      "selectionId": 21469713,
+      "selectionText": "No",
+      "selections": 9,
+      "responses": [
+        {
+          "selectionId": 21469713,
+          "surveyId": 3051193,
+          "userId": 496531254,
+          "guid": "2S5VLWGXSX3YEBRD4I562HPSGE"
+        },
+        {
+          "selectionId": 21469713,
+          "surveyId": 3051193,
+          "userId": 9390441,
+          "guid": "7JUJJMWXJA5OQMFYB6Q2OH4TTQ"
+        },
+        {
+          "selectionId": 21469713,
+          "surveyId": 3051193,
+          "userId": 197303622,
+          "guid": "EUPHAAOZD7YQX5WXKVCE4MOXHI"
+        },
+        {
+          "selectionId": 21469713,
+          "surveyId": 3051193,
+          "userId": 208641212,
+          "guid": "G6TYIS7ERSFG6NHYCZMW6BCMNY"
+        },
+        {
+          "selectionId": 21469713,
+          "surveyId": 3051193,
+          "userId": 96992996,
+          "guid": "REF2RYANQLPRBBUIYVAQTGQRJI"
+        },
+        {
+          "selectionId": 21469713,
+          "surveyId": 3051193,
+          "userId": 142100020,
+          "guid": "2DJBFHGHBR3EKLPWE3C3RAJBZ4"
+        },
+        {
+          "selectionId": 21469713,
+          "surveyId": 3051193,
+          "userId": 211984296,
+          "guid": "KQRU2ZD5VZDVVPLAJQYGYUDP6E"
+        },
+        {
+          "selectionId": 21469713,
+          "surveyId": 3051193,
+          "userId": 256149075,
+          "guid": "N7FXCMNHNQ5ZSD2NXCKTG57ZNA"
+        }
+      ],
+      "voted": false
+    }
+  ],
+  "voteCount": 12,
+  "previousSurveyId": 0,
+  "nextSurveyId": 2650278
+}

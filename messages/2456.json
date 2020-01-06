@@ -1,0 +1,33 @@
+{
+  "userId": 328329959,
+  "authorName": "Jean-Fran\u00e7ois Colson",
+  "from": "=?UTF-8?B?SmVhbi1GcmFuw6dvaXMgQ29sc29u?= &lt;jf@...&gt;",
+  "profile": "j_f_colson",
+  "replyTo": "LIST",
+  "senderId": "fkkWuiipCg_-b3PYARabjf-0FA-YD7nGH_-IAk1tfj--NVAusUk9LK53dONmgw-G4VmMmV14GTgJ3un7KYFwCD-IqNAVsi3W85jRd5HXQJqGRwF3q96u8M6JD2gl_w",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Quikscript extensions to Shavian (or separate script)",
+  "postDate": "1366538926",
+  "msgId": 2456,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDUxNzNCQUFFLjUwNjA2MDlAY29sc29uLmV1Pg==",
+    "inReplyToHeader": "PEYxRDEwRjlCLTRFQUYtNEVBMC05NTMzLUI3MTM2QUMwODQ0REBldmVydHlwZS5jb20+",
+    "referencesHeader": "PDkyMDNFNUIzLUFFN0MtNDA0RC05NDYzLUQzNkQ3RDgzOTgzNEBldmVydHlwZS5jb20+IDw1MTcxREY1NC41MDMwNjAzQGNvbHNvbi5ldT4gPDE3NjM1MDMwLTJEQTktNEYxNC1BQ0I1LTNGODkyNEIyNDEyMUBnbWFpbC5jb20+IDw1MTcyNEVFQy4yMDUwMzAyQGNvbHNvbi5ldT4gPEYxRDEwRjlCLTRFQUYtNEVBMC05NTMzLUI3MTM2QUMwODQ0REBldmVydHlwZS5jb20+"
+  },
+  "prevInTopic": 2455,
+  "nextInTopic": 2460,
+  "prevInTime": 2455,
+  "nextInTime": 2457,
+  "topicId": 2433,
+  "numMessagesInTopic": 25,
+  "msgSnippet": "... No. Only if the writer wishes to use them. And if Shavian and QS were unified, that would be the only way to distinguish them in some cases. Unicode says",
+  "messageBody": "<div id=\"ygrps-yiv-45030771\">Le 20/04/13 11:01, Michael Everson a \u00e9crit :<br/>\n<blockquote><span title=\"ireply\"> &gt; On 20 Apr 2013, at 09:16, Jean-Fran\u00e7ois Colson &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:jf@...\">jf@...</a>&gt; wrote:<br/>\n&gt;<br/>\n&gt;&gt; Why couldn\u2019t there be<br/>\n&gt;&gt;<br/>\n&gt;&gt; 10450 \ud801\udc50 SHAVIAN LETTER PEEP<br/>\n&gt;&gt; \u2053 10450 FE00 Shavian style<br/>\n&gt;&gt; \u2053 10450 FE01 QuikScript style<br/>\n&gt;&gt; \u2053 10450 FE02 QuikScript style, full form<br/>\n&gt;&gt; \u2053 10450 FE03 QuikScript style, half form<br/>\n&gt; Because EVERY QS text would be stuffed with invisible control characters.<br/>\n </span></blockquote>No. Only if the writer wishes to use them. And if Shavian and QS were <br/>\nunified, that would be the only way to distinguish them in some cases.<br/>\nUnicode says 0023 FE0E should be used for the text style of #, although <br/>\nI have always used 0023 alone.<br/>\nThose VS would be optional, they would be ignored by the fonts which <br/>\ndon\u2019t support them, and having them clearly described in the standard <br/>\nwould prevent separate font makers from using them inconsistently.</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;jf@...&gt;\r\nX-Sender: jf@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 82513 invoked from network); 21 Apr 2013 10:08:48 -0000\r\nX-Received: from unknown (10.193.84.131)\n  by m10.grp.bf1.yahoo.com with QMQP; 21 Apr 2013 10:08:48 -0000\r\nX-Received: from unknown (HELO csmtp3.one.com) (91.198.169.23)\n  by mta4.grp.bf1.yahoo.com with SMTP; 21 Apr 2013 10:08:48 -0000\r\nX-Received: from csmtp-filter1 (csmtp-filter1.one.com [195.47.247.104])\n\tby csmtp3.one.com (Postfix) with SMTP id 98B463C8FD;\n\tSun, 21 Apr 2013 10:08:47 +0000 (UTC)\r\nX-Received: from csmtp-filter1 (csmtp-filter1.one.com [195.47.247.104])\n\tby 0.0.0.0:2500 (trex/4.8.23);\n\tSun, 21 Apr 2013 10:08:37 GMT\r\nMessage-ID: &lt;5173BAAE.5060609@...&gt;\r\nDate: Sun, 21 Apr 2013 12:08:46 +0200\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:17.0) Gecko/20130329 Thunderbird/17.0.5\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com, shawalphabet@yahoogroups.com\r\nReferences: &lt;9203E5B3-AE7C-404D-9463-D36D7D839834@...&gt; &lt;5171DF54.5030603@...&gt; &lt;17635030-2DA9-4F14-ACB5-3F8924B24121@...&gt; &lt;51724EEC.2050302@...&gt; &lt;F1D10F9B-4EAF-4EA0-9533-B7136AC0844D@...&gt;\r\nIn-Reply-To: &lt;F1D10F9B-4EAF-4EA0-9533-B7136AC0844D@...&gt;\r\nContent-Type: text/plain; charset=UTF-8; format=flowed\r\nContent-Transfer-Encoding: 8bit\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: =?UTF-8?B?SmVhbi1GcmFuw6dvaXMgQ29sc29u?= &lt;jf@...&gt;\r\nSubject: Re: [Read_Alphabet] Quikscript extensions to Shavian (or separate\n script)\r\nX-Yahoo-Group-Post: member; u=328329959; y=6TEe-03MVWupo5HjfzscYiIqZVuiXHro9sQ1bDrdfy1rXO_4oQ\r\nX-Yahoo-Profile: j_f_colson\r\n\r\nLe 20/04/13 11:01, Michael Everson a \u00e9crit :\n&gt; On 20 Apr 2013, at 09:16, Jean-Fran\u00e7ois Colson &lt;jf@...&gt; wrote:\n&gt;\n&gt;&gt; Why couldn\u2019t there be\n&gt;&gt;\n&gt;&gt; 10450 \ud801\udc50 SHAVIAN LETTER PEEP\n&gt;&gt; \u2053 10450 FE00 Shavian style\n&gt;&gt; \u2053 10450 FE01 QuikScript style\n&gt;&gt; \u2053 10450 FE02 QuikScript style, full form\n&gt;&gt; \u2053 10450 FE03 QuikScript style, half form\n&gt; Because EVERY QS text would be stuffed with invisible control characters.\nNo. Only if the writer wishes to use them. And if Shavian and QS were \nunified, that would be the only way to distinguish them in some cases.\nUnicode says 0023 FE0E should be used for the text style of #, although \nI have always used 0023 alone.\nThose VS would be optional, they would be ignored by the fonts which \ndon\u2019t support them, and having them clearly described in the standard \nwould prevent separate font makers from using them inconsistently.\n\n\n"
+}

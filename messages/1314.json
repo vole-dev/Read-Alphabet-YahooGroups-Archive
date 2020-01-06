@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "u1SUhQRABR-86-jPFcPSj1lHyxRNwDOw-U1gBYdc4jH0V4Usb6hTU1m_V_MX2ZocCCqbRufbX3vbzvlsB43CGoww",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Lexical sets and QS letters",
+  "postDate": "1194218934",
+  "msgId": 1314,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMTA0MjMyODU0LkdFMTMzMTdAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PDQ3MkU1MTUxLjMwMTA0MDlAaWdsb3UuY29tPg==",
+    "referencesHeader": "PGZna2o0NitmNjBAZUdyb3Vwcy5jb20+IDw0NzJFNTE1MS4zMDEwNDA5QGlnbG91LmNvbT4="
+  },
+  "prevInTopic": 1313,
+  "nextInTopic": 1315,
+  "prevInTime": 1313,
+  "nextInTime": 1315,
+  "topicId": 1286,
+  "numMessagesInTopic": 73,
+  "msgSnippet": "... Exactly so. -- John Cowan  cowan@ccil.org  http://ccil.org/~cowan If I have seen farther than others, it is because I am surrounded by dwarves. --Murray",
+  "messageBody": "<div id=\"ygrps-yiv-2043730059\">Paul Tremblay scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; In contrast, John, are you saying that since &quot;buy&quot; belongs to the PRICE <br/>\n&gt; lexical set, that any user always uses &quot;Bob&quot; &quot;Ice&quot; for the spelling?<br/>\n<br/>\n </span></blockquote>Exactly so.<br/>\n<br/>\n-- <br/>\nJohn Cowan  <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>  <a rel=\"nofollow\" target=\"_blank\" href=\"http://ccil.org/~cowan\">http://ccil.org/~cowan</a><br/>\nIf I have seen farther than others, it is because I am surrounded by dwarves.<br/>\n        --Murray Gell-Mann</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 50331 invoked from network); 4 Nov 2007 23:28:55 -0000\r\nX-Received: from unknown (66.218.67.96)\n  by m55.grp.scd.yahoo.com with QMQP; 4 Nov 2007 23:28:55 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta17.grp.scd.yahoo.com with SMTP; 4 Nov 2007 23:28:55 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1Iooti-0007vG-W3\n\tfor Read_Alphabet@yahoogroups.com; Sun, 04 Nov 2007 18:28:55 -0500\r\nDate: Sun, 4 Nov 2007 18:28:54 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20071104232854.GE13317@...&gt;\r\nReferences: &lt;fgkj46+f60@...&gt; &lt;472E5151.3010409@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;472E5151.3010409@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Lexical sets and QS letters\r\nX-Yahoo-Group-Post: member; u=212516; y=5X1OPyLOoz-fQ-VzIM1X4AvsOEL_Y6P-Fde5zt7-mKEIjR_Iwg\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nPaul Tremblay scripsit:\n\n&gt; In contrast, John, are you saying that since &quot;buy&quot; belongs to the PRICE \n&gt; lexical set, that any user always uses &quot;Bob&quot; &quot;Ice&quot; for the spelling?\n\nExactly so.\n\n-- \nJohn Cowan  cowan@...  http://ccil.org/~cowan\nIf I have seen farther than others, it is because I am surrounded by dwarves.\n        --Murray Gell-Mann\n\n"
+}

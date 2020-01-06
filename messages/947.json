@@ -1,0 +1,31 @@
+{
+  "userId": 180175951,
+  "authorName": "amd64_hacker",
+  "from": "amd64_hacker &lt;amd64_hacker@...&gt;",
+  "profile": "amd64_hacker",
+  "replyTo": "LIST",
+  "senderId": "BG1cX02wXUBz6GQFe0SpIjBrul3c12kK6ThOEjbI9p8Dvb1UvH8s6zxcRX1YQPNjXiYRyUCZ9f3RaVMZAyY0-4NfNGMS_BRQkbE9pU-x",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Unicode proposal again.",
+  "postDate": "1180370715",
+  "msgId": 947,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ2NUIwNzFCLjIwOTAxMDlAeWFob28uY28udWs+"
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 948,
+  "prevInTime": 946,
+  "nextInTime": 948,
+  "topicId": 947,
+  "numMessagesInTopic": 45,
+  "msgSnippet": "Hi, As promised (and thanks to some free time over the bank holiday) I ve been looking at the Unicode Consortium s process for submitting new scripts. I think",
+  "messageBody": "<div id=\"ygrps-yiv-14536701\">Hi,<br/>\n<br/>\nAs promised (and thanks to some free time over the bank holiday) I&#39;ve<br/>\nbeen looking at the Unicode Consortium&#39;s process for submitting new scripts.<br/>\n<br/>\nI think that we&#39;ve more or less answered all the questions that we need<br/>\nfor the proposal a while back but just to be certain this is what I<br/>\nthink we came up with:<br/>\nThe 4 letter (iso-15924) script code we want is &#39;quik&#39;.<br/>\nThe letter glyphs should be encoded in numerical order followed by the<br/>\nglyphs for Loch, Llan, Examine, Excite and the angled parenthesis.<br/>\n<br/>\nI&#39;m not too certain about the naming dot.<br/>\nI did argue against reusing the middle dot but Annex F of the Principles<br/>\nand Procedure document (very boring,<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.dkuug.dk/JTC1/SC2/WG2/docs/n3102.pdf)\">http://www.dkuug.dk/JTC1/SC2/WG2/docs/n3102.pdf)</a> can be read both in<br/>\nfavour of encoding and reusing.<br/>\n<br/>\nI notice that the Shavian mapping doesn&#39;t have a dot, does anybody know<br/>\nwhich character they use instead?<br/>\nShould we have our own dot or reuse the middle dot?<br/>\nPerhaps should put in the naming dot and leave it up to the Unicode guys<br/>\nto suggest the middle dot if they think it&#39;s worth while?<br/>\n<br/>\nAnyway if we sort that out and everyone&#39;s okay with it I&#39;d be happy to<br/>\nprepare and submit the proposal.</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;amd64_hacker@...&gt;\r\nX-Sender: amd64_hacker@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 49151 invoked from network); 28 May 2007 16:42:50 -0000\r\nReceived: from unknown (66.218.67.36)\n  by m37.grp.scd.yahoo.com with QMQP; 28 May 2007 16:42:50 -0000\r\nReceived: from unknown (HELO smtp008.mail.ukl.yahoo.com) (217.12.11.62)\n  by mta10.grp.scd.yahoo.com with SMTP; 28 May 2007 16:42:49 -0000\r\nReceived: (qmail 38659 invoked from network); 28 May 2007 16:42:32 -0000\r\nReceived: from unknown (HELO ?192.168.0.1?) (amd64_hacker@82.19.52.162 with plain)\n  by smtp008.mail.ukl.yahoo.com with SMTP; 28 May 2007 16:42:31 -0000\r\nX-YMail-OSG: .g3TRGkVM1mxi0X.HrHVDF3.FrxNjTJVC1DbaFV5FBoxGaU3HScI.QDGOgMNS7oUe_Hwmaj8OT.Gf.Hy9u8MlxYybKQcVfUXSONlXZV15W2jI4Vj\r\nMessage-ID: &lt;465B071B.2090109@...&gt;\r\nDate: Mon, 28 May 2007 17:45:15 +0100\r\nUser-Agent: Thunderbird 1.5.0.10 (X11/20070306)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet &lt;Read_Alphabet@yahoogroups.com&gt;\r\nX-Enigmail-Version: 0.94.0.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: amd64_hacker &lt;amd64_hacker@...&gt;\r\nSubject: Unicode proposal again.\r\nX-Yahoo-Group-Post: member; u=180175951; y=vFm3CEoeEV_GrxcKE0eXZCNIvu6k1yII0iNWq_CSxvKIwBkzFl3f\r\nX-Yahoo-Profile: amd64_hacker\r\n\r\nHi,\n\nAs promised (and thanks to some free time over the bank holiday) I&#39;ve\nbeen looking at the Unicode Consortium&#39;s process for submitting new scripts.\n\nI think that we&#39;ve more or less answered all the questions that we need\nfor the proposal a while back but just to be certain this is what I\nthink we came up with:\nThe 4 letter (iso-15924) script code we want is &#39;quik&#39;.\nThe letter glyphs should be encoded in numerical order followed by the\nglyphs for Loch, Llan, Examine, Excite and the angled parenthesis.\n\nI&#39;m not too certain about the naming dot.\nI did argue against reusing the middle dot but Annex F of the Principles\nand Procedure document (very boring,\nhttp://www.dkuug.dk/JTC1/SC2/WG2/docs/n3102.pdf) can be read both in\nfavour of encoding and reusing.\n\nI notice that the Shavian mapping doesn&#39;t have a dot, does anybody know\nwhich character they use instead?\nShould we have our own dot or reuse the middle dot?\nPerhaps should put in the naming dot and leave it up to the Unicode guys\nto suggest the middle dot if they think it&#39;s worth while?\n\nAnyway if we sort that out and everyone&#39;s okay with it I&#39;d be happy to\nprepare and submit the proposal.\n\n"
+}

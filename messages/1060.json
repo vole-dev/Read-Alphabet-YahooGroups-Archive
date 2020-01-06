@@ -1,0 +1,33 @@
+{
+  "userId": 82638473,
+  "authorName": "Michael Everson",
+  "from": "Michael Everson &lt;everson@...&gt;",
+  "profile": "evertype",
+  "replyTo": "LIST",
+  "senderId": "jX_mRiHUFVaoMqH4XHK6FdUlMalgiFUDAbV-hQjUKxtGDXmeeoYQn_kcaqAggFX56n7H8-rcRP9rzpr1O1EkZ2UfNX5PP4CiKDw8H3I",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Unicode proposal, yet again.",
+  "postDate": "1190468949",
+  "msgId": 1060,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PHAwNjI0MDgwNGMzMWFjZDhiM2E1MEBbMjAzLjExOC4xMC4yMDZdPg==",
+    "inReplyToHeader": "PDQ2RjUxOENBLjEwODAxMDBAeWFob28uY28udWs+",
+    "referencesHeader": "PDQ2RTMxRkU2LjYwNTA1QHlhaG9vLmNvLnVrPiA8NDZGNTE4Q0EuMTA4MDEwMEB5YWhvby5jby51az4="
+  },
+  "prevInTopic": 1055,
+  "nextInTopic": 1062,
+  "prevInTime": 1059,
+  "nextInTime": 1061,
+  "topicId": 1010,
+  "numMessagesInTopic": 20,
+  "msgSnippet": "... I ve been travelling for three weeks (two weeks in Indonesia and Singapore doing Javanese and Batak and one week in China at WG2). I m in Singapore Airport",
+  "messageBody": "<div id=\"ygrps-yiv-922406219\">At 14:29 +0100 2007-09-22, amd64_hacker wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;I spotted and corrected a few typos in the proposal last week.<br/>\n&gt;<br/>\n&gt;If no one has any improvements/suggestions/objections then I&#39;ll email<br/>\n&gt;the proposal on the 1st of October.<br/>\n<br/>\n </span></blockquote>I&#39;ve been travelling for three weeks (two weeks in Indonesia and <br/>\nSingapore doing Javanese and Batak and one week in China at WG2). I&#39;m <br/>\nin Singapore Airport now. For my part I won&#39;t get to review the <br/>\ncontribution for at least 5 days.<br/>\n-- <br/>\nMichael Everson * <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.evertype.com\">http://www.evertype.com</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;everson@...&gt;\r\nX-Sender: everson@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 21841 invoked from network); 23 Sep 2007 00:37:47 -0000\r\nReceived: from unknown (69.147.108.202)\n  by m51.grp.scd.yahoo.com with QMQP; 23 Sep 2007 00:37:47 -0000\r\nReceived: from unknown (HELO sl14.dnsireland.com) (74.86.129.163)\n  by mta3.grp.re1.yahoo.com with SMTP; 23 Sep 2007 00:37:47 -0000\r\nReceived: from [127.0.0.1] (helo=[203.118.10.206])\n\tby sl14.dnsireland.com with esmtp (Exim 4.68)\n\t(envelope-from &lt;everson@...&gt;)\n\tid 1IZ5MF-0006Wf-3M\n\tfor Read_Alphabet@yahoogroups.com; Sat, 22 Sep 2007 14:49:19 +0100\r\nMime-Version: 1.0\r\nMessage-Id: &lt;p06240804c31acd8b3a50@[203.118.10.206]&gt;\r\nIn-Reply-To: &lt;46F518CA.1080100@...&gt;\r\nReferences: &lt;46E31FE6.60505@...&gt; &lt;46F518CA.1080100@...&gt;\r\nDate: Sat, 22 Sep 2007 21:49:09 +0800\r\nTo: Read_Alphabet@yahoogroups.com\r\nContent-Type: text/plain; charset=&quot;us-ascii&quot; ; format=&quot;flowed&quot;\r\nX-AntiAbuse: This header was added to track abuse, please include it with any abuse report\r\nX-AntiAbuse: Primary Hostname - sl14.dnsireland.com\r\nX-AntiAbuse: Original Domain - yahoogroups.com\r\nX-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]\r\nX-AntiAbuse: Sender Address Domain - evertype.com\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Michael Everson &lt;everson@...&gt;\r\nSubject: Re: [Read_Alphabet] Unicode proposal, yet again.\r\nX-Yahoo-Group-Post: member; u=82638473; y=uI5PqlteAWZCJfT8drdZ9O7e64T259TPcN4Pe619tRu1GMY\r\nX-Yahoo-Profile: evertype\r\n\r\nAt 14:29 +0100 2007-09-22, amd64_hacker wrote:\n&gt;I spotted and corrected a few typos in the proposal last week.\n&gt;\n&gt;If no one has any improvements/suggestions/objections then I&#39;ll email\n&gt;the proposal on the 1st of October.\n\nI&#39;ve been travelling for three weeks (two weeks in Indonesia and \nSingapore doing Javanese and Batak and one week in China at WG2). I&#39;m \nin Singapore Airport now. For my part I won&#39;t get to review the \ncontribution for at least 5 days.\n-- \nMichael Everson * http://www.evertype.com\n\n"
+}

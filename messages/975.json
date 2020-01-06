@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "63_2rZAfnXS4l8a-kejzohudoc-UUyyYLm2CDwmMGT47i-cgady5t612BKMVTaCw3kkRKrFJNp9b8vNI3njEqQxd",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Unicode proposal again.",
+  "postDate": "1180557818",
+  "msgId": 975,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcwNTMwMjA0MzM3LkdGOTcxMkBtZXJjdXJ5LmNjaWwub3JnPg==",
+    "inReplyToHeader": "PDQ2NUREQkFDLjYwNjAyMDlAeWFob28uY28udWs+",
+    "referencesHeader": "PGYzZjU2OCtuc2MwQGVHcm91cHMuY29tPiA8NDY1QjQ4RjUuNzAyMDcwMEB5YWhvby5jby51az4gPHAwNjI0MDgxZGMyODBmYTg5N2EwOEBbMTkyLjE2OC4xLjEzNF0+IDw0NjVDNjBEQy4zMDkwNzAwQHlhaG9vLmNvLnVrPiA8MjAwNzA1MjkxODMxMTIuR0cyNzQ2QG1lcmN1cnkuY2NpbC5vcmc+IDw0NjVDODdFMC44MDEwOTA3QHlhaG9vLmNvLnVrPiA8cDA2MjQwODBhYzI4MjU0MDg5NzljQFsxMC4wLjEuMl0+IDw0NjVEREJBQy42MDYwMjA5QHlhaG9vLmNvLnVrPg=="
+  },
+  "prevInTopic": 974,
+  "nextInTopic": 976,
+  "prevInTime": 974,
+  "nextInTime": 976,
+  "topicId": 947,
+  "numMessagesInTopic": 45,
+  "msgSnippet": "... Just for the record, Michael is severely dyscalculic and innumerate: he can add on his fingers and that s about it (okay, I exaggerate slightly, but not",
+  "messageBody": "<div id=\"ygrps-yiv-1640067493\">amd64_hacker scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; For example, the words &#39;I&#39; and &#39;eye&#39; should have the same digest and<br/>\n&gt; therefore a distance of 0.<br/>\n<br/>\n </span></blockquote>Just for the record, Michael is severely dyscalculic and innumerate: he<br/>\ncan add on his fingers and that&#39;s about it (okay, I exaggerate slightly,<br/>\nbut not much).  So don&#39;t expect him to understand string distances.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Soundex is antiquated and never really worked anyway, <br/>\n<br/>\n </span></blockquote>It actually works fairly well for the intended domain of use: proper names.<br/>\n<br/>\n-- <br/>\nAnd through this revolting graveyard of the universe the muffled, maddening<br/>\nbeating of drums, and thin, monotonous whine of blasphemous flutes from<br/>\ninconceivable, unlighted chambers beyond Time; the detestable pounding<br/>\nand piping whereunto dance slowly, awkwardly, and absurdly the gigantic<br/>\ntenebrous ultimate gods -- the blind, voiceless, mindless gargoyles whose soul<br/>\nis Nyarlathotep. (Lovecraft) John Cowan|<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>|ccil.org/~cowan</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 26014 invoked from network); 30 May 2007 20:49:57 -0000\r\nReceived: from unknown (66.218.66.70)\n  by m45.grp.scd.yahoo.com with QMQP; 30 May 2007 20:49:57 -0000\r\nReceived: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta12.grp.scd.yahoo.com with SMTP; 30 May 2007 20:49:56 -0000\r\nReceived: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1HtV18-0000dB-0l\n\tfor Read_Alphabet@yahoogroups.com; Wed, 30 May 2007 16:43:38 -0400\r\nDate: Wed, 30 May 2007 16:43:38 -0400\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20070530204337.GF9712@...&gt;\r\nReferences: &lt;f3f568+nsc0@...&gt; &lt;465B48F5.7020700@...&gt; &lt;p0624081dc280fa897a08@[192.168.1.134]&gt; &lt;465C60DC.3090700@...&gt; &lt;20070529183112.GG2746@...&gt; &lt;465C87E0.8010907@...&gt; &lt;p0624080ac2825408979c@[10.0.1.2]&gt; &lt;465DDBAC.6060209@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;465DDBAC.6060209@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Unicode proposal again.\r\nX-Yahoo-Group-Post: member; u=212516; y=6wuvaevAsifX37JncmR0_lMdxZ0L2CFAdN1AN2vln9m42L-lSQ\r\nX-Yahoo-Profile: johnwcowan\r\n\r\namd64_hacker scripsit:\n\n&gt; For example, the words &#39;I&#39; and &#39;eye&#39; should have the same digest and\n&gt; therefore a distance of 0.\n\nJust for the record, Michael is severely dyscalculic and innumerate: he\ncan add on his fingers and that&#39;s about it (okay, I exaggerate slightly,\nbut not much).  So don&#39;t expect him to understand string distances.\n\n&gt; Soundex is antiquated and never really worked anyway, \n\nIt actually works fairly well for the intended domain of use: proper names.\n\n-- \nAnd through this revolting graveyard of the universe the muffled, maddening\nbeating of drums, and thin, monotonous whine of blasphemous flutes from\ninconceivable, unlighted chambers beyond Time; the detestable pounding\nand piping whereunto dance slowly, awkwardly, and absurdly the gigantic\ntenebrous ultimate gods -- the blind, voiceless, mindless gargoyles whose soul\nis Nyarlathotep. (Lovecraft) John Cowan|cowan@...|ccil.org/~cowan\n\n"
+}

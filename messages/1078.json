@@ -1,0 +1,33 @@
+{
+  "userId": 180175951,
+  "authorName": "amd64_hacker",
+  "from": "amd64_hacker &lt;amd64_hacker@...&gt;",
+  "profile": "amd64_hacker",
+  "replyTo": "LIST",
+  "senderId": "H1HWQqdieQbOzADaAFM0oHsmuW-_N-Ld3jWKzT74RhprnLotlqSvEdzQtRw3t3LC3wIRxC29hg2qhA3Ecd1vdTxf3RcdKgHidutJOjzd",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Help getting software",
+  "postDate": "1190918114",
+  "msgId": 1078,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ2RkJGN0UyLjgwOTA1MDZAeWFob28uY28udWs+",
+    "inReplyToHeader": "PDQ2RkJGMzk1LjYwNTAwMDFAaWdsb3UuY29tPg==",
+    "referencesHeader": "PDQ2RkIzMTcxLjIwMDA4MDRAaWdsb3UuY29tPiA8NDZGQkU1MUMuODA2MDEwMkB5YWhvby5jby51az4gPDQ2RkJGMzk1LjYwNTAwMDFAaWdsb3UuY29tPg=="
+  },
+  "prevInTopic": 1077,
+  "nextInTopic": 1079,
+  "prevInTime": 1077,
+  "nextInTime": 1079,
+  "topicId": 1073,
+  "numMessagesInTopic": 7,
+  "msgSnippet": "I m not sure how you have set up your TeX installation, but you should be able to use both side by side. I m a big fan of texlive, it takes care of all the",
+  "messageBody": "<div id=\"ygrps-yiv-1036446198\">I&#39;m not sure how you have set up your TeX installation, but you should<br/>\nbe able to use both side by side.<br/>\nI&#39;m a big fan of texlive, it takes care of all the installation details<br/>\nfor you, but I&#39;m not certain how mac friendly it is.<br/>\n<br/>\nThere&#39;s no space set aside for QS yet, but there&#39;s an encoding in the<br/>\nprivate use area which works reasonably well.<br/>\n<br/>\nI use plain text and HTML myself, it isn&#39;t the best solution but anyone<br/>\nwho I&#39;m likely to share files with will probably have a suitable font.<br/>\n<br/>\nPaul Tremblay wrote:<br/>\n<blockquote><span title=\"qreply\"> &gt;<br/>\n&gt; Thanks. I&#39;ll try installing that version of TeX, though that means<br/>\n&gt; overwriting a perfectly good version. What do you use to write<br/>\n&gt; documents? Also, I see that there is a Unicode proposal, but right now<br/>\n&gt; there is no Unicode set aside for Quickscript, is there?<br/>\n&gt;<br/>\n&gt; Paul<br/>\n&gt;<br/>\n&gt; </span></blockquote></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;amd64_hacker@...&gt;\r\nX-Sender: amd64_hacker@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 914 invoked from network); 27 Sep 2007 18:33:58 -0000\r\nReceived: from unknown (69.147.108.201)\n  by m54.grp.scd.yahoo.com with QMQP; 27 Sep 2007 18:33:58 -0000\r\nReceived: from unknown (HELO smtp009.mail.ukl.yahoo.com) (217.12.11.63)\n  by mta2.grp.re1.yahoo.com with SMTP; 27 Sep 2007 18:33:58 -0000\r\nReceived: (qmail 98424 invoked from network); 27 Sep 2007 18:33:57 -0000\r\nReceived: from unknown (HELO ?192.168.0.1?) (amd64_hacker@82.19.52.162 with plain)\n  by smtp009.mail.ukl.yahoo.com with SMTP; 27 Sep 2007 18:33:57 -0000\r\nX-YMail-OSG: BewZ.acVM1lc2yMumgx7FNtkGz1mc9XfB5vAX6l23gdfRUIKmwqnbTwhz6_W.ID.EDYD6LAM2DuRPDFAx_PObSVTg9Bv5zYinHWAE5r_ubCmYNi8DDa1WtiacC6Aeq9cXg1W6Mk7eiUtAg--\r\nMessage-ID: &lt;46FBF7E2.8090506@...&gt;\r\nDate: Thu, 27 Sep 2007 19:35:14 +0100\r\nUser-Agent: Thunderbird 1.5.0.10 (X11/20070306)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nReferences: &lt;46FB3171.2000804@...&gt; &lt;46FBE51C.8060102@...&gt; &lt;46FBF395.6050001@...&gt;\r\nIn-Reply-To: &lt;46FBF395.6050001@...&gt;\r\nX-Enigmail-Version: 0.94.0.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: amd64_hacker &lt;amd64_hacker@...&gt;\r\nSubject: Re: [Read_Alphabet] Help getting software\r\nX-Yahoo-Group-Post: member; u=180175951; y=RKrLY5eecpE2A47rVE3KTdF0ZKhbCV6EiOUj4x1UkBOLP6-w4XfA\r\nX-Yahoo-Profile: amd64_hacker\r\n\r\nI&#39;m not sure how you have set up your TeX installation, but you should\nbe able to use both side by side.\nI&#39;m a big fan of texlive, it takes care of all the installation details\nfor you, but I&#39;m not certain how mac friendly it is.\n\nThere&#39;s no space set aside for QS yet, but there&#39;s an encoding in the\nprivate use area which works reasonably well.\n\nI use plain text and HTML myself, it isn&#39;t the best solution but anyone\nwho I&#39;m likely to share files with will probably have a suitable font.\n\nPaul Tremblay wrote:\n&gt;\n&gt; Thanks. I&#39;ll try installing that version of TeX, though that means\n&gt; overwriting a perfectly good version. What do you use to write\n&gt; documents? Also, I see that there is a Unicode proposal, but right now\n&gt; there is no Unicode set aside for Quickscript, is there?\n&gt;\n&gt; Paul\n&gt;\n&gt;  \n\n\n"
+}

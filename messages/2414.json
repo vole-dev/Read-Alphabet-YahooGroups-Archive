@@ -1,0 +1,33 @@
+{
+  "userId": 82638473,
+  "authorName": "Michael Everson",
+  "from": "Michael Everson &lt;everson@...&gt;",
+  "profile": "evertype",
+  "replyTo": "LIST",
+  "senderId": "q4a0K-ObIIujGYD9BEXVKOl06_TVws1y3HewpY3-EooatoEO6PFutYMV3UhCS-jTF7GrIZ_yXmSspYb9Rd__xlvzy7u7MM-FQnkC9UM",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Unicode Status",
+  "postDate": "1366126591",
+  "msgId": 2414,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PERDMjIyQ0I5LUVDRTMtNDVGOC1CQzU5LThGMDRDRTQzN0U1RUBldmVydHlwZS5jb20+",
+    "inReplyToHeader": "PDUxNkQ1Q0Y2LjQwMjAwMDRAY29sc29uLmV1Pg==",
+    "referencesHeader": "PGtrN3I0dit0c2hkQGVHcm91cHMuY29tPiA8MDU1QkEyODAtNUQzNy00MTYzLUJFNTYtRTFGNEU1OTdBMDY0QGV2ZXJ0eXBlLmNvbT4gPDM2NzMwNERFLUIyRTEtNEJGMC1BRDkzLTVGOTQ4N0E1NDI1NkBnbWFpbC5jb20+IDw0QzkxRTk3NS02NkRGLTQ0MTYtQTFCRC01NEYxOTg0MTk1QTJAZXZlcnR5cGUuY29tPiA8QjE4MEJDMTMtRkUxRi00MEQyLUI0RTUtNzZEOEZENUZGMUU1QGdtYWlsLmNvbT4gPEZGNjNDMTUyLTZDMjQtNDNGRS1CMUZFLUFCNENDMzA3REU0M0BldmVydHlwZS5jb20+IDw1MTZENUNGNi40MDIwMDA0QGNvbHNvbi5ldT4="
+  },
+  "prevInTopic": 2413,
+  "nextInTopic": 2415,
+  "prevInTime": 2413,
+  "nextInTime": 2415,
+  "topicId": 2365,
+  "numMessagesInTopic": 34,
+  "msgSnippet": "... Not in terms of Unicode, they re not. Your assertion is not more than an assertion. (I on the other hand have described the unification principles.) ... ",
+  "messageBody": "<div id=\"ygrps-yiv-1541106439\">On 16 Apr 2013, at 15:15, Jean-Fran\u00e7ois Colson &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:jf@...\">jf@...</a>&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Le 16/04/13 14:32, Michael Everson a \u00e9crit :<br/>\n&gt;&gt; The fact that there are two different sort orders for Shavian and Quikscript is kind of weird.<br/>\n&gt; <br/>\n&gt; That\u2019s not weird. That\u2019s only natural since Shavian and Quikscript are two separate scripts. That unification is completely artificial.<br/>\n<br/>\n </span></blockquote>Not in terms of Unicode, they&#39;re not. Your assertion is not more than an assertion. (I on the other hand have described the unification principles.)<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;&gt;  But I have to recommend where to interleave the new characters in the Shavian based ordering.<br/>\n&gt; <br/>\n&gt; Couldn\u2019t you propose a new order for Quikscript? Different alphabets, different collation rules.<br/>\n<br/>\n </span></blockquote>There is only one default template, and it is based on the Shavian order, so the new characters have to be inserted with regard to that. It is possible to specify other sorting orders, but for the default template, choices have to be made with regard to it.<br/>\n<br/>\nMichael Everson * <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.evertype.com/\">http://www.evertype.com/</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;everson@...&gt;\r\nX-Sender: everson@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 51677 invoked from network); 16 Apr 2013 15:36:34 -0000\r\nX-Received: from unknown (10.193.84.131)\n  by m2.grp.bf1.yahoo.com with QMQP; 16 Apr 2013 15:36:34 -0000\r\nX-Received: from unknown (HELO lh19.dnsireland.com) (78.137.164.59)\n  by mta4.grp.bf1.yahoo.com with SMTP; 16 Apr 2013 15:36:34 -0000\r\nX-Received: from [77.107.209.124] (port=49530 helo=[192.168.10.11])\n\tby lh19.dnsireland.com with esmtpsa (TLSv1:AES128-SHA:128)\n\t(Exim 4.80)\n\t(envelope-from &lt;everson@...&gt;)\n\tid 1US7vj-0004Qg-8C\n\tfor Read_Alphabet@yahoogroups.com; Tue, 16 Apr 2013 16:36:23 +0100\r\nContent-Type: text/plain; charset=windows-1252\r\nMime-Version: 1.0 (Mac OS X Mail 6.5 &#92;(1507&#92;))\r\nIn-Reply-To: &lt;516D5CF6.4020004@...&gt;\r\nDate: Tue, 16 Apr 2013 16:36:31 +0100\r\nContent-Transfer-Encoding: quoted-printable\r\nMessage-Id: &lt;DC222CB9-ECE3-45F8-BC59-8F04CE437E5E@...&gt;\r\nReferences: &lt;kk7r4v+tshd@...&gt; &lt;055BA280-5D37-4163-BE56-E1F4E597A064@...&gt; &lt;367304DE-B2E1-4BF0-AD93-5F9487A54256@...&gt; &lt;4C91E975-66DF-4416-A1BD-54F1984195A2@...&gt; &lt;B180BC13-FE1F-40D2-B4E5-76D8FD5FF1E5@...&gt; &lt;FF63C152-6C24-43FE-B1FE-AB4CC307DE43@...&gt; &lt;516D5CF6.4020004@...&gt;\r\nTo: Read_Alphabet@yahoogroups.com\r\nX-Mailer: Apple Mail (2.1507)\r\nX-AntiAbuse: This header was added to track abuse, please include it with any abuse report\r\nX-AntiAbuse: Primary Hostname - lh19.dnsireland.com\r\nX-AntiAbuse: Original Domain - yahoogroups.com\r\nX-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]\r\nX-AntiAbuse: Sender Address Domain - evertype.com\r\nX-Source: \r\nX-Source-Args: \r\nX-Source-Dir: \r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Michael Everson &lt;everson@...&gt;\r\nSubject: Re: [Read_Alphabet] Unicode Status\r\nX-Yahoo-Group-Post: member; u=82638473; y=QPjcc_XEKUZyUhZrm7ZiV9zBMj9F2RYK3Qz7-73pCRNLbAc\r\nX-Yahoo-Profile: evertype\r\n\r\nOn 16 Apr 2013, at 15:15, Jean-Fran=E7ois Colson &lt;jf@...&gt; wrote:\n\n&gt; L=\r\ne 16/04/13 14:32, Michael Everson a =E9crit :\n&gt;&gt; The fact that there are tw=\r\no different sort orders for Shavian and Quikscript is kind of weird.\n&gt; \n&gt; T=\r\nhat=92s not weird. That=92s only natural since Shavian and Quikscript are t=\r\nwo separate scripts. That unification is completely artificial.\n\nNot in ter=\r\nms of Unicode, they&#39;re not. Your assertion is not more than an assertion. (=\r\nI on the other hand have described the unification principles.)\n\n&gt;&gt;  But I =\r\nhave to recommend where to interleave the new characters in the Shavian bas=\r\ned ordering.\n&gt; \n&gt; Couldn=92t you propose a new order for Quikscript? Differ=\r\nent alphabets, different collation rules.\n\nThere is only one default templa=\r\nte, and it is based on the Shavian order, so the new characters have to be =\r\ninserted with regard to that. It is possible to specify other sorting order=\r\ns, but for the default template, choices have to be made with regard to it.=\r\n\n\nMichael Everson * http://www.evertype.com/\n\n\n"
+}

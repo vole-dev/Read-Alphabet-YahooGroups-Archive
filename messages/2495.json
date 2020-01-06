@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "eObl6KIaFNv_UIQo4U01P7AekfVCcTahXt6tJXuDKjAmn9WKJYKz3ipd6FgMvAonw1oCydgk-RPB0EGOfMy5mYdz",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Call of Cthulhu fixes",
+  "postDate": "1368279713",
+  "msgId": 2495,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMTMwNTExMTM0MTUzLkdBMjMzNTRAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PDZEMkU5NzlDLTA5MUMtNEQxQy05Qzk1LTkwNzIxOUU3MDIzQ0BnbWFpbC5jb20+",
+    "referencesHeader": "PDZEMkU5NzlDLTA5MUMtNEQxQy05Qzk1LTkwNzIxOUU3MDIzQ0BnbWFpbC5jb20+"
+  },
+  "prevInTopic": 2494,
+  "nextInTopic": 2496,
+  "prevInTime": 2494,
+  "nextInTime": 2496,
+  "topicId": 2493,
+  "numMessagesInTopic": 7,
+  "msgSnippet": "... Sure.  The whole point of the namer dot, like the capital letter in TO, is to prevent the reader from trying to work out whether something is an obscure",
+  "messageBody": "<div id=\"ygrps-yiv-1952424669\">Nathan Sharfi scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Incidentally, does &quot;Legrasse&#39;s&quot; need a namer dot?<br/>\n<br/>\n </span></blockquote>Sure.  The whole point of the namer dot, like the capital letter in TO,<br/>\nis to prevent the reader from trying to work out whether something is<br/>\nan obscure (or even a common) noun or just a name that shouldn&#39;t be<br/>\ninterpreted for meaning.  In German, where all Nouns are capitalized<br/>\nat all Times, you can have sentences like &quot;The Tiger jumped out and<br/>\nate the unfortunate Fir-tree&quot; (&quot;Der Tiger sprang heraus und a\u00df den<br/>\nungl\u00fccklichen Tannenbaum&quot;), where only common Sense tells you that<br/>\nTigers don&#39;t eat Trees, and therefore &quot;Tannenbaum&quot; must be someone&#39;s Name.<br/>\n<br/>\n-- <br/>\nJohn Cowan   <a rel=\"nofollow\" target=\"_blank\" href=\"http://ccil.org/~cowan\">http://ccil.org/~cowan</a>  <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a><br/>\n[P]olice in many lands are now complaining that local arrestees are insisting<br/>\non having their Miranda rights read to them, just like perps in American TV<br/>\ncop shows.  When it&#39;s explained to them that they are in a different country,<br/>\nwhere those rights do not exist, they become outraged.  --Neal Stephenson</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 10241 invoked by uid 102); 11 May 2013 13:41:53 -0000\r\nX-Received: from unknown (HELO mtaq5.grp.bf1.yahoo.com) (10.193.84.36)\n  by m2.grp.bf1.yahoo.com with SMTP; 11 May 2013 13:41:53 -0000\r\nX-Received: (qmail 10678 invoked from network); 11 May 2013 13:41:53 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mtaq5.grp.bf1.yahoo.com with SMTP; 11 May 2013 13:41:53 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.72)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1UbA3d-00007p-Ct\n\tfor Read_Alphabet@yahoogroups.com; Sat, 11 May 2013 09:41:53 -0400\r\nDate: Sat, 11 May 2013 09:41:53 -0400\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20130511134153.GA23354@...&gt;\r\nReferences: &lt;6D2E979C-091C-4D1C-9C95-907219E7023C@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=iso-8859-1\r\nContent-Disposition: inline\r\nContent-Transfer-Encoding: 8bit\r\nIn-Reply-To: &lt;6D2E979C-091C-4D1C-9C95-907219E7023C@...&gt;\r\nUser-Agent: Mutt/1.5.20 (2009-06-14)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nX-eGroups-From: John Cowan &lt;cowan@...&gt;\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Call of Cthulhu fixes\r\nX-Yahoo-Group-Post: member; u=212516; y=hgHskyp6d32zcpDRRsrChaAlMkMhbWWp6UVzdAHkwF1Zmpeclg\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nNathan Sharfi scripsit:\n\n&gt; Incidentally, does &quot;Legrasse&#39;s&quot; need a namer dot?\n\nSure.  The whole point of the namer dot, like the capital letter in TO,\nis to prevent the reader from trying to work out whether something is\nan obscure (or even a common) noun or just a name that shouldn&#39;t be\ninterpreted for meaning.  In German, where all Nouns are capitalized\nat all Times, you can have sentences like &quot;The Tiger jumped out and\nate the unfortunate Fir-tree&quot; (&quot;Der Tiger sprang heraus und a\ufffd den\nungl\ufffdcklichen Tannenbaum&quot;), where only common Sense tells you that\nTigers don&#39;t eat Trees, and therefore &quot;Tannenbaum&quot; must be someone&#39;s Name.\n\n-- \nJohn Cowan   http://ccil.org/~cowan  cowan@...\n[P]olice in many lands are now complaining that local arrestees are insisting\non having their Miranda rights read to them, just like perps in American TV\ncop shows.  When it&#39;s explained to them that they are in a different country,\nwhere those rights do not exist, they become outraged.  --Neal Stephenson\n\n"
+}

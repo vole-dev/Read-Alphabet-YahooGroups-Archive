@@ -1,0 +1,32 @@
+{
+  "userId": 384995112,
+  "authorName": "peter_r_guinness",
+  "from": "&quot;peter_r_guinness&quot; &lt;bacedif@...&gt;",
+  "profile": "peter_r_guinness",
+  "replyTo": "LIST",
+  "senderId": "4AZiQ9ZBCGK6uhJ5qgMib-14oaRGwpOE8g0TJ8g5LNCmZqH44FVNSRWZjygOE_A3rIZBfSrCwO_YymECeBts0CxanWpssY2sALqatOk",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: Book suggestions for translation.",
+  "postDate": "1312023929",
+  "msgId": 2222,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGoxMG9ocCtsZ3FiQGVHcm91cHMuY29tPg==",
+    "inReplyToHeader": "PEYyQTU2QjE5LUU2RjEtNDYzMi1COEM0LUVFMUY2NjM5N0QxNkBldmVydHlwZS5jb20+"
+  },
+  "prevInTopic": 2221,
+  "nextInTopic": 2223,
+  "prevInTime": 2221,
+  "nextInTime": 2223,
+  "topicId": 2218,
+  "numMessagesInTopic": 10,
+  "msgSnippet": "... Yes you are correct-- the unicode techincally encodes characters and not graphemes-- I m a bit rusty on this and have got them mixed up-- its been a few",
+  "messageBody": "<div id=\"ygrps-yiv-1535909587\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Read_Alphabet@yahoogroups.com\">Read_Alphabet@yahoogroups.com</a>, Michael Everson &lt;everson@...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; On 30 Jul 2011, at 10:22, peter_r_guinness wrote:<br/>\n&gt; <br/>\n&gt; &gt; The unicode standard was designed with future expansion in mind and so was made from the start to potentially handle *lots* of graphemes--<br/>\n&gt; <br/>\n&gt; The Universal Character Set encodes &quot;characters&quot;, not &quot;graphemes&quot;. <br/>\n&gt; <br/>\n&gt; &gt; all the world&#39;s current symbols<br/>\n&gt; <br/>\n&gt; &quot;characters&quot;<br/>\n&gt; <br/>\n<br/>\n<br/>\n </span></blockquote>Yes you are correct-- the unicode techincally encodes characters and not graphemes-- I&#39;m a bit rusty on this and have got them mixed up-- its been a few years.   Thanks for this correction.<br/>\nHowever, I would like to point out to you that this sort of talk about differences between what is a character and what is a grapheme appears to me to exactly what Sid was referring to when he said that the previous unicode talk on this list confuses him.<br/>\n<br/>\n<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; This is incorrect. I consider Quickscript to be a set of extensions to Shavian. Some preliminary work has been done working out what the extensions might be, but the activity was not followed through on, likely because people got interested in other things.<br/>\n&gt; <br/>\n </span></blockquote>....<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; No, it will be encoded as a set of extensions to Shavian.<br/>\n&gt; <br/>\n<br/>\n </span></blockquote>I&#39;m curious to know why you think QS should be an extension to Shavian.  To me they are two different (but closely related) writing systems.  Infact, to me the difference between QS and Shavian is to not vastly less then the difference between Latin and Greek (well the capital greek and latin letters anyway)</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;bacedif@...&gt;\r\nX-Sender: bacedif@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 38423 invoked from network); 30 Jul 2011 11:05:30 -0000\r\nX-Received: from unknown (66.196.94.107)\n  by m17.grp.re1.yahoo.com with QMQP; 30 Jul 2011 11:05:30 -0000\r\nX-Received: from unknown (HELO n43d.bullet.mail.sp1.yahoo.com) (66.163.169.157)\n  by mta3.grp.re1.yahoo.com with SMTP; 30 Jul 2011 11:05:30 -0000\r\nX-Received: from [69.147.65.148] by n43.bullet.mail.sp1.yahoo.com with NNFMP; 30 Jul 2011 11:05:30 -0000\r\nX-Received: from [98.137.34.34] by t11.bullet.mail.sp1.yahoo.com with NNFMP; 30 Jul 2011 11:05:30 -0000\r\nDate: Sat, 30 Jul 2011 11:05:29 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;j10ohp+lgqb@...&gt;\r\nIn-Reply-To: &lt;F2A56B19-E6F1-4632-B8C4-EE1F66397D16@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=&quot;ISO-8859-1&quot;\r\nContent-Transfer-Encoding: quoted-printable\r\nX-Mailer: Yahoo Groups Message Poster\r\nX-Yahoo-Newman-Property: groups-compose\r\nFrom: &quot;peter_r_guinness&quot; &lt;bacedif@...&gt;\r\nSubject: Re: Book suggestions for translation.\r\nX-Yahoo-Group-Post: member; u=384995112; y=n39NWbBUA4nIpy4tVfNLb-WX2vXInyGisXoYVdgML2CBLvWRwlVisDsqoQ\r\nX-Yahoo-Profile: peter_r_guinness\r\n\r\n\n\n--- In Read_Alphabet@yahoogroups.com, Michael Everson &lt;everson@...&gt; wrote=\r\n:\n&gt;\n&gt; On 30 Jul 2011, at 10:22, peter_r_guinness wrote:\n&gt; \n&gt; &gt; The unicode =\r\nstandard was designed with future expansion in mind and so was made from th=\r\ne start to potentially handle *lots* of graphemes--\n&gt; \n&gt; The Universal Char=\r\nacter Set encodes &quot;characters&quot;, not &quot;graphemes&quot;. \n&gt; \n&gt; &gt; all the world&#39;s cu=\r\nrrent symbols\n&gt; \n&gt; &quot;characters&quot;\n&gt; \n\n\nYes you are correct-- the unicode tech=\r\nincally encodes characters and not graphemes-- I&#39;m a bit rusty on this and =\r\nhave got them mixed up-- its been a few years.   Thanks for this correction=\r\n.\nHowever, I would like to point out to you that this sort of talk about di=\r\nfferences between what is a character and what is a grapheme appears to me =\r\nto exactly what Sid was referring to when he said that the previous unicode=\r\n talk on this list confuses him.\n\n\n\n&gt; \n&gt; This is incorrect. I consider Quic=\r\nkscript to be a set of extensions to Shavian. Some preliminary work has bee=\r\nn done working out what the extensions might be, but the activity was not f=\r\nollowed through on, likely because people got interested in other things.\n&gt;=\r\n \n....\n&gt; \n&gt; No, it will be encoded as a set of extensions to Shavian.\n&gt; \n\nI=\r\n&#39;m curious to know why you think QS should be an extension to Shavian.  To =\r\nme they are two different (but closely related) writing systems.  Infact, t=\r\no me the difference between QS and Shavian is to not vastly less then the d=\r\nifference between Latin and Greek (well the capital greek and latin letters=\r\n anyway)\n\n\n\n"
+}

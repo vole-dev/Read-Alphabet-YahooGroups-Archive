@@ -1,0 +1,33 @@
+{
+  "userId": 115538967,
+  "authorName": "Josh Cogliati",
+  "from": "Josh Cogliati &lt;jjc@...&gt;",
+  "profile": "jrincayc",
+  "replyTo": "LIST",
+  "senderId": "bcqmIiZj1GKun0ZzHunhoHMgf7-EuKNkd7fqQN0Abignv4toWSwja3CKTWTjEeRbk9t3ootQG59kXqM6tbHGN3frZ0wPZTlrPr3Cr-A",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Where&#39;s everyone gone?",
+  "postDate": "1024924049",
+  "msgId": 171,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDIwNjI0MDcwNzI5LkEzODlAbG9jYWxob3N0Pg==",
+    "inReplyToHeader": "PDIwMDIwNjI0MDkxOTA1LjIxNTc3LnFtYWlsQHdlYjk2MDgubWFpbC55YWhvby5jb20+OyBmcm9tIG1jaGxmQHlhaG9vLmNvbSBvbiBNb24sIEp1biAyNCwgMjAwMiBhdCAxMDoxOTowNUFNICswMTAw",
+    "referencesHeader": "PDNEMTNERjE3LjFBQTI2NDU1QGNvcmVjb21tLm5ldD4gPDIwMDIwNjI0MDkxOTA1LjIxNTc3LnFtYWlsQHdlYjk2MDgubWFpbC55YWhvby5jb20+"
+  },
+  "prevInTopic": 170,
+  "nextInTopic": 172,
+  "prevInTime": 170,
+  "nextInTime": 172,
+  "topicId": 166,
+  "numMessagesInTopic": 10,
+  "msgSnippet": "... An alternative is to use pfaedit to convert the truetype font to a pfa font. ... -- Josh Cogliati jjc@honors.montana.edu This message created in Linux, the",
+  "messageBody": "<div id=\"ygrps-yiv-1996234117\">On Mon, Jun 24, 2002 at 10:19:05AM +0100, Michael Fitzgerald wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; Hi Paige,<br/>\n&gt; <br/>\n&gt; &gt;I believe I have to get some<br/>\n&gt; &gt; type of program to<br/>\n&gt; &gt; permit Linux to work with the truetype fonts. <br/>\n </span></blockquote>An alternative is to use pfaedit to convert the truetype font<br/>\nto a pfa font.  <br/>\n <br/>\n<blockquote><span title=\"ireply\"> &gt; Do you need to work on a doc in both Word and Linux?<br/>\n&gt; If you complete a doc in Word and then convert to<br/>\n&gt; either .pdf or .html Linux should be able to handle<br/>\n&gt; these, at least to be able to see and upload them.<br/>\n<br/>\n </span></blockquote>-- <br/>\nJosh Cogliati<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:jjc@...\">jjc@...</a><br/>\nThis message created in Linux, the choice of a GNU generation.</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;jjc@...&gt;\r\nX-Sender: jjc@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (EGP: mail-8_0_3_2); 24 Jun 2002 13:05:37 -0000\r\nReceived: (qmail 71968 invoked from network); 24 Jun 2002 13:05:37 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m9.grp.scd.yahoo.com with QMQP; 24 Jun 2002 13:05:37 -0000\r\nReceived: from unknown (HELO rupert.honors.montana.edu) (153.90.199.52)\n  by mta2.grp.scd.yahoo.com with SMTP; 24 Jun 2002 13:05:38 -0000\r\nReceived: from ekira (rupert.honors.montana.edu [153.90.199.52])\n\tby rupert.honors.montana.edu (8.11.3nb1/8.11.3) with ESMTP id g5OD5Yq21658\n\tfor &lt;Read_Alphabet@yahoogroups.com&gt;; Mon, 24 Jun 2002 07:05:35 -0600 (MDT)\r\nReceived: from jjc by ekira with local (Exim 3.12 #1 (Debian))\n\tid 17MTZ3-00006U-00\n\tfor &lt;Read_Alphabet@yahoogroups.com&gt;; Mon, 24 Jun 2002 07:07:29 -0600\r\nDate: Mon, 24 Jun 2002 07:07:29 -0600\r\nTo: Read_Alphabet@yahoogroups.com\r\nSubject: Re: [Read_Alphabet] Where&#39;s everyone gone?\r\nMessage-ID: &lt;20020624070729.A389@localhost&gt;\r\nReferences: &lt;3D13DF17.1AA26455@...&gt; &lt;20020624091905.21577.qmail@...&gt;\r\nMime-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nUser-Agent: Mutt/1.2.5i\r\nIn-Reply-To: &lt;20020624091905.21577.qmail@...&gt;; from mchlf@... on Mon, Jun 24, 2002 at 10:19:05AM +0100\r\nX-eGroups-From: Josh Cogliati &lt;jjc@...&gt;\r\nFrom: Josh Cogliati &lt;jjc@...&gt;\r\nReply-To: jjc@...\r\nX-Yahoo-Group-Post: member; u=115538967\r\nX-Yahoo-Profile: jrincayc\r\n\r\nOn Mon, Jun 24, 2002 at 10:19:05AM +0100, Michael Fitzgerald wrote:\n&gt; Hi Paige,\n&gt; \n&gt; &gt;I believe I have to get some\n&gt; &gt; type of program to\n&gt; &gt; permit Linux to work with the truetype fonts. \nAn alternative is to use pfaedit to convert the truetype font\nto a pfa font.  \n \n&gt; Do you need to work on a doc in both Word and Linux?\n&gt; If you complete a doc in Word and then convert to\n&gt; either .pdf or .html Linux should be able to handle\n&gt; these, at least to be able to see and upload them.\n\n-- \nJosh Cogliati\njjc@...\nThis message created in Linux, the choice of a GNU generation.\n\n\n"
+}

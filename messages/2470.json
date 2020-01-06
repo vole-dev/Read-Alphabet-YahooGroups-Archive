@@ -1,0 +1,31 @@
+{
+  "userId": 458641688,
+  "authorName": "Nathan Sharfi",
+  "from": "Nathan Sharfi &lt;bonusfrogs@...&gt;",
+  "profile": "dipartite",
+  "replyTo": "LIST",
+  "senderId": "qkGrzXsrUL1sB2PNxpcU4mQXuZ_XXgpKbjfJZSCJCMZyUiDQN32D3zeh-LpKCcJXUcmiu-Jo4_Ne6NoBDjG6GtCWKTftCj7EDEs0",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Call of Cthulhu updates, with notes on Quikscript on the Web",
+  "postDate": "1366913796",
+  "msgId": 2470,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PEZGOENEQzczLUY1MUUtNDcyQS1CMEIzLTBGN0I0MkM2OURBQ0BnbWFpbC5jb20+"
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 0,
+  "prevInTime": 2469,
+  "nextInTime": 2471,
+  "topicId": 2470,
+  "numMessagesInTopic": 1,
+  "msgSnippet": "I ve updated . The most notable change is that I ve stuck html { /* \u2026 */ text-rendering:",
+  "messageBody": "<div id=\"ygrps-yiv-2110463846\">I&#39;ve updated &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://adiabatic.github.io/qs-literature/call-of-cthulhu/\">http://adiabatic.github.io/qs-literature/call-of-cthulhu/</a>&gt;. The most notable change is that I&#39;ve stuck<br/>\n<br/>\n\thtml {<br/>\n\t\t/* \u2026 */<br/>\n\t\ttext-rendering: optimizeLegibility;<br/>\n\t}<br/>\n<br/>\nin the CSS. This enables kerned pairs so UTTER MAY doesn&#39;t look like utter garbage. If you&#39;re using Kingsley on the Web, I *highly* recommend turning this on. I haven&#39;t checked for the presence of kerning pairs in other fonts \u2014 namely Thoth and Jerome.</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;bonusfrogs@...&gt;\r\nX-Sender: bonusfrogs@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 31451 invoked from network); 25 Apr 2013 18:16:40 -0000\r\nX-Received: from unknown (10.193.84.151)\n  by m8.grp.bf1.yahoo.com with QMQP; 25 Apr 2013 18:16:40 -0000\r\nX-Received: from unknown (HELO mail-pb0-f48.google.com) (209.85.160.48)\n  by mta5.grp.bf1.yahoo.com with SMTP; 25 Apr 2013 18:16:40 -0000\r\nX-Received: by mail-pb0-f48.google.com with SMTP id xb4so866346pbc.21\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Thu, 25 Apr 2013 11:16:39 -0700 (PDT)\r\nX-Received: by 10.66.157.195 with SMTP id wo3mr27037152pab.79.1366913799799;\n        Thu, 25 Apr 2013 11:16:39 -0700 (PDT)\r\nReturn-Path: &lt;bonusfrogs@...&gt;\r\nX-Received: from spreadthinly.localdomain (pool-72-67-36-2.lsanca.fios.verizon.net. [72.67.36.2])\n        by mx.google.com with ESMTPSA id qh4sm9140989pac.8.2013.04.25.11.16.37\n        for &lt;Read_Alphabet@yahoogroups.com&gt;\n        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);\n        Thu, 25 Apr 2013 11:16:38 -0700 (PDT)\r\nContent-Type: text/plain; charset=windows-1252\r\nContent-Transfer-Encoding: quoted-printable\r\nMessage-Id: &lt;FF8CDC73-F51E-472A-B0B3-0F7B42C69DAC@...&gt;\r\nDate: Thu, 25 Apr 2013 11:16:36 -0700\r\nTo: &quot;Read_Alphabet@yahoogroups.com&quot; &lt;Read_Alphabet@yahoogroups.com&gt;\r\nMime-Version: 1.0 (Mac OS X Mail 6.3 &#92;(1503&#92;))\r\nX-Mailer: Apple Mail (2.1503)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Nathan Sharfi &lt;bonusfrogs@...&gt;\r\nSubject: Call of Cthulhu updates, with notes on Quikscript on the Web\r\nX-Yahoo-Group-Post: member; u=458641688; y=z6U5QSO-JEKPx9HyW37d0y8K7QxbQzTSGOGvdQILVNxEqhA7\r\nX-Yahoo-Profile: dipartite\r\n\r\nI&#39;ve updated &lt;http://adiabatic.github.io/qs-literature/call-of-cthulhu/&gt;. T=\r\nhe most notable change is that I&#39;ve stuck\n\n\thtml {\n\t\t/* =85 */\n\t\ttext-rende=\r\nring: optimizeLegibility;\n\t}\n\nin the CSS. This enables kerned pairs so UTTE=\r\nR MAY doesn&#39;t look like utter garbage. If you&#39;re using Kingsley on the Web,=\r\n I *highly* recommend turning this on. I haven&#39;t checked for the presence o=\r\nf kerning pairs in other fonts =97 namely Thoth and Jerome.\n"
+}

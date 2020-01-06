@@ -1,0 +1,31 @@
+{
+  "userId": 458641688,
+  "authorName": "Nathan Sharfi",
+  "from": "Nathan Sharfi &lt;bonusfrogs@...&gt;",
+  "profile": "dipartite",
+  "replyTo": "LIST",
+  "senderId": "9b7Muj6mtdw1OpYlpnvWzD2W7ACzV39HzkLwTRHroXDVyzeIR3xVdDLL0iY8Z5ZCKISqj7m8mFNRh-5J7JYhP9G6FW2LaxRMbz7M",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Call of Cthulhu: Typo Report, paragraphs 4 and 6",
+  "postDate": "1368673797",
+  "msgId": 2510,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PEVDMURFODdELUJGMzItNEI0OS1BNDJDLTg1MDk3MDk2RDZDNUBnbWFpbC5jb20+"
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 2512,
+  "prevInTime": 2509,
+  "nextInTime": 2511,
+  "topicId": 2510,
+  "numMessagesInTopic": 5,
+  "msgSnippet": "On paragraph 4 (line 11): - by a g and more closely\u2026 ( g should be greater ) On paragraph 6 (line 15): - caricature spelled key utter roe it key utter",
+  "messageBody": "<div id=\"ygrps-yiv-634313724\">On paragraph 4 (line 11):<br/>\n<br/>\n- &quot;by a g and more closely\u2026&quot; (&quot;g&quot; should be &quot;greater&quot;)<br/>\n<br/>\nOn paragraph 6 (line 15):<br/>\n<br/>\n- &quot;caricature&quot; spelled &quot;key utter roe it key utter cheer utter roe&quot;. I&#39;d expect &quot;key *et*&quot;, but, California native.<br/>\n<br/>\nUpdated in &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"https://github.com/adiabatic/qs-literature/commit/784cc96a95ad0daf5150313ce426976ef1f0f195\">https://github.com/adiabatic/qs-literature/commit/784cc96a95ad0daf5150313ce426976ef1f0f195</a>&gt;.</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;bonusfrogs@...&gt;\r\nX-Sender: bonusfrogs@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 1177 invoked by uid 102); 16 May 2013 03:09:59 -0000\r\nX-Received: from unknown (HELO mtaq4.grp.bf1.yahoo.com) (10.193.84.143)\n  by m1.grp.bf1.yahoo.com with SMTP; 16 May 2013 03:09:59 -0000\r\nX-Received: (qmail 28771 invoked from network); 16 May 2013 03:09:59 -0000\r\nX-Received: from unknown (HELO mail-ia0-f170.google.com) (209.85.210.170)\n  by mtaq4.grp.bf1.yahoo.com with SMTP; 16 May 2013 03:09:59 -0000\r\nX-Received: by mail-ia0-f170.google.com with SMTP id l29so3039007iag.29\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Wed, 15 May 2013 20:09:59 -0700 (PDT)\r\nX-Received: by 10.43.158.3 with SMTP id ls3mr21699300icc.55.1368673799068;\n        Wed, 15 May 2013 20:09:59 -0700 (PDT)\r\nReturn-Path: &lt;bonusfrogs@...&gt;\r\nX-Received: from spreadthinly.localdomain (pool-74-100-97-239.lsanca.fios.verizon.net. [74.100.97.239])\n        by mx.google.com with ESMTPSA id qs4sm1312358igb.10.2013.05.15.20.09.57\n        for &lt;Read_Alphabet@yahoogroups.com&gt;\n        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);\n        Wed, 15 May 2013 20:09:58 -0700 (PDT)\r\nContent-Type: text/plain; charset=windows-1252\r\nContent-Transfer-Encoding: quoted-printable\r\nMessage-Id: &lt;EC1DE87D-BF32-4B49-A42C-85097096D6C5@...&gt;\r\nDate: Wed, 15 May 2013 20:09:57 -0700\r\nTo: Read_Alphabet@yahoogroups.com\r\nMime-Version: 1.0 (Mac OS X Mail 6.3 &#92;(1503&#92;))\r\nX-Mailer: Apple Mail (2.1503)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Nathan Sharfi &lt;bonusfrogs@...&gt;\r\nSubject: Call of Cthulhu: Typo Report, paragraphs 4 and 6\r\nX-Yahoo-Group-Post: member; u=458641688; y=9BeRk1yBdgCKtkWdumrw0v7xCZw5MdYDZVCcOmqtjb-6H081\r\nX-Yahoo-Profile: dipartite\r\n\r\nOn paragraph 4 (line 11):\n\n- &quot;by a g and more closely=85&quot; (&quot;g&quot; should be &quot;g=\r\nreater&quot;)\n\nOn paragraph 6 (line 15):\n\n- &quot;caricature&quot; spelled &quot;key utter roe =\r\nit key utter cheer utter roe&quot;. I&#39;d expect &quot;key *et*&quot;, but, California nativ=\r\ne.\n\nUpdated in &lt;https://github.com/adiabatic/qs-literature/commit/784cc96a9=\r\n5ad0daf5150313ce426976ef1f0f195&gt;.\n"
+}

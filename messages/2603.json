@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "YV1XtATzbJ_kq1xA_ak_jU87MOhoGkPPcCLOskrpSosN-_xrl-Gx1AIa3Iwsj2d-uAy6j6gmKiv9efsm78jujfi7",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Re: quikscript.org + Unicode/PUA fonts",
+  "postDate": "1399832133",
+  "msgId": 2603,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMTQwNTExMTgxNTMyLkdFMTc5NDZAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PDEzOTk4MzA2MTIuNjQ5Ny4xMTYxMDgwNzcuMjlBREI2QjZAd2VibWFpbC5tZXNzYWdpbmdlbmdpbmUuY29tPg==",
+    "referencesHeader": "PDEzOTk4MzA2MTIuNjQ5Ny4xMTYxMDgwNzcuMjlBREI2QjZAd2VibWFpbC5tZXNzYWdpbmdlbmdpbmUuY29tPg=="
+  },
+  "prevInTopic": 2602,
+  "nextInTopic": 0,
+  "prevInTime": 2602,
+  "nextInTime": 2604,
+  "topicId": 2602,
+  "numMessagesInTopic": 2,
+  "msgSnippet": "... Not necessarily.  You can configure the CMAP table in the font to map both PUA and standard codepoints to the same set of glyphs. For that matter, you",
+  "messageBody": "<div id=\"ygrps-yiv-1385055047\">Scott Ellsworth <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:scott@...\">scott@...</a> [Read_Alphabet] scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; 1. As I understand, mapping Quikscript characters to Unicode is still<br/>\n&gt; temporary, since Quikscript does not yet have any officially allocated<br/>\n&gt; section in Unicode. So if and when Quikscript does get some Unicode<br/>\n&gt; space allocated, any font I create now for PUA/Unicode will become<br/>\n&gt; obsolete. <br/>\n<br/>\n </span></blockquote>Not necessarily.  You can configure the CMAP table in the font to map<br/>\nboth PUA and standard codepoints to the same set of glyphs.<br/>\nFor that matter, you could have a triple mapping: low-end code points,<br/>\nPUA code points, and (when defined) standard code points.  In that<br/>\nway the font would be usable with documents in all these encodings.<br/>\n<br/>\n-- <br/>\nJohn Cowan          <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a>        <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a><br/>\nAlmost all theorems are true, but almost all proofs have bugs.<br/>\n        --Paul Pedersen</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 94847 invoked by uid 102); 11 May 2014 18:15:33 -0000\r\nX-Received: from unknown (HELO mtaq1.grp.bf1.yahoo.com) (10.193.84.32)\n  by m1.grp.bf1.yahoo.com with SMTP; 11 May 2014 18:15:33 -0000\r\nX-Received: (qmail 13618 invoked from network); 11 May 2014 18:15:33 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mtaq1.grp.bf1.yahoo.com with SMTP; 11 May 2014 18:15:33 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.72)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1WjYHd-0005l1-0f\n\tfor Read_Alphabet@yahoogroups.com; Sun, 11 May 2014 14:15:33 -0400\r\nDate: Sun, 11 May 2014 14:15:33 -0400\r\nTo: &quot;Scott Ellsworth scott@... [Read_Alphabet]&quot; &lt;Read_Alphabet@yahoogroups.com&gt;\r\nMessage-ID: &lt;20140511181532.GE17946@...&gt;\r\nReferences: &lt;1399830612.6497.116108077.29ADB6B6@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;1399830612.6497.116108077.29ADB6B6@...&gt;\r\nUser-Agent: Mutt/1.5.20 (2009-06-14)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nX-eGroups-From: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: quikscript.org + Unicode/PUA fonts\r\nX-Yahoo-Group-Post: member; u=212516; y=Wpb_wXTv3PPOVw_ZP05QB9dZZe6qYnpZ_8GzCbWgsDrFN8X_Qg\r\nX-Yahoo-Profile: johnwcowan\r\nFrom: John Cowan &lt;cowan@...&gt;\r\n\r\nScott Ellsworth scott@... [Read_Alphabet] scripsit:\n\n&gt; 1. As I understand, mapping Quikscript characters to Unicode is still\n&gt; temporary, since Quikscript does not yet have any officially allocated\n&gt; section in Unicode. So if and when Quikscript does get some Unicode\n&gt; space allocated, any font I create now for PUA/Unicode will become\n&gt; obsolete. \n\nNot necessarily.  You can configure the CMAP table in the font to map\nboth PUA and standard codepoints to the same set of glyphs.\nFor that matter, you could have a triple mapping: low-end code points,\nPUA code points, and (when defined) standard code points.  In that\nway the font would be usable with documents in all these encodings.\n\n-- \nJohn Cowan          http://www.ccil.org/~cowan        cowan@...\nAlmost all theorems are true, but almost all proofs have bugs.\n        --Paul Pedersen\n\n"
+}

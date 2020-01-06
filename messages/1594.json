@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "97HNnerxExu7YRU9w1PnxGjsh0RDXRCfX1huJ13U8htn7jfQqFAEu7j-HXq45eOkDH5Q0nh5BRWMJwW13NyNajBg",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Re: On PALM",
+  "postDate": "1195617147",
+  "msgId": 1594,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMTIxMDM1MjI3LkdDMjU0MkBtZXJjdXJ5LmNjaWwub3JnPg==",
+    "inReplyToHeader": "PDQ3NDM3REFFLjIwOTA3MDdAaWdsb3UuY29tPg==",
+    "referencesHeader": "PGZodnJ0MCs4YjBjQGVHcm91cHMuY29tPiA8NDc0MzdEQUUuMjA5MDcwN0BpZ2xvdS5jb20+"
+  },
+  "prevInTopic": 1593,
+  "nextInTopic": 1595,
+  "prevInTime": 1593,
+  "nextInTime": 1595,
+  "topicId": 1571,
+  "numMessagesInTopic": 85,
+  "msgSnippet": "... It depends on how the ligature table is set up.  Most computer fonts don t ligature ff , for example, although that is practically universal in print. ",
+  "messageBody": "<div id=\"ygrps-yiv-1052575627\">Paul Tremblay scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Good. I&#39;m glad to see others agree with me here. I need to point out <br/>\n&gt; that using one of the ligatures may not be the best solution. A font <br/>\n&gt; uses ligatures automatically, I believe. So when it finds the <br/>\n&gt; combination of Ado Roar, it substitutes Earth, (if the font is designed <br/>\n&gt; with ligatures, which mine is not, at least yet). It can&#39;t distinguish <br/>\n&gt; when to use it and when not to use it. <br/>\n<br/>\n </span></blockquote>It depends on how the ligature table is set up.  Most computer fonts don&#39;t<br/>\nligature &quot;ff&quot;, for example, although that is practically universal<br/>\nin print.<br/>\n<br/>\nThere are two special Unicode characters, U+200D to place between two<br/>\ncharacters to encourage them to ligature if they can, and U+200C<br/>\nto prevent ligaturing.  These can be put in the ligature table<br/>\nso that e.g. U+xxxx U+200D U+yyyy triggers a ligature of xxxx and yyyy.<br/>\n<br/>\n-- <br/>\nIt was impossible to inveigle           John Cowan &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>&gt;<br/>\nGeorg Wilhelm Friedrich Hegel           <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a><br/>\nInto offering the slightest apology<br/>\nFor his Phenomenology.                      --W. H. Auden, from &quot;People&quot; (1953)</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 23074 invoked from network); 21 Nov 2007 03:52:28 -0000\r\nX-Received: from unknown (66.218.67.96)\n  by m54.grp.scd.yahoo.com with QMQP; 21 Nov 2007 03:52:28 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta17.grp.scd.yahoo.com with SMTP; 21 Nov 2007 03:52:28 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1IugdX-0006WT-ME\n\tfor Read_Alphabet@yahoogroups.com; Tue, 20 Nov 2007 22:52:27 -0500\r\nDate: Tue, 20 Nov 2007 22:52:27 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20071121035227.GC2542@...&gt;\r\nReferences: &lt;fhvrt0+8b0c@...&gt; &lt;47437DAE.2090707@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;47437DAE.2090707@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: On PALM\r\nX-Yahoo-Group-Post: member; u=212516; y=xQAPW-VclXQCdgJWKvgC2PZGQaORTFGX0_CtW-puX13LmR_p-w\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nPaul Tremblay scripsit:\n\n&gt; Good. I&#39;m glad to see others agree with me here. I need to point out \n&gt; that using one of the ligatures may not be the best solution. A font \n&gt; uses ligatures automatically, I believe. So when it finds the \n&gt; combination of Ado Roar, it substitutes Earth, (if the font is designed \n&gt; with ligatures, which mine is not, at least yet). It can&#39;t distinguish \n&gt; when to use it and when not to use it. \n\nIt depends on how the ligature table is set up.  Most computer fonts don&#39;t\nligature &quot;ff&quot;, for example, although that is practically universal\nin print.\n\nThere are two special Unicode characters, U+200D to place between two\ncharacters to encourage them to ligature if they can, and U+200C\nto prevent ligaturing.  These can be put in the ligature table\nso that e.g. U+xxxx U+200D U+yyyy triggers a ligature of xxxx and yyyy.\n\n-- \nIt was impossible to inveigle           John Cowan &lt;cowan@...&gt;\nGeorg Wilhelm Friedrich Hegel           http://www.ccil.org/~cowan\nInto offering the slightest apology\nFor his Phenomenology.                      --W. H. Auden, from &quot;People&quot; (1953)\n\n"
+}

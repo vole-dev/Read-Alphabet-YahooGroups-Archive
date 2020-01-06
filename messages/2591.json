@@ -1,0 +1,31 @@
+{
+  "userId": 338026175,
+  "authorName": "",
+  "from": "&lt;tevel.drinkwater@...&gt;",
+  "profile": "corsair0",
+  "replyTo": "LIST",
+  "senderId": "Tvlk7DFxP7iQCK-QSGfIz0btV7DvQbcLbzVERKdZ-nu5TF9_xCEXHCxzxVfDwSDvQlXjdvz63ED7NekViUPDvqR9Ww",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Thanks for the great resources!",
+  "postDate": "1392413659",
+  "msgId": 2591,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGxkbTI0cisxaG9lcWlpQFlhaG9vR3JvdXBzLmNvbT4="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 0,
+  "prevInTime": 2590,
+  "nextInTime": 2592,
+  "topicId": 2591,
+  "numMessagesInTopic": 1,
+  "msgSnippet": "Just started teaching myself Quickscript on Tuesday, and on Wednesday was thinking to myself it would be really cool if I could practice reading a story like",
+  "messageBody": "<div id=\"ygrps-yiv-1369575676\">Just started teaching myself Quickscript on Tuesday, and on Wednesday was thinking to myself &quot;it would be really cool if I could practice reading a story like Call of Cthulhu or something.&quot;&nbsp; And there it is!&nbsp; I&#39;m only into the second paragraph, as I&#39;m trying to be thorough and I haven&#39;t had much time to practice, but I&#39;m looking forward to practising more!<br>-Tev</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;tevel.drinkwater@...&gt;\r\nReceived: (qmail 45219 invoked by uid 102); 14 Feb 2014 22:49:27 -0000\r\nReceived: from unknown (HELO mtaq6.grp.bf1.yahoo.com) (10.193.84.37)\n  by m15.grp.bf1.yahoo.com with SMTP; 14 Feb 2014 22:49:27 -0000\r\nReceived: (qmail 7675 invoked from network); 14 Feb 2014 22:49:27 -0000\r\nReceived: from unknown (HELO n3-vm4.bullet.mail.bf1.yahoo.com) (72.30.235.40)\n  by mtaq6.grp.bf1.yahoo.com with SMTP; 14 Feb 2014 22:49:27 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=echoe; t=1392418167; bh=MyCZnQJUONpHpnmHnksq0h04BD1TQq3f3tN1hjPrJuo=; h=Received:Received:Received:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:Date:X-Received:Message-ID:X-Mailer:MIME-Version:X-Yahoo-Newman-Property:Content-Type:X-Originating-IP:X-eGroups-Msg-Info:X-Yahoo-Post-IP:From:Subject:X-Yahoo-Group-Post:X-Yahoo-Profile:X-YGroups-SubInfo:To:Sender:X-Yahoo-Newman-Property:X-Yahoo-Newman-Id:X-eGroups-Approved-By:X-eGroups-Auth; b=WzEXRju965gKqGIfCnKJyZ8YimewJJOChKD4S55dORo9OCfhCdfgIM35X4tu/F6qPZ70pjSj4Oua7L0407d+qBmGm9GlcGVKcHM2wCyK9Mz/FQx+7m+bVL1B/IX2qcG185FW9y9qtm59hJkfvyoAYaPC2kgeBhVFegTcKrfNHrI=\r\nReceived: from [66.196.81.175] by n3.bullet.mail.bf1.yahoo.com with NNFMP; 14 Feb 2014 22:49:27 -0000\r\nReceived: from [10.193.75.124] by t5.bullet.mail.bf1.yahoo.com with NNFMP; 14 Feb 2014 22:49:27 -0000\r\nReceived: from [127.0.0.1] by gapi6.grp.bf1.yahoo.com with NNFMP; 14 Feb 2014 22:49:27 -0000\r\nX-Sender: tevel.drinkwater@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 64050 invoked by uid 102); 14 Feb 2014 21:34:19 -0000\r\nX-Received: from unknown (HELO mtaq1.grp.bf1.yahoo.com) (10.193.84.32)\n  by m17.grp.bf1.yahoo.com with SMTP; 14 Feb 2014 21:34:19 -0000\r\nX-Received: (qmail 30270 invoked from network); 14 Feb 2014 21:34:19 -0000\r\nX-Received: from unknown (HELO n13-vm10.bullet.mail.bf1.yahoo.com) (66.196.80.187)\n  by mtaq1.grp.bf1.yahoo.com with SMTP; 14 Feb 2014 21:34:19 -0000\r\nX-Received: from [66.196.81.175] by n13.bullet.mail.bf1.yahoo.com with NNFMP; 14 Feb 2014 21:34:19 -0000\r\nX-Received: from [10.193.242.232] by t5.bullet.mail.bf1.yahoo.com with NNFMP; 14 Feb 2014 21:34:19 -0000\r\nDate: 14 Feb 2014 13:34:19 -0800\r\nX-Received: from [127.0.0.1] by gapi1.grp.bf1.yahoo.com with NNFMP; 14 Feb 2014 21:34:19 -0000\r\nMessage-ID: &lt;ldm24r+1hoeqii@...&gt;\r\nX-Mailer: Yahoo Groups Message Poster\r\nMIME-Version: 1.0\r\nX-Yahoo-Newman-Property: groups-compose\r\nContent-Type: multipart/alternative; boundary=&quot;9nlWnTS9ocNmxdhsK3FKVLWiM6a5jwOaA8HvrLV&quot;\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: &lt;tevel.drinkwater@...&gt;\r\nSubject: Thanks for the great resources!\r\nX-Yahoo-Group-Post: member; u=338026175; y=OOPJeL20hWKxwIP1e5D4Eep-tI2-7mFlbJ8kbKYl1w-pnIQ\r\nX-Yahoo-Profile: corsair0\r\nTo: Read_Alphabet@yahoogroups.com\r\nX-Yahoo-Newman-Property: groups-system\r\nX-Yahoo-Newman-Id: groups-system\r\nX-eGroups-Approved-By: tinyallen via web; 14 Feb 2014 14:49:27 -0000\r\n\r\n\r\n--9nlWnTS9ocNmxdhsK3FKVLWiM6a5jwOaA8HvrLV\r\nContent-Type:  text/plain;  charset=utf-8 \r\nContent-Transfer-Encoding: base64\r\n\r\nSnVzdCBzdGFydGVkIHRlYWNoaW5nIG15c2VsZiBRdWlja3NjcmlwdCBvbiBUdWVzZGF5LCBhbmQg\r\nb24gV2VkbmVzZGF5IHdhcyB0aGlua2luZyB0byBteXNlbGYgIml0IHdvdWxkIGJlIHJlYWxseSBj\r\nb29sIGlmIEkgY291bGQgcHJhY3RpY2UgcmVhZGluZyBhIHN0b3J5IGxpa2UgQ2FsbCBvZiBDdGh1\r\nbGh1IG9yIHNvbWV0aGluZy4iICBBbmQgdGhlcmUgaXQgaXMhICBJJ20gb25seSBpbnRvIHRoZSBz\r\nZWNvbmQgcGFyYWdyYXBoLCBhcyBJJ20gdHJ5aW5nIHRvIGJlIHRob3JvdWdoIGFuZCBJIGhhdmVu\r\nJ3QgaGFkIG11Y2ggdGltZSB0byBwcmFjdGljZSwgYnV0IEknbSBsb29raW5nIGZvcndhcmQgdG8g\r\ncHJhY3Rpc2luZyBtb3JlIQ0KLVRldg==\r\n\r\n\r\n--9nlWnTS9ocNmxdhsK3FKVLWiM6a5jwOaA8HvrLV\r\nContent-Type:  text/html;  charset=utf-8 \r\nContent-Transfer-Encoding: base64\r\n\r\nSnVzdCBzdGFydGVkIHRlYWNoaW5nIG15c2VsZiBRdWlja3NjcmlwdCBvbiBUdWVzZGF5LCBhbmQg\r\nb24gV2VkbmVzZGF5IHdhcyB0aGlua2luZyB0byBteXNlbGYgJnF1b3Q7aXQgd291bGQgYmUgcmVh\r\nbGx5IGNvb2wgaWYgSSBjb3VsZCBwcmFjdGljZSByZWFkaW5nIGEgc3RvcnkgbGlrZSBDYWxsIG9m\r\nIEN0aHVsaHUgb3Igc29tZXRoaW5nLiZxdW90OyZuYnNwOyBBbmQgdGhlcmUgaXQgaXMhJm5ic3A7\r\nIEkmIzM5O20gb25seSBpbnRvIHRoZSBzZWNvbmQgcGFyYWdyYXBoLCBhcyBJJiMzOTttIHRyeWlu\r\nZyB0byBiZSB0aG9yb3VnaCBhbmQgSSBoYXZlbiYjMzk7dCBoYWQgbXVjaCB0aW1lIHRvIHByYWN0\r\naWNlLCBidXQgSSYjMzk7bSBsb29raW5nIGZvcndhcmQgdG8gcHJhY3Rpc2luZyBtb3JlITxicj4t\r\nVGV2\r\n\r\n\r\n--9nlWnTS9ocNmxdhsK3FKVLWiM6a5jwOaA8HvrLV--\r\n\n"
+}

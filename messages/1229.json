@@ -1,0 +1,33 @@
+{
+  "userId": 82638473,
+  "authorName": "Michael Everson",
+  "from": "Michael Everson &lt;everson@...&gt;",
+  "profile": "evertype",
+  "replyTo": "LIST",
+  "senderId": "3dkInDDRSPlCk6ejqxk6maOZkGFAoWHPYQj4OyRbmROWBjuGeU0zMnMXmRwHPepa--tLMb1Hggg4O1ayBto9cNNmwEser_SMJuzqiEg",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Review charts for Shavian Quikscript Extensions",
+  "postDate": "1193943768",
+  "msgId": 1229,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PHAwNjI0MDgwOWMzNGZkMjQ0MDUyMkBbMTkyLjE2OC4xLjEyNl0+",
+    "inReplyToHeader": "PDJBM0RCN0FBLUQ0NEUtNDI3Ri04Qzc5LTBCREIwQUYxRjEyOEBsYW5nYW4ubmV0Pg==",
+    "referencesHeader": "PGZnODdjaSt1b3BAZUdyb3Vwcy5jb20+IDw0NzI5MDE4Ni4zMDMwMjA2QHlhaG9vLmNvLnVrPiA8N0Y2NTNBNzctNUQwRi00Q0JBLTlGOTItQjQwODI5NTYyNUVEQGxhbmdhbi5uZXQ+IDxwMDYyNDA4MDJjMzRmOGRiOWY0YTlAWzE5Mi4xNjguMS4xMjZdPiA8MkEzREI3QUEtRDQ0RS00MjdGLThDNzktMEJEQjBBRjFGMTI4QGxhbmdhbi5uZXQ+"
+  },
+  "prevInTopic": 1220,
+  "nextInTopic": 1239,
+  "prevInTime": 1228,
+  "nextInTime": 1230,
+  "topicId": 1164,
+  "numMessagesInTopic": 21,
+  "msgSnippet": "... Yes, but the same is true if you have Serbian in Cyrillic or Latin script. I assume that you would use a script tag in some way to get the Serbian read out",
+  "messageBody": "<div id=\"ygrps-yiv-233487208\">At 08:35 -0700 2007-11-01, oliver langan wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;&gt;I&#39;d say the real questionable disunification is MIME and NUN from AH and AWE.<br/>\n&gt;<br/>\n&gt;As I see it, the main disagreement over shared code points has been <br/>\n&gt;whether to reuse encodings where the glyphs look and sound the same, <br/>\n&gt;or if (as you suggest) simply looking the same is sufficient.  In <br/>\n&gt;the latter case, I have a practical question: what of <br/>\n&gt;computer-generated speech?  If there are new code points for AH and <br/>\n&gt;AWE, despite them having similar glyph shapes, then the <br/>\n&gt;pronunciation of the characters should be clear (our discussions of <br/>\n&gt;dialect notwithstanding); if they share code points I would imagine <br/>\n&gt;there would have to be a higher-level encoding which determines <br/>\n&gt;whether the computer is reading Shavian or QuickScript.<br/>\n<br/>\n </span></blockquote>Yes, but the same is true if you have Serbian in Cyrillic or Latin <br/>\nscript. I assume that you would use a script tag in some way to get <br/>\nthe Serbian read out correctly. If that were the case...<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;Would it be possible in that case to have both scripts on the same page?<br/>\n<br/>\n </span></blockquote>... then it does seem that Shaw might be supplemented by a Shqw which <br/>\nthe text reader would have to be able to parse. Ranges tagged en_Shaw <br/>\nand ranges tagged en_Shqw would invoke different speech modules.<br/>\n<br/>\nRight, John? I mean... I&#39;m not sure I can get the Mac OS for instance <br/>\nto read anything but English at present.<br/>\n-- <br/>\nMichael Everson * <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.evertype.com\">http://www.evertype.com</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;everson@...&gt;\r\nX-Sender: everson@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 23905 invoked from network); 1 Nov 2007 19:07:41 -0000\r\nX-Received: from unknown (66.218.67.97)\n  by m48.grp.scd.yahoo.com with QMQP; 1 Nov 2007 19:07:41 -0000\r\nX-Received: from unknown (HELO sl14.dnsireland.com) (74.86.129.163)\n  by mta18.grp.scd.yahoo.com with SMTP; 1 Nov 2007 19:07:41 -0000\r\nX-Received: from [88.81.100.235] (helo=[192.168.1.126])\n\tby sl14.dnsireland.com with esmtpa (Exim 4.68)\n\t(envelope-from &lt;everson@...&gt;)\n\tid 1InfOG-0003kx-5D; Thu, 01 Nov 2007 19:07:40 +0000\r\nMime-Version: 1.0\r\nMessage-Id: &lt;p06240809c34fd2440522@[192.168.1.126]&gt;\r\nIn-Reply-To: &lt;2A3DB7AA-D44E-427F-8C79-0BDB0AF1F128@...&gt;\r\nReferences: &lt;fg87ci+uop@...&gt; &lt;47290186.3030206@...&gt;\n &lt;7F653A77-5D0F-4CBA-9F92-B408295625ED@...&gt;\n &lt;p06240802c34f8db9f4a9@[192.168.1.126]&gt;\n &lt;2A3DB7AA-D44E-427F-8C79-0BDB0AF1F128@...&gt;\r\nDate: Thu, 1 Nov 2007 19:02:48 +0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nCc: oliver langan &lt;oliver@...&gt;\r\nContent-Type: text/plain; charset=&quot;us-ascii&quot; ; format=&quot;flowed&quot;\r\nX-AntiAbuse: This header was added to track abuse, please include it with any abuse report\r\nX-AntiAbuse: Primary Hostname - sl14.dnsireland.com\r\nX-AntiAbuse: Original Domain - yahoogroups.com\r\nX-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]\r\nX-AntiAbuse: Sender Address Domain - evertype.com\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Michael Everson &lt;everson@...&gt;\r\nSubject: Re: [Read_Alphabet] Review charts for Shavian Quikscript\n Extensions\r\nX-Yahoo-Group-Post: member; u=82638473; y=sjVgVbLezmcbnzZTvRkEKgff5v5KOdFA3B61x1bzzwo41Y0\r\nX-Yahoo-Profile: evertype\r\n\r\nAt 08:35 -0700 2007-11-01, oliver langan wrote:\n&gt;&gt;I&#39;d say the real questionable disunification is MIME and NUN from AH and AWE.\n&gt;\n&gt;As I see it, the main disagreement over shared code points has been \n&gt;whether to reuse encodings where the glyphs look and sound the same, \n&gt;or if (as you suggest) simply looking the same is sufficient.  In \n&gt;the latter case, I have a practical question: what of \n&gt;computer-generated speech?  If there are new code points for AH and \n&gt;AWE, despite them having similar glyph shapes, then the \n&gt;pronunciation of the characters should be clear (our discussions of \n&gt;dialect notwithstanding); if they share code points I would imagine \n&gt;there would have to be a higher-level encoding which determines \n&gt;whether the computer is reading Shavian or QuickScript.\n\nYes, but the same is true if you have Serbian in Cyrillic or Latin \nscript. I assume that you would use a script tag in some way to get \nthe Serbian read out correctly. If that were the case...\n\n&gt;Would it be possible in that case to have both scripts on the same page?\n\n... then it does seem that Shaw might be supplemented by a Shqw which \nthe text reader would have to be able to parse. Ranges tagged en_Shaw \nand ranges tagged en_Shqw would invoke different speech modules.\n\nRight, John? I mean... I&#39;m not sure I can get the Mac OS for instance \nto read anything but English at present.\n-- \nMichael Everson * http://www.evertype.com\n\n"
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 140740123,
+  "authorName": "Andy Walker",
+  "from": "Andy Walker &lt;kyudosha@...&gt;",
+  "profile": "kyudosha",
+  "replyTo": "LIST",
+  "senderId": "26ZliBVz2X7FKAlJYyCHWEgFjdsrCRkwl_ZS8FXZ5TWnzNQ-LlB5Ok-LzvepLRuX2CxDUvSQq67oCHKIa8jAerBRpqdkKc8",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "My layout",
+  "postDate": "1055181711",
+  "msgId": 321,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDMwNjA5MTgwMTUxLjU0MzQ0LnFtYWlsQHdlYjExNTA3Lm1haWwueWFob28uY29tPg==",
+    "inReplyToHeader": "PDEwNTUxNjc2ODcuMTM4LjMzNzU4Lm0xMkB5YWhvb2dyb3Vwcy5jb20+"
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 343,
+  "prevInTime": 320,
+  "nextInTime": 322,
+  "topicId": 321,
+  "numMessagesInTopic": 4,
+  "msgSnippet": "People have asked if I m going to take the half-letters into account as well as wondering what sort of layout I m talking about.  I figure I ll kill two",
+  "messageBody": "<div id=\"ygrps-yiv-1979053247\">People have asked if I&#39;m going to take the<br/>\nhalf-letters into account as well as wondering what<br/>\nsort of &quot;layout&quot; I&#39;m talking about.  I figure I&#39;ll<br/>\nkill two birds with one stone, and show you the layout<br/>\nI&#39;m currently using.  Note: it is BASED upon a<br/>\none-to-one of the sounds represented by TO, but not<br/>\nprecisely on (as there are some letters that are<br/>\nredundant).  Where possible, I have used mnemonic<br/>\nlinks to make things easier.  Where not possible, I<br/>\nhave simply paired up a likely pair of characters on<br/>\none key (you will notice this with #39/#40.  I have<br/>\nALWAYS tried to pair up characters in an intuitive way<br/>\non the keys.  This is somewhat primitive (as I have<br/>\ndrawn the characters by hand in lieu of a finished<br/>\nfont), but hopefully you&#39;ll<br/>\nsee what I&#39;m getting at.<br/>\n<br/>\nNOTE: The dotted &quot;boxes&quot; represent that this character<br/>\nis a half letter meant to be above or below some other letter.<br/>\n<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! Calendar - Free online calendar with sync to Outlook(TM).<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://calendar.yahoo.com\">http://calendar.yahoo.com</a></div>",
+  "specialLinks": [],
+  "attachmentsInfo": [],
+  "rawEmail": "Return-Path: &lt;kyudosha@...&gt;\r\nX-Sender: kyudosha@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 56493 invoked from network); 9 Jun 2003 18:01:51 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m11.grp.scd.yahoo.com with QMQP; 9 Jun 2003 18:01:51 -0000\r\nReceived: from unknown (HELO web11507.mail.yahoo.com) (216.136.172.39)\n  by mta2.grp.scd.yahoo.com with SMTP; 9 Jun 2003 18:01:51 -0000\r\nMessage-ID: &lt;20030609180151.54344.qmail@...&gt;\r\nReceived: from [209.197.45.31] by web11507.mail.yahoo.com via HTTP; Mon, 09 Jun 2003 11:01:51 PDT\r\nDate: Mon, 9 Jun 2003 11:01:51 -0700 (PDT)\r\nSubject: My layout\r\nTo: Read_Alphabet@yahoogroups.com\r\nIn-Reply-To: &lt;1055167687.138.33758.m12@yahoogroups.com&gt;\r\nMIME-Version: 1.0\r\nContent-Type: multipart/mixed; boundary=&quot;0-1324778526-1055181711=:53994&quot;\r\nFrom: Andy Walker &lt;kyudosha@...&gt;\r\nX-Yahoo-Group-Post: member; u=140740123\r\nX-Yahoo-Profile: kyudosha\r\n\r\n\r\n--0-1324778526-1055181711=:53994\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Id: \r\nContent-Disposition: inline\r\n\r\n[ Attachment content not displayed ]\r\n--0-1324778526-1055181711=:53994\r\nContent-Type: image/jpeg; name=&quot;kingsleymp.jpg&quot;\r\nContent-Description: kingsleymp.jpg\r\nContent-Disposition: inline; filename=&quot;kingsleymp.jpg&quot;\r\n\r\n[ Attachment content not displayed ]\r\n--0-1324778526-1055181711=:53994--\r\n\n"
+}

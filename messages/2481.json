@@ -1,0 +1,33 @@
+{
+  "userId": 82638473,
+  "authorName": "Michael Everson",
+  "from": "Michael Everson &lt;everson@...&gt;",
+  "profile": "evertype",
+  "replyTo": "LIST",
+  "senderId": "BPmNUiZENF5aD2wfFWNFcRUBxc9mrtvu_8aY6TRg0H5kVyw7IcuLoSSvkBzBq455sR1XBpeczsJY9jQJeAqaDmDebfqjYnakG1CZtc8",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] What language tags for Quikscript?",
+  "postDate": "1367651425",
+  "msgId": 2481,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDU3QzdCRDY4LTcxMzQtNEZFMy1BQzNDLUVGNjIxNDA4NjIwOUBldmVydHlwZS5jb20+",
+    "inReplyToHeader": "PDIwMTMwNTA0MDIyNzI5LkdGMjg5OTlAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "referencesHeader": "PDcyQjhDNDYyLUVBMDQtNDBEMi04N0I4LUU1NUFBRjFDQUFDMkBnbWFpbC5jb20+IDwyMDEzMDUwNDAyMjcyOS5HRjI4OTk5QG1lcmN1cnkuY2NpbC5vcmc+"
+  },
+  "prevInTopic": 2479,
+  "nextInTopic": 2482,
+  "prevInTime": 2480,
+  "nextInTime": 2482,
+  "topicId": 2478,
+  "numMessagesInTopic": 5,
+  "msgSnippet": "... Correct. ... It is more likely that we will wait till discussions about the encoding proceed, than to encode a script tag in advance of a decision. ... ",
+  "messageBody": "<div id=\"ygrps-yiv-473832827\">On 4 May 2013, at 03:27, John Cowan &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; One question to be answered first is whether Quikscript should be coded as a variant of Shavian script, in the same sense that German Fraktur script is coded as a variant of Latin script. <br/>\n<br/>\n </span></blockquote>Correct.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; ISO 15924 defines a script variant as a &quot;particular form of one script which is so distinctive<br/>\n&gt; a rendering as to almost be considered a unique script in itself&quot;. I think Quikscript qualifies. If so, I think we should request the code Shaq (variants differ in the last letter only), if not, the code Quik.<br/>\n<br/>\n </span></blockquote>It is more likely that we will wait till discussions about the encoding proceed, than to encode a script tag in advance of a decision. <br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; This issue is independent of Unicode unification or disunification and does not prejudice it either way. Fraktur letters are unified with ordinary Latin,<br/>\n<br/>\n </span></blockquote>Because they&#39;re Latin.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; but the three script variants of Georgian are not unified in Unicode.<br/>\n<br/>\n </span></blockquote>Because they&#39;re not actually script variants. A restaurant menu can be printed in Fraktur and people are expected to be able to read it. No Georgian even recognizes Khutsuri without special training.<br/>\n<br/>\nMichael Everson * <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.evertype.com/\">http://www.evertype.com/</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;everson@...&gt;\r\nX-Sender: everson@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 26037 invoked from network); 4 May 2013 07:11:07 -0000\r\nX-Received: from unknown (10.193.84.163)\n  by m9.grp.bf1.yahoo.com with QMQP; 4 May 2013 07:11:07 -0000\r\nX-Received: from unknown (HELO lh19.dnsireland.com) (78.137.164.59)\n  by mta3.grp.bf1.yahoo.com with SMTP; 4 May 2013 07:11:06 -0000\r\nX-Received: from [77.107.209.124] (port=60337 helo=[192.168.10.11])\n\tby lh19.dnsireland.com with esmtpsa (TLSv1:AES128-SHA:128)\n\t(Exim 4.80)\n\t(envelope-from &lt;everson@...&gt;)\n\tid 1UYWcX-0001v5-1E\n\tfor Read_Alphabet@yahoogroups.com; Sat, 04 May 2013 08:11:01 +0100\r\nContent-Type: text/plain; charset=us-ascii\r\nMime-Version: 1.0 (Mac OS X Mail 6.3 &#92;(1503&#92;))\r\nIn-Reply-To: &lt;20130504022729.GF28999@...&gt;\r\nDate: Sat, 4 May 2013 08:10:25 +0100\r\nContent-Transfer-Encoding: quoted-printable\r\nMessage-Id: &lt;57C7BD68-7134-4FE3-AC3C-EF6214086209@...&gt;\r\nReferences: &lt;72B8C462-EA04-40D2-87B8-E55AAF1CAAC2@...&gt; &lt;20130504022729.GF28999@...&gt;\r\nTo: Read_Alphabet@yahoogroups.com\r\nX-Mailer: Apple Mail (2.1503)\r\nX-AntiAbuse: This header was added to track abuse, please include it with any abuse report\r\nX-AntiAbuse: Primary Hostname - lh19.dnsireland.com\r\nX-AntiAbuse: Original Domain - yahoogroups.com\r\nX-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]\r\nX-AntiAbuse: Sender Address Domain - evertype.com\r\nX-Source: \r\nX-Source-Args: \r\nX-Source-Dir: \r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Michael Everson &lt;everson@...&gt;\r\nSubject: Re: [Read_Alphabet] What language tags for Quikscript?\r\nX-Yahoo-Group-Post: member; u=82638473; y=KFa3gj3Axj8a6LpHQ4yvKCd18422_n4VPF2AvzgAlYR-Q70\r\nX-Yahoo-Profile: evertype\r\n\r\nOn 4 May 2013, at 03:27, John Cowan &lt;cowan@...&gt; wrote:\n\n&gt; One question=\r\n to be answered first is whether Quikscript should be coded as a variant of=\r\n Shavian script, in the same sense that German Fraktur script is coded as a=\r\n variant of Latin script. \n\nCorrect.\n\n&gt; ISO 15924 defines a script variant =\r\nas a &quot;particular form of one script which is so distinctive\n&gt; a rendering a=\r\ns to almost be considered a unique script in itself&quot;. I think Quikscript qu=\r\nalifies. If so, I think we should request the code Shaq (variants differ in=\r\n the last letter only), if not, the code Quik.\n\nIt is more likely that we w=\r\nill wait till discussions about the encoding proceed, than to encode a scri=\r\npt tag in advance of a decision. \n\n&gt; This issue is independent of Unicode u=\r\nnification or disunification and does not prejudice it either way. Fraktur =\r\nletters are unified with ordinary Latin,\n\nBecause they&#39;re Latin.\n\n&gt; but the=\r\n three script variants of Georgian are not unified in Unicode.\n\nBecause the=\r\ny&#39;re not actually script variants. A restaurant menu can be printed in Frak=\r\ntur and people are expected to be able to read it. No Georgian even recogni=\r\nzes Khutsuri without special training.\n\nMichael Everson * http://www.everty=\r\npe.com/\n\n\n"
+}

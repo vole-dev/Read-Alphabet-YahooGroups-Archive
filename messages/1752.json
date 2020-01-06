@@ -1,0 +1,31 @@
+{
+  "userId": 214981082,
+  "authorName": "Paul Tremblay",
+  "from": "Paul Tremblay &lt;phthenry@...&gt;",
+  "profile": "paulhtremblay",
+  "replyTo": "LIST",
+  "senderId": "xXSQ5X8qF3RvqJ-pQINLgzRr85mVDTvqIa-poVSZaL79L8z7MOg2pN20DkEhrRLco4v2XrNI6L4Ab7HOrQrdybeHpe8NRmr7Bg",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "how to spell words with /tS/",
+  "postDate": "1196823094",
+  "msgId": 1752,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ3NTYxMjM2LjMwODA1MDNAaWdsb3UuY29tPg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 1754,
+  "prevInTime": 1751,
+  "nextInTime": 1753,
+  "topicId": 1752,
+  "numMessagesInTopic": 6,
+  "msgSnippet": "I am editing a large word base right now, generated from getting phonetical pronunciations from words, and I keep coming across words like branch and beach",
+  "messageBody": "<div id=\"ygrps-yiv-1384458480\">\n<html>\n<head>\n</head>\n \nI am editing a large word base right now, generated from getting\nphonetical pronunciations from words, and I keep coming across words\nlike &quot;branch&quot; and &quot;beach&quot; which my program has transliterated,\naccording to the pronunciations, as /<font face=\"Thoth Sampa\">bratS</font>/\nand /<font face=\"Thoth Sampa\">bits</font>/. This seems wrong. It seems\nthey should be spelled /<font face=\"Thoth Sampa\">brac</font>/ and /<font\n face=\"Thoth Sampa\">bitc</font>/.<br>\n<br>\nPaul<br>\n \n</html></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;phthenry@...&gt;\r\nX-Sender: phthenry@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 23572 invoked from network); 5 Dec 2007 02:51:38 -0000\r\nX-Received: from unknown (66.218.67.97)\n  by m44.grp.scd.yahoo.com with QMQP; 5 Dec 2007 02:51:38 -0000\r\nX-Received: from unknown (HELO rdsmtp.iglou.com) (192.107.41.63)\n  by mta18.grp.scd.yahoo.com with SMTP; 5 Dec 2007 02:51:38 -0000\r\nX-Received: from iglou1.iglou.com ([192.107.41.3] helo=mail.iglou.com)\n\tby rdsmtp.iglou.com with esmtpa (Exim MTA/8.19.3)\n\t(envelope-from &lt;phthenry@...&gt;)\n\tid 1IzkML-0004au-Vm by authid &lt;igloumta&gt; with igloumta_auth\n\tfor Read_Alphabet@yahoogroups.com; Tue, 04 Dec 2007 21:51:37 -0500\r\nX-Received: from loudsl01-253-111-18.iglou.com ([64.253.111.18] helo=Enid-Johnsons-Computer.local)\n\tby smtp.iglou.com with esmtp (Exim MTA/8.19.3)\n\t(envelope-from &lt;phthenry@...&gt;)\n\tid 1IzkML-0005Dd-M5\n\tfor Read_Alphabet@yahoogroups.com; Tue, 04 Dec 2007 21:51:37 -0500\r\nMessage-ID: &lt;47561236.3080503@...&gt;\r\nDate: Tue, 04 Dec 2007 21:51:34 -0500\r\nUser-Agent: Thunderbird 2.0.0.9 (Macintosh/20071031)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nContent-Type: text/html; charset=ISO-8859-1\r\nContent-Transfer-Encoding: 7bit\r\nX-IgLou-Customer: 6ab7d2bd86677d7d54d075759b28f06c\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Paul Tremblay &lt;phthenry@...&gt;\r\nSubject: how to spell words with /tS/\r\nX-Yahoo-Group-Post: member; u=214981082; y=q3NbZqERJZ-JtIXWknDGTDsy74XpS73Yf9bxP9FSyaYK0o2B54qC6A\r\nX-Yahoo-Profile: paulhtremblay\r\n\r\n&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot;&gt;\n&lt;html&gt;\n&lt;head&gt;\n&lt;/head&gt;\n&lt;body bgcolor=&quot;#ffffff&quot; text=&quot;#000000&quot;&gt;\nI am editing a large word base right now, generated from getting\nphonetical pronunciations from words, and I keep coming across words\nlike &quot;branch&quot; and &quot;beach&quot; which my program has transliterated,\naccording to the pronunciations, as /&lt;font face=&quot;Thoth Sampa&quot;&gt;bratS&lt;/font&gt;/\nand /&lt;font face=&quot;Thoth Sampa&quot;&gt;bits&lt;/font&gt;/. This seems wrong. It seems\nthey should be spelled /&lt;font face=&quot;Thoth Sampa&quot;&gt;brac&lt;/font&gt;/ and /&lt;font\n face=&quot;Thoth Sampa&quot;&gt;bitc&lt;/font&gt;/.&lt;br&gt;\n&lt;br&gt;\nPaul&lt;br&gt;\n&lt;/body&gt;\n&lt;/html&gt;\n\n"
+}

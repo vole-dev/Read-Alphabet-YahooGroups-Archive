@@ -1,0 +1,33 @@
+{
+  "userId": 180175951,
+  "authorName": "amd64_hacker",
+  "from": "amd64_hacker &lt;amd64_hacker@...&gt;",
+  "profile": "amd64_hacker",
+  "replyTo": "LIST",
+  "senderId": "JHFnylMu2cjestl3jiQzsI1faTmadmnph3ytbb7KZXW9tn4fyNyuXtzaxJIHAZbsY3UYoVMMHCKBmheyGIcxsB7RWRDiTCDZC9UCzOLq",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Unicode proposal again.",
+  "postDate": "1180475727",
+  "msgId": 964,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ2NUNBMTRGLjQwMTAwMDBAeWFob28uY28udWs+",
+    "inReplyToHeader": "PDIwMDcwNTI5MjEwMzI5LkdKMjc0NkBtZXJjdXJ5LmNjaWwub3JnPg==",
+    "referencesHeader": "PGYzZjU2OCtuc2MwQGVHcm91cHMuY29tPiA8MDA1MDAxYzdhMWIzJDc4MTFkMTQwJDAzMDAwMDBhQHVsYjFpPiA8cDA2MjQwODAzYzI4MThjNWNhNzY3QFsxOTIuMTY4LjEuMTM0XT4gPDQ2NUM1RjE3LjMwMzA0MDBAeWFob28uY28udWs+IDwyMDA3MDUyOTIwMjY1Ny5HSTI3NDZAbWVyY3VyeS5jY2lsLm9yZz4gPDQ2NUM5M0ZBLjcwNzAxMDhAeWFob28uY28udWs+IDwyMDA3MDUyOTIxMDMyOS5HSjI3NDZAbWVyY3VyeS5jY2lsLm9yZz4="
+  },
+  "prevInTopic": 963,
+  "nextInTopic": 965,
+  "prevInTime": 963,
+  "nextInTime": 965,
+  "topicId": 947,
+  "numMessagesInTopic": 45,
+  "msgSnippet": "You re right again, I misread the specification. :( If we re going to include the use of Variant Selectors in our proposal they re going to have to have well",
+  "messageBody": "<div id=\"ygrps-yiv-759522134\">You&#39;re right again, I misread the specification. :(<br/>\nIf we&#39;re going to include the use of Variant Selectors in our proposal<br/>\nthey&#39;re going to have to have well defined behaviour.<br/>\n<br/>\nMy thinking was that VS1 would be the glyph as used on the &#39;The<br/>\nQuikscript Alphabet&#39; and the glyph which would be used in &#39;dumb&#39; or<br/>\nJunior fonts.<br/>\nVS2 would be the alternate form (as far as I can see each character has<br/>\nzero or one alternate forms), i.e. half-height or with different join<br/>\npoints.<br/>\n<br/>\nCan you see any issues with this?<br/>\n<br/>\nJohn Cowan wrote:<br/>\n<blockquote><span title=\"qreply\"> &gt;<br/>\n&gt; amd64_hacker scripsit:<br/>\n&gt;<br/>\n&gt; &gt; For example Quikscript Letter No followed by Variant Selector 1 would be<br/>\n&gt; &gt; the &#39;normal&#39; glyph with the join points at the top.<br/>\n&gt; &gt; Quikscript Letter No followed by Variant Selector 2 would select the<br/>\n&gt; &gt; &#39;alternate&#39; glyph with the joins at the bottom.<br/>\n&gt;<br/>\n&gt; Ah. Quite so.<br/>\n&gt;<br/>\n&gt; &gt; This isn&#39;t something I&#39;d recommend for day to day use and it certainly<br/>\n&gt; &gt; shouldn&#39;t be part of the proposal.<br/>\n&gt;<br/>\n&gt; Actually it must; uses of variant selectors should be blessed by UTC.<br/>\n&gt;<br/>\n&gt; -- <br/>\n&gt; In politics, obedience and support John Cowan &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a><br/>\n&gt; &lt;mailto:cowan%40ccil.org&gt;&gt;<br/>\n&gt; are the same thing. --Hannah Arendt <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a><br/>\n&gt; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/%7Ecowan\">http://www.ccil.org/%7Ecowan</a>&gt;<br/>\n&gt;<br/>\n&gt; </span></blockquote></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;amd64_hacker@...&gt;\r\nX-Sender: amd64_hacker@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 76783 invoked from network); 29 May 2007 21:52:56 -0000\r\nReceived: from unknown (66.218.66.167)\n  by m46.grp.scd.yahoo.com with QMQP; 29 May 2007 21:52:56 -0000\r\nReceived: from unknown (HELO smtp003.mail.ukl.yahoo.com) (217.12.11.34)\n  by mta6.grp.scd.yahoo.com with SMTP; 29 May 2007 21:52:56 -0000\r\nReceived: (qmail 74351 invoked from network); 29 May 2007 21:52:41 -0000\r\nReceived: from unknown (HELO ?192.168.0.1?) (amd64_hacker@82.19.52.162 with plain)\n  by smtp003.mail.ukl.yahoo.com with SMTP; 29 May 2007 21:52:41 -0000\r\nX-YMail-OSG: 8W9Y8H0VM1nxP6_cjn_XT2kGZfm7Sm0r0ULVgIrJYtBclx_ny1XYOBboIorNW4Fv4OQQUdNq_xDW_eVAym_fZeL.nDIOt2mQVQuJ36mt99XVRDTJuAVfYLHeYlc-\r\nMessage-ID: &lt;465CA14F.4010000@...&gt;\r\nDate: Tue, 29 May 2007 22:55:27 +0100\r\nUser-Agent: Thunderbird 1.5.0.10 (X11/20070306)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nReferences: &lt;f3f568+nsc0@...&gt; &lt;005001c7a1b3$7811d140$0300000a@ulb1i&gt; &lt;p06240803c2818c5ca767@[192.168.1.134]&gt; &lt;465C5F17.3030400@...&gt; &lt;20070529202657.GI2746@...&gt; &lt;465C93FA.7070108@...&gt; &lt;20070529210329.GJ2746@...&gt;\r\nIn-Reply-To: &lt;20070529210329.GJ2746@...&gt;\r\nX-Enigmail-Version: 0.94.0.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: amd64_hacker &lt;amd64_hacker@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Unicode proposal again.\r\nX-Yahoo-Group-Post: member; u=180175951; y=wvSkOXHD4pJp18LV1nt4FxKlKtVp_qE1k4vDTHwR-qtrBvzHN56X\r\nX-Yahoo-Profile: amd64_hacker\r\n\r\nYou&#39;re right again, I misread the specification. :(\nIf we&#39;re going to include the use of Variant Selectors in our proposal\nthey&#39;re going to have to have well defined behaviour.\n\nMy thinking was that VS1 would be the glyph as used on the &#39;The\nQuikscript Alphabet&#39; and the glyph which would be used in &#39;dumb&#39; or\nJunior fonts.\nVS2 would be the alternate form (as far as I can see each character has\nzero or one alternate forms), i.e. half-height or with different join\npoints.\n\nCan you see any issues with this?\n\nJohn Cowan wrote:\n&gt;\n&gt; amd64_hacker scripsit:\n&gt;\n&gt; &gt; For example Quikscript Letter No followed by Variant Selector 1 would be\n&gt; &gt; the &#39;normal&#39; glyph with the join points at the top.\n&gt; &gt; Quikscript Letter No followed by Variant Selector 2 would select the\n&gt; &gt; &#39;alternate&#39; glyph with the joins at the bottom.\n&gt;\n&gt; Ah. Quite so.\n&gt;\n&gt; &gt; This isn&#39;t something I&#39;d recommend for day to day use and it certainly\n&gt; &gt; shouldn&#39;t be part of the proposal.\n&gt;\n&gt; Actually it must; uses of variant selectors should be blessed by UTC.\n&gt;\n&gt; -- \n&gt; In politics, obedience and support John Cowan &lt;cowan@...\n&gt; &lt;mailto:cowan%40ccil.org&gt;&gt;\n&gt; are the same thing. --Hannah Arendt http://www.ccil.org/~cowan\n&gt; &lt;http://www.ccil.org/%7Ecowan&gt;\n&gt;\n&gt;  \n\n\n"
+}

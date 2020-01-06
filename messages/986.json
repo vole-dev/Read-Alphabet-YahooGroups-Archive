@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "Zw_lJxzoKj045ZCy-M86XGebTQLD9UCsm32DC_MF0jZXxbUINeQNq0HUq6Bdzvq2jAUpqs99QCBiHW_1gQZZ_DcJ",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Unicode proposal again.",
+  "postDate": "1180807910",
+  "msgId": 986,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcwNjAyMTgxMTQ5LkdEMjI2MDBAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PDk3QThFREIwLUQyOEEtNEE3RS04OTg5LTA3Qjg4RjEwNzYxMkBtYWMuY29tPg==",
+    "referencesHeader": "PDk3QThFREIwLUQyOEEtNEE3RS04OTg5LTA3Qjg4RjEwNzYxMkBtYWMuY29tPg=="
+  },
+  "prevInTopic": 985,
+  "nextInTopic": 987,
+  "prevInTime": 985,
+  "nextInTime": 987,
+  "topicId": 947,
+  "numMessagesInTopic": 45,
+  "msgSnippet": "... That s the default Unicode position.  The argument has been made (and I am endeavoring to keep an open mind about it) that Shavian/QS is a special case",
+  "messageBody": "<div id=\"ygrps-yiv-794863966\">L.W. Brown scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; And, if not vastly different, then &quot;reuse&quot; shapes as is normally done  <br/>\n&gt; despite the differences in sound.<br/>\n<br/>\n </span></blockquote>That&#39;s the default Unicode position.  The argument has been made (and<br/>\nI am endeavoring to keep an open mind about it) that Shavian/QS is a<br/>\nspecial case where sound-glyph mapping is more important than usual,<br/>\nand that unifying Shavian F with Quickscript TH (and vice versa) would<br/>\nbe specially damaging to the particular nature of these scripts.<br/>\n<br/>\nUnifying sound without shape imposes a risk that the writer will use<br/>\nthe wrong shape; unifying shape without sound imposes a risk that the<br/>\nreader will infer the wrong sound.<br/>\n<br/>\nHuman readers can handle this, but mechanical readers are not so<br/>\nforgiving, and Shavian and QS are particularly designed to make mechanical<br/>\ninterpretation easy.<br/>\n<br/>\nSo let&#39;s collect facts and then go to interpretations.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Context or special marks can  <br/>\n&gt; differentiate, and characters described by A & B below can be treated  <br/>\n&gt; the same as non-Latin characters (such as from Portuguese, Swedish or  <br/>\n&gt; German) that are included in &quot;Roman&quot; fonts.<br/>\n<br/>\n </span></blockquote>(Technically, all those characters are Latin characters; the ASCII<br/>\nrepertoire is called &quot;Basic Latin&quot; in Unicode-speak.)<br/>\n<br/>\n-- <br/>\nAmbassador Trentino: I&#39;ve said enough. I&#39;m a man of few words.<br/>\nRufus T. Firefly: I&#39;m a man of one word: scram!<br/>\n        --Duck Soup                     John Cowan &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>&gt;</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 16397 invoked from network); 2 Jun 2007 18:15:02 -0000\r\nReceived: from unknown (66.218.66.71)\n  by m51.grp.scd.yahoo.com with QMQP; 2 Jun 2007 18:15:02 -0000\r\nReceived: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta13.grp.scd.yahoo.com with SMTP; 2 Jun 2007 18:15:01 -0000\r\nReceived: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1HuY4s-00019o-1E\n\tfor Read_Alphabet@yahoogroups.com; Sat, 02 Jun 2007 14:11:50 -0400\r\nDate: Sat, 2 Jun 2007 14:11:50 -0400\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20070602181149.GD22600@...&gt;\r\nReferences: &lt;97A8EDB0-D28A-4A7E-8989-07B88F107612@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;97A8EDB0-D28A-4A7E-8989-07B88F107612@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Unicode proposal again.\r\nX-Yahoo-Group-Post: member; u=212516; y=FB3Tx21Ts_Th-p8w2pm-5N3R0KkgOsAkaewU5I5Zr4iSfopheg\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nL.W. Brown scripsit:\n\n&gt; And, if not vastly different, then &quot;reuse&quot; shapes as is normally done  \n&gt; despite the differences in sound.\n\nThat&#39;s the default Unicode position.  The argument has been made (and\nI am endeavoring to keep an open mind about it) that Shavian/QS is a\nspecial case where sound-glyph mapping is more important than usual,\nand that unifying Shavian F with Quickscript TH (and vice versa) would\nbe specially damaging to the particular nature of these scripts.\n\nUnifying sound without shape imposes a risk that the writer will use\nthe wrong shape; unifying shape without sound imposes a risk that the\nreader will infer the wrong sound.\n\nHuman readers can handle this, but mechanical readers are not so\nforgiving, and Shavian and QS are particularly designed to make mechanical\ninterpretation easy.\n\nSo let&#39;s collect facts and then go to interpretations.\n\n&gt; Context or special marks can  \n&gt; differentiate, and characters described by A & B below can be treated  \n&gt; the same as non-Latin characters (such as from Portuguese, Swedish or  \n&gt; German) that are included in &quot;Roman&quot; fonts.\n\n(Technically, all those characters are Latin characters; the ASCII\nrepertoire is called &quot;Basic Latin&quot; in Unicode-speak.)\n\n-- \nAmbassador Trentino: I&#39;ve said enough. I&#39;m a man of few words.\nRufus T. Firefly: I&#39;m a man of one word: scram!\n        --Duck Soup                     John Cowan &lt;cowan@...&gt;\n\n"
+}

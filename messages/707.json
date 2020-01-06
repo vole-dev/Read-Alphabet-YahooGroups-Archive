@@ -1,0 +1,33 @@
+{
+  "userId": 211385481,
+  "authorName": "wurdbendur@gmail.com",
+  "from": "wurdbendur@...",
+  "profile": "allegrox_2000",
+  "replyTo": "LIST",
+  "senderId": "0Aa1qx-SZWeA4wgjvZDywCYIBJFTy8RVlM2O6rgKfsuTkO22gNjOZJ183y-udZGxJOVRd59T18-UmYI",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Hi",
+  "postDate": "1144739790",
+  "msgId": 707,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDJmN2YzYmRlNTA3OGQ0YzVkZWQwMDE5NDY0ZjYwMjU1QGdtYWlsLmNvbT4=",
+    "inReplyToHeader": "PDQ0MzhGM0U3LjkwODA5MDlAeWFob28uY28udWs+",
+    "referencesHeader": "PDQ0MzhGM0U3LjkwODA5MDlAeWFob28uY28udWs+"
+  },
+  "prevInTopic": 705,
+  "nextInTopic": 708,
+  "prevInTime": 706,
+  "nextInTime": 708,
+  "topicId": 704,
+  "numMessagesInTopic": 7,
+  "msgSnippet": "This brings up an interesting point. I d like to see computers and other electronic devices in Quikscript or Shavian (even if it s just a hack). I once tried",
+  "messageBody": "<div id=\"ygrps-yiv-1570007349\">This brings up an interesting point. I&#39;d like to see computers and <br/>\nother electronic devices in Quikscript or Shavian (even if it&#39;s just a <br/>\nhack). I once tried to transliterate text on my Mac into Shavian, but <br/>\nthe files that contain the text are scattered all over. I finally added <br/>\na partial transliteration, but it wasn&#39;t recognized. There&#39;s a problem <br/>\nwith this kind of thing--ISO language codes don&#39;t have anything to do <br/>\nwith writing system, and a language written with more than one script <br/>\nis supposed to have only one code. Ideally, we should use script codes <br/>\nin addition to language codes, and there exist such codes, but they&#39;re <br/>\nseldom used.<br/>\nI had intended to start a project to transliterate Ubuntu into Shavian, <br/>\nbut it needs to have an ISO language code first, which it will never <br/>\nhave because it&#39;s not a language. It even has a place in Unicode <br/>\nalready, but script codes, as far as I know, are not implemented.<br/>\nI&#39;ve been hacking my iPod like crazy-Linux,<br/>\nI&#39;m not sure how other operating systems handle languages and <br/>\nscripts--probably in various different ways. But for those who know <br/>\nmore about Unicode and these systems: Is there a solution at hand, or <br/>\nwill we be waiting for some time for script codes? I could shoehorn <br/>\nShavian (and eventually Quikscript, I hope) into my operating system by <br/>\nreplacing another language, but I had hoped to do it more elegantly.<br/>\n<br/>\nRegards,<br/>\nJoseph Spicer<br/>\n<br/>\n<blockquote><span title=\"qreply\"> On Apr 9, 2006, at 6:45 AM, amd64_hacker wrote:<br/>\n<br/>\n&gt; Hi,<br/>\n&gt;<br/>\n&gt; I&#39;m learning quikscript and I thought I would join your group.<br/>\n&gt;<br/>\n&gt; I&#39;m really interested in switching my computer to use quikscript<br/>\n&gt; natively, I see there is work on a unicode mapping how is that going?<br/>\n&gt;<br/>\n&gt; (btw - Hi jennifferjen glad to see another new member :-) </span></blockquote></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;wurdbendur@...&gt;\r\nX-Sender: wurdbendur@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 91194 invoked from network); 11 Apr 2006 07:16:37 -0000\r\nReceived: from unknown (66.218.66.172)\n  by m23.grp.scd.yahoo.com with QMQP; 11 Apr 2006 07:16:37 -0000\r\nReceived: from unknown (HELO pproxy.gmail.com) (64.233.166.183)\n  by mta4.grp.scd.yahoo.com with SMTP; 11 Apr 2006 07:16:37 -0000\r\nReceived: by pproxy.gmail.com with SMTP id s49so1459867pyc\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Tue, 11 Apr 2006 00:16:35 -0700 (PDT)\r\nReceived: by 10.35.14.1 with SMTP id r1mr1014526pyi;\n        Tue, 11 Apr 2006 00:16:35 -0700 (PDT)\r\nReturn-Path: &lt;wurdbendur@...&gt;\r\nReceived: from ?192.168.1.101? ( [24.171.86.251])\n        by mx.gmail.com with ESMTP id n78sm139718pyf.2006.04.11.00.16.34;\n        Tue, 11 Apr 2006 00:16:35 -0700 (PDT)\r\nMime-Version: 1.0 (Apple Message framework v623)\r\nIn-Reply-To: &lt;4438F3E7.9080909@...&gt;\r\nReferences: &lt;4438F3E7.9080909@...&gt;\r\nContent-Type: text/plain; charset=US-ASCII; format=flowed\r\nMessage-Id: &lt;2f7f3bde5078d4c5ded0019464f60255@...&gt;\r\nContent-Transfer-Encoding: 7bit\r\nDate: Tue, 11 Apr 2006 02:16:30 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nX-Mailer: Apple Mail (2.623)\r\nX-eGroups-Msg-Info: 1:12:0:0\r\nFrom: wurdbendur@...\r\nSubject: Re: [Read_Alphabet] Hi\r\nX-Yahoo-Group-Post: member; u=211385481; y=qlhnpaqxa0GraPjrQI5r2lSdzukVn70OHEXWKmmUU981AbJ8-qKkbw\r\nX-Yahoo-Profile: allegrox_2000\r\n\r\nThis brings up an interesting point. I&#39;d like to see computers and \nother electronic devices in Quikscript or Shavian (even if it&#39;s just a \nhack). I once tried to transliterate text on my Mac into Shavian, but \nthe files that contain the text are scattered all over. I finally added \na partial transliteration, but it wasn&#39;t recognized. There&#39;s a problem \nwith this kind of thing--ISO language codes don&#39;t have anything to do \nwith writing system, and a language written with more than one script \nis supposed to have only one code. Ideally, we should use script codes \nin addition to language codes, and there exist such codes, but they&#39;re \nseldom used.\nI had intended to start a project to transliterate Ubuntu into Shavian, \nbut it needs to have an ISO language code first, which it will never \nhave because it&#39;s not a language. It even has a place in Unicode \nalready, but script codes, as far as I know, are not implemented.\nI&#39;ve been hacking my iPod like crazy-Linux,\nI&#39;m not sure how other operating systems handle languages and \nscripts--probably in various different ways. But for those who know \nmore about Unicode and these systems: Is there a solution at hand, or \nwill we be waiting for some time for script codes? I could shoehorn \nShavian (and eventually Quikscript, I hope) into my operating system by \nreplacing another language, but I had hoped to do it more elegantly.\n\nRegards,\nJoseph Spicer\n\nOn Apr 9, 2006, at 6:45 AM, amd64_hacker wrote:\n\n&gt; Hi,\n&gt;\n&gt; I&#39;m learning quikscript and I thought I would join your group.\n&gt;\n&gt; I&#39;m really interested in switching my computer to use quikscript\n&gt; natively, I see there is work on a unicode mapping how is that going?\n&gt;\n&gt; (btw - Hi jennifferjen glad to see another new member :-)\n\n\n"
+}

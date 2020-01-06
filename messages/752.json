@@ -1,0 +1,33 @@
+{
+  "userId": 240408765,
+  "authorName": "pgabhart",
+  "from": "pgabhart &lt;pgabhart@...&gt;",
+  "profile": "pgabhart",
+  "replyTo": "LIST",
+  "senderId": "7WxzitsY9HTqF7_tXJtnDFqUTUeiUSAIJWNPtEW8MhfP4PRN10tFfB1cw3l7_lIKotBaknKJ6r-iFG1j7duNuEOeSd5sBk-9",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Re: A small note on the Unicode proposal",
+  "postDate": "1152568174",
+  "msgId": 752,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ0QjJDQjZFLjUwOTAxMDhAc2JjZ2xvYmFsLm5ldD4=",
+    "inReplyToHeader": "PGU4dWYwMCtnbGpuQGVHcm91cHMuY29tPg==",
+    "referencesHeader": "PGU4dWYwMCtnbGpuQGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 751,
+  "nextInTopic": 754,
+  "prevInTime": 751,
+  "nextInTime": 753,
+  "topicId": 746,
+  "numMessagesInTopic": 9,
+  "msgSnippet": "I believe the purpose for underlining numbers as mentioned in the Manual was to insure that they were not mistaken for QS letters in handwritten ",
+  "messageBody": "<div id=\"ygrps-yiv-1700114668\">I believe the purpose for underlining numbers as mentioned in the Manual <br/>\nwas to insure that they were not mistaken for QS letters in handwritten <br/>\ncommunications.  While that might be a concern if one&#39;s handwriting is <br/>\nsloppy, I doubt we need to worry about it when using computer fonts.  I <br/>\nagree with Oliver that it would serve no purpose to underline numbers, <br/>\nand we should ignore that suggestion in the manual.<br/>\n<br/>\nPaige<br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\"> &gt; oliver langan wrote:<br/>\n&gt;<br/>\n&gt;&gt; Alternately, we could decide that the underlining or not of numbers is<br/>\n&gt;&gt; outside of the scope of the Unicode proposal. I don&#39;t like it,<br/>\n&gt;&gt; myself, and do not follow it when I write (or type) Quickscript:<br/>\n&gt;&gt; moreover, as you point out it would cause problems with machine<br/>\n&gt;&gt; parsing of the numbers. I think that the QS manual should be the<br/>\n&gt;&gt; &#39;first source&#39; for the alphabet, but I don&#39;t think it necessarily<br/>\n&gt;&gt; needs to be followed slavishly.<br/>\n&gt;&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt; Now that I think about it, the underlining could be handled within the<br/>\n&gt;&gt; font. It would not be true underlining, but it would have a<br/>\n&gt;&gt; consistent look.<br/>\n&gt;&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;&gt;<br/>\n&gt;&gt; oliver<br/>\n&gt;&gt; </span></blockquote></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;pgabhart@...&gt;\r\nX-Sender: pgabhart@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 98777 invoked from network); 10 Jul 2006 21:49:40 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m40.grp.scd.yahoo.com with QMQP; 10 Jul 2006 21:49:40 -0000\r\nReceived: from unknown (HELO smtp110.sbc.mail.re2.yahoo.com) (68.142.229.95)\n  by mta2.grp.scd.yahoo.com with SMTP; 10 Jul 2006 21:49:40 -0000\r\nReceived: (qmail 59280 invoked from network); 10 Jul 2006 21:49:35 -0000\r\nReceived: from unknown (HELO ?192.168.1.67?) (gabhartlaw@...@68.77.204.35 with plain)\n  by smtp110.sbc.mail.re2.yahoo.com with SMTP; 10 Jul 2006 21:49:35 -0000\r\nMessage-ID: &lt;44B2CB6E.5090108@...&gt;\r\nDate: Mon, 10 Jul 2006 17:49:34 -0400\r\nUser-Agent: Thunderbird 1.5.0.4 (Windows/20060516)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nReferences: &lt;e8uf00+gljn@...&gt;\r\nIn-Reply-To: &lt;e8uf00+gljn@...&gt;\r\nContent-Type: text/plain; charset=ISO-8859-1; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: pgabhart &lt;pgabhart@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: A small note on the Unicode proposal\r\nX-Yahoo-Group-Post: member; u=240408765; y=8W9Ct23Q6jNpR6QDbgLB2Jpjy7yDYmvAcWjenPEAzDUt9L8\r\nX-Yahoo-Profile: pgabhart\r\n\r\nI believe the purpose for underlining numbers as mentioned in the Manual \nwas to insure that they were not mistaken for QS letters in handwritten \ncommunications.  While that might be a concern if one&#39;s handwriting is \nsloppy, I doubt we need to worry about it when using computer fonts.  I \nagree with Oliver that it would serve no purpose to underline numbers, \nand we should ignore that suggestion in the manual.\n\nPaige\n\n\n&gt; oliver langan wrote:\n&gt;\n&gt;&gt; Alternately, we could decide that the underlining or not of numbers is\n&gt;&gt; outside of the scope of the Unicode proposal. I don&#39;t like it,\n&gt;&gt; myself, and do not follow it when I write (or type) Quickscript:\n&gt;&gt; moreover, as you point out it would cause problems with machine\n&gt;&gt; parsing of the numbers. I think that the QS manual should be the\n&gt;&gt; &#39;first source&#39; for the alphabet, but I don&#39;t think it necessarily\n&gt;&gt; needs to be followed slavishly.\n&gt;&gt;\n&gt;\n&gt;\n&gt;\n&gt;\n&gt;\n&gt;&gt;\n&gt;&gt; Now that I think about it, the underlining could be handled within the\n&gt;&gt; font. It would not be true underlining, but it would have a\n&gt;&gt; consistent look.\n&gt;&gt;\n&gt;\n&gt;\n&gt;\n&gt;\n&gt;&gt;\n&gt;&gt; oliver\n&gt;&gt;\n\n\n\n"
+}

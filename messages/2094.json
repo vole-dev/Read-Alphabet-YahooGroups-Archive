@@ -1,0 +1,31 @@
+{
+  "userId": 221991241,
+  "authorName": "conseil_it",
+  "from": "&quot;conseil_it&quot; &lt;willitheowl@...&gt;",
+  "profile": "conseil_it",
+  "replyTo": "LIST",
+  "senderId": "-BjTjhBL1I7Gr5Qql5TUHMcv0rj_2FYdkDwvP9ctF0qR61W_AosKM7oPjSsdT1TtP6djiwfam2c09wfLTjwZDYGiXI5FalSegjaz",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "6"
+  },
+  "subject": "Wikipedia article",
+  "postDate": "1236177520",
+  "msgId": 2094,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": true,
+  "headers": {
+    "messageIdInHeader": "PGdvbTNwZyt1ZWpiQGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 0,
+  "prevInTime": 2093,
+  "nextInTime": 2095,
+  "topicId": 2094,
+  "numMessagesInTopic": 1,
+  "msgSnippet": "Hello everybody, The Shavian alphabet had a lot longer article on Wikipedia although it seems to be less in active use than Quikscript is. I just wrote a",
+  "messageBody": "<div id=\"ygrps-yiv-1790841027\">Hello everybody,<br/>\nThe Shavian alphabet had a lot longer article on Wikipedia although it seems to be less in active use than Quikscript is. I just wrote a longer article on Quickscript. It would be nice if somebody would have a look and correct my most obvious errors and remove the worst of my personal bias ;-)<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://en.wikipedia.org/wiki/Quikscript\">http://en.wikipedia.org/wiki/Quikscript</a><br/>\nYou can make changes directly if you like (no log on needed) or let me know what&#39;s wrong. <br/>\nIt would also be nice to add pictures of the letters, for example, this very nice picture with new letter-names that&#39;s here on the files area. What is the copyright status of this file? Could I just add it to Wikipedia?<br/>\nthanks and greetings,<br/>\nRobert</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;willitheowl@...&gt;\r\nReceived: (qmail 17066 invoked from network); 4 Mar 2009 17:51:55 -0000\r\nReceived: from unknown (66.218.67.95)\n  by m5.grp.re1.yahoo.com with QMQP; 4 Mar 2009 17:51:55 -0000\r\nReceived: from unknown (HELO n61d.bullet.mail.sp1.yahoo.com) (98.136.45.86)\n  by mta16.grp.scd.yahoo.com with SMTP; 4 Mar 2009 17:51:55 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1236189115; bh=DJYZk4PDhc4DVdJh8050n+xJ3Eaj1kogdc/QJ5F2aI0=; h=Received:Received:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:Date:To:Message-ID:User-Agent:MIME-Version:Content-Type:Content-Transfer-Encoding:X-Mailer:X-Yahoo-Newman-Property:X-Originating-IP:X-eGroups-Msg-Info:X-Yahoo-Post-IP:From:Subject:X-Yahoo-Group-Post:X-Yahoo-Profile:Sender:X-eGroups-Approved-By:X-eGroups-Auth; b=gr+6F7t+GywEoPMJ6lVeAoW7jW8i0xNljRMyugmKzawTXjlkalt9rum2N2EB5b5eGpPavjGITIXDZ1F+xM3yLnmxD8b7RDDxj6/+cuaA8IuGl/xHiJFqi2FwWqbxHfBN\r\nReceived: from [69.147.65.150] by n61.bullet.mail.sp1.yahoo.com with NNFMP; 04 Mar 2009 17:51:55 -0000\r\nReceived: from [98.137.34.73] by t7.bullet.mail.sp1.yahoo.com with NNFMP; 04 Mar 2009 17:51:55 -0000\r\nX-Sender: willitheowl@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 50942 invoked from network); 4 Mar 2009 14:38:41 -0000\r\nX-Received: from unknown (66.218.67.97)\n  by m49.grp.scd.yahoo.com with QMQP; 4 Mar 2009 14:38:41 -0000\r\nX-Received: from unknown (HELO n17c.bullet.sp1.yahoo.com) (69.147.64.126)\n  by mta18.grp.scd.yahoo.com with SMTP; 4 Mar 2009 14:38:41 -0000\r\nX-Received: from [69.147.65.174] by n17.bullet.sp1.yahoo.com with NNFMP; 04 Mar 2009 14:38:41 -0000\r\nX-Received: from [98.137.34.36] by t12.bullet.mail.sp1.yahoo.com with NNFMP; 04 Mar 2009 14:38:41 -0000\r\nDate: Wed, 04 Mar 2009 14:38:40 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;gom3pg+uejb@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=&quot;ISO-8859-1&quot;\r\nContent-Transfer-Encoding: quoted-printable\r\nX-Mailer: Yahoo Groups Message Poster\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Msg-Info: 1:6:0:0:0\r\nFrom: &quot;conseil_it&quot; &lt;willitheowl@...&gt;\r\nSubject: Wikipedia article\r\nX-Yahoo-Group-Post: member; u=221991241; y=g1vcrH5PLBM6g7sqN1zhyyzhJqAWQSVdkl0DAQwV2_orkxN51g\r\nX-Yahoo-Profile: conseil_it\r\nX-eGroups-Approved-By: tinyallen &lt;Tinyallen@...&gt; via web; 04 Mar 2009 17:51:55 -0000\r\n\r\nHello everybody,\nThe Shavian alphabet had a lot longer article on Wikipedia=\r\n although it seems to be less in active use than Quikscript is. I just wrot=\r\ne a longer article on Quickscript. It would be nice if somebody would have =\r\na look and correct my most obvious errors and remove the worst of my person=\r\nal bias ;-)\nhttp://en.wikipedia.org/wiki/Quikscript\nYou can make changes di=\r\nrectly if you like (no log on needed) or let me know what&#39;s wrong. \nIt woul=\r\nd also be nice to add pictures of the letters, for example, this very nice =\r\npicture with new letter-names that&#39;s here on the files area. What is the co=\r\npyright status of this file? Could I just add it to Wikipedia?\nthanks and g=\r\nreetings,\nRobert\n\n\n"
+}

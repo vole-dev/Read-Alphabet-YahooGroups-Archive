@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "7WazidICTKJtBFZIfTKZQkXiBcXJHF8q9FPaqBxjuFMJk_9X50cmKBfuiGanuuy-fvkh7X7wq9Lt6SI00Ehut9_2",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Unicode proposal again.",
+  "postDate": "1180560460",
+  "msgId": 978,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcwNTMwMjEyNzQwLkdCMTE4NjJAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PDQ2NURFQUU3LjgwNTA1MDZAeWFob28uY28udWs+",
+    "referencesHeader": "PGYzZjU2OCtuc2MwQGVHcm91cHMuY29tPiA8MDA1MDAxYzdhMWIzJDc4MTFkMTQwJDAzMDAwMDBhQHVsYjFpPiA8cDA2MjQwODAzYzI4MThjNWNhNzY3QFsxOTIuMTY4LjEuMTM0XT4gPDQ2NUM2Rjg3LjcwNzA4QG1lbHJvY2guc2U+IDxwMDYyNDA4MDhjMjgyNDUzZjIwN2NAWzEwLjAuMS4yXT4gPDQ2NUQ2NjE2LjYwNTAwMDVAbWVscm9jaC5zZT4gPDQ2NURCOTg3LjEwMzAzMDZAeWFob28uY28udWs+IDwyMDA3MDUzMDIxMTAzOS5HRzk3MTJAbWVyY3VyeS5jY2lsLm9yZz4gPDQ2NURFQUU3LjgwNTA1MDZAeWFob28uY28udWs+"
+  },
+  "prevInTopic": 977,
+  "nextInTopic": 979,
+  "prevInTime": 977,
+  "nextInTime": 979,
+  "topicId": 947,
+  "numMessagesInTopic": 45,
+  "msgSnippet": "... It s better than being President. -- I now introduce Professor Smullyan,             John Cowan who will prove to you that either",
+  "messageBody": "<div id=\"ygrps-yiv-1606084012\">amd64_hacker scripsit:<br/>\n<blockquote><span title=\"ireply\"> &gt; Do you have to keep being right?  I&#39;m starting to get embarrassed.<br/>\n<br/>\n </span></blockquote>It&#39;s better than being President.<br/>\n<br/>\n-- <br/>\nI now introduce Professor Smullyan,             John Cowan<br/>\nwho will prove to you that either               <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a><br/>\nhe doesn&#39;t exist or you don&#39;t exist,            <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a><br/>\nbut you won&#39;t know which.                               --Melvin Fitting</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 40494 invoked from network); 30 May 2007 21:30:50 -0000\r\nReceived: from unknown (66.218.66.70)\n  by m39.grp.scd.yahoo.com with QMQP; 30 May 2007 21:30:50 -0000\r\nReceived: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta12.grp.scd.yahoo.com with SMTP; 30 May 2007 21:30:50 -0000\r\nReceived: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1HtVhk-00045z-KT\n\tfor Read_Alphabet@yahoogroups.com; Wed, 30 May 2007 17:27:40 -0400\r\nDate: Wed, 30 May 2007 17:27:40 -0400\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20070530212740.GB11862@...&gt;\r\nReferences: &lt;f3f568+nsc0@...&gt; &lt;005001c7a1b3$7811d140$0300000a@ulb1i&gt; &lt;p06240803c2818c5ca767@[192.168.1.134]&gt; &lt;465C6F87.70708@...&gt; &lt;p06240808c282453f207c@[10.0.1.2]&gt; &lt;465D6616.6050005@...&gt; &lt;465DB987.1030306@...&gt; &lt;20070530211039.GG9712@...&gt; &lt;465DEAE7.8050506@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;465DEAE7.8050506@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Unicode proposal again.\r\nX-Yahoo-Group-Post: member; u=212516; y=zhuNPYipirfBgt9Gw4MWoYjZ7vDC7FweT0QjPAyumzUMUntzQg\r\nX-Yahoo-Profile: johnwcowan\r\n\r\namd64_hacker scripsit:\n&gt; Do you have to keep being right?  I&#39;m starting to get embarrassed.\n\nIt&#39;s better than being President.\n\n-- \nI now introduce Professor Smullyan,             John Cowan\nwho will prove to you that either               cowan@...\nhe doesn&#39;t exist or you don&#39;t exist,            http://www.ccil.org/~cowan\nbut you won&#39;t know which.                               --Melvin Fitting\n\n"
+}

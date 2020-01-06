@@ -1,0 +1,32 @@
+{
+  "userId": 227743152,
+  "authorName": "Ph.D.",
+  "from": "&quot;Ph.D.&quot; &lt;phil@...&gt;",
+  "profile": "utegrepublic",
+  "replyTo": "LIST",
+  "senderId": "bmNPRN7ALt5ANPeq4Vy2r2IyB4aIBjaan6ie0zc4esawdT7mluHsWBeKYsbHY0rCFTv3McjSLBfIlatb7RHKrW9nDtF8cuUE1w",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Unicode proposal again.",
+  "postDate": "1180417056",
+  "msgId": 951,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDAwNTAwMWM3YTFiMyQ3ODExZDE0MCQwMzAwMDAwYUB1bGIxaT4=",
+    "referencesHeader": "PGYzZjU2OCtuc2MwQGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 950,
+  "nextInTopic": 952,
+  "prevInTime": 950,
+  "nextInTime": 952,
+  "topicId": 947,
+  "numMessagesInTopic": 45,
+  "msgSnippet": "I ve been very busy lately, and I don t have time to look into this right now, but my first impression is that unifying Quikscript with Shavian makes the same",
+  "messageBody": "<div id=\"ygrps-yiv-771823360\">I&#39;ve been very busy lately, and I don&#39;t have time to <br/>\nlook into this right now, but my first impression is <br/>\nthat unifying Quikscript with Shavian makes the<br/>\nsame mistake originally made in unifying Coptic<br/>\nwith Greek. <br/>\n<br/>\nAnd would we need two different encodings for <br/>\nsome characters so as to have a regular character<br/>\nand a combining character for Junior versus Senior <br/>\nQuikscript?<br/>\n<br/>\n--Ph. D. <br/>\n<br/>\n<blockquote><span title=\"qreply\"> ----- Original Message ----- <br/>\nFrom: &quot;Michael Everson&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:everson@...\">everson@...</a>&gt;<br/>\nTo: &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Read_Alphabet@yahoogroups.com\">Read_Alphabet@yahoogroups.com</a>&gt;<br/>\nSent: Monday, May 28, 2007 1:57 PM<br/>\nSubject: [Read_Alphabet] Re: Unicode proposal again.<br/>\n<br/>\n<br/>\nPeter asked this on the Unicode forum, and I responded:<br/>\n<br/>\nOne question that needs to be addressed (and has since <br/>\nI asked this a year or so ago) is whether it can be unified <br/>\nwith Shavian.<br/>\n<br/>\nPeter responded to me privately:<br/>\n<br/>\n&quot;Looking at it there are only a few glyphs with the same <br/>\nshape in Shavian and they have totally different meanings <br/>\nso I don&#39;t think they can be unified.&quot;<br/>\n<br/>\nThis needs substantiation.<br/>\n<br/>\nI love encoding. I&#39;m a splitter, normally, not a lumper. But <br/>\nif I&#39;m not convinced about disunifying Quikscript from the <br/>\nShavian it derives from, the UTC and WG2 certainly <br/>\nwon&#39;t be.<br/>\n<br/>\nThis discussion begins, alas, just as I am about to go on<br/>\na fortnight&#39;s holiday. My e-mail access will be spotty from <br/>\ntomorrow until 14 June. But tonight (as I&#39;m all packed but <br/>\nfor my computer) I&#39;ll look into this. </span></blockquote></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;phil@...&gt;\r\nX-Sender: phil@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 87078 invoked from network); 29 May 2007 05:38:11 -0000\r\nReceived: from unknown (66.218.66.166)\n  by m43.grp.scd.yahoo.com with QMQP; 29 May 2007 05:38:11 -0000\r\nReceived: from unknown (HELO pro60.cedant.com) (66.175.0.12)\n  by mta5.grp.scd.yahoo.com with SMTP; 29 May 2007 05:38:11 -0000\r\nReceived: from ulb1i (240-215-112-64.dsl.tc3net.com [64.112.215.240])\n\t(authenticated bits=0)\n\tby pro60.cedant.com (8.13.6/8.13.6) with ESMTP id l4T5c5eS025629\n\tfor &lt;Read_Alphabet@yahoogroups.com&gt;; Mon, 28 May 2007 22:38:07 -0700 (PDT)\n\t(envelope-from phil@...)\r\nMessage-ID: &lt;005001c7a1b3$7811d140$0300000a@ulb1i&gt;\r\nTo: &lt;Read_Alphabet@yahoogroups.com&gt;\r\nReferences: &lt;f3f568+nsc0@...&gt;\r\nDate: Tue, 29 May 2007 01:37:36 -0400\r\nMIME-Version: 1.0\r\nContent-Type: text/plain;\n\tcharset=&quot;iso-8859-1&quot;\r\nContent-Transfer-Encoding: 7bit\r\nX-Priority: 3\r\nX-MSMail-Priority: Normal\r\nX-Mailer: Microsoft Outlook Express 6.00.2600.0000\r\nX-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000\r\nX-Antivirus: avast! (VPS 0702-1, 01/11/2007), Outbound message\r\nX-Antivirus-Status: Clean\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: &quot;Ph.D.&quot; &lt;phil@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Unicode proposal again.\r\nX-Yahoo-Group-Post: member; u=227743152; y=gO_UoDVVBHfX75mSYDE42hAw-KoSGQ_3bVSiYTj0lrMad9-qH_tJ\r\nX-Yahoo-Profile: utegrepublic\r\n\r\nI&#39;ve been very busy lately, and I don&#39;t have time to \nlook into this right now, but my first impression is \nthat unifying Quikscript with Shavian makes the\nsame mistake originally made in unifying Coptic\nwith Greek. \n\nAnd would we need two different encodings for \nsome characters so as to have a regular character\nand a combining character for Junior versus Senior \nQuikscript?\n\n--Ph. D. \n\n----- Original Message ----- \nFrom: &quot;Michael Everson&quot; &lt;everson@...&gt;\nTo: &lt;Read_Alphabet@yahoogroups.com&gt;\nSent: Monday, May 28, 2007 1:57 PM\nSubject: [Read_Alphabet] Re: Unicode proposal again.\n\n\nPeter asked this on the Unicode forum, and I responded:\n\nOne question that needs to be addressed (and has since \nI asked this a year or so ago) is whether it can be unified \nwith Shavian.\n\nPeter responded to me privately:\n\n&quot;Looking at it there are only a few glyphs with the same \nshape in Shavian and they have totally different meanings \nso I don&#39;t think they can be unified.&quot;\n\nThis needs substantiation.\n\nI love encoding. I&#39;m a splitter, normally, not a lumper. But \nif I&#39;m not convinced about disunifying Quikscript from the \nShavian it derives from, the UTC and WG2 certainly \nwon&#39;t be.\n\nThis discussion begins, alas, just as I am about to go on\na fortnight&#39;s holiday. My e-mail access will be spotty from \ntomorrow until 14 June. But tonight (as I&#39;m all packed but \nfor my computer) I&#39;ll look into this.\n\n\n\n"
+}

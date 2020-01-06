@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "ULT80lahFv4tMkQFtws2xiQgkPRLA2GgwEIcSNp3u1BZUA-7uNDtKVtyDW3uic5MphFMHhbNNrQTtzf23epPRQ6D",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Alphabetical Order",
+  "postDate": "1195509324",
+  "msgId": 1550,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMTE5MjE1NTI0LkdEODAwNUBtZXJjdXJ5LmNjaWwub3JnPg==",
+    "inReplyToHeader": "PGZoc2w4NSs3M2syQGVHcm91cHMuY29tPg==",
+    "referencesHeader": "PGZoc2w4NSs3M2syQGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 1547,
+  "nextInTopic": 1560,
+  "prevInTime": 1549,
+  "nextInTime": 1551,
+  "topicId": 1544,
+  "numMessagesInTopic": 31,
+  "msgSnippet": "... It wouldn t, actually; the order in which characters appear in Unicode has nothing to do with the way they are sorted.  Even in ASCII, code order gives you",
+  "messageBody": "<div id=\"ygrps-yiv-367630213\">tinyallen scripsit:<br/>\n<blockquote><span title=\"ireply\"> &gt;    Big question: Do we need to change the alphabetic order of QuickScript?<br/>\n&gt; <br/>\n&gt;    If so, this would impact the Unicode submission.<br/>\n<br/>\n </span></blockquote>It wouldn&#39;t, actually; the order in which characters appear in Unicode has<br/>\nnothing to do with the way they are sorted.  Even in ASCII, code order<br/>\ngives you Z before a.  There is a separate standard defining sorting<br/>\norder, which is adjustable per language (in English, a-diaeresis sorts<br/>\nwith a, whereas in Swedish it sorts after z).<br/>\n<br/>\n-- <br/>\nJohn Cowan  <a rel=\"nofollow\" target=\"_blank\" href=\"http://ccil.org/~cowan\">http://ccil.org/~cowan</a>    <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a><br/>\nThere are books that are at once excellent and boring.  Those that at<br/>\nonce leap to the mind are Thoreau&#39;s Walden, Emerson&#39;s Essays, George<br/>\nEliot&#39;s Adam Bede, and Landor&#39;s Dialogues.  --Somerset Maugham</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 98896 invoked from network); 19 Nov 2007 21:55:25 -0000\r\nX-Received: from unknown (66.218.67.95)\n  by m46.grp.scd.yahoo.com with QMQP; 19 Nov 2007 21:55:25 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta16.grp.scd.yahoo.com with SMTP; 19 Nov 2007 21:55:25 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1IuEaS-0006Er-HV\n\tfor Read_Alphabet@yahoogroups.com; Mon, 19 Nov 2007 16:55:24 -0500\r\nDate: Mon, 19 Nov 2007 16:55:24 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20071119215524.GD8005@...&gt;\r\nReferences: &lt;fhsl85+73k2@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;fhsl85+73k2@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Alphabetical Order\r\nX-Yahoo-Group-Post: member; u=212516; y=wnGf1jWHlYaUnsMojB2oWyNJswywhJ7fmk0-1G5kMRNnAmWWHA\r\nX-Yahoo-Profile: johnwcowan\r\n\r\ntinyallen scripsit:\n&gt;    Big question: Do we need to change the alphabetic order of QuickScript?\n&gt; \n&gt;    If so, this would impact the Unicode submission.\n\nIt wouldn&#39;t, actually; the order in which characters appear in Unicode has\nnothing to do with the way they are sorted.  Even in ASCII, code order\ngives you Z before a.  There is a separate standard defining sorting\norder, which is adjustable per language (in English, a-diaeresis sorts\nwith a, whereas in Swedish it sorts after z).\n\n-- \nJohn Cowan  http://ccil.org/~cowan    cowan@...\nThere are books that are at once excellent and boring.  Those that at\nonce leap to the mind are Thoreau&#39;s Walden, Emerson&#39;s Essays, George\nEliot&#39;s Adam Bede, and Landor&#39;s Dialogues.  --Somerset Maugham\n\n"
+}

@@ -1,0 +1,46 @@
+Pipe p  70 E650 1 P-ea
+Bob b  62 E651 2 B-ay
+Tut t  74 E652 3 T-ea
+Deed d  64 E653 4 D-ay
+Kick k  6B E654 5 K-ey
+Gig g  67 E655 6 G-ay
+Thoth T  54 E656 T 7 TH-aw
+Thither H  48 E657 8 TH-ey
+Fife f  66 E658 9 F-ee
+Valve v  76 E659 10 V-ie
+Sis s  73 E65A 11 S-ee
+Zoos z  7A E65B 12 Z-oo
+Shush S  53 E65C 13 SH-e
+Zhivago Z  5A E65D 14 J'ai
+Church c  63 E65E  15 CH-eer
+Judge J  4A E65F  16 J-ay
+Yo-yo j  6A E660  17 Y-e
+Win-win w  77 E661  18 W-ay
+Ha-ha h  68 E662  19 H-e
+Whitewheat `  60 E663  20 WHy
+Inkling N  4E E664  21 I-NG
+Mime m  6D E665  22 M-ay
+Nun n  6E E666  23 N-o
+Loll l  6C E667  24 L-o
+Roar r  72 E668  25 R-oe
+If i  69 E670  26 I-t
+Eat I  49 E671 27 EA-t
+Ed e  65 E672 28  E-t
+Age E  45 E673 29 EIGH-t 
+Ash A  41 E674 30 A-t
+Ice F  46 E675 31 I
+Ah y  79 E676 32 A-h
+Awl Y  59 E677 33 AWE
+On o  6F E678 34 O-x
+Oil q  71 E679 35 OY
+Ado a  61 E67A 36 U-tter
+Out Q  51 E67B 37 OU-t
+Oak O  4F E67C 38 OWE
+Wool U  55 E67D 39 f-OO-t
+Ooze M  4D E67E 40 OO-ze
+Llan æ  E6 E66A 
+Loch ç  E7 E669 
+Ax è  E8 E66B
+Exam é  E9 E66C
+Air  X ? 58 E66D
+

@@ -1,0 +1,31 @@
+{
+  "userId": 384995112,
+  "authorName": "",
+  "from": "bacedif@...",
+  "profile": "peter_r_guinness",
+  "replyTo": "LIST",
+  "senderId": "BoDyDihbRspyJek1CzpPqjIyYJAlUuLMtvyqsBqURthMdSS7CMGtzg5rQsx83Pjxprl0shlr8_c",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "re: alternative apostrophe rules",
+  "postDate": "1401236031",
+  "msgId": 2609,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGxtMzludisxamphZmhmQFlhaG9vR3JvdXBzLmNvbT4="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 2610,
+  "prevInTime": 2608,
+  "nextInTime": 2610,
+  "topicId": 2609,
+  "numMessagesInTopic": 2,
+  "msgSnippet": "Hello all, I ve just upload a new version of the Wizard of Oz (malt s international QS spellings) into the texts folder.  In this version I ve changed the",
+  "messageBody": "<div id=\"ygrps-yiv-794285424\">Hello all,<br><br>I&#39;ve just upload a new version of the Wizard of Oz (malt&#39;s international QS spellings) into the texts folder.&nbsp; In this version I&#39;ve changed the rules I use for aphostrophes.&nbsp; Basically I&#39;m now using an asterix [*] to indicate possession and [&#39;Zoo] for all contractions of _is_ and _has_ regardless how there sounded.&nbsp; I would like some feed back to see what you think. (See appendix C in the file for more details of the rules used and examples)<br><br>Thanks<br>Malt<br><p><span><br class=\"ygrps-yiv-794285424yui-cursor\"></span></p></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;Read_Alphabet@yahoogroups.com&gt;\r\nX-Sender: Read_Alphabet@yahoogroups.com\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 76271 invoked by uid 102); 28 May 2014 00:13:51 -0000\r\nX-Received: from unknown (HELO mtaq6.grp.bf1.yahoo.com) (10.193.84.37)\n  by m12.grp.bf1.yahoo.com with SMTP; 28 May 2014 00:13:51 -0000\r\nX-Received: (qmail 6608 invoked from network); 28 May 2014 00:13:51 -0000\r\nX-Received: from unknown (HELO n1.bullet.mail.bf1.yahoo.com) (72.30.234.152)\n  by mtaq6.grp.bf1.yahoo.com with SMTP; 28 May 2014 00:13:51 -0000\r\nX-Received: from [66.196.81.175] by n1.bullet.mail.bf1.yahoo.com with NNFMP; 28 May 2014 00:13:51 -0000\r\nX-Received: from [10.193.242.232] by t5.bullet.mail.bf1.yahoo.com with NNFMP; 28 May 2014 00:13:51 -0000\r\nDate: 27 May 2014 17:13:51 -0700\r\nX-Received: from [127.0.0.1] by gapi1.grp.bf1.yahoo.com with NNFMP; 28 May 2014 00:13:51 -0000\r\nTo: &lt;Read_Alphabet@yahoogroups.com&gt;\r\nMessage-ID: &lt;lm39nv+1jjafhf@...&gt;\r\nX-Original-Return-Path: bacedif@...\r\nX-Mailer: Yahoo Groups Message Poster\r\nMIME-Version: 1.0\r\nX-Original-From: bacedif@...\r\nX-Yahoo-Newman-Property: groups-compose\r\nContent-Type: multipart/alternative; boundary=&quot;9nlWnTS9ocNmxdhsK3FKVLWiM6a5jwOaA8HvrLV&quot;\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nReply-To: bacedif@...\r\nSubject: re: alternative apostrophe rules\r\nX-Yahoo-Group-Post: member; u=384995112; y=zCuZYKpwvLCsUeLDe6KyW7Budt4hibnCooKax0mUFVMS_yqc2geafiTNRw\r\nX-Yahoo-Profile: peter_r_guinness\r\nFrom: bacedif@...\r\n\r\n\r\n--9nlWnTS9ocNmxdhsK3FKVLWiM6a5jwOaA8HvrLV\r\nContent-Type:  text/plain;  charset=utf-8 \r\nContent-Transfer-Encoding: base64\r\n\r\nSGVsbG8gYWxsLA0KDQpJJ3ZlIGp1c3QgdXBsb2FkIGEgbmV3IHZlcnNpb24gb2YgdGhlIFdpemFy\r\nZCBvZiBPeiAobWFsdCdzIGludGVybmF0aW9uYWwgUVMgc3BlbGxpbmdzKSBpbnRvIHRoZSB0ZXh0\r\ncyBmb2xkZXIuICBJbiB0aGlzIHZlcnNpb24gSSd2ZSBjaGFuZ2VkIHRoZSBydWxlcyBJIHVzZSBm\r\nb3IgYXBob3N0cm9waGVzLiAgQmFzaWNhbGx5IEknbSBub3cgdXNpbmcgYW4gYXN0ZXJpeCBbKl0g\r\ndG8gaW5kaWNhdGUgcG9zc2Vzc2lvbiBhbmQgWydab29dIGZvciBhbGwgY29udHJhY3Rpb25zIG9m\r\nIF9pc18gYW5kIF9oYXNfIHJlZ2FyZGxlc3MgaG93IHRoZXJlIHNvdW5kZWQuICBJIHdvdWxkIGxp\r\na2Ugc29tZSBmZWVkIGJhY2sgdG8gc2VlIHdoYXQgeW91IHRoaW5rLiAoU2VlIGFwcGVuZGl4IEMg\r\naW4gdGhlIGZpbGUgZm9yIG1vcmUgZGV0YWlscyBvZiB0aGUgcnVsZXMgdXNlZCBhbmQgZXhhbXBs\r\nZXMpDQoNClRoYW5rcw0KTWFsdA0KIA0KDQo=\r\n\r\n\r\n--9nlWnTS9ocNmxdhsK3FKVLWiM6a5jwOaA8HvrLV\r\nContent-Type:  text/html;  charset=utf-8 \r\nContent-Transfer-Encoding: base64\r\n\r\nSGVsbG8gYWxsLDxicj48YnI+SSYjMzk7dmUganVzdCB1cGxvYWQgYSBuZXcgdmVyc2lvbiBvZiB0\r\naGUgV2l6YXJkIG9mIE96IChtYWx0JiMzOTtzIGludGVybmF0aW9uYWwgUVMgc3BlbGxpbmdzKSBp\r\nbnRvIHRoZSB0ZXh0cyBmb2xkZXIuJm5ic3A7IEluIHRoaXMgdmVyc2lvbiBJJiMzOTt2ZSBjaGFu\r\nZ2VkIHRoZSBydWxlcyBJIHVzZSBmb3IgYXBob3N0cm9waGVzLiZuYnNwOyBCYXNpY2FsbHkgSSYj\r\nMzk7bSBub3cgdXNpbmcgYW4gYXN0ZXJpeCBbKl0gdG8gaW5kaWNhdGUgcG9zc2Vzc2lvbiBhbmQg\r\nWyYjMzk7Wm9vXSBmb3IgYWxsIGNvbnRyYWN0aW9ucyBvZiBfaXNfIGFuZCBfaGFzXyByZWdhcmRs\r\nZXNzIGhvdyB0aGVyZSBzb3VuZGVkLiZuYnNwOyBJIHdvdWxkIGxpa2Ugc29tZSBmZWVkIGJhY2sg\r\ndG8gc2VlIHdoYXQgeW91IHRoaW5rLiAoU2VlIGFwcGVuZGl4IEMgaW4gdGhlIGZpbGUgZm9yIG1v\r\ncmUgZGV0YWlscyBvZiB0aGUgcnVsZXMgdXNlZCBhbmQgZXhhbXBsZXMpPGJyPjxicj5UaGFua3M8\r\nYnI+TWFsdDxicj48cD48c3Bhbj48YnIgY2xhc3M9Inl1aS1jdXJzb3IiPjwvc3Bhbj48L3A+\r\n\r\n\r\n--9nlWnTS9ocNmxdhsK3FKVLWiM6a5jwOaA8HvrLV--\r\n\n"
+}

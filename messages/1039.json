@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "BTDWrPvG2T8uTFQ1qN8WXcwIDrKsBPV6NYJIyFdhcRiVQZexCBZp3YERPKuE2P1gsxuUpT7cJ-D17d5ekvL02_ka",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Milligan poems",
+  "postDate": "1189881743",
+  "msgId": 1039,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcwOTE1MTg0MjIzLkdDMjk1NjNAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PDQ2RUJEQjY3LjQwNDA5MDRAeWFob28uY28udWs+",
+    "referencesHeader": "PGZjZmwzYStzdDRoQGVHcm91cHMuY29tPiA8NDZFQkRCNjcuNDA0MDkwNEB5YWhvby5jby51az4="
+  },
+  "prevInTopic": 1038,
+  "nextInTopic": 1040,
+  "prevInTime": 1038,
+  "nextInTime": 1040,
+  "topicId": 1014,
+  "numMessagesInTopic": 28,
+  "msgSnippet": "... Better yet, why bother with translating books at all?  Just take a wordlist sorted in order of frequency, and translate down it until you get sick of the",
+  "messageBody": "<div id=\"ygrps-yiv-28435388\">amd64_hacker scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; But I still have a list of every word in the text on my hard drive (2940<br/>\n&gt; in total, including zik, zizzy and zuzzy).<br/>\n<br/>\n </span></blockquote>Better yet, why bother with translating books at all?  Just take a wordlist<br/>\nsorted in order of frequency, and translate down it until you get<br/>\nsick of the job.  Then translating books is easy.<br/>\n<br/>\n(You&#39;ll have to special-case heteronyms like _row_ and _desert_.)<br/>\n<br/>\nA nice little demo for spelling reform is the poem &quot;English is<br/>\nTough Stuff&quot; at <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.jokes2go.com/poems/7237.html\">http://www.jokes2go.com/poems/7237.html</a> .<br/>\n<br/>\n-- <br/>\nJohn Cowan   <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a><br/>\n    &quot;Mr. Lane, if you ever wish anything that I can do, all you will have<br/>\n        to do will be to send me a telegram asking and it will be done.&quot;<br/>\n    &quot;Mr. Hearst, if you ever get a telegram from me asking you to do<br/>\n        anything, you can put the telegram down as a forgery.&quot;</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 89437 invoked from network); 15 Sep 2007 18:48:52 -0000\r\nReceived: from unknown (66.218.66.72)\n  by m38.grp.scd.yahoo.com with QMQP; 15 Sep 2007 18:48:52 -0000\r\nReceived: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta14.grp.scd.yahoo.com with SMTP; 15 Sep 2007 18:48:52 -0000\r\nReceived: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1IWcb1-00011d-8y\n\tfor Read_Alphabet@yahoogroups.com; Sat, 15 Sep 2007 14:42:23 -0400\r\nDate: Sat, 15 Sep 2007 14:42:23 -0400\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20070915184223.GC29563@...&gt;\r\nReferences: &lt;fcfl3a+st4h@...&gt; &lt;46EBDB67.4040904@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;46EBDB67.4040904@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Milligan poems\r\nX-Yahoo-Group-Post: member; u=212516; y=xL2JyxC7_oxCsJyKRxzgMKbw--KXiA6zOc6lAt3kCs-mPfk_oQ\r\nX-Yahoo-Profile: johnwcowan\r\n\r\namd64_hacker scripsit:\n\n&gt; But I still have a list of every word in the text on my hard drive (2940\n&gt; in total, including zik, zizzy and zuzzy).\n\nBetter yet, why bother with translating books at all?  Just take a wordlist\nsorted in order of frequency, and translate down it until you get\nsick of the job.  Then translating books is easy.\n\n(You&#39;ll have to special-case heteronyms like _row_ and _desert_.)\n\nA nice little demo for spelling reform is the poem &quot;English is\nTough Stuff&quot; at http://www.jokes2go.com/poems/7237.html .\n\n-- \nJohn Cowan   cowan@...\n    &quot;Mr. Lane, if you ever wish anything that I can do, all you will have\n        to do will be to send me a telegram asking and it will be done.&quot;\n    &quot;Mr. Hearst, if you ever get a telegram from me asking you to do\n        anything, you can put the telegram down as a forgery.&quot;\n\n"
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "uJ36DH_BLM4uwiSbXoyjSoWP9A2bvM7lpUL2EIqfdllrzcs_eW7G_ghPL-xfPumP61wSEgxd2yDV-qqPmGd6kWuG",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Re: On PALM",
+  "postDate": "1195621364",
+  "msgId": 1601,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMTIxMDUwMjQ0LkdHMjU0MkBtZXJjdXJ5LmNjaWwub3JnPg==",
+    "inReplyToHeader": "PDQ3NDNCOTQ4LjUwNjA1MDNAaWdsb3UuY29tPg==",
+    "referencesHeader": "PGZodnJ0MCs4YjBjQGVHcm91cHMuY29tPiA8NDc0MzdEQUUuMjA5MDcwN0BpZ2xvdS5jb20+IDwyMDA3MTEyMTAzNTIyNy5HQzI1NDJAbWVyY3VyeS5jY2lsLm9yZz4gPDQ3NDNCNDE0LjkwNDA0MDhAaWdsb3UuY29tPiA8MjAwNzExMjEwNDQwNDAuR0UyNTQyQG1lcmN1cnkuY2NpbC5vcmc+IDw0NzQzQjk0OC41MDYwNTAzQGlnbG91LmNvbT4="
+  },
+  "prevInTopic": 1599,
+  "nextInTopic": 1602,
+  "prevInTime": 1600,
+  "nextInTime": 1602,
+  "topicId": 1571,
+  "numMessagesInTopic": 85,
+  "msgSnippet": "... I thought we were talking about Unicode.  Unicode doesn t encode ligatures separately, unless they belong to legacy character sets like MacRoman. -- John",
+  "messageBody": "<div id=\"ygrps-yiv-1995478500\">Paul Tremblay scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; But that is an extra key, and not a natural one. If you want to type the <br/>\n&gt; ligature Earth, right now  you type one letter on the keyboard. (When <br/>\n&gt; you are using the ASCII font.) <br/>\n<br/>\n </span></blockquote>I thought we were talking about Unicode.  Unicode doesn&#39;t encode ligatures<br/>\nseparately, unless they belong to legacy character sets like MacRoman.<br/>\n<br/>\n-- <br/>\nJohn Cowan  <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>   <a rel=\"nofollow\" target=\"_blank\" href=\"http://ccil.org/~cowan\">http://ccil.org/~cowan</a><br/>\n&quot;The exception proves the rule.&quot;  Dimbulbs think: &quot;Your counterexample proves<br/>\nmy theory.&quot;  Latin students think &quot;&#39;Probat&#39; means &#39;tests&#39;: the exception puts<br/>\nthe rule to the proof.&quot;  But legal historians know it means &quot;Evidence for an<br/>\nexception is evidence of the existence of a rule in cases not excepted from.&quot;</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 32914 invoked from network); 21 Nov 2007 05:02:45 -0000\r\nX-Received: from unknown (66.218.67.94)\n  by m49.grp.scd.yahoo.com with QMQP; 21 Nov 2007 05:02:45 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta15.grp.scd.yahoo.com with SMTP; 21 Nov 2007 05:02:45 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1IuhjY-0004lx-MS\n\tfor Read_Alphabet@yahoogroups.com; Wed, 21 Nov 2007 00:02:44 -0500\r\nDate: Wed, 21 Nov 2007 00:02:44 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20071121050244.GG2542@...&gt;\r\nReferences: &lt;fhvrt0+8b0c@...&gt; &lt;47437DAE.2090707@...&gt; &lt;20071121035227.GC2542@...&gt; &lt;4743B414.9040408@...&gt; &lt;20071121044040.GE2542@...&gt; &lt;4743B948.5060503@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;4743B948.5060503@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: On PALM\r\nX-Yahoo-Group-Post: member; u=212516; y=Srpuhwh3k9KaNvgmzogW3SPmr417J9jF2Bhxv_7WUnIm0I9sag\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nPaul Tremblay scripsit:\n\n&gt; But that is an extra key, and not a natural one. If you want to type the \n&gt; ligature Earth, right now  you type one letter on the keyboard. (When \n&gt; you are using the ASCII font.) \n\nI thought we were talking about Unicode.  Unicode doesn&#39;t encode ligatures\nseparately, unless they belong to legacy character sets like MacRoman.\n\n-- \nJohn Cowan  cowan@...   http://ccil.org/~cowan\n&quot;The exception proves the rule.&quot;  Dimbulbs think: &quot;Your counterexample proves\nmy theory.&quot;  Latin students think &quot;&#39;Probat&#39; means &#39;tests&#39;: the exception puts\nthe rule to the proof.&quot;  But legal historians know it means &quot;Evidence for an\nexception is evidence of the existence of a rule in cases not excepted from.&quot;\n\n"
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "TBe39RrUbwAFSdBEcrDTyFvQKLwFzH4_LWRnKEhQuA2X8WlwynKpTWcdfvNFd7OFPom4K7714v2Hr6MHK4v3-aQ6",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Re: QS news update",
+  "postDate": "1195172585",
+  "msgId": 1489,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMTE2MDAyMzA0LkdQMTI1MjVAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PDQ3M0NERDY1LjgwMTA3MDRAaWdsb3UuY29tPg==",
+    "referencesHeader": "PGZoZzhsNitub2Q4QGVHcm91cHMuY29tPiA8ZmhoN3ByKzFraWZAZUdyb3Vwcy5jb20+IDw0MzA4MDJlYzA3MTExNTEwNTBzMWZhMjg3MWFvNmI2M2M0MjU1YzViMzExYkBtYWlsLmdtYWlsLmNvbT4gPDVkODcyOWYwMDcxMTE1MTA1NGg3NzBiYTVkYnkyNjBkNzkxNDBmOGZlMjgyQG1haWwuZ21haWwuY29tPiA8NDczQzlCMzEuMjA0MDgwNUBzYmNnbG9iYWwubmV0PiA8NDczQ0RENjUuODAxMDcwNEBpZ2xvdS5jb20+"
+  },
+  "prevInTopic": 1488,
+  "nextInTopic": 1490,
+  "prevInTime": 1488,
+  "nextInTime": 1490,
+  "topicId": 1434,
+  "numMessagesInTopic": 69,
+  "msgSnippet": "... Can someone cite specific examples of misspelled words, please? -- The experiences of the past show                John Cowan that there has always been a",
+  "messageBody": "<div id=\"ygrps-yiv-238551444\">Paul Tremblay scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; I too find the missing Ts annoying, but that problem results because of <br/>\n&gt; the CMU dictionary, not my program.<br/>\n<br/>\n </span></blockquote>Can someone cite specific examples of misspelled words, please?<br/>\n<br/>\n-- <br/>\nThe experiences of the past show                John Cowan<br/>\nthat there has always been a discrepancy        <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a><br/>\nbetween plans and performance.                  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a><br/>\n        --Emperor Hirohito, August 1945</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 80233 invoked from network); 16 Nov 2007 00:23:07 -0000\r\nX-Received: from unknown (66.218.67.97)\n  by m43.grp.scd.yahoo.com with QMQP; 16 Nov 2007 00:23:07 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta18.grp.scd.yahoo.com with SMTP; 16 Nov 2007 00:23:05 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1IsozB-0006gw-0w\n\tfor Read_Alphabet@yahoogroups.com; Thu, 15 Nov 2007 19:23:05 -0500\r\nDate: Thu, 15 Nov 2007 19:23:05 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20071116002304.GP12525@...&gt;\r\nReferences: &lt;fhg8l6+nod8@...&gt; &lt;fhh7pr+1kif@...&gt; &lt;430802ec0711151050s1fa2871ao6b63c4255c5b311b@...&gt; &lt;5d8729f00711151054h770ba5dby260d79140f8fe282@...&gt; &lt;473C9B31.2040805@...&gt; &lt;473CDD65.8010704@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;473CDD65.8010704@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: QS news update\r\nX-Yahoo-Group-Post: member; u=212516; y=CFVNnIPOOjjSDJWNMTpzZ0f_TpmHJ2Ucg4EP6jsO7YdBmD11JQ\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nPaul Tremblay scripsit:\n\n&gt; I too find the missing Ts annoying, but that problem results because of \n&gt; the CMU dictionary, not my program.\n\nCan someone cite specific examples of misspelled words, please?\n\n-- \nThe experiences of the past show                John Cowan\nthat there has always been a discrepancy        cowan@...\nbetween plans and performance.                  http://www.ccil.org/~cowan\n        --Emperor Hirohito, August 1945\n\n"
+}

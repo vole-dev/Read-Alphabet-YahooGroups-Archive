@@ -1,0 +1,32 @@
+{
+  "userId": 328329959,
+  "authorName": "Jean-Fran\ufffdois Colson",
+  "from": "&quot;Jean-Fran\u00e7ois Colson&quot; &lt;jf@...&gt;",
+  "profile": "j_f_colson",
+  "replyTo": "LIST",
+  "senderId": "tFUzraWqOs1NEpjYSTaONALiR88994BxkFlT35OOrzVt9_w92SFRt_7cZIswH83I7xLN00hq6cR4s8kmTMveQ9su6l2Jj1HBXqkClnE",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Keyboard mappings and keyboard layouts",
+  "postDate": "1199743419",
+  "msgId": 1936,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDAwZDUwMWM4NTE3OSQyOWFmZDEyMCQwMjAyYThjMEB3aW4+",
+    "referencesHeader": "PGZsczFvZCtrOTU5QGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 1935,
+  "nextInTopic": 1937,
+  "prevInTime": 1935,
+  "nextInTime": 1937,
+  "topicId": 1934,
+  "numMessagesInTopic": 13,
+  "msgSnippet": "Hello everybody. Happy new year. ... I haven t used SCIM yet (I didn t know that program, I m quite new to Linux and still use Windows most of the time). When",
+  "messageBody": "<div id=\"ygrps-yiv-2048805990\">Hello everybody. Happy new year.<br/>\n<br/>\nAnthony Hagan wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; If we settle on a mapping which includes the senior letters, I&#39;d like<br/>\n&gt; to use a tool like SCIM (www.scim-im.org) to automate the use of the<br/>\n&gt; alternative forms and half letters.  This would automatically replace<br/>\n&gt; junior forms with appropriate senior forms as you type, e.g.<br/>\n&gt; typing /ys/ (in QS-SAMPA) would result in /Vs/ on the screen.  I&#39;ve<br/>\n&gt; already tried this for the ligatures in Paul Tremblay&#39;s Thoth fonts,<br/>\n&gt; and it works quite nicely.  Of course the hard work would be drawing<br/>\n&gt; up the table of automatic replacements to insert.  (Sorry Windows and<br/>\n&gt; Mac users, SCIM is a Linux tool.)  Has anyone else used SCIM?<br/>\n<br/>\n </span></blockquote>I haven&#39;t used SCIM yet (I didn&#39;t know that program, I&#39;m quite new to Linux <br/>\nand still use Windows most of the time).<br/>\n<br/>\nWhen the SCIM tables are complete, just post them. I could make a Keyman <br/>\ndriver of them.<br/>\n<br/>\nJF</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;jf@...&gt;\r\nX-Sender: jf@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 66016 invoked from network); 7 Jan 2008 22:02:21 -0000\r\nX-Received: from unknown (66.218.67.94)\n  by m56.grp.scd.yahoo.com with QMQP; 7 Jan 2008 22:02:21 -0000\r\nX-Received: from unknown (HELO csmtp2.b-one.net) (195.47.247.206)\n  by mta15.grp.scd.yahoo.com with SMTP; 7 Jan 2008 22:02:21 -0000\r\nX-Received: from win (unknown [91.177.49.170])\n\tby csmtp2.b-one.net (Postfix) with ESMTP id E3E8916216544\n\tfor &lt;Read_Alphabet@yahoogroups.com&gt;; Mon,  7 Jan 2008 23:02:20 +0100 (CET)\r\nMessage-ID: &lt;00d501c85179$29afd120$0202a8c0@win&gt;\r\nTo: &lt;Read_Alphabet@yahoogroups.com&gt;\r\nReferences: &lt;fls1od+k959@...&gt;\r\nDate: Mon, 7 Jan 2008 23:03:39 +0100\r\nMIME-Version: 1.0\r\nContent-Type: text/plain;\n\tformat=flowed;\n\tcharset=&quot;iso-8859-1&quot;;\n\treply-type=original\r\nContent-Transfer-Encoding: 7bit\r\nX-Priority: 3\r\nX-MSMail-Priority: Normal\r\nX-Mailer: Microsoft Outlook Express 6.00.2900.3138\r\nX-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.3198\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: &quot;Jean-Fran\ufffdois Colson&quot; &lt;jf@...&gt;\r\nSubject: Re: [Read_Alphabet] Keyboard mappings and keyboard layouts\r\nX-Yahoo-Group-Post: member; u=328329959; y=zyTtnflkB4PLwB_sDZ7OizBL_AfrGTvg1BLeiRW7yItNqHWNsA\r\nX-Yahoo-Profile: j_f_colson\r\n\r\nHello everybody. Happy new year.\n\nAnthony Hagan wrote:\n&gt; If we settle on a mapping which includes the senior letters, I&#39;d like\n&gt; to use a tool like SCIM (www.scim-im.org) to automate the use of the\n&gt; alternative forms and half letters.  This would automatically replace\n&gt; junior forms with appropriate senior forms as you type, e.g.\n&gt; typing /ys/ (in QS-SAMPA) would result in /Vs/ on the screen.  I&#39;ve\n&gt; already tried this for the ligatures in Paul Tremblay&#39;s Thoth fonts,\n&gt; and it works quite nicely.  Of course the hard work would be drawing\n&gt; up the table of automatic replacements to insert.  (Sorry Windows and\n&gt; Mac users, SCIM is a Linux tool.)  Has anyone else used SCIM?\n\nI haven&#39;t used SCIM yet (I didn&#39;t know that program, I&#39;m quite new to Linux \nand still use Windows most of the time).\n\nWhen the SCIM tables are complete, just post them. I could make a Keyman \ndriver of them.\n\nJF\n\n\n"
+}

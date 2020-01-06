@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "21QizPF3WUBIkXkHfF9EM5q9u9LyH707R565De8uPNsIQ8o8yHP2D-b7wxNBUH2ZTQxe814uJ90w5LX7ZYWcQnCj",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Re: how to transcribe air and ear",
+  "postDate": "1194011539",
+  "msgId": 1266,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMTAyMTM1MjE5LkdIMjEzODlAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PGZnZTRndis2b3J2QGVHcm91cHMuY29tPg==",
+    "referencesHeader": "PDcyOTUzNS40ODA5MS5xbUB3ZWI1NjQwNy5tYWlsLnJlMy55YWhvby5jb20+IDxmZ2U0Z3YrNm9ydkBlR3JvdXBzLmNvbT4="
+  },
+  "prevInTopic": 1265,
+  "nextInTopic": 1268,
+  "prevInTime": 1265,
+  "nextInTime": 1267,
+  "topicId": 1151,
+  "numMessagesInTopic": 93,
+  "msgSnippet": "... That the sound is prolonged to roughly double length.  This is allophonic in most Englishes (the vowel of bed is pronounced longer than that of bet ,",
+  "messageBody": "<div id=\"ygrps-yiv-440648887\">paulhtremblay scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; (What does &quot;:&quot; mean after a symbol?) <br/>\n<br/>\n </span></blockquote>That the sound is prolonged to roughly double length.  This is allophonic in<br/>\nmost Englishes (the vowel of &quot;bed&quot; is pronounced longer than that of<br/>\n&quot;bet&quot;, but it doesn&#39;t affect anything if you get this wrong), but<br/>\nin Australian English it is highly significant:  the only distinction<br/>\nbetween &quot;cup&quot; and &quot;carp&quot; is vowel length.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; (On the other hand, thiking aloud, Germany has dialects that are so<br/>\n&gt; different that a German from the North has trouble understanding a<br/>\n&gt; speaker from some regions of the South, yet Germany has one very<br/>\n&gt; simle, effective phonemic alphabet.)<br/>\n<br/>\n </span></blockquote>That&#39;s because German orthography is based on an artificial version<br/>\nof German that is nobody&#39;s native language: roughly speaking it has<br/>\nan older form of Southern grammar with very few Northern influences,<br/>\nbut the orthography is pretty much Northern, or perhaps better,<br/>\na Northerner&#39;s idea of how to pronounce a moderately Southern variety.<br/>\n<br/>\n-- <br/>\nJohn Cowan    <a rel=\"nofollow\" target=\"_blank\" href=\"http://ccil.org/~cowan\">http://ccil.org/~cowan</a>    <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a><br/>\nSAXParserFactory [is] a hideous, evil monstrosity of a class that should<br/>\nbe hung, shot, beheaded, drawn and quartered, burned at the stake,<br/>\nburied in unconsecrated ground, dug up, cremated, and the ashes tossed<br/>\nin the Tiber while the complete cast of Wicked sings &quot;Ding dong, the<br/>\nwitch is dead.&quot;  --Elliotte Rusty Harold on xml-dev</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 19758 invoked from network); 2 Nov 2007 13:52:19 -0000\r\nX-Received: from unknown (66.218.67.94)\n  by m44.grp.scd.yahoo.com with QMQP; 2 Nov 2007 13:52:19 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta15.grp.scd.yahoo.com with SMTP; 2 Nov 2007 13:52:19 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1Inwwd-0000c8-3z\n\tfor Read_Alphabet@yahoogroups.com; Fri, 02 Nov 2007 09:52:19 -0400\r\nDate: Fri, 2 Nov 2007 09:52:19 -0400\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20071102135219.GH21389@...&gt;\r\nReferences: &lt;729535.48091.qm@...&gt; &lt;fge4gv+6orv@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;fge4gv+6orv@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: how to transcribe air and ear\r\nX-Yahoo-Group-Post: member; u=212516; y=kDTpVElChWSgtDahL-_f2pgewC5jlNfHgLdu6QTCkvUUF5qdHQ\r\nX-Yahoo-Profile: johnwcowan\r\n\r\npaulhtremblay scripsit:\n\n&gt; (What does &quot;:&quot; mean after a symbol?) \n\nThat the sound is prolonged to roughly double length.  This is allophonic in\nmost Englishes (the vowel of &quot;bed&quot; is pronounced longer than that of\n&quot;bet&quot;, but it doesn&#39;t affect anything if you get this wrong), but\nin Australian English it is highly significant:  the only distinction\nbetween &quot;cup&quot; and &quot;carp&quot; is vowel length.\n\n&gt; (On the other hand, thiking aloud, Germany has dialects that are so\n&gt; different that a German from the North has trouble understanding a\n&gt; speaker from some regions of the South, yet Germany has one very\n&gt; simle, effective phonemic alphabet.)\n\nThat&#39;s because German orthography is based on an artificial version\nof German that is nobody&#39;s native language: roughly speaking it has\nan older form of Southern grammar with very few Northern influences,\nbut the orthography is pretty much Northern, or perhaps better,\na Northerner&#39;s idea of how to pronounce a moderately Southern variety.\n\n-- \nJohn Cowan    http://ccil.org/~cowan    cowan@...\nSAXParserFactory [is] a hideous, evil monstrosity of a class that should\nbe hung, shot, beheaded, drawn and quartered, burned at the stake,\nburied in unconsecrated ground, dug up, cremated, and the ashes tossed\nin the Tiber while the complete cast of Wicked sings &quot;Ding dong, the\nwitch is dead.&quot;  --Elliotte Rusty Harold on xml-dev\n\n"
+}

@@ -1,0 +1,90 @@
+ c A keyboard designed to ease the shift from the roman alphabet to Quikscript, the 
+ c alternative English alphabet devised by Kinglsey Read.  This keyboard may be used
+ c for typing Quikscript Junior or Senior.  An individual just learning Quikscript may
+ c ignore the half-letters and ligature letters used by the QS Senior writer.
+ c The keyboard is intended for use with the Jerome font designed by Jon Zuck.
+ c The keymapping represents a melding of the ideas of Jon Zuck and Paige Gabhart.
+ c
+ c The shift key is not used to differentiate between characters as there are no lower 
+ c and upper cases.  Most English consonants appear on the same keys as usual. For a 
+ c fuller explanation see the accompanying file for a list of key combinations to
+ c output the Quikscript characters. (ezqs.notes)
+ c 
+ c Thanks to Ewout Stam for bringing this program to my attention.
+ c
+ c By Paige Gabhart, pgabhart@corecomm.net.
+
+
+NAME "Easy Quikscript"
+
+BITMAPS ezqson.BMP, ezqsoff.BMP
+
+HOTKEY "^+Q"
+
+VERSION 3.1
+
+
+begin > use(main)
+
+group(main) using keys
+
+ c first row of Jerome keyboard mapping
++ 'q' > '`'
++ '`j' > '~'
++ 'jj' > '^'
++ 'wj' > '@'
+
+ c second row of Jerome keyboard mapping
++ 'oi' > 'q'
++ 'oy' > 'q'
++ 'ou' > 'Q'
++ 'ow' > 'Q'
++ 'ai' > 'E'
++ 'ay' > 'E'
++ '4j' > 'R'
++ 'th' > 'T'
++ 'ah' > 'y'
++ 'yh' > 'ah' c permits 'a+h' to appear without altering the form.
++ 'aw' > 'Y'
++ 'Yw' > 'aw' c permits 'a+w' to appear without altering the form.
++ 'a' + 'j' > 'u'
++ 'oo' > 'U'
++ 'ee' > 'I'
++ 'ea' > 'I'
++ 'ey' > 'I'
++ 'oh' > 'O'
++ '8j' > 'P'
++ 'pj' > ']'
++ 'tj' > '['
++ 'hj' > '\'
+
+ c third row of Jerome keyboard mapping
+'a' + 'a' > 'A'
++ 'sh' > 'S'
++ '6j' > 'D'
++ 'ie' > 'F'
++ 'jy' > 'F'
++ 'nj' > 'G' 
++ 'Gj' > 'nJ' c permits 'n+j' without altering the form.
+
++ 'c' > 'H'
++ 'y' > 'j'
++ 'j' > 'J'
++ 'Hj' > 'K'
++ 'zj' > 'L'
+
+ c fourth row of Jerome keyboard mapping
++ 'zh' > 'Z'
++ '5j' > 'X'
++ 'Hh' > 'c'
++ '7j' > 'C'
++ 'ju' > 'V'
++ 'dj' > 'B'
++ 'ng' > 'N'
++ 'u' > 'M'
+
+ c namer dot
++ 'kj' > '/'
++ 'df' > '/'
+
+'/' > '&'  c puts the "/" back where it belongs.

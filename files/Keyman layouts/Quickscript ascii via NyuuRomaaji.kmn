@@ -1,0 +1,62 @@
+﻿VERSION 6.0
+NAME "Ewo's Quickscript through modified NewRomaaji - Jerome - Junior"
+BITMAP "QS.bmp"
+store(&MnemonicLayout) "1"
+begin > use(main)
+group(Main) using keys
+
+c "Non-jerome exclusive" means it's a useless rule in fonts with a jerome-layout. Do use it for unicode fonts and the sorts.
+
++ "c" > "c" c Non-jerome exclusive
++ "x" > "S"
++ "j" > "J"
++ "y" > "j"
++ "q" > "N"
+"t" + "h" > "T"
+"d" + "h" > "H"
+"s" + "h" > "S"
+"z" + "h" > "Z"
+c ch=c even though c=c. Just in case people type the h as an automatism, like me.
+"c" + "h" > "c"
+"h" + "w" > "`"
+
+c an n followed by a k or a g should always sound like a N, hence the automatic conversion.
+"n" + "k" > "Nk"
+"n" + "g" > "Ng"
+
++ "i" > "i" c Non-jerome exclusive
++ "e" > "e" c Non-jerome exclusive
++ "o" > "o" c Non-jerome exclusive
++ "a" > "a" c Non-jerome exclusive
++ "u" > "U"
+
+"i" + "i" > "I"
+"e" + "i" > "E"
+"a" + "e" > "A"
+"a" + "i" > "F"
+"a" + "a" > "y"
+"o" + "o" > "Y"
+"o" + "i" > "q"
+"a" + "u" > "Q"
+"o" + "u" > "O"
+"U" + "u" > "M"
+
+c Ligatures
+c Writing "V" goes like "yuu":
+c 1:y   --> j
+c 2:ju  --> jU
+c 3:jUu --> V
+"jU" + "u" > "V"
+"e" + "r" > "X"
+
+c Extra ligatures for completeness
+"y" + "r" > "R"
+"Y" + "r" > "P"
+"a" + "r" > "x"
+"i" + "a" > "W"
+"i" + "r" > "C"
+c Writing "C" can go like "iar":
+c 1:i   --> i
+c 2:ia  --> W
+c 3:Wr  --> C
+"W" + "r" > "C"

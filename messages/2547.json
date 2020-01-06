@@ -1,0 +1,31 @@
+{
+  "userId": 458641688,
+  "authorName": "Nathan Sharfi",
+  "from": "Nathan Sharfi &lt;bonusfrogs@...&gt;",
+  "profile": "dipartite",
+  "replyTo": "LIST",
+  "senderId": "Lh2Mu9z_pnOOONl3NpihHUkl78ReiNFSvG6Z5id0tLlRfeRCF7fJYLMdRB0R5kGH29PMj4EyZG9tIVHoDwd4BAgpiTUgecv92Ovu",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Call of Cthulhu updates: Chapter 2 fixed",
+  "postDate": "1371696098",
+  "msgId": 2547,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDg4NDlCNzQwLTc5RjItNDdCNC1CQTUxLTdCREREMTc4NTBEM0BnbWFpbC5jb20+"
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 0,
+  "prevInTime": 2546,
+  "nextInTime": 2548,
+  "topicId": 2547,
+  "numMessagesInTopic": 1,
+  "msgSnippet": "If you ve downloaded the ePub version of Call of Cthulhu somewhat recently, you might ve gotten an error complaining about attributes without values if you ve",
+  "messageBody": "<div id=\"ygrps-yiv-398636664\">If you&#39;ve downloaded the ePub version of Call of Cthulhu somewhat recently, you might&#39;ve gotten an error complaining about attributes without values if you&#39;ve gotten to chapter 2. This update fixes that error.<br/>\n<br/>\nAvailable at <a rel=\"nofollow\" target=\"_blank\" href=\"https://github.com/adiabatic/qs-literature/\">https://github.com/adiabatic/qs-literature/</a> like always.<br/>\n<br/>\nChange list:<br/>\n<br/>\n- s/perfession/profession/<br/>\n- s/subjuct/subject/g<br/>\n- s/perfessional/professional/<br/>\n- &quot;supposed&quot; ends in [d] (as an adjective; this isn&#39;t universal)<br/>\n- s/[siNgul@`]/siNgjUl@`]/g<br/>\n- s/[totlI]/[tot@lI]/g<br/>\n- s/[QbdZ@kt]/[QbdZEkt]/<br/>\n- oh right, XML (can&#39;t do &lt;a b&gt;&lt;/a&gt;, have to do &lt;a b=&#39;b&#39;&gt;&lt;/a&gt;)</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;bonusfrogs@...&gt;\r\nX-Sender: bonusfrogs@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 27543 invoked by uid 102); 20 Jun 2013 02:41:42 -0000\r\nX-Received: from unknown (HELO mtaq2.grp.bf1.yahoo.com) (10.193.84.33)\n  by m8.grp.bf1.yahoo.com with SMTP; 20 Jun 2013 02:41:42 -0000\r\nX-Received: (qmail 22681 invoked from network); 20 Jun 2013 02:41:42 -0000\r\nX-Received: from unknown (HELO mail-pd0-f172.google.com) (209.85.192.172)\n  by mtaq2.grp.bf1.yahoo.com with SMTP; 20 Jun 2013 02:41:42 -0000\r\nX-Received: by mail-pd0-f172.google.com with SMTP id z10so5720859pdj.17\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Wed, 19 Jun 2013 19:41:41 -0700 (PDT)\r\nX-Received: by 10.66.219.38 with SMTP id pl6mr9441310pac.59.1371696101658;\n        Wed, 19 Jun 2013 19:41:41 -0700 (PDT)\r\nReturn-Path: &lt;bonusfrogs@...&gt;\r\nX-Received: from spreadthinly.localdomain (pool-74-100-97-239.lsanca.fios.verizon.net. [74.100.97.239])\n        by mx.google.com with ESMTPSA id at1sm25605713pbc.10.2013.06.19.19.41.39\n        for &lt;Read_Alphabet@yahoogroups.com&gt;\n        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);\n        Wed, 19 Jun 2013 19:41:40 -0700 (PDT)\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Transfer-Encoding: quoted-printable\r\nMessage-Id: &lt;8849B740-79F2-47B4-BA51-7BDDD17850D3@...&gt;\r\nDate: Wed, 19 Jun 2013 19:41:38 -0700\r\nTo: Read_Alphabet@yahoogroups.com\r\nMime-Version: 1.0 (Mac OS X Mail 6.5 &#92;(1508&#92;))\r\nX-Mailer: Apple Mail (2.1508)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Nathan Sharfi &lt;bonusfrogs@...&gt;\r\nSubject: Call of Cthulhu updates: Chapter 2 fixed\r\nX-Yahoo-Group-Post: member; u=458641688; y=6CmeAT5_HFtXXiTc8OacGXOiVRePMwI2j7g9ykGyhM_if5Fs\r\nX-Yahoo-Profile: dipartite\r\n\r\nIf you&#39;ve downloaded the ePub version of Call of Cthulhu somewhat recently,=\r\n you might&#39;ve gotten an error complaining about attributes without values i=\r\nf you&#39;ve gotten to chapter 2. This update fixes that error.\n\nAvailable at h=\r\nttps://github.com/adiabatic/qs-literature/ like always.\n\nChange list:\n\n- s/=\r\nperfession/profession/\n- s/subjuct/subject/g\n- s/perfessional/professional/=\r\n\n- &quot;supposed&quot; ends in [d] (as an adjective; this isn&#39;t universal)\n- s/[siNg=\r\nul@`]/siNgjUl@`]/g\n- s/[totlI]/[tot@lI]/g\n- s/[QbdZ@kt]/[QbdZEkt]/\n- oh rig=\r\nht, XML (can&#39;t do &lt;a b&gt;&lt;/a&gt;, have to do &lt;a b=3D&#39;b&#39;&gt;&lt;/a&gt;)\n"
+}

@@ -1,0 +1,148 @@
+{
+  "groupName": "Read_Alphabet",
+  "surveyId": 1664482,
+  "listId": 2510463,
+  "dateCreated": 1108839095,
+  "userIdCreated": 179365481,
+  "dateEnd": 1126501140,
+  "sendToId": "GROUP",
+  "resultsId": "COUNTS",
+  "visibleId": "ALWAYS",
+  "statusId": "DISABLED",
+  "isCreator": false,
+  "surveyText": "How do you use Quikscript?  (List your\nmost prevalent use, please)",
+  "flagBits": 0,
+  "multiResponse": true,
+  "addOptions": false,
+  "selections": [
+    {
+      "selectionId": 12370910,
+      "selectionText": "Personal notes, diary",
+      "selections": 20,
+      "responses": [
+        {
+          "selectionId": 12370910,
+          "surveyId": 1664482,
+          "userId": 71466833,
+          "guid": "LWER5QH3THC4YQIAMPFX56PR7E"
+        },
+        {
+          "selectionId": 12370910,
+          "surveyId": 1664482,
+          "userId": 10348534,
+          "guid": "X4KKM4DYKVRXYZ6GLEYSSIF33Y"
+        },
+        {
+          "selectionId": 12370910,
+          "surveyId": 1664482,
+          "userId": 6166478,
+          "guid": "SS2VXDBB66WBVMK6AP6BAMIKJU"
+        },
+        {
+          "selectionId": 12370910,
+          "surveyId": 1664482,
+          "userId": 210677922,
+          "guid": "LLCWWWKBVBAQ3T6QPJ6PPAOLGE"
+        },
+        {
+          "selectionId": 12370910,
+          "surveyId": 1664482,
+          "userId": 111378600,
+          "guid": "YWM7Y2BJVRE6YPFD6HLTHGWEGQ"
+        },
+        {
+          "selectionId": 12370910,
+          "surveyId": 1664482,
+          "userId": 137907378,
+          "guid": "XYGC2TGFTEFGOFIDXLNX65UUXQ"
+        },
+        {
+          "selectionId": 12370910,
+          "surveyId": 1664482,
+          "userId": 142533711,
+          "guid": "N2UOQGQAILXXCTYASVKQBVLCWQ"
+        },
+        {
+          "selectionId": 12370910,
+          "surveyId": 1664482,
+          "userId": 189259861
+        },
+        {
+          "selectionId": 12370910,
+          "surveyId": 1664482,
+          "userId": 136314050,
+          "guid": "KPNG36362KBQWL5UFHBXJUHGV4"
+        },
+        {
+          "selectionId": 12370910,
+          "surveyId": 1664482,
+          "userId": 167096899
+        }
+      ],
+      "voted": false
+    },
+    {
+      "selectionId": 12370911,
+      "selectionText": "&quot;code&quot; others cannot read",
+      "selections": 5,
+      "responses": [
+        {
+          "selectionId": 12370911,
+          "surveyId": 1664482,
+          "userId": 189259861
+        }
+      ],
+      "voted": false
+    },
+    {
+      "selectionId": 12370912,
+      "selectionText": "to write to others",
+      "selections": 0,
+      "responses": [],
+      "voted": false
+    },
+    {
+      "selectionId": 12370913,
+      "selectionText": "shorthand, when speed is needed",
+      "selections": 7,
+      "responses": [
+        {
+          "selectionId": 12370913,
+          "surveyId": 1664482,
+          "userId": 220531282,
+          "guid": "SXDS6PIMFSNW7MVZQYQDW6KGN4"
+        },
+        {
+          "selectionId": 12370913,
+          "surveyId": 1664482,
+          "userId": 136314050,
+          "guid": "KPNG36362KBQWL5UFHBXJUHGV4"
+        }
+      ],
+      "voted": false
+    },
+    {
+      "selectionId": 12370914,
+      "selectionText": "don&#39;t use",
+      "selections": 8,
+      "responses": [
+        {
+          "selectionId": 12370914,
+          "surveyId": 1664482,
+          "userId": 177301585,
+          "guid": "ZR2NDWAZB6RFR3453QMGBYYOMA"
+        },
+        {
+          "selectionId": 12370914,
+          "surveyId": 1664482,
+          "userId": 106105278,
+          "guid": "HGEC66QSJN6TFIDOXSZVGGRHUU"
+        }
+      ],
+      "voted": false
+    }
+  ],
+  "voteCount": 40,
+  "previousSurveyId": 1664485,
+  "nextSurveyId": 0
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 214981082,
+  "authorName": "Paul Tremblay",
+  "from": "Paul Tremblay &lt;phthenry@...&gt;",
+  "profile": "paulhtremblay",
+  "replyTo": "LIST",
+  "senderId": "s6ST9PQyLb62bfUD2PjtcCpdTPOOxAbn0u_RbXc-VpHAqiFRwXmtQUILrJ1ovtznDnv_E1JgxHTXOCoNgIsiYsCTS6ucqunlKg",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Letter for &quot;er&quot; as in earth?",
+  "postDate": "1191614316",
+  "msgId": 1088,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ3MDY5NzZDLjIwMDA1MDVAaWdsb3UuY29tPg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 1089,
+  "prevInTime": 1087,
+  "nextInTime": 1089,
+  "topicId": 1088,
+  "numMessagesInTopic": 11,
+  "msgSnippet": "In looking at the excellent document written by John Zuk, I notice that there is an optional symbol that represents the er sound as in Earth. On my web",
+  "messageBody": "<div id=\"ygrps-yiv-1492327692\">In looking at the excellent document written by John Zuk, I notice that <br/>\nthere is an optional symbol that represents the &quot;er&quot; sound as in <br/>\n&quot;Earth.&quot; On my web browser, this looks like a capital &quot;D.&quot; Is this what <br/>\nit is supposed to look like?<br/>\n<br/>\nI really like Zuk&#39;s renaming of the letters. Do others use his convention?<br/>\n<br/>\nPaul<br/>\n<br/>\nPS The page appeared fine on my linux computer, but looking at the page <br/>\non a Mac computer, I am seeing boxes instead of characters. What font <br/>\nwas used? Am I missing the font on this machine? Is the encoding UTF8?</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;phthenry@...&gt;\r\nX-Sender: phthenry@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 1747 invoked from network); 5 Oct 2007 19:58:47 -0000\r\nReceived: from unknown (66.218.66.72)\n  by m50.grp.scd.yahoo.com with QMQP; 5 Oct 2007 19:58:47 -0000\r\nReceived: from unknown (HELO rdsmtp.iglou.com) (192.107.41.63)\n  by mta14.grp.scd.yahoo.com with SMTP; 5 Oct 2007 19:58:47 -0000\r\nReceived: from [192.107.41.6] (helo=smtp.iglou.com)\n\tby rdsmtp.iglou.com with esmtpa (8.12.5/8.12.5)\n\t(envelope-from &lt;phthenry@...&gt;)\n\tid 1IdtJp-0002vg-Bs by authid &lt;igloumta&gt; with igloumta_auth\n\tfor Read_Alphabet@yahoogroups.com; Fri, 05 Oct 2007 15:58:41 -0400\r\nReceived: from [64.253.111.18] (helo=Enid-Johnsons-Computer.local)\n\tby iglou3.iglou.com with esmtp (8.12.5/8.12.5)\n\t(envelope-from &lt;phthenry@...&gt;)\n\tid 1IdtJp-0001BT-4K\n\tfor Read_Alphabet@yahoogroups.com; Fri, 05 Oct 2007 15:58:41 -0400\r\nMessage-ID: &lt;4706976C.2000505@...&gt;\r\nDate: Fri, 05 Oct 2007 15:58:36 -0400\r\nUser-Agent: Thunderbird 2.0.0.6 (Macintosh/20070728)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nContent-Type: text/plain; charset=ISO-8859-1; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\nX-IgLou-Customer: 6ab7d2bd86677d7d54d075759b28f06c\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Paul Tremblay &lt;phthenry@...&gt;\r\nSubject: Letter for &quot;er&quot; as in earth?\r\nX-Yahoo-Group-Post: member; u=214981082; y=pPx0lnn7p_qp4dwdNY1VP3FDEwZh8MzVFjEv0NLoxXEQaCe7wvwk-g\r\nX-Yahoo-Profile: paulhtremblay\r\n\r\nIn looking at the excellent document written by John Zuk, I notice that \nthere is an optional symbol that represents the &quot;er&quot; sound as in \n&quot;Earth.&quot; On my web browser, this looks like a capital &quot;D.&quot; Is this what \nit is supposed to look like?\n\nI really like Zuk&#39;s renaming of the letters. Do others use his convention?\n\nPaul\n\nPS The page appeared fine on my linux computer, but looking at the page \non a Mac computer, I am seeing boxes instead of characters. What font \nwas used? Am I missing the font on this machine? Is the encoding UTF8?\n\n"
+}

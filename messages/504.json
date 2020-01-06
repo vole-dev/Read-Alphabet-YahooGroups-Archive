@@ -1,0 +1,33 @@
+{
+  "userId": 168229681,
+  "authorName": "oliver langan",
+  "from": "oliver langan &lt;oliverlangan@...&gt;",
+  "profile": "oliverlangan",
+  "replyTo": "LIST",
+  "senderId": "xcZOKF4bLaV3zZfc6NafwBvh3tqaC4E6XGDhu7Eo2eL9rCQmfUYDrGHngCg2QEOoyNVQuGG-Tp_HKK6kY5W8hanfTBJ0kvwUTzt4XA0fvAQ",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: New file uploaded to Read_Alphabet",
+  "postDate": "1092304807",
+  "msgId": 504,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDYzOUMzNzlCLUVDNDYtMTFEOC1BMEUxLTAwMEE5NUIxRDBGRUB5YWhvby5jb20uc2c+",
+    "inReplyToHeader": "PDEwOTIwNjEyODguMTE0LjQ1NzAwLm0xMkB5YWhvb2dyb3Vwcy5jb20+",
+    "referencesHeader": "PDEwOTIwNjEyODguMTE0LjQ1NzAwLm0xMkB5YWhvb2dyb3Vwcy5jb20+"
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 521,
+  "prevInTime": 503,
+  "nextInTime": 505,
+  "topicId": 504,
+  "numMessagesInTopic": 32,
+  "msgSnippet": "... Hi Jeff, What language is this written in?  I use a Mac, and can t use windows executables, but it might be possible to cross-compile it into a Mac ",
+  "messageBody": "<div id=\"ygrps-yiv-163698097\"><blockquote><span title=\"ireply\">&gt;   File        : /QsConverter/QsConverter_1_1.zip<br/>\n&gt;   Uploaded by : jeff_smith_8992 &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:jeff_smith_8992@...\">jeff_smith_8992@...</a>&gt;<br/>\n&gt;   Description : This program allows the User to convert regular text <br/>\n&gt; into QuikScript. Version 1.1 corrects the problems with hyphenated <br/>\n&gt; words and adds a progress bar.<br/>\n<br/>\n </span></blockquote>Hi Jeff,<br/>\n<br/>\nWhat language is this written in?  I use a Mac, and can&#39;t use windows <br/>\nexecutables, but it might be possible to cross-compile it into a Mac <br/>\nexecutable, or at least a command-line tool which could also be run on <br/>\nlinux.<br/>\n<br/>\noliver</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;oliverlangan@...&gt;\r\nX-Sender: oliverlangan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 50161 invoked from network); 12 Aug 2004 10:01:36 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m1.grp.scd.yahoo.com with QMQP; 12 Aug 2004 10:01:36 -0000\r\nReceived: from unknown (HELO smtp109.mail.sc5.yahoo.com) (66.163.170.7)\n  by mta2.grp.scd.yahoo.com with SMTP; 12 Aug 2004 10:01:35 -0000\r\nReceived: from unknown (HELO ?192.168.0.25?) (oliverlangan@220.200.120.133 with plain)\n  by smtp109.mail.sc5.yahoo.com with SMTP; 12 Aug 2004 10:01:33 -0000\r\nMime-Version: 1.0 (Apple Message framework v618)\r\nIn-Reply-To: &lt;1092061288.114.45700.m12@yahoogroups.com&gt;\r\nReferences: &lt;1092061288.114.45700.m12@yahoogroups.com&gt;\r\nContent-Type: text/plain; charset=US-ASCII; format=flowed\r\nMessage-Id: &lt;639C379B-EC46-11D8-A0E1-000A95B1D0FE@...&gt;\r\nContent-Transfer-Encoding: 7bit\r\nDate: Thu, 12 Aug 2004 18:00:07 +0800\r\nTo: Read_Alphabet@yahoogroups.com\r\nX-Mailer: Apple Mail (2.618)\r\nX-eGroups-Remote-IP: 66.163.170.7\r\nFrom: oliver langan &lt;oliverlangan@...&gt;\r\nSubject: Re: New file uploaded to Read_Alphabet\r\nX-Yahoo-Group-Post: member; u=168229681\r\nX-Yahoo-Profile: oliverlangan\r\n\r\n&gt;   File        : /QsConverter/QsConverter_1_1.zip\n&gt;   Uploaded by : jeff_smith_8992 &lt;jeff_smith_8992@...&gt;\n&gt;   Description : This program allows the User to convert regular text \n&gt; into QuikScript. Version 1.1 corrects the problems with hyphenated \n&gt; words and adds a progress bar.\n\nHi Jeff,\n\nWhat language is this written in?  I use a Mac, and can&#39;t use windows \nexecutables, but it might be possible to cross-compile it into a Mac \nexecutable, or at least a command-line tool which could also be run on \nlinux.\n\noliver\n\n\n"
+}

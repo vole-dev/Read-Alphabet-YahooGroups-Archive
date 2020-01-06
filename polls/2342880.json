@@ -1,0 +1,49 @@
+{
+  "groupName": "Read_Alphabet",
+  "surveyId": 2342880,
+  "listId": 2510463,
+  "dateCreated": 1159568660,
+  "userIdCreated": 240408765,
+  "dateEnd": 0,
+  "sendToId": "GROUP",
+  "resultsId": "COUNTS",
+  "visibleId": "ALWAYS",
+  "statusId": "ENABLED",
+  "isCreator": false,
+  "surveyText": "Would you be willing to search your memory banks during October to think of a person who would be intrigued with the idea of learning QS and who would be willing to try a trial membership?",
+  "flagBits": 0,
+  "multiResponse": false,
+  "addOptions": false,
+  "selections": [
+    {
+      "selectionId": 16953823,
+      "selectionText": "Yes.  Count me in.",
+      "selections": 4,
+      "responses": [
+        {
+          "selectionId": 16953823,
+          "surveyId": 2342880,
+          "userId": 425964583,
+          "guid": "S63UPYB4ZAZEI67OIG4IN4BCB4"
+        },
+        {
+          "selectionId": 16953823,
+          "surveyId": 2342880,
+          "userId": 143448176,
+          "guid": "N3VB4ER5LSH4XMY7GDONGVLJGM"
+        }
+      ],
+      "voted": false
+    },
+    {
+      "selectionId": 16953824,
+      "selectionText": "No thanks.",
+      "selections": 1,
+      "responses": [],
+      "voted": false
+    }
+  ],
+  "voteCount": 5,
+  "previousSurveyId": 2650278,
+  "nextSurveyId": 1664485
+}

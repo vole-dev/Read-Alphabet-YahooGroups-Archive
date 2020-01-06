@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "SxrWhr56HGgAGLBC2U-ifa_G7sK4SlB0w3raF8qN7LIakADprwSTsoMNb1ZO00xaBY_QRk5TiiAPZahpdvlDAX1K",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] QS-SAMPA: a proposed format for plain-text Quickscript",
+  "postDate": "1196295066",
+  "msgId": 1691,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMTI5MDAxMTA2LkdEMjA0ODhAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PDVkODcyOWYwMDcxMTI4MTUxMmo0NGE3NjM1Y3hiMjM1Mzk0NTAyMjM3MjAyQG1haWwuZ21haWwuY29tPg==",
+    "referencesHeader": "PDVkODcyOWYwMDcxMTI4MTUxMmo0NGE3NjM1Y3hiMjM1Mzk0NTAyMjM3MjAyQG1haWwuZ21haWwuY29tPg=="
+  },
+  "prevInTopic": 1690,
+  "nextInTopic": 1692,
+  "prevInTime": 1690,
+  "nextInTime": 1692,
+  "topicId": 1690,
+  "numMessagesInTopic": 46,
+  "msgSnippet": "... You want D rather than T here.  Common accent variations would be to write fOlz and/or Qn . -- John Cowan  cowan@ccil.org   ccil.org/~cowan Dievas dave",
+  "messageBody": "<div id=\"ygrps-yiv-1325309172\">Ted Larson Freeman scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; In QS-SAMPA this would be:<br/>\n&gt;     T ren (In `spen) fAlz menli An T plen.<br/>\n<br/>\n </span></blockquote>You want D rather than T here.  Common accent variations would be to write<br/>\n&quot;fOlz&quot; and/or &quot;Qn&quot;.<br/>\n<br/>\n-- <br/>\nJohn Cowan  <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>   ccil.org/~cowan<br/>\nDievas dave dantis; Dievas duos duonos          --Lithuanian proverb<br/>\nDeus dedit dentes; deus dabit panem             --Latin version thereof<br/>\nDeity donated dentition;<br/>\n  deity&#39;ll donate doughnuts                     --English version by Muke Tever<br/>\nGod gave gums; God&#39;ll give granary              --Version by Mat McVeagh</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 87461 invoked from network); 29 Nov 2007 00:11:10 -0000\r\nX-Received: from unknown (66.218.67.94)\n  by m56.grp.scd.yahoo.com with QMQP; 29 Nov 2007 00:11:10 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta15.grp.scd.yahoo.com with SMTP; 29 Nov 2007 00:11:09 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1IxWzi-0002t4-W9\n\tfor Read_Alphabet@yahoogroups.com; Wed, 28 Nov 2007 19:11:07 -0500\r\nDate: Wed, 28 Nov 2007 19:11:06 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20071129001106.GD20488@...&gt;\r\nReferences: &lt;5d8729f00711281512j44a7635cxb235394502237202@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;5d8729f00711281512j44a7635cxb235394502237202@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] QS-SAMPA: a proposed format for plain-text Quickscript\r\nX-Yahoo-Group-Post: member; u=212516; y=PxP9ZWnWPk9fYGrhAZA_w_1HaQDmnaFHhTIMOinVhT0wK3qJXw\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nTed Larson Freeman scripsit:\n\n&gt; In QS-SAMPA this would be:\n&gt;     T ren (In `spen) fAlz menli An T plen.\n\nYou want D rather than T here.  Common accent variations would be to write\n&quot;fOlz&quot; and/or &quot;Qn&quot;.\n\n-- \nJohn Cowan  cowan@...   ccil.org/~cowan\nDievas dave dantis; Dievas duos duonos          --Lithuanian proverb\nDeus dedit dentes; deus dabit panem             --Latin version thereof\nDeity donated dentition;\n  deity&#39;ll donate doughnuts                     --English version by Muke Tever\nGod gave gums; God&#39;ll give granary              --Version by Mat McVeagh\n\n"
+}

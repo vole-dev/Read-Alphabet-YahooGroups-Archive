@@ -1,0 +1,31 @@
+{
+  "userId": 582149562,
+  "authorName": "Paige Gabhart",
+  "from": "Paige Gabhart &lt;paige@...&gt;",
+  "profile": "pgabhart",
+  "replyTo": "LIST",
+  "senderId": "9OFZfIA3kLgsapgftjFdjWMvH1gMcY3itUuzUw9WO5CzxwF1MVSh5G4vyX7QaQBEF24wSX3uUUE8jQOG-hPt7W01-HpDcQV_-w1Y",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "test",
+  "postDate": "1571704737",
+  "msgId": 2760,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDBkZWVhNDI0LTgzMDItZDUxYy02ZjgxLWIxNmVlMmY0MWE5OUBnYWJoYXJ0bGF3LmNvbT4="
+  },
+  "prevInTopic": 154,
+  "nextInTopic": 0,
+  "prevInTime": 2759,
+  "nextInTime": 2761,
+  "topicId": 146,
+  "numMessagesInTopic": 4,
+  "msgSnippet": "... This email has been checked for viruses by Avast antivirus software. https://www.avast.com/antivirus",
+  "messageBody": "<div id=\"ygrps-yiv-281906893\">---<br/>\nThis email has been checked for viruses by Avast antivirus software.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"https://www.avast.com/antivirus\">https://www.avast.com/antivirus</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;paige@...&gt;\r\nX-Sender: paige@...\r\nX-Apparently-To: read_alphabet@yahoogroups.com\r\nX-Received: (qmail 11797 invoked by uid 102); 22 Oct 2019 01:54:16 -0000\r\nX-Received: from unknown (HELO mtaq2.grp.bf1.yahoo.com) (10.201.224.240)\n  by m7.grp.bf1.yahoo.com with SMTP; 22 Oct 2019 01:54:16 -0000\r\nX-Received: (qmail 25316 invoked from network); 22 Oct 2019 00:39:01 -0000\r\nX-Received: from unknown (HELO mta4003.groups.mail.ne1.yahoo.com) (10.221.10.34)\n  by mtaq2.grp.bf1.yahoo.com with SMTP; 22 Oct 2019 00:39:01 -0000\r\nX-Original-Return-Path: &lt;paige@...&gt;\r\nAuthentication-Results: mta4003.groups.mail.ne1.yahoo.com; \n dkim=neutral (no sig) header.i=@...;\n spf=none smtp.mailfrom=@...;\n dmarc=NULL(p=NULL sp=NULL dis=NULL) header.from=gabhartlaw.com;\r\nX-Received-SPF: none (domain of gabhartlaw.com does not designate permitted sender hosts)\r\nX-YMailISG: 4LV8HO8WLDvrgA7h26N._eMzAFOrRuQENlWs4bwvCfF7qCf4\n ae.x9q8wgyzikTu1p2mLDJuFvbMTSomdrvJY8tMNGDYO4BZdBnpyreyveApq\n 1V8F3jsp9xYinfODhkLBryzc4vICk4f53MWLXP20XPfTv.SJOyd5hRFFiyej\n b3moQKU2ZoKvG_ZTwBbmIwONdB_mpAhWJIu3zs28ivq1x3vE2JhDmFVIGB7X\n xc.8Owjw2a6MJoaawd6J_fRYKZw3Npz_BbxcaD.ZPjVuWcQvnPa0g3AL9vCH\n sFlFbWL55C9wz0CdjAsAuJMGOEUvkVGijGYYtbHxN.q9.3FY7gZ1aCUa0mAZ\n 0WWflbe1lxR64.oSQ0V1.P7F102dKc4b.LhIdLGQDrI0bqjo6Q68Aecf9eFK\n BFvmMzHHc2DN.wsfumbRVE3LlVEGe2aHjgUcIE0awdDlMgfj__L7RB0W3qIU\n Ofc.6j7iKXLtEGP_m_Tymq3rvSgFBR7gh2.91QPbhd9cEvB6dRlauEZbO0cX\n igZYA3O2vlE7XyUQovhb0PYmk6sjcb.9Js6PesQ8HwWIxjnrDByMNGid9V9f\n _DOcRMr_HFD5dxEn2vw.8KsAMh_ZjihlSNWzYTZ4jgF3mujAjq_pAwkESNBS\n UIe2ucwJkrcrIpOiQ6rRLwkqjWXJAr.9aIxx46oz6X_mIG7qrYCYjFIP4E.a\n slVZGeqGoCz2cZe6E9N.Kn_RRMbikfLhobGdfb0g7Vme5.aigaGbJsl.SDCH\n fGYlBnC1clvbAkci77DLqTxxdkK6EBaeY0_5kYMak52lUeXJ6NRasA_czRbE\n 8b_aFr6h8ryklUrwiMPJksVgTLXHAS2BXqXKOGPanoY96_q8qF0IT_TQomJI\n BtZ1lP1Z0Wm0S2GnxA4052zWL5inZAjfvAL5MOrFQxHOUxKVD4t31IqSEa50\n 5oBDEG_o9XI3OnvRiBmrRrTh.7jYQHcsscQ1zzCzGde0G.f6PfjiRjxUy1_q\n sA--\r\nX-Received: from 127.0.0.1  (EHLO atl4mhob11.registeredsite.com) (209.17.115.49)\n  by mta4003.groups.mail.ne1.yahoo.com with SMTPS; Tue, 22 Oct 2019 00:39:01 +0000\r\nX-Received: from mailpod.hostingplatform.com (atl4qobmail01pod5.registeredsite.com [10.30.71.94])\n\tby atl4mhob11.registeredsite.com (8.14.4/8.14.4) with ESMTP id x9M0cxJD007006\n\t(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-GCM-SHA384 bits=256 verify=FAIL)\n\tfor &lt;Read_Alphabet@yahoogroups.com&gt;; Mon, 21 Oct 2019 20:39:00 -0400\r\nX-Received: (qmail 52730 invoked by uid 0); 22 Oct 2019 00:38:59 -0000\r\nX-TCPREMOTEIP: 74.131.91.99\r\nX-Authenticated-UID: paige@...\r\nX-Received: from unknown (HELO ?192.168.0.5?) (paige@...@74.131.91.99)\n  by 0 with ESMTPA; 22 Oct 2019 00:38:59 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;0deea424-8302-d51c-6f81-b16ee2f41a99@...&gt;\r\nDate: Mon, 21 Oct 2019 20:38:57 -0400\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:60.0) Gecko/20100101\n Thunderbird/60.9.0\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=utf-8; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\nContent-Language: en-US\r\nX-Antivirus: Avast (VPS 191021-2, 10/21/2019), Outbound message\r\nX-Antivirus-Status: Clean\r\nSubject: test\r\nX-Yahoo-Group-Post: member; u=582149562; y=orDjRXVVT_RSs_zmA-8S6UGIqL37CZlz5znheAQa4upQiYE\r\nX-Yahoo-Profile: pgabhart\r\nFrom: Paige Gabhart &lt;paige@...&gt;\r\n\r\n\n\n---\nThis email has been checked for viruses by Avast antivirus software.\nhttps://www.avast.com/antivirus\n\n\n"
+}

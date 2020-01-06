@@ -1,0 +1,31 @@
+{
+  "userId": 458641688,
+  "authorName": "Nathan Sharfi",
+  "from": "Nathan Sharfi &lt;bonusfrogs@...&gt;",
+  "profile": "dipartite",
+  "replyTo": "LIST",
+  "senderId": "Yn9LPcovJvgx5YhAnhIFspQAkqwjK3vQodfnbxZAxBqvhR-3kq8WWdZGQJsEKp4Cv_Fgop_GLhmPxRDunWZQVWRmWd5n9cHT5mEC",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Call of Cthulhu fixes",
+  "postDate": "1368264736",
+  "msgId": 2493,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDZEMkU5NzlDLTA5MUMtNEQxQy05Qzk1LTkwNzIxOUU3MDIzQ0BnbWFpbC5jb20+"
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 2494,
+  "prevInTime": 2492,
+  "nextInTime": 2494,
+  "topicId": 2493,
+  "numMessagesInTopic": 7,
+  "msgSnippet": "I ve pushed out another update to  \u2014 specifically, Call of Cthulhu. After copy/pasting from a sensibly-generated",
+  "messageBody": "<div id=\"ygrps-yiv-2045692518\">I&#39;ve pushed out another update to &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"https://github.com/adiabatic/qs-literature\">https://github.com/adiabatic/qs-literature</a>&gt; \u2014 specifically, Call of Cthulhu. After copy/pasting from a sensibly-generated .odt, I&#39;ve managed to pinpoint and correct quite a few errors, so you might want to download/reload for this one. The meat of the commit message, for the curious:<br/>\n<br/>\n- merge lines that aren&#39;t really separate paragraphs<br/>\n- split lines that should be multiple paragraphs (only one)<br/>\n- correct tw/wt transposition<br/>\n- blockquote &quot;in his house at R&#39;lyeh dead Cthulhu waits dreaming.&quot;<br/>\n- blockquote &quot;\u2026fthagn&quot;<br/>\n- blockquote *all* of the &quot;Mystery Derelict Found at Sea&quot; clipping<br/>\n- un-happy-tense &quot;delicately&quot; \u2014 which was in Orthodox in the original<br/>\n<br/>\nI&#39;ve also corrected a typo \u2014 on line 9 (&quot;My knowledge of the thing\u2026so elderly a man\u2026\u2014 and more than wonder&quot;) &quot;elderly&quot; is spelled as &quot;enderly&quot;.<br/>\n<br/>\nIncidentally, does &quot;Legrasse&#39;s&quot; need a namer dot?</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;bonusfrogs@...&gt;\r\nX-Sender: bonusfrogs@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 40372 invoked by uid 102); 11 May 2013 09:32:19 -0000\r\nX-Received: from unknown (HELO mtaq5.grp.bf1.yahoo.com) (10.193.84.36)\n  by m6.grp.bf1.yahoo.com with SMTP; 11 May 2013 09:32:19 -0000\r\nX-Received: (qmail 19465 invoked from network); 11 May 2013 09:32:19 -0000\r\nX-Received: from unknown (HELO mail-ia0-f169.google.com) (209.85.210.169)\n  by mtaq5.grp.bf1.yahoo.com with SMTP; 11 May 2013 09:32:19 -0000\r\nX-Received: by mail-ia0-f169.google.com with SMTP id k38so3620318iah.14\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Sat, 11 May 2013 02:32:19 -0700 (PDT)\r\nX-Received: by 10.43.158.3 with SMTP id ls3mr9520155icc.55.1368264739440;\n        Sat, 11 May 2013 02:32:19 -0700 (PDT)\r\nReturn-Path: &lt;bonusfrogs@...&gt;\r\nX-Received: from spreadthinly.localdomain (pool-74-100-97-239.lsanca.fios.verizon.net. [74.100.97.239])\n        by mx.google.com with ESMTPSA id d4sm3696536igc.3.2013.05.11.02.32.17\n        for &lt;Read_Alphabet@yahoogroups.com&gt;\n        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);\n        Sat, 11 May 2013 02:32:18 -0700 (PDT)\r\nContent-Type: text/plain; charset=windows-1252\r\nContent-Transfer-Encoding: quoted-printable\r\nMessage-Id: &lt;6D2E979C-091C-4D1C-9C95-907219E7023C@...&gt;\r\nDate: Sat, 11 May 2013 02:32:16 -0700\r\nTo: &quot;Read_Alphabet@yahoogroups.com&quot; &lt;Read_Alphabet@yahoogroups.com&gt;\r\nMime-Version: 1.0 (Mac OS X Mail 6.3 &#92;(1503&#92;))\r\nX-Mailer: Apple Mail (2.1503)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Nathan Sharfi &lt;bonusfrogs@...&gt;\r\nSubject: Call of Cthulhu fixes\r\nX-Yahoo-Group-Post: member; u=458641688; y=TswKDvTUiqcP_xYqSgVIiSE5rr80F_AMW8Y0L4r98owySm3j\r\nX-Yahoo-Profile: dipartite\r\n\r\nI&#39;ve pushed out another update to &lt;https://github.com/adiabatic/qs-literatu=\r\nre&gt; =97 specifically, Call of Cthulhu. After copy/pasting from a sensibly-g=\r\nenerated .odt, I&#39;ve managed to pinpoint and correct quite a few errors, so =\r\nyou might want to download/reload for this one. The meat of the commit mess=\r\nage, for the curious:\n\n- merge lines that aren&#39;t really separate paragraphs=\r\n\n- split lines that should be multiple paragraphs (only one)\n- correct tw/w=\r\nt transposition\n- blockquote &quot;in his house at R&#39;lyeh dead Cthulhu waits dre=\r\naming.&quot;\n- blockquote &quot;=85fthagn&quot;\n- blockquote *all* of the &quot;Mystery Derelic=\r\nt Found at Sea&quot; clipping\n- un-happy-tense &quot;delicately&quot; =97 which was in Ort=\r\nhodox in the original\n\nI&#39;ve also corrected a typo =97 on line 9 (&quot;My knowle=\r\ndge of the thing=85so elderly a man=85=97 and more than wonder&quot;) &quot;elderly&quot; =\r\nis spelled as &quot;enderly&quot;.\n\nIncidentally, does &quot;Legrasse&#39;s&quot; need a namer dot?=\r\n\n"
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "J4EonirqpWofwYef4zl9tQpNnSwMYLCSxLebc41Ozza8ZoHg2YXp63BKNgde3HqKIbPUlcOJi3Dcj7QPfqdXajIo",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Re: computer-typed Quickscript manual and FAQ",
+  "postDate": "1239665016",
+  "msgId": 2100,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDkwNDEzMjMyMzM2LkdDMzA3MkBtZXJjdXJ5LmNjaWwub3JnPg==",
+    "inReplyToHeader": "PDQ5RTM3ODJDLjIwOTA4MDhAbWVscm9jaC5zZT4=",
+    "referencesHeader": "PGdydWlrNCtnaG1lQGVHcm91cHMuY29tPiA8NDlFMzc4MkMuMjA5MDgwOEBtZWxyb2NoLnNlPg=="
+  },
+  "prevInTopic": 2099,
+  "nextInTopic": 0,
+  "prevInTime": 2099,
+  "nextInTime": 2101,
+  "topicId": 2093,
+  "numMessagesInTopic": 4,
+  "msgSnippet": "... I agree. -- Schlingt dreifach einen Kreis vom dies!    John Cowan  Schliesst euer Aug vor heiliger Schau,     http://www.ccil.org/~cowan ",
+  "messageBody": "<div id=\"ygrps-yiv-916199380\">Benct Philip Jonsson scripsit:<br/>\n<blockquote><span title=\"ireply\"> &gt; Please no html-email with ascii-qs!<br/>\n&gt; HTML has no busness in email, no matter what<br/>\n&gt; Yahoo, MSN or the other culprits think!<br/>\n<br/>\n </span></blockquote>I agree.<br/>\n<br/>\n-- <br/>\nSchlingt dreifach einen Kreis vom dies!    John Cowan &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>&gt;<br/>\nSchliesst euer Aug vor heiliger Schau,     <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a><br/>\nDenn er genoss vom Honig-Tau,<br/>\nUnd trank die Milch vom Paradies.            --Coleridge (tr. Politzer)</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 24972 invoked from network); 13 Apr 2009 23:23:58 -0000\r\nX-Received: from unknown (98.137.34.46)\n  by m4.grp.re1.yahoo.com with QMQP; 13 Apr 2009 23:23:58 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta3.grp.sp2.yahoo.com with SMTP; 13 Apr 2009 23:23:58 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1LtVV2-0001TW-L2\n\tfor Read_Alphabet@yahoogroups.com; Mon, 13 Apr 2009 19:23:36 -0400\r\nDate: Mon, 13 Apr 2009 19:23:36 -0400\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20090413232336.GC3072@...&gt;\r\nReferences: &lt;gruik4+ghme@...&gt; &lt;49E3782C.2090808@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;49E3782C.2090808@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: computer-typed Quickscript manual and FAQ\r\nX-Yahoo-Group-Post: member; u=212516; y=kJGSmHKRviBiFypBxHQLCdTnX9rFsNDdR8RH7xnaFUJFWNt_MA\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nBenct Philip Jonsson scripsit:\n&gt; Please no html-email with ascii-qs!\n&gt; HTML has no busness in email, no matter what\n&gt; Yahoo, MSN or the other culprits think!\n\nI agree.\n\n-- \nSchlingt dreifach einen Kreis vom dies!    John Cowan &lt;cowan@...&gt;\nSchliesst euer Aug vor heiliger Schau,     http://www.ccil.org/~cowan\nDenn er genoss vom Honig-Tau,\nUnd trank die Milch vom Paradies.            --Coleridge (tr. Politzer)\n\n"
+}

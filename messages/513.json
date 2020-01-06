@@ -1,0 +1,33 @@
+{
+  "userId": 168229681,
+  "authorName": "oliver langan",
+  "from": "oliver langan &lt;oliverlangan@...&gt;",
+  "profile": "oliverlangan",
+  "replyTo": "LIST",
+  "senderId": "dcqeu1YSWv8GJvpFdm9O0wV3laL5DeFcrtvgRa7MWs-fdygYOVQp-fjN7df18yw100LegAwJ56grpxFuIUsUWyRocc2GYkqyvrweAuJ9qNc",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Re: keyboard map uploaded",
+  "postDate": "1092367316",
+  "msgId": 513,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PEVFM0Y2RURELUVDRDctMTFEOC1BNzkyLTAwMEE5NUIxRDBGRUB5YWhvby5jb20uc2c+",
+    "inReplyToHeader": "PDQxMUJFODhDLjQwNjAzMDZAYXRubWFpbC5jb20+",
+    "referencesHeader": "PDEwOTE5NzMzNzEuMTMwLjY1NDkxLm0xMkB5YWhvb2dyb3Vwcy5jb20+IDwzMjBBOEQ3QS1FQzQ2LTExRDgtQTBFMS0wMDBBOTVCMUQwRkVAeWFob28uY29tLnNnPiA8NDExQkU4OEMuNDA2MDMwNkBhdG5tYWlsLmNvbT4="
+  },
+  "prevInTopic": 508,
+  "nextInTopic": 517,
+  "prevInTime": 512,
+  "nextInTime": 514,
+  "topicId": 472,
+  "numMessagesInTopic": 15,
+  "msgSnippet": "... As a programmer, I have no idea whatsoever how to make fonts... but the documentation I have read on the Unicode site suggests that ligatures lie firmly",
+  "messageBody": "<div id=\"ygrps-yiv-1828481687\">On 13 Aug 2004, at 06:00, Paige Gabhart wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;  Junior QS is fine, but I enjoy being able to also produce computer<br/>\n&gt;  script in senior QS.\u00a0 Jerome has a problem with the cursor position,<br/>\n&gt;  however.\u00a0 As a programmer, any idea if this could be corrected without<br/>\n&gt;  tons of trouble?<br/>\n<br/>\n </span></blockquote>As a programmer, I have no idea whatsoever how to make fonts... but the <br/>\ndocumentation I have read on the Unicode site suggests that ligatures <br/>\nlie firmly within the realm of font creation, not at the character <br/>\nencoding level.  Thus, I think that only a single Unicode encoding for <br/>\nQuickscript is necessary for both Junior and Senior Quickscript.  The <br/>\ndifference would appear in the font that is used to present them.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;  It would seem to me based on your comments and the little I know of<br/>\n&gt;  unicode, that it would make more sense to have a separate coding for <br/>\n&gt; QS.<br/>\n<br/>\n </span></blockquote>Yes, that is the way I am leaning as well.  I have downloaded the <br/>\nrelevant proposal documents from the Unicode site, and will fill them <br/>\nout to the best of my ability.  Since getting feedback is an important <br/>\npart of the Unicode proposal process, I will first post them here along <br/>\nwith any questions I can&#39;t easily answer.<br/>\n<br/>\noliver</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;oliverlangan@...&gt;\r\nX-Sender: oliverlangan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 43086 invoked from network); 13 Aug 2004 03:23:37 -0000\r\nReceived: from unknown (66.218.66.216)\n  by m14.grp.scd.yahoo.com with QMQP; 13 Aug 2004 03:23:37 -0000\r\nReceived: from unknown (HELO smtp107.mail.sc5.yahoo.com) (66.163.169.227)\n  by mta1.grp.scd.yahoo.com with SMTP; 13 Aug 2004 03:23:37 -0000\r\nReceived: from unknown (HELO ?192.168.0.25?) (oliverlangan@220.200.120.133 with plain)\n  by smtp107.mail.sc5.yahoo.com with SMTP; 13 Aug 2004 03:23:29 -0000\r\nMime-Version: 1.0 (Apple Message framework v618)\r\nIn-Reply-To: &lt;411BE88C.4060306@...&gt;\r\nReferences: &lt;1091973371.130.65491.m12@yahoogroups.com&gt; &lt;320A8D7A-EC46-11D8-A0E1-000A95B1D0FE@...&gt; &lt;411BE88C.4060306@...&gt;\r\nContent-Type: text/plain; charset=ISO-8859-1; format=flowed\r\nMessage-Id: &lt;EE3F6EDD-ECD7-11D8-A792-000A95B1D0FE@...&gt;\r\nContent-Transfer-Encoding: quoted-printable\r\nDate: Fri, 13 Aug 2004 11:21:56 +0800\r\nTo: Read_Alphabet@yahoogroups.com\r\nX-Mailer: Apple Mail (2.618)\r\nX-eGroups-Remote-IP: 66.163.169.227\r\nFrom: oliver langan &lt;oliverlangan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: keyboard map uploaded\r\nX-Yahoo-Group-Post: member; u=168229681\r\nX-Yahoo-Profile: oliverlangan\r\n\r\nOn 13 Aug 2004, at 06:00, Paige Gabhart wrote:\n&gt;  Junior QS is fine, but I =\r\nenjoy being able to also produce computer\n&gt;  script in senior QS.=A0 Jerome=\r\n has a problem with the cursor position,\n&gt;  however.=A0 As a programmer, an=\r\ny idea if this could be corrected without\n&gt;  tons of trouble?\n\nAs a program=\r\nmer, I have no idea whatsoever how to make fonts... but the \ndocumentation =\r\nI have read on the Unicode site suggests that ligatures \nlie firmly within =\r\nthe realm of font creation, not at the character \nencoding level.  Thus, I =\r\nthink that only a single Unicode encoding for \nQuickscript is necessary for=\r\n both Junior and Senior Quickscript.  The \ndifference would appear in the f=\r\nont that is used to present them.\n\n&gt;  It would seem to me based on your com=\r\nments and the little I know of\n&gt;  unicode, that it would make more sense to=\r\n have a separate coding for \n&gt; QS.\n\nYes, that is the way I am leaning as we=\r\nll.  I have downloaded the \nrelevant proposal documents from the Unicode si=\r\nte, and will fill them \nout to the best of my ability.  Since getting feedb=\r\nack is an important \npart of the Unicode proposal process, I will first pos=\r\nt them here along \nwith any questions I can&#39;t easily answer.\n\noliver\n\n\n"
+}

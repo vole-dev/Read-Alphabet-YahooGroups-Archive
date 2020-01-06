@@ -1,0 +1,33 @@
+{
+  "userId": 214981082,
+  "authorName": "Paul Tremblay",
+  "from": "Paul Tremblay &lt;phthenry@...&gt;",
+  "profile": "paulhtremblay",
+  "replyTo": "LIST",
+  "senderId": "AWtbIrQcxenQsH7BeTLHl1Y9ad93Fx2iB4XX_AUkilPrUO6IUjZohEFJnBSDbNZ7VSLR69DbKsSMrS6kQWhY6li7iMyS4150Yw",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] QS-SAMPA: a proposed format for plain-text Quickscript",
+  "postDate": "1196903515",
+  "msgId": 1763,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ3NTc0QzVCLjkwNzA4MDhAaWdsb3UuY29tPg==",
+    "inReplyToHeader": "PDQ3NTc0NkY3LjIwMDA2MDZAaWdsb3UuY29tPg==",
+    "referencesHeader": "PDVkODcyOWYwMDcxMTI4MTUxMmo0NGE3NjM1Y3hiMjM1Mzk0NTAyMjM3MjAyQG1haWwuZ21haWwuY29tPgkgPDQ3NEY3OUNDLjIwMzA4MDVAaWdsb3UuY29tPgkgPDVkODcyOWYwMDcxMTMwMjEwNnA1N2M2MDJlYnFiMWRjY2UxMjljMjliNGYyQG1haWwuZ21haWwuY29tPgkgPDQ3NTFEQjkwLjMwNTA1MDBAaWdsb3UuY29tPgkgPDVkODcyOWYwMDcxMjAxMjI1MXIxMjg4YzNiOGhjNjEzZmMzMTk0MzE5OWZAbWFpbC5nbWFpbC5jb20+CSA8NDc1MkVCMEYuNzA3MDgwMEBpZ2xvdS5jb20+CSA8NWQ4NzI5ZjAwNzEyMDIyMjU1aTMzNWMwMzYzeDFjMmM3NTlhODFmZGU0NWFAbWFpbC5nbWFpbC5jb20+CSA8NDc1NUE5Q0YuOTA5MDJAaWdsb3UuY29tPiA8NWQ4NzI5ZjAwNzEyMDQxMjU4azNjYzU0YTVlaTE4ZmE2ODU0N2NjZTEzOGNAbWFpbC5nbWFpbC5jb20+IDw0NzU1Q0Q1RS44MDIwNTA0QGlnbG91LmNvbT4gPDQ3NTY1Mzc2LjMwMzA3MDVAbWVscm9jaC5zZT4gPDQ3NTc0NkY3LjIwMDA2MDZAaWdsb3UuY29tPg=="
+  },
+  "prevInTopic": 1762,
+  "nextInTopic": 1767,
+  "prevInTime": 1762,
+  "nextInTime": 1764,
+  "topicId": 1690,
+  "numMessagesInTopic": 46,
+  "msgSnippet": "Okay, I just changed the font. You can find it at: http://quikscript.sourceforge.net/thoth.zip Note that this is a different address than before. The site to",
+  "messageBody": "<div id=\"ygrps-yiv-952714295\">Okay, I just changed the font. You can find it at:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://quikscript.sourceforge.net/thoth.zip\">http://quikscript.sourceforge.net/thoth.zip</a><br/>\n<br/>\nNote that this is a different address than before. The site to which I <br/>\nupload my font seems to have a glitch in which it does not replace an <br/>\nold file with a new one. Since it is an open fonts site, I still wish to <br/>\nput my font there, but in the meantime while I am trying to get this <br/>\nproblem straightened out,  I&#39;ll keep a duplicate copy at sourceforge.<br/>\n<br/>\nPaul</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;phthenry@...&gt;\r\nX-Sender: phthenry@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 74502 invoked from network); 6 Dec 2007 01:11:58 -0000\r\nX-Received: from unknown (66.218.67.97)\n  by m52.grp.scd.yahoo.com with QMQP; 6 Dec 2007 01:11:58 -0000\r\nX-Received: from unknown (HELO rdsmtp.iglou.com) (192.107.41.63)\n  by mta18.grp.scd.yahoo.com with SMTP; 6 Dec 2007 01:11:58 -0000\r\nX-Received: from iglou3.iglou.com ([192.107.41.6] helo=mail.iglou.com)\n\tby rdsmtp.iglou.com with esmtpa (Exim MTA/8.19.3)\n\t(envelope-from &lt;phthenry@...&gt;)\n\tid 1J05HR-0004jj-UD by authid &lt;igloumta&gt; with igloumta_auth\n\tfor Read_Alphabet@yahoogroups.com; Wed, 05 Dec 2007 20:11:57 -0500\r\nX-Received: from loudsl01-253-111-18.iglou.com ([64.253.111.18] helo=Enid-Johnsons-Computer.local)\n\tby smtp.iglou.com with esmtp (Exim MTA/8.19.3)\n\t(envelope-from &lt;phthenry@...&gt;)\n\tid 1J05HR-0005dk-NC\n\tfor Read_Alphabet@yahoogroups.com; Wed, 05 Dec 2007 20:11:57 -0500\r\nMessage-ID: &lt;47574C5B.9070808@...&gt;\r\nDate: Wed, 05 Dec 2007 20:11:55 -0500\r\nUser-Agent: Thunderbird 2.0.0.9 (Macintosh/20071031)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nReferences: &lt;5d8729f00711281512j44a7635cxb235394502237202@...&gt;\t &lt;474F79CC.2030805@...&gt;\t &lt;5d8729f00711302106p57c602ebqb1dcce129c29b4f2@...&gt;\t &lt;4751DB90.3050500@...&gt;\t &lt;5d8729f00712012251r1288c3b8hc613fc31943199f@...&gt;\t &lt;4752EB0F.7070800@...&gt;\t &lt;5d8729f00712022255i335c0363x1c2c759a81fde45a@...&gt;\t &lt;4755A9CF.90902@...&gt; &lt;5d8729f00712041258k3cc54a5ei18fa68547cce138c@...&gt; &lt;4755CD5E.8020504@...&gt; &lt;47565376.3030705@...&gt; &lt;475746F7.2000606@...&gt;\r\nIn-Reply-To: &lt;475746F7.2000606@...&gt;\r\nContent-Type: text/plain; charset=UTF-8; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\nX-IgLou-Customer: 6ab7d2bd86677d7d54d075759b28f06c\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Paul Tremblay &lt;phthenry@...&gt;\r\nSubject: Re: [Read_Alphabet] QS-SAMPA: a proposed format for plain-text Quickscript\r\nX-Yahoo-Group-Post: member; u=214981082; y=_4xNUuqwPt_k-r_8yiUQvwS99xfAFPSu0tJlJZagNvAOvvlDwNcp7A\r\nX-Yahoo-Profile: paulhtremblay\r\n\r\nOkay, I just changed the font. You can find it at:\n\nhttp://quikscript.sourceforge.net/thoth.zip\n\nNote that this is a different address than before. The site to which I \nupload my font seems to have a glitch in which it does not replace an \nold file with a new one. Since it is an open fonts site, I still wish to \nput my font there, but in the meantime while I am trying to get this \nproblem straightened out,  I&#39;ll keep a duplicate copy at sourceforge.\n\nPaul\n\n"
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 0,
+  "authorName": "Read_Alphabet@yahoogroups.com",
+  "from": "Read_Alphabet@yahoogroups.com ",
+  "replyTo": "LIST",
+  "senderId": "Gg5q-NkuIQBSoJG7Kidwz-K6Ja-_VUZTmcF3K2UJA-SE6eX_YbCvwtsujSGWYJqkLk9piBywWFuo7R0zsQPV2ErMVAI6",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "New file uploaded to Read_Alphabet",
+  "postDate": "1310446162",
+  "msgId": 2201,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": true,
+  "headers": {
+    "messageIdInHeader": "PDEzMTA0NDYxNjIuOTAzOS41OTQ2LncxMkB5YWhvb2dyb3Vwcy5jb20+"
+  },
+  "prevInTopic": 2165,
+  "nextInTopic": 2227,
+  "prevInTime": 2200,
+  "nextInTime": 2202,
+  "topicId": 3,
+  "numMessagesInTopic": 91,
+  "msgSnippet": "Hello, This email message is a notification to let you know that a file has been uploaded to the Files area of the Read_Alphabet group. File        : /Text",
+  "messageBody": "<div id=\"ygrps-yiv-1278521439\">Hello,<br/>\n<br/>\nThis email message is a notification to let you know that<br/>\na file has been uploaded to the Files area of the Read_Alphabet <br/>\ngroup.<br/>\n<br/>\n  File        : /Text Entry/en-qs.zip <br/>\n  Uploaded by : tim_rice09 &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:tim_rice09@...\">tim_rice09@...</a>&gt; <br/>\n  Description : Unicode QS keyboard for Windows <br/>\n<br/>\nYou can access this file at the URL:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/Read_Alphabet/files/Text%20Entry/en-qs.zip\">http://groups.yahoo.com/group/Read_Alphabet/files/Text%20Entry/en-qs.zip</a> <br/>\n<br/>\nTo learn more about file sharing for your group, please visit:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://help.yahoo.com/l/us/yahoo/groups/original/members/web/index.html\">http://help.yahoo.com/l/us/yahoo/groups/original/members/web/index.html</a><br/>\nRegards,<br/>\n<br/>\ntim_rice09 &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:tim_rice09@...\">tim_rice09@...</a>&gt;</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;notify@yahoogroups.com&gt;\r\nReceived: (qmail 54188 invoked from network); 12 Jul 2011 04:49:23 -0000\r\nReceived: from unknown (66.196.94.105)\n  by m11.grp.re1.yahoo.com with QMQP; 12 Jul 2011 04:49:23 -0000\r\nReceived: from unknown (HELO n4-vm6.bullet.mail.sp2.yahoo.com) (67.195.135.100)\n  by mta1.grp.re1.yahoo.com with SMTP; 12 Jul 2011 04:49:23 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1310446162; bh=HtNU1OeiI/5HWdYb5Os6f92TRWS0mkXxoaQB23f6wAU=; h=Received:Received:Received:Date:Message-ID:X-Yahoo-Newman-Property:X-eGroups-Auth:X-eGroups-Application:X-Yahoo-Group-Post:From:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding; b=YOcKCAA/mjzmvGy4APqvZ+f18W1/J8uZcvCnY8SsW44gyJqd6Zi5/9nasfMP80e21oIFgFw2OEOIMIe/uJGCX4SoK8pHK2XNiqfNAnbrq1DGjUrlbwHh/m4WC0Jb1S8+\r\nReceived: from [67.195.134.49] by n4.bullet.mail.sp2.yahoo.com with NNFMP; 12 Jul 2011 04:49:22 -0000\r\nReceived: from [69.147.65.174] by t2.bullet.mail.sp2.yahoo.com with NNFMP; 12 Jul 2011 04:49:22 -0000\r\nReceived: from [66.196.94.43] by t12.bullet.mail.sp1.yahoo.com with NNFMP; 12 Jul 2011 04:49:22 -0000\r\nDate: 12 Jul 2011 04:49:22 -0000\r\nMessage-ID: &lt;1310446162.9039.5946.w12@yahoogroups.com&gt;\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Application: files \r\nX-Yahoo-Group-Post: system\r\nFrom: Read_Alphabet@yahoogroups.com \r\nTo: Read_Alphabet@yahoogroups.com \r\nSubject: New file uploaded to Read_Alphabet \r\nMIME-Version: 1.0\r\nContent-Type: text/plain\r\nContent-Transfer-Encoding: 7bit\r\n\r\n\nHello,\n\nThis email message is a notification to let you know that\na file has been uploaded to the Files area of the Read_Alphabet \ngroup.\n\n  File        : /Text Entry/en-qs.zip \n  Uploaded by : tim_rice09 &lt;tim_rice09@...&gt; \n  Description : Unicode QS keyboard for Windows \n\nYou can access this file at the URL:\nhttp://groups.yahoo.com/group/Read_Alphabet/files/Text%20Entry/en-qs.zip \n\nTo learn more about file sharing for your group, please visit:\nhttp://help.yahoo.com/l/us/yahoo/groups/original/members/web/index.html\nRegards,\n\ntim_rice09 &lt;tim_rice09@...&gt;\n \n\n\n\n\n"
+}

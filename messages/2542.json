@@ -1,0 +1,33 @@
+{
+  "userId": 458641688,
+  "authorName": "Nathan Sharfi",
+  "from": "Nathan Sharfi &lt;bonusfrogs@...&gt;",
+  "profile": "dipartite",
+  "replyTo": "LIST",
+  "senderId": "W1wqeSGdmZtnrns1CUNbAt5rkSePO3x8Oh_VWEfghDpUrc9u7oAL92Xa49lijZnsSFnxd8zz3IXeV8mOGglhxlEVv_PFO447bjr8",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: thoughts on Shavian/Quikscript unification",
+  "postDate": "1369966307",
+  "msgId": 2542,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PEI5REU4NTYwLUYwNUUtNDE4MC1COTQ3LTdEMTRCQ0EyMDk3MEBnbWFpbC5jb20+",
+    "inReplyToHeader": "PEZEMTYxNEUxLTQ5MjgtNDE3NS1BREJCLUE5M0Q0OUIwNDYxNUBnbWFpbC5jb20+",
+    "referencesHeader": "PEZEMTYxNEUxLTQ5MjgtNDE3NS1BREJCLUE5M0Q0OUIwNDYxNUBnbWFpbC5jb20+"
+  },
+  "prevInTopic": 2538,
+  "nextInTopic": 2543,
+  "prevInTime": 2541,
+  "nextInTime": 2543,
+  "topicId": 2536,
+  "numMessagesInTopic": 5,
+  "msgSnippet": "... Would it help clarify my position to the UTC and any other interested party if I were to prepare a page in the style of",
+  "messageBody": "<div id=\"ygrps-yiv-1811965944\">On May 25, 2013, at 11:52 PM, Nathan Sharfi &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:bonusfrogs@...\">bonusfrogs@...</a>&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; [snip]<br/>\n&gt; Back on April 20, in &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/Read_Alphabet/message/2449\">http://groups.yahoo.com/group/Read_Alphabet/message/2449</a>&gt;, John Cowan wrote:<br/>\n&gt; <br/>\n&gt;&gt; On the question of unification, it would be extremely useful if<br/>\n&gt;&gt; you could prepare a short document showing the same passage in<br/>\n&gt;&gt; both scripts, similar to your Coptic/Greek/Cyrillic document at<br/>\n&gt;&gt; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.evertype.com/standards/cy/coptic.html\">http://www.evertype.com/standards/cy/coptic.html</a>&gt;. My general feeling<br/>\n&gt;&gt; is that the structural correspondences are not enough and that legibility<br/>\n&gt;&gt; demands disunification, but seeing is believing.<br/>\n&gt; <br/>\n&gt; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.frogorbits.com/qs/from-shavian/\">http://www.frogorbits.com/qs/from-shavian/</a>&gt; does just that.<br/>\n&gt; <br/>\n&gt; Hopefully these difficulties are sufficient to convince the UTC that it&#39;d be best for Quikscript users to have a block of code points that aren&#39;t shared with Shavian.<br/>\n<br/>\n </span></blockquote>Would it help clarify my position to the UTC and any other interested party if I were to prepare a page in the style of &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.evertype.com/standards/cy/coptic.html\">http://www.evertype.com/standards/cy/coptic.html</a>&gt; that highlights the differences between Quikscript and Shavian? This would be in addition to my more interactive page, of course.</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;bonusfrogs@...&gt;\r\nX-Sender: bonusfrogs@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 49528 invoked by uid 102); 31 May 2013 02:11:49 -0000\r\nX-Received: from unknown (HELO mtaq5.grp.bf1.yahoo.com) (10.193.84.36)\n  by m10.grp.bf1.yahoo.com with SMTP; 31 May 2013 02:11:49 -0000\r\nX-Received: (qmail 25757 invoked from network); 31 May 2013 02:11:49 -0000\r\nX-Received: from unknown (HELO mail-pb0-f42.google.com) (209.85.160.42)\n  by mtaq5.grp.bf1.yahoo.com with SMTP; 31 May 2013 02:11:49 -0000\r\nX-Received: by mail-pb0-f42.google.com with SMTP id uo1so1400540pbc.1\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Thu, 30 May 2013 19:11:48 -0700 (PDT)\r\nX-Received: by 10.68.225.100 with SMTP id rj4mr10701249pbc.109.1369966308814;\n        Thu, 30 May 2013 19:11:48 -0700 (PDT)\r\nReturn-Path: &lt;bonusfrogs@...&gt;\r\nX-Received: from spreadthinly.localdomain (pool-74-100-97-239.lsanca.fios.verizon.net. [74.100.97.239])\n        by mx.google.com with ESMTPSA id ve6sm7660022pbc.21.2013.05.30.19.11.47\n        for &lt;Read_Alphabet@yahoogroups.com&gt;\n        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);\n        Thu, 30 May 2013 19:11:48 -0700 (PDT)\r\nContent-Type: text/plain; charset=us-ascii\r\nMime-Version: 1.0 (Mac OS X Mail 6.3 &#92;(1503&#92;))\r\nIn-Reply-To: &lt;FD1614E1-4928-4175-ADBB-A93D49B04615@...&gt;\r\nDate: Thu, 30 May 2013 19:11:47 -0700\r\nContent-Transfer-Encoding: quoted-printable\r\nMessage-Id: &lt;B9DE8560-F05E-4180-B947-7D14BCA20970@...&gt;\r\nReferences: &lt;FD1614E1-4928-4175-ADBB-A93D49B04615@...&gt;\r\nTo: &quot;Read_Alphabet@yahoogroups.com&quot; &lt;Read_Alphabet@yahoogroups.com&gt;\r\nX-Mailer: Apple Mail (2.1503)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Nathan Sharfi &lt;bonusfrogs@...&gt;\r\nSubject: Re: thoughts on Shavian/Quikscript unification\r\nX-Yahoo-Group-Post: member; u=458641688; y=e0K2RH18P1g0AxhypM7-smnu5shSXD3PlGK0-NHpO3ibsXEL\r\nX-Yahoo-Profile: dipartite\r\n\r\nOn May 25, 2013, at 11:52 PM, Nathan Sharfi &lt;bonusfrogs@...&gt; wrote:\n&gt;=\r\n [snip]\n&gt; Back on April 20, in &lt;http://groups.yahoo.com/group/Read_Alphabet=\r\n/message/2449&gt;, John Cowan wrote:\n&gt; \n&gt;&gt; On the question of unification, it =\r\nwould be extremely useful if\n&gt;&gt; you could prepare a short document showing =\r\nthe same passage in\n&gt;&gt; both scripts, similar to your Coptic/Greek/Cyrillic =\r\ndocument at\n&gt;&gt; &lt;http://www.evertype.com/standards/cy/coptic.html&gt;. My gener=\r\nal feeling\n&gt;&gt; is that the structural correspondences are not enough and tha=\r\nt legibility\n&gt;&gt; demands disunification, but seeing is believing.\n&gt; \n&gt; &lt;http=\r\n://www.frogorbits.com/qs/from-shavian/&gt; does just that.\n&gt; \n&gt; Hopefully thes=\r\ne difficulties are sufficient to convince the UTC that it&#39;d be best for Qui=\r\nkscript users to have a block of code points that aren&#39;t shared with Shavia=\r\nn.\n\nWould it help clarify my position to the UTC and any other interested p=\r\narty if I were to prepare a page in the style of &lt;http://www.evertype.com/s=\r\ntandards/cy/coptic.html&gt; that highlights the differences between Quikscript=\r\n and Shavian? This would be in addition to my more interactive page, of cou=\r\nrse.\n"
+}

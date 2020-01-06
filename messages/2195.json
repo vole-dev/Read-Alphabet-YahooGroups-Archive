@@ -1,0 +1,31 @@
+{
+  "userId": 458641688,
+  "authorName": "Nathan Sharfi",
+  "from": "Nathan Sharfi &lt;bonusfrogs@...&gt;",
+  "profile": "dipartite",
+  "replyTo": "LIST",
+  "senderId": "pM9vwD8_feB5vFqLq32fLPDV8VaE8GMVZOg3u81lEa1qICudZTfW28hrljMwvjV2L1MNQOvFfVXi7sBl7rkzhimjMiB0vFJQgVLy",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: New poll for Read_Alphabet",
+  "postDate": "1308540983",
+  "msgId": 2195,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PEM0QzRGNUM2LTJDNDgtNDZDMi1BMEQyLUY1NkMzMEFBOTA2MUBnbWFpbC5jb20+"
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 0,
+  "prevInTime": 2194,
+  "nextInTime": 2196,
+  "topicId": 2195,
+  "numMessagesInTopic": 1,
+  "msgSnippet": "There s no good option here for people who aren t sure. Since I m on OS X, making a new keyboard layout involves researching an XML document format of dubious",
+  "messageBody": "<div id=\"ygrps-yiv-1868395165\">There&#39;s no good option here for people who aren&#39;t sure. Since I&#39;m on OS X, making a new keyboard layout involves researching an XML document format of dubious documentedness, and then writing a file that maps keyboard codes to Unicode code points (I guess they&#39;d all be in the private use area or &#39;squat&#39; on the Shavian code points). In all likelihood, someone&#39;s done that already for at least one keyboard layout, but I&#39;m not sure since I haven&#39;t looked into it myself.<br/>\n<br/>\nI suspect most Linux distributions are similar. What&#39;s the process like on Windows? Is it even possible without writing a Quickscript-specific text editor?</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;bonusfrogs@...&gt;\r\nX-Sender: bonusfrogs@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 34099 invoked from network); 20 Jun 2011 03:36:26 -0000\r\nX-Received: from unknown (98.137.34.45)\n  by m5.grp.sp2.yahoo.com with QMQP; 20 Jun 2011 03:36:26 -0000\r\nX-Received: from unknown (HELO mail-pz0-f44.google.com) (209.85.210.44)\n  by mta2.grp.sp2.yahoo.com with SMTP; 20 Jun 2011 03:36:26 -0000\r\nX-Received: by pzk5 with SMTP id 5so3174475pzk.3\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Sun, 19 Jun 2011 20:36:26 -0700 (PDT)\r\nX-Received: by 10.68.22.135 with SMTP id d7mr1693379pbf.408.1308540986476;\n        Sun, 19 Jun 2011 20:36:26 -0700 (PDT)\r\nReturn-Path: &lt;bonusfrogs@...&gt;\r\nX-Received: from hotplate.local (pool-173-58-133-113.lsanca.fios.verizon.net [173.58.133.113])\n        by mx.google.com with ESMTPS id f3sm2937018pbj.48.2011.06.19.20.36.24\n        (version=TLSv1/SSLv3 cipher=OTHER);\n        Sun, 19 Jun 2011 20:36:25 -0700 (PDT)\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Transfer-Encoding: quoted-printable\r\nDate: Sun, 19 Jun 2011 20:36:23 -0700\r\nMessage-Id: &lt;C4C4F5C6-2C48-46C2-A0D2-F56C30AA9061@...&gt;\r\nTo: Read_Alphabet@yahoogroups.com\r\nMime-Version: 1.0 (Apple Message framework v1084)\r\nX-Mailer: Apple Mail (2.1084)\r\nFrom: Nathan Sharfi &lt;bonusfrogs@...&gt;\r\nSubject: Re: New poll for Read_Alphabet\r\nX-Yahoo-Group-Post: member; u=458641688; y=rImBMKLp9aYcoBSutsfq9ncS9v2lqK2x39T0UPCBy7JBJmC1\r\nX-Yahoo-Profile: dipartite\r\n\r\nThere&#39;s no good option here for people who aren&#39;t sure. Since I&#39;m on OS X, =\r\nmaking a new keyboard layout involves researching an XML document format of=\r\n dubious documentedness, and then writing a file that maps keyboard codes t=\r\no Unicode code points (I guess they&#39;d all be in the private use area or &#39;sq=\r\nuat&#39; on the Shavian code points). In all likelihood, someone&#39;s done that al=\r\nready for at least one keyboard layout, but I&#39;m not sure since I haven&#39;t lo=\r\noked into it myself.\n\nI suspect most Linux distributions are similar. What&#39;=\r\ns the process like on Windows? Is it even possible without writing a Quicks=\r\ncript-specific text editor?\n"
+}

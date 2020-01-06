@@ -1,0 +1,33 @@
+{
+  "userId": 134841503,
+  "authorName": "Ted Larson Freeman",
+  "from": "&quot;Ted Larson Freeman&quot; &lt;freeman@...&gt;",
+  "profile": "tedf255",
+  "replyTo": "LIST",
+  "senderId": "w2aL6K-Ow6u3zBlEQ8rZAhh5R3IzAcIw3n2Dtg-eDKJF3yI_77JFdUhomp2shWq5GhsG2Xd6jVksYW2qAEhAmJhaitofYILUUW4XkU_Te42czvMKTNLAUA",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] dictionary, script not working",
+  "postDate": "1192564934",
+  "msgId": 1115,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDVkODcyOWYwMDcxMDE2MTMwMnMyOWUwNmQzZmhjYTk3MGRlOGY0YzRmYjc5QG1haWwuZ21haWwuY29tPg==",
+    "inReplyToHeader": "PDQ3MEU5MTQ4LjUwMzAxMDlAaWdsb3UuY29tPg==",
+    "referencesHeader": "PDQ3MEI3RjZDLjEwOTAwMDNAaWdsb3UuY29tPgkgPDVkODcyOWYwMDcxMDA5MDg1Nnk1Mzg0MDFiYXk2MGM0MmNjODhjOWYyNjBAbWFpbC5nbWFpbC5jb20+CSA8NDcwRTkxNDguNTAzMDEwOUBpZ2xvdS5jb20+"
+  },
+  "prevInTopic": 1109,
+  "nextInTopic": 1116,
+  "prevInTime": 1114,
+  "nextInTime": 1116,
+  "topicId": 1099,
+  "numMessagesInTopic": 14,
+  "msgSnippet": "Hi Paul, Sorry to hear about the MS Word conversion... I have no idea how this list was created. I see that the converter was uploaded by group member",
+  "messageBody": "<div id=\"ygrps-yiv-468480209\">Hi Paul,<br><br>Sorry to hear about the MS Word conversion...<br><br>I have no idea how this list was created. I see that the converter was uploaded by group member <span class=\"ygrps-yiv-468480209name\"></span>jeff_smith_8992. Jeff, are you out there??\n<br><br>Ted<br><br><br><blockquote><span title=\"qreply\"> <div><span class=\"ygrps-yiv-468480209gmail_quote\">On 10/11/07, <b class=\"ygrps-yiv-468480209gmail_sendername\">Paul Tremblay</b> &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:phthenry@...\">phthenry@...</a>&gt; wrote:</span><blockquote class=\"ygrps-yiv-468480209gmail_quote\" style=\"border-left:1px solid rgb(204, 204, 204);margin:0pt 0pt 0pt 0.8ex;padding-left:1ex;\">\n\n\n\n\n\n\n\n\n\n<div style=\"background-color:rgb(255, 255, 255);\">\n\n\n<div style=\"width:655px;\">\n  <div style=\"padding:0pt 15px 0pt 0pt;width:490px;float:left;\">\n\n\n    <div>\n            <p><span class=\"ygrps-yiv-468480209q\">Ted Larson Freeman wrote:<br>\n&gt; <br>\n&gt; <br>\n&gt; Hi Paul,<br>\n&gt; <br>\n&gt; I don&#39;t use Windows either, but if you unzip the file <br>\n&gt; QsConverter_1_2_1.zip and look in the resulting directory you&#39;ll find <br>\n&gt; the dictionary file QS_Dict_TextOnly.txt. I converted this into a file <br>\n&gt; in Rich Text Format, available here:<br>\n&gt; <br>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://staff.washington.edu/freeman/qs/qs_dict.rtf\">http://staff.washington.edu/freeman/qs/qs_dict.rtf</a> <br>\n&gt; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://staff.washington.edu/freeman/qs/qs_dict.rtf\">http://staff.washington.edu/freeman/qs/qs_dict.rtf</a>&gt;<br>\n&gt; <br>\n&gt; It&#39;s a big file, but I still find it usable as a reference by simply <br>\n&gt; searching for words that I&#39;m having difficulty transcribing. When I <br>\n&gt; tried converting it to PDF format it was too large to be useful. I&#39;d be <br>\n&gt; happy to upload this file to the group website if others would like it <br>\n&gt; to be there.<br>\n&gt; <br>\n&gt; Note that this file does not contain a single instance of QS letter #34 <br>\n&gt; (&quot;On&quot; in Jon Zuck&#39;s nomenclature).<br>\n&gt; <br>\n<br></span>\nThanks Ted,<br>\n<br>\nThat file helps a lot. Though, I opened it in Word, saved it as Unicode <br>\ntext, and then spent about an hour wondering why I kept getting <br>\ncorruption when I used it as a database for a script I wrote that <br>\nconverts Traditional Orthogrpahy (TO) to QS. It ended up being the way <br>\nWord converted the file to text--don&#39;t ask me why. F*** Microsoft products.<br>\n<br>\nAnyway, it is not in a plain text file, which I think is useful. Do you <br>\nknow how this dictionary was generated? It seems it was generated <br>\nautomatically with some type of script, because, for example, there are <br>\nmultiple entries for &quot;a.&quot; Also, from what I can tell so far, at least <br>\nsome of the entrires differ from standard American pronounciation.<br>\n<br>\nPaul<br>\n</p>\n    </div>  \n\n    \n    <span style=\"color:white;\"></span>\n\n</div>\n\n\n\n\n\n\n\n</div></div></blockquote></div><br>\n </span></blockquote></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;tedf255@...&gt;\r\nX-Sender: tedf255@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 96481 invoked from network); 16 Oct 2007 20:02:20 -0000\r\nReceived: from unknown (66.218.67.94)\n  by m50.grp.scd.yahoo.com with QMQP; 16 Oct 2007 20:02:20 -0000\r\nReceived: from unknown (HELO mu-out-0910.google.com) (209.85.134.184)\n  by mta15.grp.scd.yahoo.com with SMTP; 16 Oct 2007 20:02:19 -0000\r\nReceived: by mu-out-0910.google.com with SMTP id w1so2043630mue\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Tue, 16 Oct 2007 13:02:17 -0700 (PDT)\r\nReceived: by 10.82.106.14 with SMTP id e14mr13865615buc.1192564934701;\n        Tue, 16 Oct 2007 13:02:14 -0700 (PDT)\r\nReceived: by 10.78.29.9 with HTTP; Tue, 16 Oct 2007 13:02:14 -0700 (PDT)\r\nMessage-ID: &lt;5d8729f00710161302s29e06d3fhca970de8f4c4fb79@...&gt;\r\nDate: Tue, 16 Oct 2007 13:02:14 -0700\r\nTo: Read_Alphabet@yahoogroups.com\r\nIn-Reply-To: &lt;470E9148.5030109@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: multipart/alternative; \n\tboundary=&quot;----=_Part_42374_20243196.1192564934352&quot;\r\nReferences: &lt;470B7F6C.1090003@...&gt;\n\t &lt;5d8729f00710090856y538401bay60c42cc88c9f260@...&gt;\n\t &lt;470E9148.5030109@...&gt;\r\nX-Google-Sender-Auth: a68731de5647d540\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: &quot;Ted Larson Freeman&quot; &lt;freeman@...&gt;\r\nSubject: Re: [Read_Alphabet] dictionary, script not working\r\nX-Yahoo-Group-Post: member; u=134841503; y=1WswlX8lBt6xO0meyXNCemDXB3UPYDx8XnmijCTdug29yA\r\nX-Yahoo-Profile: tedf255\r\n\r\n\r\n------=_Part_42374_20243196.1192564934352\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Disposition: inline\r\n\r\n[ Attachment content not displayed ]\r\n------=_Part_42374_20243196.1192564934352\r\nContent-Type: text/html; charset=ISO-8859-1\r\nContent-Disposition: inline\r\n\r\n[ Attachment content not displayed ]\r\n------=_Part_42374_20243196.1192564934352--\r\n\n"
+}

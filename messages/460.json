@@ -1,0 +1,32 @@
+{
+  "userId": 119902064,
+  "authorName": "oliver langan",
+  "from": "&quot;oliver langan&quot; &lt;yahoo@...&gt;",
+  "profile": "oliverlangan",
+  "replyTo": "LIST",
+  "senderId": "nS5wCjcMuwVzYd6q5-2jB-7CQ-Vw2fiUhO_a_YLMmLqcv_1P808WApYP53_q8iP5wYAWMeDhYIjZHRFpLSAX8zd9dpNj-TPgcA",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: qs-unicode-char-count-proposal.gif",
+  "postDate": "1087381573",
+  "msgId": 460,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGNhcDc4NStjcDR1QGVHcm91cHMuY29tPg==",
+    "inReplyToHeader": "PGNhbXBqbittbmdpQGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 459,
+  "nextInTopic": 0,
+  "prevInTime": 459,
+  "nextInTime": 462,
+  "topicId": 455,
+  "numMessagesInTopic": 4,
+  "msgSnippet": "... ah, yes.  well, I guess I can t blame it on just being tired.  That was clearly because I couldn t read the scanned version of the QS manual, but still...",
+  "messageBody": "<div id=\"ygrps-yiv-369881132\"><blockquote><span title=\"ireply\">&gt; There seem to be a few other typos in this gif:<br/>\n&gt; <br/>\n&gt; THEW should be THAW<br/>\n&gt; AME should be AWE<br/>\n&gt; OME should be OWE<br/>\n<br/>\n </span></blockquote>ah, yes.  well, I guess I can&#39;t blame it on just being tired.  That was clearly because I <br/>\ncouldn&#39;t read the scanned version of the QS manual, but still... I should&#39;ve guessed the <br/>\nwrite words, eh?<br/>\n<br/>\nI made the corrections and updated the graphic.<br/>\n<br/>\nCan anyone think of letters that are missing from this unicode proposal?  more <br/>\nimportantly, does anyone know how to take the next step, of actually FILING a unicode <br/>\nproposal?  I have done some very rudimentary research, enough to know that every <br/>\ncharacter needs a unique name (thus the proposal), but not enough to know where to go <br/>\nfrom here.<br/>\n<br/>\noliver</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;yahoo@...&gt;\r\nX-Sender: yahoo@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 58680 invoked from network); 16 Jun 2004 10:26:21 -0000\r\nReceived: from unknown (66.218.66.218)\n  by m25.grp.scd.yahoo.com with QMQP; 16 Jun 2004 10:26:21 -0000\r\nReceived: from unknown (HELO n4.grp.scd.yahoo.com) (66.218.66.88)\n  by mta3.grp.scd.yahoo.com with SMTP; 16 Jun 2004 10:26:20 -0000\r\nReceived: from [66.218.67.191] by n4.grp.scd.yahoo.com with NNFMP; 16 Jun 2004 10:26:17 -0000\r\nDate: Wed, 16 Jun 2004 10:26:13 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;cap785+cp4u@...&gt;\r\nIn-Reply-To: &lt;campjn+mngi@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 720\r\nX-Mailer: Yahoo Groups Message Poster\r\nX-eGroups-Remote-IP: 66.218.66.88\r\nFrom: &quot;oliver langan&quot; &lt;yahoo@...&gt;\r\nSubject: Re: qs-unicode-char-count-proposal.gif\r\nX-Yahoo-Group-Post: member; u=119902064\r\nX-Yahoo-Profile: oliverlangan\r\n\r\n&gt; There seem to be a few other typos in this gif:\n&gt; \n&gt; THEW should be THAW\n&gt; AME should be AWE\n&gt; OME should be OWE\n\nah, yes.  well, I guess I can&#39;t blame it on just being tired.  That was clearly because I \ncouldn&#39;t read the scanned version of the QS manual, but still... I should&#39;ve guessed the \nwrite words, eh?\n\nI made the corrections and updated the graphic.\n\nCan anyone think of letters that are missing from this unicode proposal?  more \nimportantly, does anyone know how to take the next step, of actually FILING a unicode \nproposal?  I have done some very rudimentary research, enough to know that every \ncharacter needs a unique name (thus the proposal), but not enough to know where to go \nfrom here.\n\noliver\n\n\n\n"
+}

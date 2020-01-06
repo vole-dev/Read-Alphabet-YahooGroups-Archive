@@ -1,0 +1,78 @@
+{
+  "userId": 23677616,
+  "authorName": "Warren Janssens",
+  "from": "Warren Janssens &lt;warren_janssens@...&gt;",
+  "profile": "warren_janssens",
+  "replyTo": "LIST",
+  "senderId": "-qEXxYimTcovJH9tvhLLxMewoh26dO_xRG5ZfENGIHsz1Pagyejp-UMtJFQ_tULWpVvd5rHH_oe2lrv6oCAkYDAx3ZBV0jY6Q--oPz0L7NeKIA",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Helvetica Inspired font",
+  "postDate": "1258143668",
+  "msgId": 2132,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": true,
+  "headers": {
+    "messageIdInHeader": "PDM3NTQzMi42ODY5NC5xbUB3ZWIzNDUwNi5tYWlsLm11ZC55YWhvby5jb20+"
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 0,
+  "prevInTime": 2131,
+  "nextInTime": 2133,
+  "topicId": 2132,
+  "numMessagesInTopic": 1,
+  "msgSnippet": "I ve been working on a Qwikscript font inspired by Helvetica and I thought I d share what I have so far here to solicit some feedback. Just some quick notes: *",
+  "messageBody": "<div id=\"ygrps-yiv-721495764\">I&#39;ve been working on a Qwikscript font inspired by Helvetica and I thought I&#39;d share what I have so far here to solicit some feedback.<br/>\n<br/>\nJust some quick notes:<br/>\n* followed Helvetica metrics for x height, ascender height, decender height, stroke width, etc...<br/>\n* used the other glyphs in Helvetica as inspiration (l, i, o, upsilon, Omega, etc...)<br/>\n* attempting to make it legible at small sizes<br/>\n* matched the glyph shape from the QS manual as close as possible<br/>\n* all glyphs start and end on a writing line even though there is no cursive joining<br/>\n    * not sure this is the the right decision -- it might be better to ignore the joining lines for a non joining font<br/>\n* regular face is junior<br/>\n    * junior is what typeset documents would use anyways<br/>\n    * senior could be the italic version -- mostly it would just be kerning but some conditional substitution would be required -- however from what I can tell conditional substitution doesn&#39;t work in the Shavian code page (at least on MacOS Leopard)<br/>\n* encoded the glyphs into the Shavian code page which means there are some compromises (too bad there isn&#39;t a QS codepage -- it would be nice to have a font with Shavian, QS, as well as Latin)<br/>\n    * WHy not encoded as there is no spot for it<br/>\n    * Shavian Up and Err are left blank (but perhaps they should be copies of Utter and Utter/Roe if switching between QS and Shavian fonts is desirable)<br/>\n<br/>\nIf anyone knows how to get conditional substitution to work in the Shavian code-page I&#39;d love to hear about it.  I can only get it to work in the Latin code-page.  I&#39;ve only tried on Leopard so maybe it works on Snow Leopard, Vista, or Win7.  A senior version of the script would not be possible without conditional substitution for all the alternate forms required for proper joining.  Conditional substitution would also be handy in Junior as well so that the y/oo, ai/r and the other ligatures could be typed with two keystrokes instead of one.<br/>\n<br/>\nI really like the way all the vowels turned out (perhaps because that&#39;s where I&#39;ve taken the most artistic license and deviated from the QS manual), but I&#39;m not that crazy yet about some of the consonants as all the tight curls in the ascender/decender space make it hard to read at small sizes.  Some of the consonants appear to decend / acscend too much (e.g. key / roe together looks odd) even though they follow the same metrics as the rest of Helvetica&#39;s glyphs.<br/>\n<br/>\n <br/>\nAt the moment I&#39;ve added this directly to a copy of Helvetica but of course I wouldn&#39;t be allowed to distribute that here due to copyright restrictions.  However I can always distribute a font with just my new glyphs in it once the design is finalized.<br/>\n<br/>\n<br/>\nWarren<br/>\n<br/>\n<br/>\n<br/>\n      __________________________________________________________________<br/>\nConnect with friends from any web browser - no download required. Try the new Yahoo! Canada Messenger for the Web BETA at <a rel=\"nofollow\" target=\"_blank\" href=\"http://ca.messenger.yahoo.com/webmessengerpromo.php\">http://ca.messenger.yahoo.com/webmessengerpromo.php</a></div>",
+  "specialLinks": [],
+  "attachmentsInfo": [
+    {
+      "groupId": 2510463,
+      "attachmentId": 453843338,
+      "fileId": 78396787,
+      "title": "Picture 1",
+      "creatorNickname": "warren_janssens",
+      "modificationDate": 1258183299,
+      "referenceId": 2132,
+      "size": 59185,
+      "filename": "Picture 1.png",
+      "fileType": "image/png",
+      "type": "photo",
+      "canDelete": false,
+      "photoInfo": [
+        {
+          "displayURL": "https://xa.yimg.com/kq/groups/EuJk_p3uf9BcykpU/tn/mVlVrEfrctLts7u18Q--/name/Picture+1.jpg",
+          "height": 96,
+          "width": 83,
+          "size": 7065,
+          "photoType": "tn"
+        },
+        {
+          "displayURL": "https://xa.yimg.com/kq/groups/EuJk_p3uf9BcykpU/sn/mVlVrEfrctLts7u18Q--/name/Picture+1.jpg",
+          "height": 480,
+          "width": 416,
+          "size": 108805,
+          "photoType": "sn"
+        },
+        {
+          "displayURL": "https://xa.yimg.com/kq/groups/EuJk_p3uf9BcykpU/hr/mVlVrEfrctLts7u18Q--/name/Picture+1.jpg",
+          "height": 697,
+          "width": 605,
+          "size": 59392,
+          "photoType": "hr"
+        },
+        {
+          "displayURL": "https://xa.yimg.com/kq/groups/EuJk_p3uf9BcykpU/or/mVlVrEfrctLts7u18Q--/name/Picture+1.png",
+          "height": 697,
+          "width": 605,
+          "size": 59185,
+          "photoType": "or"
+        }
+      ],
+      "photomaticAlbumUrl": ""
+    }
+  ],
+  "rawEmail": "Return-Path: &lt;warren_janssens@...&gt;\r\nReceived: (qmail 85860 invoked from network); 14 Nov 2009 07:21:31 -0000\r\nReceived: from unknown (66.196.94.105)\n  by m13.grp.re1.yahoo.com with QMQP; 14 Nov 2009 07:21:31 -0000\r\nReceived: from unknown (HELO n41b.bullet.mail.sp1.yahoo.com) (66.163.168.155)\n  by mta1.grp.re1.yahoo.com with SMTP; 14 Nov 2009 07:21:31 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1258183278; bh=k+trxQbz+3MFQeK8yqk8rMF6aTHW3k1Gow3cdd672iA=; h=Received:Received:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:Message-ID:X-YMail-OSG:X-Received:X-Mailer:Date:To:MIME-Version:Content-Type:X-Originating-IP:X-eGroups-Msg-Info:From:Subject:X-Yahoo-Group-Post:X-Yahoo-Profile:X-YGroups-SubInfo:Sender:X-Yahoo-Newman-Property:X-eGroups-Approved-By:X-eGroups-Auth; b=k5A+c9Is8eqpQ7lL4TSSK739YyE9vJIIDwvEiarpSF+8iAE3b5gpOgpvoY2c3VkI+cCI8BzKswnLgD4gc50u5nDsDy7jtrSkBa9Qc67M07uAlj1jvd/YEYvgMpXodiFn\r\nReceived: from [69.147.65.151] by n41.bullet.mail.sp1.yahoo.com with NNFMP; 14 Nov 2009 07:21:18 -0000\r\nReceived: from [98.137.34.35] by t5.bullet.mail.sp1.yahoo.com with NNFMP; 14 Nov 2009 07:21:18 -0000\r\nX-Sender: warren_janssens@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 95079 invoked from network); 13 Nov 2009 20:21:08 -0000\r\nX-Received: from unknown (98.137.34.44)\n  by m3.grp.sp2.yahoo.com with QMQP; 13 Nov 2009 20:21:08 -0000\r\nX-Received: from unknown (HELO web34506.mail.mud.yahoo.com) (66.163.178.172)\n  by mta1.grp.sp2.yahoo.com with SMTP; 13 Nov 2009 20:21:08 -0000\r\nX-Received: (qmail 68982 invoked by uid 60001); 13 Nov 2009 20:21:08 -0000\r\nMessage-ID: &lt;375432.68694.qm@...&gt;\r\nX-YMail-OSG: qk6g5h0VM1k1FFNLWVVdhCdDWMpdih_7kJIRwGG1VRNJGh8ehRM7rgmLyDXptvyc_n75M.Z8aD9iXrvyD.YQyyrW3dHDq9iI6zBr1ENdCHH3mxUfnWybalHqAnnUPU2WkRfj7dG28K7dUAAWucFM9FVyzhrHjrWZMzZIL1AXVlN93g5kHDdUVeAWdqu3EatWKyCr5aNMx8KCrRS_pqpcxjaZMyvdZDy_p05wZQytYDz1LehjYs0arMuy0ARShor8E4_LlHgNmxcAg_B8JibqEyb1SqxfVB5WdUFXympYAgpjOSPTqNFS4aA76_qKc5n6VDQw1USzWXb1MpTgLsyJngsSCpmWroU0c9dDZyrR.QH4iLVfgBxRQdCYsxUYqBnE5BXUY9Cth8O2H2b6xrZ2Q_JgIksPjC2HY_JN.8USUKUn.x.0ehxpbYFlh2vadudKgUgNjCGAcQXBs3GclddCtPTQ8yoDleJMIvgcCUdGtEimabXBp_cn11SBhw--\r\nX-Received: from [64.201.177.59] by web34506.mail.mud.yahoo.com via HTTP; Fri, 13 Nov 2009 12:21:08 PST\r\nX-Mailer: YahooMailRC/211.6 YahooMailWebService/0.7.361.4\r\nDate: Fri, 13 Nov 2009 12:21:08 -0800 (PST)\r\nTo: Read_Alphabet@yahoogroups.com\r\nMIME-Version: 1.0\r\nContent-Type: multipart/mixed; boundary=&quot;0-1485917274-1258143668=:68694&quot;\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Warren Janssens &lt;warren_janssens@...&gt;\r\nSubject: Helvetica Inspired font\r\nX-Yahoo-Group-Post: member; u=23677616; y=C9MAMrjWpnjBAgSMXq5wktJIw4aEeGGCXoN60IlWYUbvJgBV0lxcWz2r\r\nX-Yahoo-Profile: warren_janssens\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Approved-By: tinyallen &lt;Tinyallen@...&gt; via web; 14 Nov 2009 07:21:16 -0000\r\n\r\n\r\n--0-1485917274-1258143668=:68694\r\nContent-Type: text/plain; charset=us-ascii\r\n\r\nI&#39;ve been working on a Qwikscript font inspired by Helvetica and I thought I&#39;d share what I have so far here to solicit some feedback.\n\nJust some quick notes:\n* followed Helvetica metrics for x height, ascender height, decender height, stroke width, etc...\n* used the other glyphs in Helvetica as inspiration (l, i, o, upsilon, Omega, etc...)\n* attempting to make it legible at small sizes\n* matched the glyph shape from the QS manual as close as possible\n* all glyphs start and end on a writing line even though there is no cursive joining\n    * not sure this is the the right decision -- it might be better to ignore the joining lines for a non joining font\n* regular face is junior\n    * junior is what typeset documents would use anyways\n    * senior could be the italic version -- mostly it would just be kerning but some conditional substitution would be required -- however from what I can tell conditional substitution doesn&#39;t work in the Shavian code page (at least on MacOS Leopard)\n* encoded the glyphs into the Shavian code page which means there are some compromises (too bad there isn&#39;t a QS codepage -- it would be nice to have a font with Shavian, QS, as well as Latin)\n    * WHy not encoded as there is no spot for it\n    * Shavian Up and Err are left blank (but perhaps they should be copies of Utter and Utter/Roe if switching between QS and Shavian fonts is desirable)\n\nIf anyone knows how to get conditional substitution to work in the Shavian code-page I&#39;d love to hear about it.  I can only get it to work in the Latin code-page.  I&#39;ve only tried on Leopard so maybe it works on Snow Leopard, Vista, or Win7.  A senior version of the script would not be possible without conditional substitution for all the alternate forms required for proper joining.  Conditional substitution would also be handy in Junior as well so that the y/oo, ai/r and the other ligatures could be typed with two keystrokes instead of one.\n\nI really like the way all the vowels turned out (perhaps because that&#39;s where I&#39;ve taken the most artistic license and deviated from the QS manual), but I&#39;m not that crazy yet about some of the consonants as all the tight curls in the ascender/decender space make it hard to read at small sizes.  Some of the consonants appear to decend / acscend too much (e.g. key / roe together looks odd) even though they follow the same metrics as the rest of Helvetica&#39;s glyphs.\n\n \nAt the moment I&#39;ve added this directly to a copy of Helvetica but of course I wouldn&#39;t be allowed to distribute that here due to copyright restrictions.  However I can always distribute a font with just my new glyphs in it once the design is finalized.\n\n\nWarren\n\n\n\n      __________________________________________________________________\nConnect with friends from any web browser - no download required. Try the new Yahoo! Canada Messenger for the Web BETA at http://ca.messenger.yahoo.com/webmessengerpromo.php\r\n--0-1485917274-1258143668=:68694\r\nContent-Type: image/png; name=&quot;Picture 1.png&quot;\r\nContent-Disposition: attachment; filename=&quot;Picture 1.png&quot;\r\n\r\n[ Attachment content not displayed ]\r\n--0-1485917274-1258143668=:68694--\r\n\n"
+}

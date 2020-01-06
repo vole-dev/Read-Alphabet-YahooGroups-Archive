@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "0-4Sv2KWkUSc8lMJ5sCOqp1ymERWJRYS1ElvZ0f5aKvQCHikwmfxDK2ojDvbfqx9Al15rHpFrBmFJ7_RufuXXRL4",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Lexical sets and QS letters",
+  "postDate": "1194220131",
+  "msgId": 1318,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMTA0MjM0ODUwLkdHMTMzMTdAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PDQ3MkU1N0YxLjUwNjA0MDhAaWdsb3UuY29tPg==",
+    "referencesHeader": "PGZna2dhcitndXRqQGVHcm91cHMuY29tPiA8NDcyREYzNTUuOTAyMDkwMUBpZ2xvdS5jb20+IDwyMDA3MTEwNDIzMzAzMi5HRjEzMzE3QG1lcmN1cnkuY2NpbC5vcmc+IDw0NzJFNTdGMS41MDYwNDA4QGlnbG91LmNvbT4="
+  },
+  "prevInTopic": 1317,
+  "nextInTopic": 1319,
+  "prevInTime": 1317,
+  "nextInTime": 1319,
+  "topicId": 1286,
+  "numMessagesInTopic": 73,
+  "msgSnippet": "... I think the change was in progress when the QM was written and Read wanted a standardized form, so he picked the more traditional/prestigious version.  I",
+  "messageBody": "<div id=\"ygrps-yiv-587899925\">Paul Tremblay scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Right, but why should we have an exception for just this one letter, <br/>\n<br/>\n </span></blockquote>I think the change was in progress when the QM was written and Read<br/>\nwanted a standardized form, so he picked the more traditional/prestigious<br/>\nversion.  I don&#39;t care about this exception one way or the other.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; when I am guessing most English speakers pronounce the final &quot;y&quot; [i]? I <br/>\n&gt; just looked at the KIT lexical set, and it does contain the word &quot;busy,&quot; <br/>\n&gt; but I would imagine that it is the &quot;u&quot; in this word that belongs in the <br/>\n&gt; lexical set, not the final &quot;y.&quot;<br/>\n<br/>\n </span></blockquote>Right.  In all lexical sets except HAPPY, LETTER, and COMMA, it&#39;s only<br/>\nthe stressed (accented) vowel that counts.  For those three, it is<br/>\nthe unstressed vowel that counts: the &quot;-y&quot; of &quot;happy&quot;, the &quot;-e(r)&quot; of<br/>\n&quot;letter&quot;, and the &quot;-a&quot; of &quot;comma&quot;.<br/>\n<br/>\n-- <br/>\nA: &quot;Spiro conjectures Ex-Lax.&quot;                  John Cowan<br/>\nQ: &quot;What does Pat Nixon frost her cakes with?&quot;  <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a><br/>\n  --&quot;Jeopardy&quot; for generative semanticists      <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 83565 invoked from network); 4 Nov 2007 23:48:51 -0000\r\nX-Received: from unknown (66.218.67.96)\n  by m53.grp.scd.yahoo.com with QMQP; 4 Nov 2007 23:48:51 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta17.grp.scd.yahoo.com with SMTP; 4 Nov 2007 23:48:51 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1IopD1-00018M-3D\n\tfor Read_Alphabet@yahoogroups.com; Sun, 04 Nov 2007 18:48:51 -0500\r\nDate: Sun, 4 Nov 2007 18:48:51 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20071104234850.GG13317@...&gt;\r\nReferences: &lt;fgkgar+gutj@...&gt; &lt;472DF355.9020901@...&gt; &lt;20071104233032.GF13317@...&gt; &lt;472E57F1.5060408@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;472E57F1.5060408@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Lexical sets and QS letters\r\nX-Yahoo-Group-Post: member; u=212516; y=IAMTuqx00ySXbu689MAxE9pRgEK4FWp2z6zKMuyakS2QA_DWAg\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nPaul Tremblay scripsit:\n\n&gt; Right, but why should we have an exception for just this one letter, \n\nI think the change was in progress when the QM was written and Read\nwanted a standardized form, so he picked the more traditional/prestigious\nversion.  I don&#39;t care about this exception one way or the other.\n\n&gt; when I am guessing most English speakers pronounce the final &quot;y&quot; [i]? I \n&gt; just looked at the KIT lexical set, and it does contain the word &quot;busy,&quot; \n&gt; but I would imagine that it is the &quot;u&quot; in this word that belongs in the \n&gt; lexical set, not the final &quot;y.&quot;\n\nRight.  In all lexical sets except HAPPY, LETTER, and COMMA, it&#39;s only\nthe stressed (accented) vowel that counts.  For those three, it is\nthe unstressed vowel that counts: the &quot;-y&quot; of &quot;happy&quot;, the &quot;-e(r)&quot; of\n&quot;letter&quot;, and the &quot;-a&quot; of &quot;comma&quot;.\n\n-- \nA: &quot;Spiro conjectures Ex-Lax.&quot;                  John Cowan\nQ: &quot;What does Pat Nixon frost her cakes with?&quot;  cowan@...\n  --&quot;Jeopardy&quot; for generative semanticists      http://www.ccil.org/~cowan\n\n"
+}

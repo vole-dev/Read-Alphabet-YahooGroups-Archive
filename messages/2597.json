@@ -1,0 +1,30 @@
+{
+  "userId": 0,
+  "authorName": "",
+  "from": "Read_Alphabet@yahoogroups.com",
+  "replyTo": "LIST",
+  "senderId": "-ZpSqAL8pRThrLkJA85BpT64Vukn-Ox-_oMH4Dv00cu4fOHA_EyUZcAvySRYcFafIXBD3w0EW4MMtGvsGPs9D7RxpP8",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "New file uploaded to Read_Alphabet",
+  "postDate": "1399732762",
+  "msgId": 2597,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGxrbGRtcSt2a2ZkcGVAWWFob29Hcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 2596,
+  "nextInTopic": 2599,
+  "prevInTime": 2596,
+  "nextInTime": 2598,
+  "topicId": 504,
+  "numMessagesInTopic": 32,
+  "msgSnippet": "Hello, This email message is a notification to let you know that a file has been uploaded to the Files area of the Read_Alphabet group. File        :",
+  "messageBody": "<div id=\"ygrps-yiv-1561557563\">Hello,<br/>\n<br/>\n<br/>\nThis email message is a notification to let you know that<br/>\na file has been uploaded to the Files area of the Read_Alphabet<br/>\ngroup.<br/>\n<br/>\n<br/>\n  File        : /Fonts/Suave.sfd<br/>\n  Uploaded by : guanolto &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:scott@...\">scott@...</a>&gt;<br/>\n  Description : v3.3<br/>\n<br/>\n<br/>\nYou can access this file at the URL:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"https://groups.yahoo.com/group/Read_Alphabet/files/Fonts/Suave.sfd\">https://groups.yahoo.com/group/Read_Alphabet/files/Fonts/Suave.sfd</a><br/>\n<br/>\n<br/>\nTo learn more about file sharing for your group, please visit:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"https://help.yahoo.com/kb/index?page=content&y=PROD_GRPS&locale=en_US&id=SLN15398\">https://help.yahoo.com/kb/index?page=content&y=PROD_GRPS&locale=en_US&id=SLN15398</a><br/>\n<br/>\n<br/>\nRegards,<br/>\n<br/>\n<br/>\nguanolto &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:scott@...\">scott@...</a>&gt;</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;notify@yahoogroups.com&gt;\r\nReceived: (qmail 40413 invoked by uid 102); 10 May 2014 14:39:22 -0000\r\nReceived: from unknown (HELO mtaq4.grp.bf1.yahoo.com) (10.193.84.143)\n  by m1.grp.bf1.yahoo.com with SMTP; 10 May 2014 14:39:22 -0000\r\nReceived: (qmail 4818 invoked from network); 10 May 2014 14:39:22 -0000\r\nReceived: from unknown (HELO n1.bullet.mail.bf1.yahoo.com) (72.30.234.152)\n  by mtaq4.grp.bf1.yahoo.com with SMTP; 10 May 2014 14:39:22 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=echoe; t=1399732762; bh=vKf29UC954midfS1ZlA1g3pu8hk/c+nqk3fRBRcWZ+I=; h=Received:Received:Date:Received:To:From:Subject:Message-ID:X-Yahoo-Newman-Property:X-eGroups-Auth:Content-Type; b=cbLYiGgxTzpkmOMkJTdO9vflBPDlX2EW+XVnbHzQE269lY0p7SPeoJSZs5hCjfy+I12h4iFVIFRxG+Q1EhNqUkX1ARPFyBZfEjaRdPB9GLpYbXvlSbpAuYRVy67KvDXHPlftTGhk3x+18QeLcpUwJyvLOlhRS9eoLVfPR0c9MSc=\r\nReceived: from [66.196.81.177] by n1.bullet.mail.bf1.yahoo.com with NNFMP; 10 May 2014 14:39:22 -0000\r\nReceived: from [10.193.74.53] by t7.bullet.mail.bf1.yahoo.com with NNFMP; 10 May 2014 14:39:22 -0000\r\nDate: 10 May 2014 07:39:22 -0700\r\nReceived: from [127.0.0.1] by gapi10.grp.bf1.yahoo.com with NNFMP; 10 May 2014 14:39:22 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nSubject: New file uploaded to Read_Alphabet\r\nMessage-ID:&lt;lkldmq+vkfdpe@...&gt;\r\nX-Yahoo-Newman-Property: groups-notify\r\nContent-Type: text/plain; charset=utf-8;\r\nFrom: Read_Alphabet@yahoogroups.com\r\n\r\n\nHello,\n\n\nThis email message is a notification to let you know that\na file has been uploaded to the Files area of the Read_Alphabet\ngroup.\n\n\n  File        : /Fonts/Suave.sfd\n  Uploaded by : guanolto &lt;scott@...&gt;\n  Description : v3.3\n\n\nYou can access this file at the URL:\nhttps://groups.yahoo.com/group/Read_Alphabet/files/Fonts/Suave.sfd\n\n\nTo learn more about file sharing for your group, please visit:\nhttps://help.yahoo.com/kb/index?page=content&y=PROD_GRPS&locale=en_US&id=SLN15398\n\n\nRegards,\n\n\nguanolto &lt;scott@...&gt;\n\n"
+}

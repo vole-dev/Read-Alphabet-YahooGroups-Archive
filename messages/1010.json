@@ -1,0 +1,31 @@
+{
+  "userId": 180175951,
+  "authorName": "amd64_hacker",
+  "from": "amd64_hacker &lt;amd64_hacker@...&gt;",
+  "profile": "amd64_hacker",
+  "replyTo": "LIST",
+  "senderId": "ZRo0Q-XW57VamLrKUi_SlimK93dfo2WADxVOZRSZGutckHloiSIAAyfNJdubdQskXPne5alEwcPi-4u7y8mxjw-nYdLPty-K_lyTtT5k",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Unicode proposal, yet again.",
+  "postDate": "1185537937",
+  "msgId": 1010,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ2QTlERjkxLjMwNzA0MDlAeWFob28uY28udWs+"
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 1019,
+  "prevInTime": 1009,
+  "nextInTime": 1011,
+  "topicId": 1010,
+  "numMessagesInTopic": 20,
+  "msgSnippet": "Hi, Found the will to live again, it was behind the sofa along with a biro and 24 pence in various small coins. :) I ve put together a table which shows the",
+  "messageBody": "<div id=\"ygrps-yiv-415653299\">Hi,<br/>\n<br/>\nFound the will to live again, it was behind the sofa along with a biro<br/>\nand 24 pence in various small coins. :)<br/>\n<br/>\nI&#39;ve put together a table which shows the relationships of glyphs and<br/>\nsounds between Quikscript and Shavian.<br/>\nIt&#39;s in the schemes directory under the name quik_shaw.html.<br/>\n<br/>\nThere are two properties of each character we care about, what it<br/>\nsoundsLike and what it LooksLike.<br/>\nA Quikscript character looksLike a Shavian character if a font maker<br/>\ncould use the same glyph for both.<br/>\nA Quikscript character soundsLike a Shavian character if they are read<br/>\nout loud the same.<br/>\n<br/>\nWhere both of these properties are the same we can merge the Quikscript<br/>\nand Shavian characters with out losing the meaning of either (at least<br/>\nthat&#39;s the theory).<br/>\n<br/>\nI&#39;ve put question marks next to the matches I&#39;m not sure about.<br/>\nThe glyphs for foot/wool and ooze/ooze are similar, but the Shavian<br/>\nversions seem to be more pointed, I&#39;m not certain if that&#39;s just the<br/>\nfont used on the Unicode code chart or if they&#39;re meant to be that way.<br/>\nFee/thigh has a similar problem, I&#39;m fairly sure that the stoke in<br/>\nShavian Letter Thigh is meant to cross itself, but the code chart<br/>\ndoesn&#39;t actually show this.<br/>\n<br/>\nAnyway there are probably other issues with the chart, please let me<br/>\nknow if you spot them so I can make the corrections.</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;amd64_hacker@...&gt;\r\nX-Sender: amd64_hacker@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 84456 invoked from network); 27 Jul 2007 12:15:37 -0000\r\nReceived: from unknown (66.218.66.71)\n  by m47.grp.scd.yahoo.com with QMQP; 27 Jul 2007 12:15:37 -0000\r\nReceived: from unknown (HELO smtp004.mail.ukl.yahoo.com) (217.12.11.35)\n  by mta13.grp.scd.yahoo.com with SMTP; 27 Jul 2007 12:15:37 -0000\r\nReceived: (qmail 16037 invoked from network); 27 Jul 2007 12:05:04 -0000\r\nReceived: from unknown (HELO ?192.168.0.1?) (amd64_hacker@82.19.52.162 with plain)\n  by smtp004.mail.ukl.yahoo.com with SMTP; 27 Jul 2007 12:05:04 -0000\r\nX-YMail-OSG: QyocknkVM1n17GtkcZ0JsoZdtSrTjlix7yLlLYo.vj6VOb37f58gzNTgJx5N2CgeutW_q8lV8A--\r\nMessage-ID: &lt;46A9DF91.3070409@...&gt;\r\nDate: Fri, 27 Jul 2007 13:05:37 +0100\r\nUser-Agent: Thunderbird 1.5.0.10 (X11/20070306)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nX-Enigmail-Version: 0.94.0.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: amd64_hacker &lt;amd64_hacker@...&gt;\r\nSubject: Unicode proposal, yet again.\r\nX-Yahoo-Group-Post: member; u=180175951; y=mwHjf3jzsrIJjddtx1Z91Cd3LalEcX5Y_ckh2SptcYmsn9kncMqV\r\nX-Yahoo-Profile: amd64_hacker\r\n\r\nHi,\n\nFound the will to live again, it was behind the sofa along with a biro\nand 24 pence in various small coins. :)\n\nI&#39;ve put together a table which shows the relationships of glyphs and\nsounds between Quikscript and Shavian.\nIt&#39;s in the schemes directory under the name quik_shaw.html.\n\nThere are two properties of each character we care about, what it\nsoundsLike and what it LooksLike.\nA Quikscript character looksLike a Shavian character if a font maker\ncould use the same glyph for both.\nA Quikscript character soundsLike a Shavian character if they are read\nout loud the same.\n\nWhere both of these properties are the same we can merge the Quikscript\nand Shavian characters with out losing the meaning of either (at least\nthat&#39;s the theory).\n\nI&#39;ve put question marks next to the matches I&#39;m not sure about.\nThe glyphs for foot/wool and ooze/ooze are similar, but the Shavian\nversions seem to be more pointed, I&#39;m not certain if that&#39;s just the\nfont used on the Unicode code chart or if they&#39;re meant to be that way.\nFee/thigh has a similar problem, I&#39;m fairly sure that the stoke in\nShavian Letter Thigh is meant to cross itself, but the code chart\ndoesn&#39;t actually show this.\n\nAnyway there are probably other issues with the chart, please let me\nknow if you spot them so I can make the corrections.\n\n\n"
+}

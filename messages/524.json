@@ -1,0 +1,31 @@
+{
+  "userId": 6166478,
+  "authorName": "jeff_smith_8992",
+  "from": "&quot;jeff_smith_8992&quot; &lt;jeff_smith_8992@...&gt;",
+  "profile": "jeff_smith_8992",
+  "replyTo": "LIST",
+  "senderId": "0tQY4VVdKGRDAhQV6r1jA0T1-ECRYMtwiz0PNz41MPmla82F6KMeTKioUkDyq8r_DxAyx4H5LTkHyFPVmZGL1lkByyNwW_Ys9WE68rEqsHnNelFq",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Can We Post Msgs In QuikScript?",
+  "postDate": "1092661304",
+  "msgId": 524,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGNmcWI3bytrMmMxQGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 555,
+  "prevInTime": 523,
+  "nextInTime": 525,
+  "topicId": 524,
+  "numMessagesInTopic": 10,
+  "msgSnippet": "This is probably dumb question but since I don t know the answer, I ll ask it anyway... I was under the impression that Yahoo eGroups messages could only be ",
+  "messageBody": "<div id=\"ygrps-yiv-804285444\">This is probably dumb question but since I don&#39;t know the answer, I&#39;ll<br/>\nask it anyway...<br/>\n<br/>\nI was under the impression that Yahoo eGroups messages could only be<br/>\nwritten in pure ascii text, and that it would ignore any text<br/>\nformatting.  And that&#39;s why our messages on this forum aren&#39;t written<br/>\nin QuikScript fonts.  But I happened to be skimming through some of<br/>\nthe old messages in the archives and I noticed that there are several<br/>\nthat properly display QuikScript text (see messages #9 and #18 from<br/>\nJon Zuck).  But then there are others that don&#39;t display properly (see<br/>\nmsg #176).<br/>\n<br/>\nSo my question is can we post messages to this group in QuikScript? <br/>\nIs there some secret method?  Or did Yahoo change something that now<br/>\nprevents formatted text?<br/>\n<br/>\nThanks,<br/>\nJeff</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;jeff_smith_8992@...&gt;\r\nX-Sender: jeff_smith_8992@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 76950 invoked from network); 16 Aug 2004 13:01:45 -0000\r\nReceived: from unknown (66.218.66.166)\n  by m19.grp.scd.yahoo.com with QMQP; 16 Aug 2004 13:01:45 -0000\r\nReceived: from unknown (HELO n18.grp.scd.yahoo.com) (66.218.66.73)\n  by mta5.grp.scd.yahoo.com with SMTP; 16 Aug 2004 13:01:44 -0000\r\nReceived: from [66.218.66.141] by n18.grp.scd.yahoo.com with NNFMP; 16 Aug 2004 13:01:44 -0000\r\nDate: Mon, 16 Aug 2004 13:01:44 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;cfqb7o+k2c1@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 756\r\nX-Mailer: Yahoo Groups Message Poster\r\nX-Yahoo-Newman-Property: groups-compose\r\nX-eGroups-Remote-IP: 66.218.66.73\r\nFrom: &quot;jeff_smith_8992&quot; &lt;jeff_smith_8992@...&gt;\r\nSubject: Can We Post Msgs In QuikScript?\r\nX-Yahoo-Group-Post: member; u=6166478\r\nX-Yahoo-Profile: jeff_smith_8992\r\n\r\nThis is probably dumb question but since I don&#39;t know the answer, I&#39;ll\nask it anyway...\n\nI was under the impression that Yahoo eGroups messages could only be\nwritten in pure ascii text, and that it would ignore any text\nformatting.  And that&#39;s why our messages on this forum aren&#39;t written\nin QuikScript fonts.  But I happened to be skimming through some of\nthe old messages in the archives and I noticed that there are several\nthat properly display QuikScript text (see messages #9 and #18 from\nJon Zuck).  But then there are others that don&#39;t display properly (see\nmsg #176).\n\nSo my question is can we post messages to this group in QuikScript? \nIs there some secret method?  Or did Yahoo change something that now\nprevents formatted text?\n\nThanks,\nJeff\n\n\n"
+}

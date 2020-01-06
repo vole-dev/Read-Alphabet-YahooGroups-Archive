@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "H1Nrcewd-KOp5v7q49EkHc5uLlQhM5BBKPldA1mJieLBcQJmmgfe0blrtxLCBuTil96AxdIDr5xd2m2MRZ6JjhJe",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] dictionary in lexical sets?",
+  "postDate": "1197522153",
+  "msgId": 1850,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMjEzMDUwMjMzLkdDNjI3NUBtZXJjdXJ5LmNjaWwub3JnPg==",
+    "inReplyToHeader": "PDQ3NjA5NzNGLjgwMDA1MDFAaWdsb3UuY29tPg==",
+    "referencesHeader": "PDQ3NjA3N0Y2LjkwODA1QGlnbG91LmNvbT4gPDIwMDcxMjEzMDA1NzA1LkdBMTEwNThAbWVyY3VyeS5jY2lsLm9yZz4gPDQ3NjA5NzNGLjgwMDA1MDFAaWdsb3UuY29tPg=="
+  },
+  "prevInTopic": 1847,
+  "nextInTopic": 0,
+  "prevInTime": 1849,
+  "nextInTime": 1851,
+  "topicId": 1845,
+  "numMessagesInTopic": 4,
+  "msgSnippet": "... Good point. ... You definitely want to keep the y: it s not part of the lexical set at all. -- I don t know half of you half as well           John Cowan ",
+  "messageBody": "<div id=\"ygrps-yiv-1900836766\">Paul Tremblay scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Yes, but there are so many ASCII proposals right now that it is hard for <br/>\n&gt; me to keep them straight, especially with the vowel + letter. Plus, I <br/>\n&gt; want to keep STRUT distinct from /y/ for now, and there is no QS letter <br/>\n&gt; for STRUT.<br/>\n<br/>\n </span></blockquote>Good point.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; My dictionary lists words like cure as [kyU@r]. It seems that I don&#39;t <br/>\n&gt; want the [@], but I won&#39;t know for sure until later. So at this point I <br/>\n&gt; want a shorthand for k + CURE. (Or k + y + CURE, so that later I can <br/>\n&gt; decide what y + CURE equals.)<br/>\n<br/>\n </span></blockquote>You definitely want to keep the y: it&#39;s not part of the lexical set at all.<br/>\n<br/>\n-- <br/>\nI don&#39;t know half of you half as well           John Cowan<br/>\nas I should like, and I like less than half     <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a><br/>\nof you half as well as you deserve.             <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a><br/>\n        --Bilbo</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 77821 invoked from network); 13 Dec 2007 05:02:36 -0000\r\nX-Received: from unknown (66.218.67.97)\n  by m52.grp.scd.yahoo.com with QMQP; 13 Dec 2007 05:02:36 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta18.grp.scd.yahoo.com with SMTP; 13 Dec 2007 05:02:36 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1J2gDR-00026D-Qu\n\tfor Read_Alphabet@yahoogroups.com; Thu, 13 Dec 2007 00:02:33 -0500\r\nDate: Thu, 13 Dec 2007 00:02:33 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20071213050233.GC6275@...&gt;\r\nReferences: &lt;476077F6.90805@...&gt; &lt;20071213005705.GA11058@...&gt; &lt;4760973F.8000501@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;4760973F.8000501@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] dictionary in lexical sets?\r\nX-Yahoo-Group-Post: member; u=212516; y=dQ1auMs3LA9m8PO1Wj-aqjXzNtaeVK-h80I0uYnv6siESMWC3w\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nPaul Tremblay scripsit:\n\n&gt; Yes, but there are so many ASCII proposals right now that it is hard for \n&gt; me to keep them straight, especially with the vowel + letter. Plus, I \n&gt; want to keep STRUT distinct from /y/ for now, and there is no QS letter \n&gt; for STRUT.\n\nGood point.\n\n&gt; My dictionary lists words like cure as [kyU@r]. It seems that I don&#39;t \n&gt; want the [@], but I won&#39;t know for sure until later. So at this point I \n&gt; want a shorthand for k + CURE. (Or k + y + CURE, so that later I can \n&gt; decide what y + CURE equals.)\n\nYou definitely want to keep the y: it&#39;s not part of the lexical set at all.\n\n-- \nI don&#39;t know half of you half as well           John Cowan\nas I should like, and I like less than half     cowan@...\nof you half as well as you deserve.             http://www.ccil.org/~cowan\n        --Bilbo\n\n"
+}

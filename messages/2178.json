@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "WOBLBacgT5yNF7yfgMviLAy_KKMCqs4X-HAs4CSGit5tdjM9PXQAFYEb2O_XOunhn3z3tdQALWaiWuxkJ14VEyb4",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] ANNOUNCE: Configuratronic Quikscript Cheat\tSheet",
+  "postDate": "1290181701",
+  "msgId": 2178,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMTAxMTE5MTU0ODIwLkdBMjgxOEBtZXJjdXJ5LmNjaWwub3JnPg==",
+    "inReplyToHeader": "PDNEQUYwQTM3LUI4MDctNEY2Ny1BRTM2LTNDMDRDMkRENzY3M0BnbWFpbC5jb20+",
+    "referencesHeader": "PDNEQUYwQTM3LUI4MDctNEY2Ny1BRTM2LTNDMDRDMkRENzY3M0BnbWFpbC5jb20+"
+  },
+  "prevInTopic": 2172,
+  "nextInTopic": 2179,
+  "prevInTime": 2177,
+  "nextInTime": 2179,
+  "topicId": 2172,
+  "numMessagesInTopic": 3,
+  "msgSnippet": "... Definitely slashes, as these are conventional notations rather than exact phonetic representations (for which square brackets are used). For example,",
+  "messageBody": "<div id=\"ygrps-yiv-1210176276\">Nathan Sharfi scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; The IPA (and X-SAMPA) values might be contentious; I&#39;m simply going<br/>\n&gt; off message number [2017][] and the IPA-for-English Wikipedia page as<br/>\n&gt; best I can; I&#39;m California-born and -raised. Similarly, I&#39;m not sure<br/>\n&gt; if I should be using brackets, slashes, or nothing at all there.<br/>\n<br/>\n </span></blockquote>Definitely slashes, as these are conventional notations rather than<br/>\nexact phonetic representations (for which square brackets are used).<br/>\nFor example, Australian English uses something like [\u00e6\u0289] (X-SAMPA [{}]<br/>\nfor the MOUTH vowel, but since this performs the same function as [a\u026a] in<br/>\nmainstream U.K. and North American accents, it can still be notated /a\u026a/.<br/>\n<br/>\nThe only discrepancy is the GOAT vowel, which is not conventionally<br/>\nwritten /o/.  Here there is a split: when notating North American<br/>\nEnglish, /o\u028a/ is used, but when notating British English, where there<br/>\nis no rounding, /\u0259\u028a/ is used instead.  So I would write /o\u028a ~ \u0259\u028a/<br/>\ninstead, &quot;~&quot; being the notation for &quot;or&quot;.<br/>\n<br/>\n-- <br/>\nJohn Cowan       <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a>        &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>&gt;<br/>\n        You tollerday donsk?  N.  You tolkatiff scowegian?  Nn.<br/>\n        You spigotty anglease?  Nnn.  You phonio saxo?  Nnnn.<br/>\n                Clear all so!  `Tis a Jute.... (Finnegans Wake 16.5)</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 22647 invoked from network); 19 Nov 2010 15:48:21 -0000\r\nX-Received: from unknown (66.196.94.105)\n  by m10.grp.re1.yahoo.com with QMQP; 19 Nov 2010 15:48:21 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta1.grp.re1.yahoo.com with SMTP; 19 Nov 2010 15:48:21 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.69)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1PJTCH-0007WJ-2U; Fri, 19 Nov 2010 10:48:21 -0500\r\nDate: Fri, 19 Nov 2010 10:48:21 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nBcc: johnwcowan@...\r\nMessage-ID: &lt;20101119154820.GA2818@...&gt;\r\nReferences: &lt;3DAF0A37-B807-4F67-AE36-3C04C2DD7673@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=utf-8\r\nContent-Disposition: inline\r\nContent-Transfer-Encoding: 8bit\r\nIn-Reply-To: &lt;3DAF0A37-B807-4F67-AE36-3C04C2DD7673@...&gt;\r\nUser-Agent: Mutt/1.5.18 (2008-05-17)\r\nX-eGroups-From: John Cowan &lt;cowan@...&gt;\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] ANNOUNCE: Configuratronic Quikscript Cheat\n\tSheet\r\nX-Yahoo-Group-Post: member; u=212516; y=os_WCQZUI1R5Sot8zDEgJKBqX6i3WsR0g_OyYSPBpfacKWwlmw\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nNathan Sharfi scripsit:\n\n&gt; The IPA (and X-SAMPA) values might be contentious; I&#39;m simply going\n&gt; off message number [2017][] and the IPA-for-English Wikipedia page as\n&gt; best I can; I&#39;m California-born and -raised. Similarly, I&#39;m not sure\n&gt; if I should be using brackets, slashes, or nothing at all there.\n\nDefinitely slashes, as these are conventional notations rather than\nexact phonetic representations (for which square brackets are used).\nFor example, Australian English uses something like [\u00e6\u0289] (X-SAMPA [{}]\nfor the MOUTH vowel, but since this performs the same function as [a\u026a] in\nmainstream U.K. and North American accents, it can still be notated /a\u026a/.\n\nThe only discrepancy is the GOAT vowel, which is not conventionally\nwritten /o/.  Here there is a split: when notating North American\nEnglish, /o\u028a/ is used, but when notating British English, where there\nis no rounding, /\u0259\u028a/ is used instead.  So I would write /o\u028a ~ \u0259\u028a/\ninstead, &quot;~&quot; being the notation for &quot;or&quot;.\n\n-- \nJohn Cowan       http://www.ccil.org/~cowan        &lt;cowan@...&gt;\n        You tollerday donsk?  N.  You tolkatiff scowegian?  Nn.\n        You spigotty anglease?  Nnn.  You phonio saxo?  Nnnn.\n                Clear all so!  `Tis a Jute.... (Finnegans Wake 16.5)\n\n"
+}

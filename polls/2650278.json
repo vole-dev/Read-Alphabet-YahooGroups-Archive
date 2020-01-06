@@ -1,0 +1,102 @@
+{
+  "groupName": "Read_Alphabet",
+  "surveyId": 2650278,
+  "listId": 2510463,
+  "dateCreated": 1201899850,
+  "userIdCreated": 134841503,
+  "dateEnd": 1204358340,
+  "sendToId": "GROUP",
+  "resultsId": "COUNTS",
+  "visibleId": "ALWAYS",
+  "statusId": "DISABLED",
+  "isCreator": false,
+  "surveyText": "Please vote for your preference for a new ASCII key map for the Read Alphabet, from among the proposals included in the file &#39;qs_keybd_proposals3.csv&#39; in the &#39;Files-&gt;Key mapping proposals&#39; folder on the group website. \n\nThe purpose of this vote is to establish a standard for font developers to implement in keyboard assignments, and to facilitate the exchange of Quickscript in email and in plain text documents.\n\nThe scope of the proposals includes the 40 core letters of the alphabet, the four alternate letters, the two letters used for Scottish, Welsh and Irish place names, and the three punctuation marks unique to this alphabet. Some proposals also include the eight half-letters. In order to be considered, the proposals were required to assign all free-standing Quickscript letters to upper case or lower case Roman letters. (There are not enough letters in the Roman alphabet to maintain this requirement for all of the half-letters.) Since the Jerome keyboard map does not meet this requirement, and proposals for a minimal update of the Jerome map gained no support in group discussion, it is not included among the final candidates. \n\nThis poll will close at the end of February 2008.\n\nThank you for voting!\n\nTed Larson Freeman",
+  "flagBits": 0,
+  "multiResponse": false,
+  "addOptions": false,
+  "selections": [
+    {
+      "selectionId": 18996491,
+      "selectionText": "QS-SAMPA",
+      "selections": 0,
+      "responses": [],
+      "voted": false
+    },
+    {
+      "selectionId": 18996492,
+      "selectionText": "Peter Guinness&#39;s proposal",
+      "selections": 6,
+      "responses": [
+        {
+          "selectionId": 18996492,
+          "surveyId": 2650278,
+          "userId": 120508527,
+          "guid": "EDYFYY3YJLAEAYING3IYO67C7A"
+        },
+        {
+          "selectionId": 18996492,
+          "surveyId": 2650278,
+          "userId": 192043314,
+          "guid": "OWZC4AFYU237MLZU7LRXXEKAIE"
+        }
+      ],
+      "voted": false
+    },
+    {
+      "selectionId": 18996493,
+      "selectionText": "QS-B",
+      "selections": 5,
+      "responses": [
+        {
+          "selectionId": 18996493,
+          "surveyId": 2650278,
+          "userId": 71466833,
+          "guid": "LWER5QH3THC4YQIAMPFX56PR7E"
+        },
+        {
+          "selectionId": 18996493,
+          "surveyId": 2650278,
+          "userId": 149542193,
+          "guid": "L27ZACDY56IDAW75FIHG6MRNBY"
+        },
+        {
+          "selectionId": 18996493,
+          "surveyId": 2650278,
+          "userId": 244280334,
+          "guid": "SVWNVE445FXZWGLNUMDDPIMA3Q"
+        },
+        {
+          "selectionId": 18996493,
+          "surveyId": 2650278,
+          "userId": 256149075,
+          "guid": "N7FXCMNHNQ5ZSD2NXCKTG57ZNA"
+        }
+      ],
+      "voted": false
+    },
+    {
+      "selectionId": 18996494,
+      "selectionText": "QS-Nu",
+      "selections": 0,
+      "responses": [],
+      "voted": false
+    },
+    {
+      "selectionId": 18996495,
+      "selectionText": "Moira O&#39;Brien&#39;s proposal",
+      "selections": 2,
+      "responses": [
+        {
+          "selectionId": 18996495,
+          "surveyId": 2650278,
+          "userId": 327488507,
+          "guid": "5GF2QPG26RNSOE6K7XKV6BAYC4"
+        }
+      ],
+      "voted": false
+    }
+  ],
+  "voteCount": 13,
+  "previousSurveyId": 3051193,
+  "nextSurveyId": 2342880
+}

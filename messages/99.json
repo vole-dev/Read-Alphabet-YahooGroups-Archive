@@ -1,0 +1,33 @@
+{
+  "userId": 63596336,
+  "authorName": "Brian Roberts",
+  "from": "Brian Roberts &lt;flicken@...&gt;",
+  "profile": "noelflicken",
+  "replyTo": "LIST",
+  "senderId": "z6QN6DK-dGP68AshUHciO3ygKRmINLjB0lVdyU6hfBhdeCN6ncHL-LZHiJrqOBsDyRJin5rGTd-H1aLLc-eiK0Y6pMXpAw",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Macbeth",
+  "postDate": "1015431956",
+  "msgId": 99,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDIwMzA2MTYyNTU2LkdBMzE5OTJAZ3JvdmVyLldQSS5FRFU+",
+    "inReplyToHeader": "PDIwMDIwMzA2MTQxMTUyLjIyODYucW1haWxAd2ViMTQ2MTAubWFpbC55YWhvby5jb20+",
+    "referencesHeader": "PE5FQkJMTkxEQUxFSUFLRVBLS0ZCS0VIQUNEQUEuZWQuZ2FkZHlAZXJvbHMuY29tPiA8MjAwMjAzMDYxNDExNTIuMjI4Ni5xbWFpbEB3ZWIxNDYxMC5tYWlsLnlhaG9vLmNvbT4="
+  },
+  "prevInTopic": 98,
+  "nextInTopic": 101,
+  "prevInTime": 98,
+  "nextInTime": 100,
+  "topicId": 60,
+  "numMessagesInTopic": 30,
+  "msgSnippet": "... A good place to start might be the Shavian Letter Frequency Analysis for Scott s Shavian Documents ",
+  "messageBody": "<div id=\"ygrps-yiv-296414222\"><blockquote><span title=\"ireply\">&gt; I am not sure, but I thought there was somebody discussing about a<br/>\n&gt; corpus of normal modern texts, so we could find out which sounds<br/>\n&gt; occur the most (either here, on the shavian group or on the<br/>\n&gt; alt.language.artificial newsgroup). the schwa &#39;a&#39; and the letter n<br/>\n&gt; are probably numbers one and two, but I need to know the ones after<br/>\n&gt; number 26.<br/>\n&gt;<br/>\n </span></blockquote>  A good place to start might be the Shavian Letter Frequency Analysis<br/>\nfor Scott&#39;s Shavian Documents<br/>\n&lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.mithrandir.com/Shavian/ShavianFrequencyCount.html\">http://www.mithrandir.com/Shavian/ShavianFrequencyCount.html</a>&gt;.  The<br/>\nfrequency analysis covers the texts transliterated by Scott Harrison<br/>\navailable at his site<br/>\n&lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.mithrandir.com/Shavian/Shavian.html\">http://www.mithrandir.com/Shavian/Shavian.html</a>&gt;.<br/>\n<br/>\n  The sample size is ~150,000 characters, so the trends should be<br/>\nclear.  Surprisingly, schwa (ado) is 7th on the list.  Perhaps this is<br/>\ndue to a bias of the author&#39;s spelling?...  Here&#39;s the (pruned) list:<br/>\n<br/>\n   9.18%  Nun<br/>\n   9.07%  Tot<br/>\n   8.24%  If<br/>\n   6.56%  So<br/>\n   5.40%  Dead<br/>\n   5.17%  Loll<br/>\n   4.96%  Ado   <br/>\n   4.19%  THey<br/>\n   ...<br/>\n   ...<br/>\n   0.33%  Yea<br/>\n   0.00%  Ah<br/>\n<br/>\n  <br/>\n   With the appropriate corpus of texts, the frequency analysis should<br/>\nbe fairly simple.  A simple Perl script would do the job (perl -e<br/>\n&#39;while(&lt;&gt;){chomp; for(split/&#92;s*/){$f{$_}++}} for(keys %f) { print &quot;$_ =<br/>\n$f{$_} &#92;n&quot;; }&#39;)....<br/>\n  <br/>\nRegards, <br/>\n<br/>\n  Brian Roberts</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;flicken@...&gt;\r\nX-Sender: flicken@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (EGP: unknown); 6 Mar 2002 16:25:58 -0000\r\nReceived: (qmail 42056 invoked from network); 6 Mar 2002 16:25:58 -0000\r\nReceived: from unknown (216.115.97.167)\n  by m12.grp.snv.yahoo.com with QMQP; 6 Mar 2002 16:25:58 -0000\r\nReceived: from unknown (HELO smtp.WPI.EDU) (130.215.24.62)\n  by mta1.grp.snv.yahoo.com with SMTP; 6 Mar 2002 16:25:58 -0000\r\nReceived: from grover.WPI.EDU (root@... [130.215.25.67])\n\tby smtp.WPI.EDU (8.12.2/8.12.2) with ESMTP id g26GPv5D000381\n\tfor &lt;Read_Alphabet@yahoogroups.com&gt;; Wed, 6 Mar 2002 11:25:57 -0500 (EST)\r\nReceived: from grover.WPI.EDU (flicken@localhost [127.0.0.1])\n\tby grover.WPI.EDU (8.12.2/8.12.2) with ESMTP id g26GPvqh001435\n\tfor &lt;Read_Alphabet@yahoogroups.com&gt;; Wed, 6 Mar 2002 11:25:57 -0500 (EST)\r\nReceived: (from flicken@localhost)\n\tby grover.WPI.EDU (8.12.2/8.12.2) id g26GPvSC004571\n\tfor Read_Alphabet@yahoogroups.com; Wed, 6 Mar 2002 11:25:57 -0500 (EST)\r\nDate: Wed, 6 Mar 2002 11:25:56 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nSubject: Re: [Read_Alphabet] Macbeth\r\nMessage-ID: &lt;20020306162556.GA31992@...&gt;\r\nReferences: &lt;NEBBLNLDALEIAKEPKKFBKEHACDAA.ed.gaddy@...&gt; &lt;20020306141152.2286.qmail@...&gt;\r\nMime-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;20020306141152.2286.qmail@...&gt;\r\nUser-Agent: Mutt/1.3.25i\r\nFrom: Brian Roberts &lt;flicken@...&gt;\r\nX-Yahoo-Group-Post: member; u=63596336\r\nX-Yahoo-Profile: noelflicken\r\n\r\n&gt; I am not sure, but I thought there was somebody discussing about a\n&gt; corpus of normal modern texts, so we could find out which sounds\n&gt; occur the most (either here, on the shavian group or on the\n&gt; alt.language.artificial newsgroup). the schwa &#39;a&#39; and the letter n\n&gt; are probably numbers one and two, but I need to know the ones after\n&gt; number 26.\n&gt;\n  A good place to start might be the Shavian Letter Frequency Analysis\nfor Scott&#39;s Shavian Documents\n&lt;http://www.mithrandir.com/Shavian/ShavianFrequencyCount.html&gt;.  The\nfrequency analysis covers the texts transliterated by Scott Harrison\navailable at his site\n&lt;http://www.mithrandir.com/Shavian/Shavian.html&gt;.\n\n  The sample size is ~150,000 characters, so the trends should be\nclear.  Surprisingly, schwa (ado) is 7th on the list.  Perhaps this is\ndue to a bias of the author&#39;s spelling?...  Here&#39;s the (pruned) list:\n\n   9.18%  Nun\n   9.07%  Tot\n   8.24%  If\n   6.56%  So\n   5.40%  Dead\n   5.17%  Loll\n   4.96%  Ado   \n   4.19%  THey\n   ...\n   ...\n   0.33%  Yea\n   0.00%  Ah\n\n  \n   With the appropriate corpus of texts, the frequency analysis should\nbe fairly simple.  A simple Perl script would do the job (perl -e\n&#39;while(&lt;&gt;){chomp; for(split/&#92;s*/){$f{$_}++}} for(keys %f) { print &quot;$_ =\n$f{$_} &#92;n&quot;; }&#39;)....\n  \nRegards, \n\n  Brian Roberts\n\n"
+}

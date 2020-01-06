@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "zmMiS-fLT7VBMA6viz10cESCsSz7geSZSjUF1CeGDeZV7Ri0tNzoSB68bF_REuDoq6b5yb3g0EaxJR5bQd6-zcbO",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] QS-SAMPA: a proposed format for plain-text Quickscript",
+  "postDate": "1196304030",
+  "msgId": 1693,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMTI5MDI0MDMwLkdHMjUxNDJAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PDVkODcyOWYwMDcxMTI4MTYxNG41MTg2NTk3NmhmZDY2MzlmMDYyY2JmZTAyQG1haWwuZ21haWwuY29tPg==",
+    "referencesHeader": "PDVkODcyOWYwMDcxMTI4MTUxMmo0NGE3NjM1Y3hiMjM1Mzk0NTAyMjM3MjAyQG1haWwuZ21haWwuY29tPiA8MjAwNzExMjkwMDExMDYuR0QyMDQ4OEBtZXJjdXJ5LmNjaWwub3JnPiA8NWQ4NzI5ZjAwNzExMjgxNjE0bjUxODY1OTc2aGZkNjYzOWYwNjJjYmZlMDJAbWFpbC5nbWFpbC5jb20+"
+  },
+  "prevInTopic": 1692,
+  "nextInTopic": 1697,
+  "prevInTime": 1692,
+  "nextInTime": 1694,
+  "topicId": 1690,
+  "numMessagesInTopic": 46,
+  "msgSnippet": "... Well, it takes some getting used to.  Basically, T is to D as t is to d, which is a nice symmetry. -- By Elbereth and Luthien the Fair, you shall",
+  "messageBody": "<div id=\"ygrps-yiv-933780748\">Ted Larson Freeman scripsit:<br/>\n<blockquote><span title=\"ireply\"> &gt; Oops! Showing I can&#39;t even follow the proposal on my first attempt...<br/>\n<br/>\n </span></blockquote>Well, it takes some getting used to.  Basically, T is to D as t is to d,<br/>\nwhich is a nice symmetry.<br/>\n<br/>\n-- <br/>\nBy Elbereth and Luthien the Fair, you shall     <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a><br/>\nhave neither the Ring nor me!  --Frodo          <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 80716 invoked from network); 29 Nov 2007 02:40:34 -0000\r\nX-Received: from unknown (66.218.67.95)\n  by m47.grp.scd.yahoo.com with QMQP; 29 Nov 2007 02:40:34 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta16.grp.scd.yahoo.com with SMTP; 29 Nov 2007 02:40:34 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1IxZKI-0007iG-TO\n\tfor Read_Alphabet@yahoogroups.com; Wed, 28 Nov 2007 21:40:30 -0500\r\nDate: Wed, 28 Nov 2007 21:40:30 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20071129024030.GG25142@...&gt;\r\nReferences: &lt;5d8729f00711281512j44a7635cxb235394502237202@...&gt; &lt;20071129001106.GD20488@...&gt; &lt;5d8729f00711281614n51865976hfd6639f062cbfe02@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;5d8729f00711281614n51865976hfd6639f062cbfe02@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] QS-SAMPA: a proposed format for plain-text Quickscript\r\nX-Yahoo-Group-Post: member; u=212516; y=9JMxRTEpMos0jI2bFqjMLRHvhPfyp-671zEqhfasF0wIx0gu8Q\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nTed Larson Freeman scripsit:\n&gt; Oops! Showing I can&#39;t even follow the proposal on my first attempt...\n\nWell, it takes some getting used to.  Basically, T is to D as t is to d,\nwhich is a nice symmetry.\n\n-- \nBy Elbereth and Luthien the Fair, you shall     cowan@...\nhave neither the Ring nor me!  --Frodo          http://www.ccil.org/~cowan\n\n"
+}

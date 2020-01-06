@@ -1,0 +1,33 @@
+{
+  "userId": 82638473,
+  "authorName": "Michael Everson",
+  "from": "Michael Everson &lt;everson@...&gt;",
+  "profile": "evertype",
+  "replyTo": "LIST",
+  "senderId": "Ypbru0xeiULnAQP2oBt3dCmmgbs41kFbfJa_sHPb99WXfa2wcnpKBcST89wPo5YeAys0O_cARZbK96R9rTo1OM3IW8gprlXmuaiZibA",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Poll results for Read_Alphabet",
+  "postDate": "1204592110",
+  "msgId": 1997,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PHAwNjI0MDgyY2MzZjI0ZTQ2NzhlOUBbMTkyLjE2OC4xLjEyNl0+",
+    "inReplyToHeader": "PDVkODcyOWYwMDgwMzAzMTY0NnA0NzMwN2QwMXAyM2E5NzdiYWZiODdjMGU5QG1haWwuZ21haWwuY29tPg==",
+    "referencesHeader": "PDEyMDQzNjA5OTkuMjAuMjgzNTgubTQ2QHlhaG9vZ3JvdXBzLmNvbT4gPDVkODcyOWYwMDgwMzAzMTY0NnA0NzMwN2QwMXAyM2E5NzdiYWZiODdjMGU5QG1haWwuZ21haWwuY29tPg=="
+  },
+  "prevInTopic": 1996,
+  "nextInTopic": 2000,
+  "prevInTime": 1996,
+  "nextInTime": 1998,
+  "topicId": 678,
+  "numMessagesInTopic": 6,
+  "msgSnippet": "If you ask me, ASCII mapping is an abomination. But it takes time to get things into Unicode, and any standard now can convert. -- Michael Everson *",
+  "messageBody": "<div id=\"ygrps-yiv-851177447\">If you ask me, ASCII mapping is an abomination.<br/>\n<br/>\nBut it takes time to get things into Unicode, and any standard now can convert.<br/>\n-- <br/>\nMichael Everson * <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.evertype.com\">http://www.evertype.com</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;everson@...&gt;\r\nX-Sender: everson@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 99476 invoked from network); 4 Mar 2008 00:55:18 -0000\r\nX-Received: from unknown (66.218.67.96)\n  by m49.grp.scd.yahoo.com with QMQP; 4 Mar 2008 00:55:18 -0000\r\nX-Received: from unknown (HELO sl14.dnsireland.com) (74.86.129.163)\n  by mta17.grp.scd.yahoo.com with SMTP; 4 Mar 2008 00:55:18 -0000\r\nX-Received: from murrisk2.westnet.ie ([88.81.100.235] helo=[192.168.1.126])\n\tby sl14.dnsireland.com with esmtpa (Exim 4.68)\n\t(envelope-from &lt;everson@...&gt;)\n\tid 1JWLR7-000589-SN\n\tfor Read_Alphabet@yahoogroups.com; Tue, 04 Mar 2008 00:55:18 +0000\r\nMime-Version: 1.0\r\nMessage-Id: &lt;p0624082cc3f24e4678e9@[192.168.1.126]&gt;\r\nIn-Reply-To: &lt;5d8729f00803031646p47307d01p23a977bafb87c0e9@...&gt;\r\nReferences: &lt;1204360999.20.28358.m46@yahoogroups.com&gt;\n &lt;5d8729f00803031646p47307d01p23a977bafb87c0e9@...&gt;\r\nDate: Tue, 4 Mar 2008 00:55:10 +0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nContent-Type: text/plain; charset=&quot;us-ascii&quot; ; format=&quot;flowed&quot;\r\nX-AntiAbuse: This header was added to track abuse, please include it with any abuse report\r\nX-AntiAbuse: Primary Hostname - sl14.dnsireland.com\r\nX-AntiAbuse: Original Domain - yahoogroups.com\r\nX-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]\r\nX-AntiAbuse: Sender Address Domain - evertype.com\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Michael Everson &lt;everson@...&gt;\r\nSubject: Re: [Read_Alphabet] Poll results for Read_Alphabet\r\nX-Yahoo-Group-Post: member; u=82638473; y=JMGc0qeP2ycNKjfuhxw0HFQsirHfc0hhIGClt5sY0_c7nEA\r\nX-Yahoo-Profile: evertype\r\n\r\nIf you ask me, ASCII mapping is an abomination.\n\nBut it takes time to get things into Unicode, and any standard now can convert.\n-- \nMichael Everson * http://www.evertype.com\n\n"
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 82638473,
+  "authorName": "Michael Everson",
+  "from": "Michael Everson &lt;everson@...&gt;",
+  "profile": "evertype",
+  "replyTo": "LIST",
+  "senderId": "fL_mkOhPd5LLXzn3Luz66vN_jrexheuPlD_5bPXcp4d2r9Zk69lXbRUE5yCaCZ9ygNt2XZba4YuV09icz8y-kgsNGm-28Cc83TXsVdk",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] New poll for Read_Alphabet",
+  "postDate": "1308573123",
+  "msgId": 2197,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PEEzMENDNkJBLTUwNUQtNEVFQS1BQThBLTNFNzM3NTI0QjNDMEBldmVydHlwZS5jb20+",
+    "inReplyToHeader": "PDIwMTEwNjIwMTExNTA3LjEzRTdBMTE4OTJBRDBAYm1haWwwMy5vbmUuY29tPg==",
+    "referencesHeader": "PDEzMDg1MjE4MTcuMTUzLjE5ODI1Lnc0QHlhaG9vZ3JvdXBzLmNvbT4gPDIwMTEwNjIwMTExNTA3LjEzRTdBMTE4OTJBRDBAYm1haWwwMy5vbmUuY29tPg=="
+  },
+  "prevInTopic": 2196,
+  "nextInTopic": 2198,
+  "prevInTime": 2196,
+  "nextInTime": 2198,
+  "topicId": 623,
+  "numMessagesInTopic": 9,
+  "msgSnippet": "... I did some work on proposing extensions but discussion of it here fizzled out. Michael Everson * http://www.evertype.com/",
+  "messageBody": "<div id=\"ygrps-yiv-1598693111\">On 20 Jun 2011, at 12:15, Jean-Fran\u00e7ois Colson wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; First, the Quikscript alphabet has not yet been included in Unicode. Hence it is not possible to \u201cwrite Unicode Quickscript\u201d at all.<br/>\n<br/>\n </span></blockquote>I did some work on proposing extensions but discussion of it here fizzled out.<br/>\n<br/>\nMichael Everson * <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.evertype.com/\">http://www.evertype.com/</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;everson@...&gt;\r\nX-Sender: everson@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 82510 invoked from network); 20 Jun 2011 12:32:05 -0000\r\nX-Received: from unknown (66.196.94.107)\n  by m14.grp.re1.yahoo.com with QMQP; 20 Jun 2011 12:32:05 -0000\r\nX-Received: from unknown (HELO lh13.dnsireland.com) (78.137.164.53)\n  by mta3.grp.re1.yahoo.com with SMTP; 20 Jun 2011 12:32:05 -0000\r\nX-Received: from [88.81.100.236] (helo=[192.168.250.238])\n\tby lh13.dnsireland.com with esmtpsa (TLSv1:AES128-SHA:128)\n\t(Exim 4.69)\n\t(envelope-from &lt;everson@...&gt;)\n\tid 1QYddx-0007h6-OK\n\tfor Read_Alphabet@yahoogroups.com; Mon, 20 Jun 2011 13:31:53 +0100\r\nContent-Type: text/plain; charset=windows-1252\r\nMime-Version: 1.0 (Apple Message framework v1084)\r\nIn-Reply-To: &lt;20110620111507.13E7A11892AD0@...&gt;\r\nDate: Mon, 20 Jun 2011 13:32:03 +0100\r\nContent-Transfer-Encoding: quoted-printable\r\nMessage-Id: &lt;A30CC6BA-505D-4EEA-AA8A-3E737524B3C0@...&gt;\r\nReferences: &lt;1308521817.153.19825.w4@yahoogroups.com&gt; &lt;20110620111507.13E7A11892AD0@...&gt;\r\nTo: Read_Alphabet@yahoogroups.com\r\nX-Mailer: Apple Mail (2.1084)\r\nX-AntiAbuse: This header was added to track abuse, please include it with any abuse report\r\nX-AntiAbuse: Primary Hostname - lh13.dnsireland.com\r\nX-AntiAbuse: Original Domain - yahoogroups.com\r\nX-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]\r\nX-AntiAbuse: Sender Address Domain - evertype.com\r\nX-Source: \r\nX-Source-Args: \r\nX-Source-Dir: \r\nFrom: Michael Everson &lt;everson@...&gt;\r\nSubject: Re: [Read_Alphabet] New poll for Read_Alphabet\r\nX-Yahoo-Group-Post: member; u=82638473; y=IZNshKixeh8Fu2YDDJTH3NZMF-mexkEris1AoXVuenUpE9U\r\nX-Yahoo-Profile: evertype\r\n\r\nOn 20 Jun 2011, at 12:15, Jean-Fran=E7ois Colson wrote:\n\n&gt; First, the Quiks=\r\ncript alphabet has not yet been included in Unicode. Hence it is not possib=\r\nle to =93write Unicode Quickscript=94 at all.\n\nI did some work on proposing=\r\n extensions but discussion of it here fizzled out.\n\nMichael Everson * http:=\r\n//www.evertype.com/\n\n\n"
+}

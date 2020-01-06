@@ -1,0 +1,31 @@
+{
+  "userId": 134841503,
+  "authorName": "Ted Larson Freeman",
+  "from": "&quot;Ted Larson Freeman&quot; &lt;freeman@...&gt;",
+  "profile": "tedf255",
+  "replyTo": "LIST",
+  "senderId": "aTYjygCOaLUVVNsbuQW_e7XVyh7XPHEOLfIulCjJXcBsWhh2u6BbWxZL-K5TJSxQ0tttJ7zPbr8NT4jSxACzz2H9YOjmOM12JK1IwsCfST2aF5SzIHHpzQ",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Last call for QS-ASCII proposals",
+  "postDate": "1201761106",
+  "msgId": 1989,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDVkODcyOWYwMDgwMTMwMjIzMW8zZmEwYjBmM3IxOGI0M2YwYWY3NGNjNmU4QG1haWwuZ21haWwuY29tPg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 0,
+  "prevInTime": 1988,
+  "nextInTime": 1990,
+  "topicId": 1989,
+  "numMessagesInTopic": 1,
+  "msgSnippet": "This list has been quiet recently. I d like to remind everyone that as January draws to a close, we re ready to start voting to determine a standard set of",
+  "messageBody": "<div id=\"ygrps-yiv-457322392\">This list has been quiet recently. I&#39;d like to remind everyone that as<br/>\nJanuary draws to a close, we&#39;re ready to start voting to determine a<br/>\nstandard set of ASCII letter assignments for QS. The proposals have<br/>\nbeen discussed at length already. You can review them in the document<br/>\n&#39;qs_keybd_proposals3.csv&#39; in the Files-&gt;Key mapping proposals<br/>\ndirectory on the group website. Benct and I have made subdirectories<br/>\nthere with files that explain our proposals. Peter and Moira have<br/>\nexplained their proposals in email. I will also collect the text<br/>\nexamples using each mapping that we&#39;ve compared over email, and update<br/>\nthem to the latest versions of the proposals and put them in a<br/>\ndocument in that directory.<br/>\n<br/>\nIt&#39;s not too late to submit a new proposal! If after reviewing the<br/>\nproposals listed in &#39;qs_keybd_proposals3.csv&#39; you find them all<br/>\nlacking, send me another proposal and I&#39;ll add it to the list.<br/>\n<br/>\nThanks.<br/>\n<br/>\nTed</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;tedf255@...&gt;\r\nX-Sender: tedf255@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 72044 invoked from network); 31 Jan 2008 06:31:48 -0000\r\nX-Received: from unknown (66.218.67.97)\n  by m36.grp.scd.yahoo.com with QMQP; 31 Jan 2008 06:31:48 -0000\r\nX-Received: from unknown (HELO fg-out-1718.google.com) (72.14.220.158)\n  by mta18.grp.scd.yahoo.com with SMTP; 31 Jan 2008 06:31:47 -0000\r\nX-Received: by fg-out-1718.google.com with SMTP id e12so512161fga.1\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Wed, 30 Jan 2008 22:31:46 -0800 (PST)\r\nX-Received: by 10.78.132.2 with SMTP id f2mr2577782hud.19.1201761106832;\n        Wed, 30 Jan 2008 22:31:46 -0800 (PST)\r\nX-Received: by 10.78.37.9 with HTTP; Wed, 30 Jan 2008 22:31:46 -0800 (PST)\r\nMessage-ID: &lt;5d8729f00801302231o3fa0b0f3r18b43f0af74cc6e8@...&gt;\r\nDate: Wed, 30 Jan 2008 22:31:46 -0800\r\nTo: read_alphabet &lt;Read_Alphabet@yahoogroups.com&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Transfer-Encoding: 7bit\r\nContent-Disposition: inline\r\nX-Google-Sender-Auth: e6ab869198c636fb\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: &quot;Ted Larson Freeman&quot; &lt;freeman@...&gt;\r\nSubject: Last call for QS-ASCII proposals\r\nX-Yahoo-Group-Post: member; u=134841503; y=vb916PmcDDLcr6pHP_7bwWOBx-N4CsqdQ2eRpvTxeRYJFg\r\nX-Yahoo-Profile: tedf255\r\n\r\nThis list has been quiet recently. I&#39;d like to remind everyone that as\nJanuary draws to a close, we&#39;re ready to start voting to determine a\nstandard set of ASCII letter assignments for QS. The proposals have\nbeen discussed at length already. You can review them in the document\n&#39;qs_keybd_proposals3.csv&#39; in the Files-&gt;Key mapping proposals\ndirectory on the group website. Benct and I have made subdirectories\nthere with files that explain our proposals. Peter and Moira have\nexplained their proposals in email. I will also collect the text\nexamples using each mapping that we&#39;ve compared over email, and update\nthem to the latest versions of the proposals and put them in a\ndocument in that directory.\n\nIt&#39;s not too late to submit a new proposal! If after reviewing the\nproposals listed in &#39;qs_keybd_proposals3.csv&#39; you find them all\nlacking, send me another proposal and I&#39;ll add it to the list.\n\nThanks.\n\nTed\n\n"
+}

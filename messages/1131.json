@@ -1,0 +1,33 @@
+{
+  "userId": 214981082,
+  "authorName": "Paul Tremblay",
+  "from": "Paul Tremblay &lt;phthenry@...&gt;",
+  "profile": "paulhtremblay",
+  "replyTo": "LIST",
+  "senderId": "bpPQYTMDAA6xCopp2HMdVqUaBstJwpyO6Z70Y9IiNYnMv_-28KITl-ZsdA3fXgsj9zt7Z_uM9V94w0r4A0GxBKWIiuK428LOqw",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Re: on screen representation of senior quikscript",
+  "postDate": "1192824022",
+  "msgId": 1131,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ3MTkwQ0Q2LjcwODA1MDBAaWdsb3UuY29tPg==",
+    "inReplyToHeader": "PGZmNjF1cCtydG50QGVHcm91cHMuY29tPg==",
+    "referencesHeader": "PGZmNjF1cCtydG50QGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 1130,
+  "nextInTopic": 1132,
+  "prevInTime": 1130,
+  "nextInTime": 1132,
+  "topicId": 1125,
+  "numMessagesInTopic": 8,
+  "msgSnippet": "... Sorry I didn t get back to you sooner. Two days is a long time in email. You can t have two types of spacing with one font. However, you can simply cut and",
+  "messageBody": "<div id=\"ygrps-yiv-1038286621\">othermale wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; Yes this makes good sense to me. As I say font editing is hardly my<br/>\n&gt; specialty and drawing a whole alphabet from the ground up is not my<br/>\n&gt; goal but working off of a good baseline with folks that know their<br/>\n&gt; stuff would be quite cool.<br/>\n&gt; The first concern that pops into my head however is character spacing:<br/>\n&gt; junior needs it but senior can have none. Can one font do both?<br/>\n&gt; <br/>\n&gt; -Tony<br/>\n&gt; (BTW, are you finding fontforge a good tool?)<br/>\n<br/>\n </span></blockquote>Sorry I didn&#39;t get back to you sooner. Two days is a long time in email.<br/>\n<br/>\nYou can&#39;t have two types of spacing with one font. However, you can <br/>\nsimply cut and paste all of my glyphs into your own boxes and then add <br/>\nanchors and work on spacing. Most of the time I have spent is with <br/>\nactually creating the shapes.<br/>\n<br/>\nI have created a set of basic shapes which hopefully would suit your <br/>\nneed, but I have not yet finished perfecting these shapes. Do you have <br/>\nan account at sourceforge? If so, and if you want, I&#39;ll add you on as a <br/>\ndeveloper.<br/>\n<br/>\nI have never used another font program besides fontforge, and have never <br/>\ncreated my own font before now. However, I find fontforge to do <br/>\neverything I want it to. It seems an excellent tool to me.<br/>\n<br/>\nPaul</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;phthenry@...&gt;\r\nX-Sender: phthenry@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 21086 invoked from network); 19 Oct 2007 20:00:28 -0000\r\nReceived: from unknown (66.218.67.94)\n  by m56.grp.scd.yahoo.com with QMQP; 19 Oct 2007 20:00:28 -0000\r\nReceived: from unknown (HELO rdsmtp.iglou.com) (192.107.41.63)\n  by mta15.grp.scd.yahoo.com with SMTP; 19 Oct 2007 20:00:28 -0000\r\nReceived: from [192.107.41.39] (helo=mail.iglou.com)\n\tby rdsmtp.iglou.com with esmtpa (8.12.5/8.12.5)\n\t(envelope-from &lt;phthenry@...&gt;)\n\tid 1Iiy1A-0004bg-Pl by authid &lt;igloumta&gt; with igloumta_auth\n\tfor Read_Alphabet@yahoogroups.com; Fri, 19 Oct 2007 16:00:24 -0400\r\nReceived: from [64.253.111.18] (helo=Enid-Johnsons-Computer.local)\n\tby smtp.iglou.com with esmtp (8.12.5/8.12.5)\n\t(envelope-from &lt;phthenry@...&gt;)\n\tid 1Iiy1A-0004jD-GR\n\tfor Read_Alphabet@yahoogroups.com; Fri, 19 Oct 2007 16:00:24 -0400\r\nMessage-ID: &lt;47190CD6.7080500@...&gt;\r\nDate: Fri, 19 Oct 2007 16:00:22 -0400\r\nUser-Agent: Thunderbird 2.0.0.6 (Macintosh/20070728)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nReferences: &lt;ff61up+rtnt@...&gt;\r\nIn-Reply-To: &lt;ff61up+rtnt@...&gt;\r\nContent-Type: text/plain; charset=ISO-8859-1; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\nX-IgLou-Customer: 6ab7d2bd86677d7d54d075759b28f06c\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Paul Tremblay &lt;phthenry@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: on screen representation of senior quikscript\r\nX-Yahoo-Group-Post: member; u=214981082; y=prblAn7BrznaPFXUG6fQ8qu7WZluAuCyFQN0K9vP1WIkU956Lv92pQ\r\nX-Yahoo-Profile: paulhtremblay\r\n\r\nothermale wrote:\n\n&gt; \n&gt; Yes this makes good sense to me. As I say font editing is hardly my\n&gt; specialty and drawing a whole alphabet from the ground up is not my\n&gt; goal but working off of a good baseline with folks that know their\n&gt; stuff would be quite cool.\n&gt; The first concern that pops into my head however is character spacing:\n&gt; junior needs it but senior can have none. Can one font do both?\n&gt; \n&gt; -Tony\n&gt; (BTW, are you finding fontforge a good tool?)\n\nSorry I didn&#39;t get back to you sooner. Two days is a long time in email.\n\nYou can&#39;t have two types of spacing with one font. However, you can \nsimply cut and paste all of my glyphs into your own boxes and then add \nanchors and work on spacing. Most of the time I have spent is with \nactually creating the shapes.\n\nI have created a set of basic shapes which hopefully would suit your \nneed, but I have not yet finished perfecting these shapes. Do you have \nan account at sourceforge? If so, and if you want, I&#39;ll add you on as a \ndeveloper.\n\nI have never used another font program besides fontforge, and have never \ncreated my own font before now. However, I find fontforge to do \neverything I want it to. It seems an excellent tool to me.\n\nPaul\n\n"
+}

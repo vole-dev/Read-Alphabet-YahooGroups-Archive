@@ -1,0 +1,34 @@
+{
+  "userId": 168229681,
+  "authorName": "oliver langan",
+  "from": "oliver langan &lt;oliverlangan@...&gt;",
+  "profile": "oliverlangan",
+  "replyTo": "LIST",
+  "senderId": "4Jh9K7p3vOt6_JMy9ZEDbSFeUFQoKYHKxLnkOiCswHXdPj8FtGwZXDa0JCX9BZvweeo79LF0hXss6efRvi8dIXU4SCHLj-IFQb-HWAKUx9g",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "kerning",
+  "postDate": "1152634572",
+  "msgId": 764,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PEM5Q0E4RjI0LTJDRTktNDYyMC04OURFLUM1NDNCMDRGRTlBRUB5YWhvby5jb20uc2c+",
+    "inReplyToHeader": "PDIwMDYwNzExMTU0OTI1LjdEOEY4MjM3MEQzQHNtdHAubmlsZHJhbS5jby51az4=",
+    "referencesHeader": "PDIwMDYwNzExMTU0OTI1LjdEOEY4MjM3MEQzQHNtdHAubmlsZHJhbS5jby51az4="
+  },
+  "prevInTopic": 759,
+  "nextInTopic": 765,
+  "prevInTime": 763,
+  "nextInTime": 765,
+  "topicId": 757,
+  "numMessagesInTopic": 10,
+  "msgSnippet": "When the penis enlargement ads start coming in Shavian and Quickscript, we re really in trouble. Speaking of which, I spent some time yesterday playing with a",
+  "messageBody": "<div id=\"ygrps-yiv-167990974\">When the penis enlargement ads start coming in Shavian and  <br/>\nQuickscript, we&#39;re really in trouble.<br/>\n<br/>\nSpeaking of which, I spent some time yesterday playing with a font  <br/>\neditor (I think I have mentioned it before: http:// <br/>\nfontforge.sourceforge.net/ ) and managed to figure out how to do  <br/>\ncharacter pair kerning.  This has been a huge problem with QS fonts,  <br/>\nfor me at least, since spacing between He and short letters (for  <br/>\nexample) would look as though a space was inserted.<br/>\n<br/>\nSo, I spent some time -- a lot of time actually -- converting the  <br/>\n&#39;kingsley&#39; font to a) use the conscript unicode block, b) have a  <br/>\nslightly large space, and c) have much better kerning between the  <br/>\nletter pairs.  The results are really nice, I think:<br/>\n<br/>\n(attempting to paste an image)</div>",
+  "specialLinks": [],
+  "attachmentsInfo": [],
+  "rawEmail": "Return-Path: &lt;oliverlangan@...&gt;\r\nX-Sender: oliverlangan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 13478 invoked from network); 11 Jul 2006 22:04:05 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m38.grp.scd.yahoo.com with QMQP; 11 Jul 2006 22:04:05 -0000\r\nReceived: from unknown (HELO smtp108.mail.mud.yahoo.com) (209.191.85.218)\n  by mta2.grp.scd.yahoo.com with SMTP; 11 Jul 2006 22:04:03 -0000\r\nReceived: (qmail 99001 invoked from network); 11 Jul 2006 16:16:19 -0000\r\nReceived: from unknown (HELO ?192.168.0.7?) (oliverlangan@66.126.248.140 with plain)\n  by smtp108.mail.mud.yahoo.com with SMTP; 11 Jul 2006 16:16:17 -0000\r\nMime-Version: 1.0 (Apple Message framework v750)\r\nIn-Reply-To: &lt;20060711154925.7D8F82370D3@...&gt;\r\nReferences: &lt;20060711154925.7D8F82370D3@...&gt;\r\nContent-Type: multipart/mixed; boundary=Apple-Mail-13-381197372\r\nMessage-Id: &lt;C9CA8F24-2CE9-4620-89DE-C543B04FE9AE@...&gt;\r\nDate: Tue, 11 Jul 2006 09:16:12 -0700\r\nTo: Read_Alphabet@yahoogroups.com\r\nX-Mailer: Apple Mail (2.750)\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: oliver langan &lt;oliverlangan@...&gt;\r\nSubject: kerning\r\nX-Yahoo-Group-Post: member; u=168229681; y=K7f3MvXS2dEk4UfomwB-Cmu3NtQMDowe9wOmlzANr-vwqtlsPyS1\r\nX-Yahoo-Profile: oliverlangan\r\n\r\n\r\n--Apple-Mail-13-381197372\r\nContent-Transfer-Encoding: 7bit\r\nContent-Type: text/plain;\n\tcharset=US-ASCII;\n\tdelsp=yes;\n\tformat=flowed\r\n\r\nWhen the penis enlargement ads start coming in Shavian and  \nQuickscript, we&#39;re really in trouble.\n\nSpeaking of which, I spent some time yesterday playing with a font  \neditor (I think I have mentioned it before: http:// \nfontforge.sourceforge.net/ ) and managed to figure out how to do  \ncharacter pair kerning.  This has been a huge problem with QS fonts,  \nfor me at least, since spacing between He and short letters (for  \nexample) would look as though a space was inserted.\n\nSo, I spent some time -- a lot of time actually -- converting the  \n&#39;kingsley&#39; font to a) use the conscript unicode block, b) have a  \nslightly large space, and c) have much better kerning between the  \nletter pairs.  The results are really nice, I think:\n\n(attempting to paste an image)\n\n\r\n--Apple-Mail-13-381197372\r\nContent-Type: image/png;\n\tx-unix-mode=0644;\n\tx-mac-hide-extension=yes;\n\tname=&quot;Picture 13.png&quot;\r\nContent-Disposition: inline;\n\tfilename=&quot;Picture 13.png&quot;\r\n\r\n[ Attachment content not displayed ]\r\n--Apple-Mail-13-381197372\r\nContent-Transfer-Encoding: 7bit\r\nContent-Type: text/plain;\n\tcharset=US-ASCII;\n\tformat=flowed\r\n\r\n\n(smaller version)\n\n\r\n--Apple-Mail-13-381197372\r\nContent-Type: image/png;\n\tx-unix-mode=0644;\n\tx-mac-hide-extension=yes;\n\tname=&quot;Picture 12.png&quot;\r\nContent-Disposition: inline;\n\tfilename=&quot;Picture 12.png&quot;\r\n\r\n[ Attachment content not displayed ]\r\n--Apple-Mail-13-381197372\r\nContent-Transfer-Encoding: 7bit\r\nContent-Type: text/plain;\n\tcharset=US-ASCII;\n\tdelsp=yes;\n\tformat=flowed\r\n\r\n\nNote the improved kerning in &#39;you&#39; and &#39;rather&#39; in the first  \nsentence.  Do you think I went overboard with &#39;culture&#39; in the last  \nsentence?\n\nUsing this method, it may be possible to make an almost-senior  \nversion of the same font.  In fact, if I can figure out the  \n&#39;alternate glyphs&#39; thing then I might be able to shoehorn half  \ncharacters in as well.\n\nYou may notice that the above text is from the QS manual.  My reason  \nfor doing this, in fact, is because I am attempting to convert the QS  \nmanual so that it might be displayed on the web, using (downloadable)  \nunicode fonts.  The Kingsley font (and jerome too) is a close match  \nfor the writing in the manual, but when used to write more than a  \nsingle word it just looked bad: now it looks much better, and with  \nUnicode it is very easy to intermix quickscript and orthodox.  I will  \ntry uploading an in-progress PDF later today, if I am able to verify  \nthat it displays correctly on a machine without the font installed  \n(the font is not ready for prime time, and I&#39;d rather sit on it than  \nhave lots of different versions out there).\n\noliver\n\n\r\n--Apple-Mail-13-381197372--\r\n\n"
+}

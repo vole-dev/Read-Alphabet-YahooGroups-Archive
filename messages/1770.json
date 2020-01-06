@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "tFCiBrtyIl0JJM-VkbKvOemIZJgr6wrsECi6pQX3sCr46Q_vBWH8mmAb96L40ok23Lh6RKU6qJLz6xD3uGK9AZto",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Pronunciation resource",
+  "postDate": "1196943635",
+  "msgId": 1770,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMjA2MTIyMDM1LkdJMTA4MDdAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PDIwMDcxMjA2MDMzMDMxLkdIMTA4MDdAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "referencesHeader": "PGZqN2luNytnbHY4QGVHcm91cHMuY29tPiA8MjAwNzEyMDYwMzMwMzEuR0gxMDgwN0BtZXJjdXJ5LmNjaWwub3JnPg=="
+  },
+  "prevInTopic": 1766,
+  "nextInTopic": 1771,
+  "prevInTime": 1769,
+  "nextInTime": 1771,
+  "topicId": 1764,
+  "numMessagesInTopic": 7,
+  "msgSnippet": "... Good news!  The copy at Project Gutenberg is uncorrupted: http://www.gutenberg.org/dirs/etext02/mpron10.zip -- MEET US AT POINT ORANGE AT MIDNIGHT BRING",
+  "messageBody": "<div id=\"ygrps-yiv-770235966\">John Cowan scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Unfortunately, the Pronunciatior file unpacks improperly, and all the<br/>\n&gt; data is badly garbled.  For example, the first word that isn&#39;t a name is<br/>\n&gt; &quot;abacus&quot;, which is given the pronunciation &quot;abakjylys&quot; (in QS-SAMPA),<br/>\n&gt; something like &quot;abaculous&quot; in TO.  And all the other words are equally<br/>\n&gt; useless: &quot;crash&quot; is pronounced as if it were &quot;crashaclurbeler&quot;.<br/>\n<br/>\n </span></blockquote>Good news!  The copy at Project Gutenberg is uncorrupted:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.gutenberg.org/dirs/etext02/mpron10.zip\">http://www.gutenberg.org/dirs/etext02/mpron10.zip</a><br/>\n<br/>\n-- <br/>\nMEET US AT POINT ORANGE AT MIDNIGHT BRING YOUR DUCK OR PREPARE TO FACE WUGGUMS<br/>\nJohn Cowan      <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>      <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 38403 invoked from network); 6 Dec 2007 12:20:36 -0000\r\nX-Received: from unknown (66.218.67.97)\n  by m42.grp.scd.yahoo.com with QMQP; 6 Dec 2007 12:20:36 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta18.grp.scd.yahoo.com with SMTP; 6 Dec 2007 12:20:36 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1J0FiV-0002Ez-Ti\n\tfor Read_Alphabet@yahoogroups.com; Thu, 06 Dec 2007 07:20:35 -0500\r\nDate: Thu, 6 Dec 2007 07:20:35 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20071206122035.GI10807@...&gt;\r\nReferences: &lt;fj7in7+glv8@...&gt; &lt;20071206033031.GH10807@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;20071206033031.GH10807@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Pronunciation resource\r\nX-Yahoo-Group-Post: member; u=212516; y=67AQCoycHgf9su9gHFHBTj23kH9ZoLfclef4V-J5eyVOmYmlUw\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nJohn Cowan scripsit:\n\n&gt; Unfortunately, the Pronunciatior file unpacks improperly, and all the\n&gt; data is badly garbled.  For example, the first word that isn&#39;t a name is\n&gt; &quot;abacus&quot;, which is given the pronunciation &quot;abakjylys&quot; (in QS-SAMPA),\n&gt; something like &quot;abaculous&quot; in TO.  And all the other words are equally\n&gt; useless: &quot;crash&quot; is pronounced as if it were &quot;crashaclurbeler&quot;.\n\nGood news!  The copy at Project Gutenberg is uncorrupted:\n\nhttp://www.gutenberg.org/dirs/etext02/mpron10.zip\n\n-- \nMEET US AT POINT ORANGE AT MIDNIGHT BRING YOUR DUCK OR PREPARE TO FACE WUGGUMS\nJohn Cowan      cowan@...      http://www.ccil.org/~cowan\n\n"
+}

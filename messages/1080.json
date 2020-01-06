@@ -1,0 +1,33 @@
+{
+  "userId": 180175951,
+  "authorName": "amd64_hacker",
+  "from": "amd64_hacker &lt;amd64_hacker@...&gt;",
+  "profile": "amd64_hacker",
+  "replyTo": "LIST",
+  "senderId": "A3MU0gOAj6YFZREkHt38sZgBQmdofJF4qrAn-qdhW8-74WcEdRpJu4btj_megivSWZKW-JEVKpq9zOs6gCuA2gd1-NIOIcPCfLAMF06R",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Help getting software",
+  "postDate": "1190920151",
+  "msgId": 1080,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ2RkJGRkQ3LjgwMDA3MDVAeWFob28uY28udWs+",
+    "inReplyToHeader": "PDQ2RkJGQTU4LjgwNDA5MDVAaWdsb3UuY29tPg==",
+    "referencesHeader": "PDQ2RkIzMTcxLjIwMDA4MDRAaWdsb3UuY29tPiA8NDZGQkU1MUMuODA2MDEwMkB5YWhvby5jby51az4gPDQ2RkJGMzk1LjYwNTAwMDFAaWdsb3UuY29tPiA8NDZGQkY3RTIuODA5MDUwNkB5YWhvby5jby51az4gPDQ2RkJGQTU4LjgwNDA5MDVAaWdsb3UuY29tPg=="
+  },
+  "prevInTopic": 1079,
+  "nextInTopic": 0,
+  "prevInTime": 1079,
+  "nextInTime": 1081,
+  "topicId": 1073,
+  "numMessagesInTopic": 7,
+  "msgSnippet": "There s a modified Kingsley.ttf in the files area which uses the PUA mapping. Also there was a font called Read Schoolbook which I think Oliver Langan created",
+  "messageBody": "<div id=\"ygrps-yiv-70619666\">There&#39;s a modified Kingsley.ttf in the files area which uses the PUA<br/>\nmapping.<br/>\nAlso there was a font called Read Schoolbook which I think Oliver Langan<br/>\ncreated but I can&#39;t find a link to.<br/>\n<br/>\nMy perl scripts are find and replace programs which can be used<br/>\ntransliterate text, xml and gettext files.<br/>\nThey&#39;re too simple for serious use, mostly because the flat dictionaries<br/>\nI used were too simple.<br/>\nI intend to rewrite them when I find time.<br/>\n<br/>\nPaul Tremblay wrote:<br/>\n<blockquote><span title=\"qreply\"> &gt;<br/>\n&gt; I have to download and burn a DVD to get TeX Live working, I believe.<br/>\n&gt; That might not be a bad idea.<br/>\n&gt;<br/>\n&gt; I thought you might use the private area. But how do you get the font to<br/>\n&gt; correspond to the Unicode you have set aside? I&#39;m sorry since I know<br/>\n&gt; posters have already discussed this issue, but I just joined the group.<br/>\n&gt; Also, now that I think of it, what exactly do your perl scripts do?<br/>\n&gt;<br/>\n&gt; Using HTML is a good idea. I hadn&#39;t thought of that. You can even set up<br/>\n&gt; CSS stylesheets for printing, so you could get reasonable good quality.<br/>\n&gt; On Mac and linux, you can write the HTML, bring it up in a browser, then<br/>\n&gt; save it as PDF. Voila. Not as nice as TeX, but I don&#39;t plan on writing<br/>\n&gt; any books, so for now...<br/>\n&gt;<br/>\n&gt; Paul<br/>\n&gt;<br/>\n&gt; </span></blockquote></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;amd64_hacker@...&gt;\r\nX-Sender: amd64_hacker@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 49097 invoked from network); 27 Sep 2007 19:07:55 -0000\r\nReceived: from unknown (69.147.108.200)\n  by m51.grp.scd.yahoo.com with QMQP; 27 Sep 2007 19:07:55 -0000\r\nReceived: from unknown (HELO smtp005.mail.ukl.yahoo.com) (217.12.11.36)\n  by mta1.grp.re1.yahoo.com with SMTP; 27 Sep 2007 19:07:55 -0000\r\nReceived: (qmail 92312 invoked from network); 27 Sep 2007 19:07:55 -0000\r\nReceived: from unknown (HELO ?192.168.0.1?) (amd64_hacker@82.19.52.162 with plain)\n  by smtp005.mail.ukl.yahoo.com with SMTP; 27 Sep 2007 19:07:54 -0000\r\nX-YMail-OSG: emE23DYVM1mhWpeKXIhwJYX2gRMf30RmXH_1vGc9vkypt7paSF6nQxe6tpdYvOePYoT4RHd_odLHBeljSQNdwivUuCSHyrbM8OCc.IMltCHOu12uQh3.OIcXI1A-\r\nMessage-ID: &lt;46FBFFD7.8000705@...&gt;\r\nDate: Thu, 27 Sep 2007 20:09:11 +0100\r\nUser-Agent: Thunderbird 1.5.0.10 (X11/20070306)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nReferences: &lt;46FB3171.2000804@...&gt; &lt;46FBE51C.8060102@...&gt; &lt;46FBF395.6050001@...&gt; &lt;46FBF7E2.8090506@...&gt; &lt;46FBFA58.8040905@...&gt;\r\nIn-Reply-To: &lt;46FBFA58.8040905@...&gt;\r\nX-Enigmail-Version: 0.94.0.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: amd64_hacker &lt;amd64_hacker@...&gt;\r\nSubject: Re: [Read_Alphabet] Help getting software\r\nX-Yahoo-Group-Post: member; u=180175951; y=livRNkZXFg9u2l9JdT1eElM66pDdHmU_gXqYXiWWF56JbVX9KP9l\r\nX-Yahoo-Profile: amd64_hacker\r\n\r\nThere&#39;s a modified Kingsley.ttf in the files area which uses the PUA\nmapping.\nAlso there was a font called Read Schoolbook which I think Oliver Langan\ncreated but I can&#39;t find a link to.\n\nMy perl scripts are find and replace programs which can be used\ntransliterate text, xml and gettext files.\nThey&#39;re too simple for serious use, mostly because the flat dictionaries\nI used were too simple.\nI intend to rewrite them when I find time.\n\nPaul Tremblay wrote:\n&gt;\n&gt; I have to download and burn a DVD to get TeX Live working, I believe.\n&gt; That might not be a bad idea.\n&gt;\n&gt; I thought you might use the private area. But how do you get the font to\n&gt; correspond to the Unicode you have set aside? I&#39;m sorry since I know\n&gt; posters have already discussed this issue, but I just joined the group.\n&gt; Also, now that I think of it, what exactly do your perl scripts do?\n&gt;\n&gt; Using HTML is a good idea. I hadn&#39;t thought of that. You can even set up\n&gt; CSS stylesheets for printing, so you could get reasonable good quality.\n&gt; On Mac and linux, you can write the HTML, bring it up in a browser, then\n&gt; save it as PDF. Voila. Not as nice as TeX, but I don&#39;t plan on writing\n&gt; any books, so for now...\n&gt;\n&gt; Paul\n&gt;\n&gt;  \n\n\n"
+}

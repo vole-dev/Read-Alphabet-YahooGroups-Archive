@@ -1,0 +1,32 @@
+{
+  "userId": 6166478,
+  "authorName": "jeff_smith_8992",
+  "from": "&quot;jeff_smith_8992&quot; &lt;jeff_smith_8992@...&gt;",
+  "profile": "jeff_smith_8992",
+  "replyTo": "LIST",
+  "senderId": "w-UeUnhJV_yqQcNLZAzT-sDTzoAxgebsfWO8cgotLNKIIoU6eBXa042DIQhsRbVTDSukHEYGXk9JZY1RSOGWsL1b0BXczDC_morYtmG_FLSzSIq7",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: New file uploaded to Read_Alphabet",
+  "postDate": "1092589497",
+  "msgId": 521,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGNmbzUzcCs4NDNuQGVHcm91cHMuY29tPg==",
+    "inReplyToHeader": "PDYzOUMzNzlCLUVDNDYtMTFEOC1BMEUxLTAwMEE5NUIxRDBGRUB5YWhvby5jb20uc2c+"
+  },
+  "prevInTopic": 504,
+  "nextInTopic": 2592,
+  "prevInTime": 520,
+  "nextInTime": 522,
+  "topicId": 504,
+  "numMessagesInTopic": 32,
+  "msgSnippet": "... Hi Oliver, I wrote the QsConverter program in Microsoft Visual C++ 6.0.  The user interface is based on Windows dialog boxes and their embedded controls",
+  "messageBody": "<div id=\"ygrps-yiv-821917637\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Read_Alphabet@yahoogroups.com\">Read_Alphabet@yahoogroups.com</a>, oliver langan<br/>\n&lt;oliverlangan@y...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; &gt;   File        : /QsConverter/QsConverter_1_1.zip<br/>\n&gt; &gt;   Uploaded by : jeff_smith_8992 &lt;jeff_smith_8992@y...&gt;<br/>\n&gt; &gt;   Description : This program allows the User to convert regular text <br/>\n&gt; &gt; into QuikScript. Version 1.1 corrects the problems with hyphenated <br/>\n&gt; &gt; words and adds a progress bar.<br/>\n&gt; <br/>\n&gt; Hi Jeff,<br/>\n&gt; <br/>\n&gt; What language is this written in?  I use a Mac, and can&#39;t use windows <br/>\n&gt; executables, but it might be possible to cross-compile it into a Mac <br/>\n&gt; executable, or at least a command-line tool which could also be run on <br/>\n&gt; linux.<br/>\n&gt; <br/>\n&gt; oliver<br/>\n<br/>\n </span></blockquote>Hi Oliver,<br/>\n<br/>\nI wrote the &quot;QsConverter&quot; program in Microsoft Visual C++ 6.0.  The<br/>\nuser interface is based on Windows dialog boxes and their embedded<br/>\ncontrols (buttons, edit windows, popup messages, etc.).  <br/>\n<br/>\nI did a quick search online to see if there are any &quot;quick and dirty&quot;<br/>\ntranslation programs that will cross-compile a Microsoft Visual C++<br/>\nWindows program to a Unix X-Windows or to a Mac platform, but I didn&#39;t<br/>\nfind much.  It looks (to me) like it would be a significant effort.<br/>\n<br/>\nSince the basic concept behind &quot;QsConverter&quot; is very simple\u0085 just take<br/>\na text input stream, parse it to isolate individual words, see if each<br/>\nword is defined in Chuck Peck&#39;s dictionary, and then output the<br/>\nresulting text in a QuikScript font), I think it would probably be<br/>\neasier to write a new program from scratch than try to port my program.<br/>\n<br/>\nJeff</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;jeff_smith_8992@...&gt;\r\nX-Sender: jeff_smith_8992@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 41371 invoked from network); 15 Aug 2004 17:04:59 -0000\r\nReceived: from unknown (66.218.66.172)\n  by m18.grp.scd.yahoo.com with QMQP; 15 Aug 2004 17:04:59 -0000\r\nReceived: from unknown (HELO n14.grp.scd.yahoo.com) (66.218.66.69)\n  by mta4.grp.scd.yahoo.com with SMTP; 15 Aug 2004 17:04:59 -0000\r\nReceived: from [66.218.66.112] by n14.grp.scd.yahoo.com with NNFMP; 15 Aug 2004 17:04:58 -0000\r\nDate: Sun, 15 Aug 2004 17:04:57 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;cfo53p+843n@...&gt;\r\nIn-Reply-To: &lt;639C379B-EC46-11D8-A0E1-000A95B1D0FE@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Transfer-Encoding: quoted-printable\r\nContent-Length: 1468\r\nX-Mailer: Yahoo Groups Message Poster\r\nX-Yahoo-Newman-Property: groups-compose\r\nX-eGroups-Remote-IP: 66.218.66.69\r\nFrom: &quot;jeff_smith_8992&quot; &lt;jeff_smith_8992@...&gt;\r\nSubject: Re: New file uploaded to Read_Alphabet\r\nX-Yahoo-Group-Post: member; u=6166478\r\nX-Yahoo-Profile: jeff_smith_8992\r\n\r\n--- In Read_Alphabet@yahoogroups.com, oliver langan\n&lt;oliverlangan@y...&gt; wro=\r\nte:\n&gt; &gt;   File        : /QsConverter/QsConverter_1_1.zip\n&gt; &gt;   Uploaded by =\r\n: jeff_smith_8992 &lt;jeff_smith_8992@y...&gt;\n&gt; &gt;   Description : This program a=\r\nllows the User to convert regular text \n&gt; &gt; into QuikScript. Version 1.1 co=\r\nrrects the problems with hyphenated \n&gt; &gt; words and adds a progress bar.\n&gt; \n=\r\n&gt; Hi Jeff,\n&gt; \n&gt; What language is this written in?  I use a Mac, and can&#39;t u=\r\nse windows \n&gt; executables, but it might be possible to cross-compile it int=\r\no a Mac \n&gt; executable, or at least a command-line tool which could also be =\r\nrun on \n&gt; linux.\n&gt; \n&gt; oliver\n\nHi Oliver,\n\nI wrote the &quot;QsConverter&quot; program=\r\n in Microsoft Visual C++ 6.0.  The\nuser interface is based on Windows dialo=\r\ng boxes and their embedded\ncontrols (buttons, edit windows, popup messages,=\r\n etc.).  \n\nI did a quick search online to see if there are any &quot;quick and d=\r\nirty&quot;\ntranslation programs that will cross-compile a Microsoft Visual C++\nW=\r\nindows program to a Unix X-Windows or to a Mac platform, but I didn&#39;t\nfind =\r\nmuch.  It looks (to me) like it would be a significant effort.\n\nSince the b=\r\nasic concept behind &quot;QsConverter&quot; is very simple=85 just take\na text input =\r\nstream, parse it to isolate individual words, see if each\nword is defined i=\r\nn Chuck Peck&#39;s dictionary, and then output the\nresulting text in a QuikScri=\r\npt font), I think it would probably be\neasier to write a new program from s=\r\ncratch than try to port my program.\n\nJeff\n\n\n\n"
+}

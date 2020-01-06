@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "JE4C1wpAPcoXbgw5PQXekqDCwESfYulIZ1JFuVeXCjg-H-Yex8yi1TGXjJigU94DpaWLPvrLAgUeI1jeX5vP7YGs",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] dictionary in lexical sets?",
+  "postDate": "1197507425",
+  "msgId": 1846,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMjEzMDA1NzA1LkdBMTEwNThAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PDQ3NjA3N0Y2LjkwODA1QGlnbG91LmNvbT4=",
+    "referencesHeader": "PDQ3NjA3N0Y2LjkwODA1QGlnbG91LmNvbT4="
+  },
+  "prevInTopic": 1845,
+  "nextInTopic": 1847,
+  "prevInTime": 1845,
+  "nextInTime": 1847,
+  "topicId": 1845,
+  "numMessagesInTopic": 4,
+  "msgSnippet": "... There are QS letters (or letter + R pairs) for all the lexical sets. Just use an ASCII transcription of them, either QS-SAMPA or whichever else you please.",
+  "messageBody": "<div id=\"ygrps-yiv-1596639166\">Paul Tremblay scripsit:<br/>\n<blockquote><span title=\"ireply\"> &gt; While I am working on a QuikScript dictionary, I keep wanting a system <br/>\n&gt; that will represent phonemes rather than sounds. Is it possible to <br/>\n&gt; create a useful dictionary with lexical sets and letters?<br/>\n<br/>\n </span></blockquote>There are QS letters (or letter + R pairs) for all the lexical sets.<br/>\nJust use an ASCII transcription of them, either QS-SAMPA or whichever<br/>\nelse you please.  It&#39;s just a matter of keeping straight whether<br/>\nyour symbols are being used phonemically or phonetically.<br/>\n<br/>\n-- <br/>\nJohn Cowan  <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a><br/>\nDoes anybody want any flotsam? / I&#39;ve gotsam.<br/>\nDoes anybody want any jetsam? / I can getsam.<br/>\n        --Ogden Nash, No Doctors Today, Thank You</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 43792 invoked from network); 13 Dec 2007 00:57:06 -0000\r\nX-Received: from unknown (66.218.67.97)\n  by m56.grp.scd.yahoo.com with QMQP; 13 Dec 2007 00:57:06 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta18.grp.scd.yahoo.com with SMTP; 13 Dec 2007 00:57:06 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1J2cNt-0002wS-Ny\n\tfor Read_Alphabet@yahoogroups.com; Wed, 12 Dec 2007 19:57:05 -0500\r\nDate: Wed, 12 Dec 2007 19:57:05 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20071213005705.GA11058@...&gt;\r\nReferences: &lt;476077F6.90805@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;476077F6.90805@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] dictionary in lexical sets?\r\nX-Yahoo-Group-Post: member; u=212516; y=IHhErOOa3fHib0pf4lSr43WHJVoAXpVtJOJ26kfIK1UI80PQbg\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nPaul Tremblay scripsit:\n&gt; While I am working on a QuikScript dictionary, I keep wanting a system \n&gt; that will represent phonemes rather than sounds. Is it possible to \n&gt; create a useful dictionary with lexical sets and letters?\n\nThere are QS letters (or letter + R pairs) for all the lexical sets.\nJust use an ASCII transcription of them, either QS-SAMPA or whichever\nelse you please.  It&#39;s just a matter of keeping straight whether\nyour symbols are being used phonemically or phonetically.\n\n-- \nJohn Cowan  cowan@...  http://www.ccil.org/~cowan\nDoes anybody want any flotsam? / I&#39;ve gotsam.\nDoes anybody want any jetsam? / I can getsam.\n        --Ogden Nash, No Doctors Today, Thank You\n\n"
+}

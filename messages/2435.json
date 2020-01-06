@@ -1,0 +1,33 @@
+{
+  "userId": 328329959,
+  "authorName": "Jean-Fran\u00e7ois Colson",
+  "from": "=?windows-1252?Q?Jean-Fran=E7ois_Colson?= &lt;jf@...&gt;",
+  "profile": "j_f_colson",
+  "replyTo": "LIST",
+  "senderId": "_rMwyNJzSsn_OyGtV_om7NbCwLK8iOmAndG4uvlCp8SKGxf1IbTGbrTYaH_RWflR9eL9vmXCMJFMs-i-t6yI_7pTqksyzgAPGfC3Ent-mXwQeEPwQlWIYib--e3LkOs",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Quikscript extensions to Shavian (or separate script)",
+  "postDate": "1366417236",
+  "msgId": 2435,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDUxNzFERjU0LjUwMzA2MDNAY29sc29uLmV1Pg==",
+    "inReplyToHeader": "PDkyMDNFNUIzLUFFN0MtNDA0RC05NDYzLUQzNkQ3RDgzOTgzNEBldmVydHlwZS5jb20+",
+    "referencesHeader": "PDkyMDNFNUIzLUFFN0MtNDA0RC05NDYzLUQzNkQ3RDgzOTgzNEBldmVydHlwZS5jb20+"
+  },
+  "prevInTopic": 2434,
+  "nextInTopic": 2436,
+  "prevInTime": 2434,
+  "nextInTime": 2436,
+  "topicId": 2433,
+  "numMessagesInTopic": 25,
+  "msgSnippet": "... Hello I thought I should send a message on the Shavian mailing list about the possible future extension of Shavian. I see you did it yourself. That\u2019s ",
+  "messageBody": "<div id=\"ygrps-yiv-1514405670\">Le 19/04/13 23:31, Michael Everson a \u00e9crit :<br/>\n<blockquote><span title=\"ireply\"> &gt; Please see<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.evertype.com/standards/iso10646/pdf/n4xxx-shavian-additions.pdf\">http://www.evertype.com/standards/iso10646/pdf/n4xxx-shavian-additions.pdf</a>  and please comment as soon as possible. Thank you.<br/>\n&gt;<br/>\n&gt; Michael Everson *<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.evertype.com/\">http://www.evertype.com/</a><br/>\n&gt;<br/>\n </span></blockquote>Hello<br/>\n<br/>\nI thought I should send a message on the Shavian mailing list about the <br/>\npossible future extension of Shavian. I see you did it yourself. That\u2019s <br/>\ngreat.<br/>\n<br/>\nIn your proposal, I don\u2019t see any description of Senior Quikscript and <br/>\nnothing about variation selectors.<br/>\n<br/>\nIf Shavian and Quikscript are not unified, two variation selectors <br/>\nshould be used: one to request the base form of a letter, the other one <br/>\nfor the half or alternate form.<br/>\nFor T (sorry, I forgot the keyword) which can be written either <br/>\ndownwards or upwards, the half form can be linked to a following letter <br/>\nor, sometimes, to the previous one, as in the word \u201cout\u201d. In some cases, <br/>\nthere might be ambiguity for the rendering engine and the writer could <br/>\nwant to specify with which letter (the previous one or the next one) <br/>\nhalf T should be linked. Therefore, a ZWJ or a ZWNJ could be useful.<br/>\n<br/>\nIf, halas, Shavian and Quikscript were unified, two additional variation <br/>\nselectors should be used to choose between the Shavian or the Quikscript <br/>\nform of some letters.<br/>\nWith a consistent use of variation selectors, a single font could handle <br/>\nboth scripts, even if they were unified.<br/>\n<br/>\nJF</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;jf@...&gt;\r\nX-Sender: jf@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 77269 invoked from network); 20 Apr 2013 00:20:37 -0000\r\nX-Received: from unknown (10.193.84.131)\n  by m11.grp.bf1.yahoo.com with QMQP; 20 Apr 2013 00:20:37 -0000\r\nX-Received: from unknown (HELO csmtp15.one.com) (195.47.247.115)\n  by mta4.grp.bf1.yahoo.com with SMTP; 20 Apr 2013 00:20:37 -0000\r\nX-Received: from csmtp-filter2 (csmtp-filter2.one.com [195.47.247.101])\n\tby csmtp15.one.com (Postfix) with SMTP id 35559C00A294A;\n\tSat, 20 Apr 2013 00:20:37 +0000 (UTC)\r\nX-Received: from csmtp-filter2 (csmtp-filter2.one.com [195.47.247.101])\n\tby 0.0.0.0:2500 (trex/4.8.23);\n\tSat, 20 Apr 2013 00:20:35 GMT\r\nMessage-ID: &lt;5171DF54.5030603@...&gt;\r\nDate: Sat, 20 Apr 2013 02:20:36 +0200\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:17.0) Gecko/20130329 Thunderbird/17.0.5\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com, shawalphabet@yahoogroups.com\r\nReferences: &lt;9203E5B3-AE7C-404D-9463-D36D7D839834@...&gt;\r\nIn-Reply-To: &lt;9203E5B3-AE7C-404D-9463-D36D7D839834@...&gt;\r\nContent-Type: text/plain; charset=windows-1252; format=flowed\r\nContent-Transfer-Encoding: 8bit\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: =?windows-1252?Q?Jean-Fran=E7ois_Colson?= &lt;jf@...&gt;\r\nSubject: Re: [Read_Alphabet] Quikscript extensions to Shavian (or separate\n script)\r\nX-Yahoo-Group-Post: member; u=328329959; y=mPBIDIoS7oRSxEwbgarrNSxDhgEUMS4-xITfwBmmoARra7WIjA\r\nX-Yahoo-Profile: j_f_colson\r\n\r\nLe 19/04/13 23:31, Michael Everson a \ufffdcrit :\n&gt; Please seehttp://www.evertype.com/standards/iso10646/pdf/n4xxx-shavian-additions.pdf  and please comment as soon as possible. Thank you.\n&gt;\n&gt; Michael Everson *http://www.evertype.com/\n&gt;\nHello\n\nI thought I should send a message on the Shavian mailing list about the \npossible future extension of Shavian. I see you did it yourself. That\ufffds \ngreat.\n\nIn your proposal, I don\ufffdt see any description of Senior Quikscript and \nnothing about variation selectors.\n\nIf Shavian and Quikscript are not unified, two variation selectors \nshould be used: one to request the base form of a letter, the other one \nfor the half or alternate form.\nFor T (sorry, I forgot the keyword) which can be written either \ndownwards or upwards, the half form can be linked to a following letter \nor, sometimes, to the previous one, as in the word \ufffdout\ufffd. In some cases, \nthere might be ambiguity for the rendering engine and the writer could \nwant to specify with which letter (the previous one or the next one) \nhalf T should be linked. Therefore, a ZWJ or a ZWNJ could be useful.\n\nIf, halas, Shavian and Quikscript were unified, two additional variation \nselectors should be used to choose between the Shavian or the Quikscript \nform of some letters.\nWith a consistent use of variation selectors, a single font could handle \nboth scripts, even if they were unified.\n\nJF\n\n\n"
+}

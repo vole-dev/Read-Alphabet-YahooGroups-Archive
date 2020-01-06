@@ -1,0 +1,31 @@
+{
+  "userId": 111629109,
+  "authorName": "steveb_667",
+  "from": "&quot;steveb_667&quot; &lt;sbartok1632@...&gt;",
+  "profile": "steveb_667",
+  "replyTo": "LIST",
+  "senderId": "90yIT_3PgZ6166yzT9f-Jm5TDUERBCchfEP4K3Aw2nnptQq2tZuUSnr6duojjpryPNXqHaqFwvJRW3KeZw6yOUK36fmBG2llO2nchCtyEQ",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Ikonboard Compromised By Spambots",
+  "postDate": "1123283844",
+  "msgId": 651,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGRkMHMyNCt2ZWFqQGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 652,
+  "prevInTime": 650,
+  "nextInTime": 652,
+  "topicId": 651,
+  "numMessagesInTopic": 5,
+  "msgSnippet": "This may be old news to those who keep a consistent eye on the Ikonboard  (http://www.shavian.org/hugh/ikonboard/ikonboard.cgi), but it seems that board has",
+  "messageBody": "<div id=\"ygrps-yiv-338149183\">This may be old news to those who keep a consistent eye on the<br/>\nIkonboard  (<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shavian.org/hugh/ikonboard/ikonboard.cgi)\">http://www.shavian.org/hugh/ikonboard/ikonboard.cgi)</a>, but<br/>\nit seems that board has become infected with Spambots. Use at your own<br/>\ncaution (not that many here have...).<br/>\n<br/>\nIn other news...How has everyone been doing with their Quikscript?</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;sbartok1632@...&gt;\r\nX-Sender: sbartok1632@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 86155 invoked from network); 5 Aug 2005 23:17:26 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m25.grp.scd.yahoo.com with QMQP; 5 Aug 2005 23:17:26 -0000\r\nReceived: from unknown (HELO n24.bulk.scd.yahoo.com) (66.94.237.53)\n  by mta2.grp.scd.yahoo.com with SMTP; 5 Aug 2005 23:17:26 -0000\r\nComment: DomainKeys? See http://antispam.yahoo.com/domainkeys\r\nReceived: from [66.218.69.6] by n24.bulk.scd.yahoo.com with NNFMP; 05 Aug 2005 23:17:24 -0000\r\nReceived: from [66.218.66.87] by mailer6.bulk.scd.yahoo.com with NNFMP; 05 Aug 2005 23:17:24 -0000\r\nDate: Fri, 05 Aug 2005 23:17:24 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;dd0s24+veaj@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 311\r\nX-Mailer: Yahoo Groups Message Poster\r\nX-Yahoo-Newman-Property: groups-compose\r\nX-eGroups-Msg-Info: 1:12:0\r\nFrom: &quot;steveb_667&quot; &lt;sbartok1632@...&gt;\r\nSubject: Ikonboard Compromised By Spambots\r\nX-Yahoo-Group-Post: member; u=111629109; y=B6kO-1jk4kHeUnzIdPbOz2QNg9YePvCdwC91jHqsEzeYQfkbDA\r\nX-Yahoo-Profile: steveb_667\r\n\r\nThis may be old news to those who keep a consistent eye on the\nIkonboard  (http://www.shavian.org/hugh/ikonboard/ikonboard.cgi), but\nit seems that board has become infected with Spambots. Use at your own\ncaution (not that many here have...).\n\nIn other news...How has everyone been doing with their Quikscript? \n\n\n\n"
+}

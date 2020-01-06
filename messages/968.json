@@ -1,0 +1,33 @@
+{
+  "userId": 82638473,
+  "authorName": "Michael Everson",
+  "from": "Michael Everson &lt;everson@...&gt;",
+  "profile": "evertype",
+  "replyTo": "LIST",
+  "senderId": "Ok0iP8rlsK1huXGN7oh_lJwN5pZy_6_JeBG2MMBOqM63qVHyXBXlYprJdLo5STez2lna9kpU5jn1WBXGiMcFbtbZmMdT4IzpAotJZog",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Unicode proposal again.",
+  "postDate": "1180475724",
+  "msgId": 968,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PHAwNjI0MDgwNWMyODI0MjM4NmFkZUBbMTAuMC4xLjJdPg==",
+    "inReplyToHeader": "PDIwMDcwNTI5MDYyNDQ2LkdDMjc0NkBtZXJjdXJ5LmNjaWwub3JnPg==",
+    "referencesHeader": "PGYzZjU2OCtuc2MwQGVHcm91cHMuY29tPiA8MDA1MDAxYzdhMWIzJDc4MTFkMTQwJDAzMDAwMDBhQHVsYjFpPiA8MjAwNzA1MjkwNjI0NDYuR0MyNzQ2QG1lcmN1cnkuY2NpbC5vcmc+"
+  },
+  "prevInTopic": 967,
+  "nextInTopic": 969,
+  "prevInTime": 967,
+  "nextInTime": 969,
+  "topicId": 947,
+  "numMessagesInTopic": 45,
+  "msgSnippet": "... For instance, dictionary entries with thalassa sea in both Greek and Coptic side-by-side. -- Michael Everson * http://www.evertype.com",
+  "messageBody": "<div id=\"ygrps-yiv-286411893\">At 02:24 -0400 2007-05-29, John Cowan wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;Coptic and Greek were disunified because there were substantial <br/>\n&gt;documents that contained both, each with its characteristic style.<br/>\n<br/>\n </span></blockquote>For instance, dictionary entries with thalassa &#39;sea&#39; in both Greek <br/>\nand Coptic side-by-side.<br/>\n-- <br/>\nMichael Everson * <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.evertype.com\">http://www.evertype.com</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;everson@...&gt;\r\nX-Sender: everson@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 66399 invoked from network); 29 May 2007 22:02:08 -0000\r\nReceived: from unknown (66.218.66.71)\n  by m46.grp.scd.yahoo.com with QMQP; 29 May 2007 22:02:08 -0000\r\nReceived: from unknown (HELO white.dnsireland.com) (67.15.182.33)\n  by mta13.grp.scd.yahoo.com with SMTP; 29 May 2007 22:02:08 -0000\r\nReceived: from localhost ([127.0.0.1]:41561 helo=[10.0.1.2])\n\tby white.dnsireland.com with esmtp (Exim 4.63)\n\t(envelope-from &lt;everson@...&gt;)\n\tid 1Ht9kl-00017i-DZ\n\tfor Read_Alphabet@yahoogroups.com; Tue, 29 May 2007 23:01:20 +0100\r\nMime-Version: 1.0\r\nMessage-Id: &lt;p06240805c28242386ade@[10.0.1.2]&gt;\r\nIn-Reply-To: &lt;20070529062446.GC2746@...&gt;\r\nReferences: &lt;f3f568+nsc0@...&gt;\n &lt;005001c7a1b3$7811d140$0300000a@ulb1i&gt;\n &lt;20070529062446.GC2746@...&gt;\r\nDate: Tue, 29 May 2007 22:55:24 +0100\r\nTo: Read_Alphabet@yahoogroups.com\r\nContent-Type: text/plain; charset=&quot;us-ascii&quot; ; format=&quot;flowed&quot;\r\nX-AntiAbuse: This header was added to track abuse, please include it with any abuse report\r\nX-AntiAbuse: Primary Hostname - white.dnsireland.com\r\nX-AntiAbuse: Original Domain - yahoogroups.com\r\nX-AntiAbuse: Originator/Caller UID/GID - [0 0] / [47 12]\r\nX-AntiAbuse: Sender Address Domain - evertype.com\r\nX-Source: \r\nX-Source-Args: \r\nX-Source-Dir: \r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: Michael Everson &lt;everson@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Unicode proposal again.\r\nX-Yahoo-Group-Post: member; u=82638473; y=w7foBn7QOF-q6p1IrtRy3uFbVJb0XZekCWjv5HSPNoayW9M\r\nX-Yahoo-Profile: evertype\r\n\r\nAt 02:24 -0400 2007-05-29, John Cowan wrote:\n\n&gt;Coptic and Greek were disunified because there were substantial \n&gt;documents that contained both, each with its characteristic style.\n\nFor instance, dictionary entries with thalassa &#39;sea&#39; in both Greek \nand Coptic side-by-side.\n-- \nMichael Everson * http://www.evertype.com\n\n"
+}

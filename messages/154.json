@@ -1,0 +1,30 @@
+{
+  "userId": 112111395,
+  "authorName": "HeyMister57@aol.com",
+  "from": "HeyMister57@...",
+  "replyTo": "LIST",
+  "senderId": "2IlHMBsffRWtingDnkqoAFcQ2vA9S1ItxFRrq9Hu8OQms487h1lNKWGd_k6qD_hyXVI4GGpcFPs5oA",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "test",
+  "postDate": "1021894178",
+  "msgId": 154,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDE0ZS5lMjAyZTNmLjJhMWEzODIyQGFvbC5jb20+"
+  },
+  "prevInTopic": 147,
+  "nextInTopic": 2760,
+  "prevInTime": 153,
+  "nextInTime": 155,
+  "topicId": 146,
+  "numMessagesInTopic": 4,
+  "msgSnippet": "test",
+  "messageBody": "<div id=\"ygrps-yiv-815356071\">test</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;HeyMister57@...&gt;\r\nX-Sender: HeyMister57@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (EGP: mail-8_0_3_2); 20 May 2002 11:29:44 -0000\r\nReceived: (qmail 50079 invoked from network); 20 May 2002 11:29:44 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m2.grp.scd.yahoo.com with QMQP; 20 May 2002 11:29:44 -0000\r\nReceived: from unknown (HELO imo-r01.mx.aol.com) (152.163.225.97)\n  by mta2.grp.scd.yahoo.com with SMTP; 20 May 2002 11:29:44 -0000\r\nReceived: from HeyMister57@...\n\tby imo-r01.mx.aol.com (mail_out_v32.5.) id r.14e.e202e3f (2523)\n\t for &lt;Read_Alphabet@yahoogroups.com&gt;; Mon, 20 May 2002 07:29:38 -0400 (EDT)\r\nMessage-ID: &lt;14e.e202e3f.2a1a3822@...&gt;\r\nDate: Mon, 20 May 2002 07:29:38 EDT\r\nSubject: test\r\nTo: Read_Alphabet@yahoogroups.com\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=&quot;US-ASCII&quot;\r\nContent-Transfer-Encoding: 7bit\r\nX-Mailer: AOL 5.0 for Mac sub 40\r\nFrom: HeyMister57@...\r\nX-Yahoo-Group-Post: member; u=112111395\r\n\r\ntest\n\n"
+}

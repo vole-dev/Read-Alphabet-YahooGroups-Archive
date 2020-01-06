@@ -1,0 +1,33 @@
+{
+  "userId": 180175951,
+  "authorName": "amd64_hacker",
+  "from": "amd64_hacker &lt;amd64_hacker@...&gt;",
+  "profile": "amd64_hacker",
+  "replyTo": "LIST",
+  "senderId": "p5ROupeXVc2sNb1b5yIpXM05009PBcrNfE0Nj_K_aY7qpWF-1JZ7pKeSTpAnjxeLwhpVsmCRqMlolkQaX7ZOsVPEkIT-e15KNHzofZQO",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Unicode proposal again.",
+  "postDate": "1180864509",
+  "msgId": 989,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ2NjI4RkZELjkwMjAyMDlAeWFob28uY28udWs+",
+    "inReplyToHeader": "PDIwMDcwNjAzMDYwNDEwLkdFMjI2MDBAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "referencesHeader": "PGYzZjU2OCtuc2MwQGVHcm91cHMuY29tPiA8MDA1MDAxYzdhMWIzJDc4MTFkMTQwJDAzMDAwMDBhQHVsYjFpPiA8cDA2MjQwODAzYzI4MThjNWNhNzY3QFsxOTIuMTY4LjEuMTM0XT4gPDQ2NUM2Rjg3LjcwNzA4QG1lbHJvY2guc2U+IDxwMDYyNDA4MDhjMjgyNDUzZjIwN2NAWzEwLjAuMS4yXT4gPDQ2NUQ2NjE2LjYwNTAwMDVAbWVscm9jaC5zZT4gPDg4OTgwRENGLUExMDctNDlENy05MkY1LUJFRjIxNUUyNkQ5MEBsYW5nYW4ubmV0PiA8NDY2MDREQUQuNTA5MDhAeWFob28uY28udWs+IDwyMDA3MDYwMjA1NDIyNi5HRDgzNjJAbWVyY3VyeS5jY2lsLm9yZz4gPDQ2NjFGOEZFLjcwNzA4MDlAeWFob28uY28udWs+IDwyMDA3MDYwMzA2MDQxMC5HRTIyNjAwQG1lcmN1cnkuY2NpbC5vcmc+"
+  },
+  "prevInTopic": 988,
+  "nextInTopic": 995,
+  "prevInTime": 988,
+  "nextInTime": 990,
+  "topicId": 947,
+  "numMessagesInTopic": 45,
+  "msgSnippet": "I ll re-add section F. Although the section F information is extremely useful, I don t see how it affects the proposal. It seems to me F can be treated as",
+  "messageBody": "<div id=\"ygrps-yiv-310313844\">I&#39;ll re-add section F.<br/>\n<br/>\nAlthough the section F information is extremely useful, I don&#39;t see how<br/>\nit affects the proposal.<br/>\nIt seems to me F can be treated as identical to E when deciding which<br/>\ncode points should be reused.<br/>\nAs far as I can see the UCD has no properties which can relate code<br/>\npoints by sound.<br/>\n<br/>\nHave I miss-read (yet again!) the specification?<br/>\nOr is that information stored in a completely different location?<br/>\nOr is it just that the information should be included with the proposal<br/>\nfor completeness?<br/>\n<br/>\nCould you explain for me?<br/>\n<br/>\nJohn Cowan wrote:<br/>\n<blockquote><span title=\"qreply\"> &gt;<br/>\n&gt; amd64_hacker scripsit:<br/>\n&gt;<br/>\n&gt; &gt; I&#39;ve omitted sections A and F from the XSLT for the moment as they don&#39;t<br/>\n&gt; &gt; have a direct impact on the proposal.<br/>\n&gt;<br/>\n&gt; I agree that A (Shavian-only) is not necessary, but F (one match for<br/>\n&gt; sound, one for sight) is critical. For example, QS F matches Shavian<br/>\n&gt; F in sound, Shavian TH in shape.<br/>\n&gt;<br/>\n&gt; -- <br/>\n&gt; MEET US AT POINT ORANGE AT MIDNIGHT BRING YOUR DUCK OR PREPARE TO FACE<br/>\n&gt; WUGGUMS<br/>\n&gt; John Cowan <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a> &lt;mailto:cowan%40ccil.org&gt;<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a> &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/%7Ecowan\">http://www.ccil.org/%7Ecowan</a>&gt;<br/>\n&gt;<br/>\n&gt; </span></blockquote></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;amd64_hacker@...&gt;\r\nX-Sender: amd64_hacker@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 58493 invoked from network); 3 Jun 2007 10:02:27 -0000\r\nReceived: from unknown (66.218.66.70)\n  by m46.grp.scd.yahoo.com with QMQP; 3 Jun 2007 10:02:27 -0000\r\nReceived: from unknown (HELO smtp006.mail.ukl.yahoo.com) (217.12.11.95)\n  by mta12.grp.scd.yahoo.com with SMTP; 3 Jun 2007 10:02:27 -0000\r\nReceived: (qmail 59039 invoked from network); 3 Jun 2007 09:52:09 -0000\r\nReceived: from unknown (HELO ?192.168.0.1?) (amd64_hacker@82.19.52.162 with plain)\n  by smtp006.mail.ukl.yahoo.com with SMTP; 3 Jun 2007 09:52:09 -0000\r\nX-YMail-OSG: xhinf0EVM1losTOV5L3uksqQN.bLdNGcJ7lTVdnog74S1BEvJOpzCx1LOg_crlGtA_r7sQs3N_A7Zr.As1_bLFkoNzLfGrf0xg--\r\nMessage-ID: &lt;46628FFD.9020209@...&gt;\r\nDate: Sun, 03 Jun 2007 10:55:09 +0100\r\nUser-Agent: Thunderbird 1.5.0.10 (X11/20070306)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nReferences: &lt;f3f568+nsc0@...&gt; &lt;005001c7a1b3$7811d140$0300000a@ulb1i&gt; &lt;p06240803c2818c5ca767@[192.168.1.134]&gt; &lt;465C6F87.70708@...&gt; &lt;p06240808c282453f207c@[10.0.1.2]&gt; &lt;465D6616.6050005@...&gt; &lt;88980DCF-A107-49D7-92F5-BEF215E26D90@...&gt; &lt;46604DAD.50908@...&gt; &lt;20070602054226.GD8362@...&gt; &lt;4661F8FE.7070809@...&gt; &lt;20070603060410.GE22600@...&gt;\r\nIn-Reply-To: &lt;20070603060410.GE22600@...&gt;\r\nX-Enigmail-Version: 0.94.0.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: amd64_hacker &lt;amd64_hacker@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Unicode proposal again.\r\nX-Yahoo-Group-Post: member; u=180175951; y=ZEDnnHJ9MjTwhHBST7hVOrBq-Pjprq3JF6UZ4B6OEmUDdRwKDlle\r\nX-Yahoo-Profile: amd64_hacker\r\n\r\nI&#39;ll re-add section F.\n\nAlthough the section F information is extremely useful, I don&#39;t see how\nit affects the proposal.\nIt seems to me F can be treated as identical to E when deciding which\ncode points should be reused.\nAs far as I can see the UCD has no properties which can relate code\npoints by sound.\n\nHave I miss-read (yet again!) the specification?\nOr is that information stored in a completely different location?\nOr is it just that the information should be included with the proposal\nfor completeness?\n\nCould you explain for me?\n\nJohn Cowan wrote:\n&gt;\n&gt; amd64_hacker scripsit:\n&gt;\n&gt; &gt; I&#39;ve omitted sections A and F from the XSLT for the moment as they don&#39;t\n&gt; &gt; have a direct impact on the proposal.\n&gt;\n&gt; I agree that A (Shavian-only) is not necessary, but F (one match for\n&gt; sound, one for sight) is critical. For example, QS F matches Shavian\n&gt; F in sound, Shavian TH in shape.\n&gt;\n&gt; -- \n&gt; MEET US AT POINT ORANGE AT MIDNIGHT BRING YOUR DUCK OR PREPARE TO FACE\n&gt; WUGGUMS\n&gt; John Cowan cowan@... &lt;mailto:cowan%40ccil.org&gt;\n&gt; http://www.ccil.org/~cowan &lt;http://www.ccil.org/%7Ecowan&gt;\n&gt;\n&gt;  \n\n\n"
+}

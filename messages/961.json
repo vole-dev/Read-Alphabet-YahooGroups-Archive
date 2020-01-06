@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "ASkRb_5Ne2r413hyPM_cqv34ZyndPm7pZu4xd85XTKqAd6nVCZAUcHpquAu8-hYX4gA6R5KfsHGMwCqBv5IOvTUt",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Unicode proposal again.",
+  "postDate": "1180472609",
+  "msgId": 961,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcwNTI5MjEwMzI5LkdKMjc0NkBtZXJjdXJ5LmNjaWwub3JnPg==",
+    "inReplyToHeader": "PDQ2NUM5M0ZBLjcwNzAxMDhAeWFob28uY28udWs+",
+    "referencesHeader": "PGYzZjU2OCtuc2MwQGVHcm91cHMuY29tPiA8MDA1MDAxYzdhMWIzJDc4MTFkMTQwJDAzMDAwMDBhQHVsYjFpPiA8cDA2MjQwODAzYzI4MThjNWNhNzY3QFsxOTIuMTY4LjEuMTM0XT4gPDQ2NUM1RjE3LjMwMzA0MDBAeWFob28uY28udWs+IDwyMDA3MDUyOTIwMjY1Ny5HSTI3NDZAbWVyY3VyeS5jY2lsLm9yZz4gPDQ2NUM5M0ZBLjcwNzAxMDhAeWFob28uY28udWs+"
+  },
+  "prevInTopic": 960,
+  "nextInTopic": 962,
+  "prevInTime": 960,
+  "nextInTime": 962,
+  "topicId": 947,
+  "numMessagesInTopic": 45,
+  "msgSnippet": "... Ah.  Quite so. ... Actually it must; uses of variant selectors should be blessed by UTC. -- In politics, obedience and support      John Cowan",
+  "messageBody": "<div id=\"ygrps-yiv-212923291\">amd64_hacker scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; For example Quikscript Letter No followed by Variant Selector 1 would be<br/>\n&gt; the &#39;normal&#39; glyph with the join points at the top.<br/>\n&gt; Quikscript Letter No followed by Variant Selector 2 would select the<br/>\n&gt; &#39;alternate&#39; glyph with the joins at the bottom.<br/>\n<br/>\n </span></blockquote>Ah.  Quite so.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; This isn&#39;t something I&#39;d recommend for day to day use and it certainly<br/>\n&gt; shouldn&#39;t be part of the proposal.<br/>\n<br/>\n </span></blockquote>Actually it must; uses of variant selectors should be blessed by UTC.<br/>\n<br/>\n-- <br/>\nIn politics, obedience and support      John Cowan &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>&gt;<br/>\nare the same thing.  --Hannah Arendt    <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 50021 invoked from network); 29 May 2007 21:03:35 -0000\r\nReceived: from unknown (66.218.66.70)\n  by m49.grp.scd.yahoo.com with QMQP; 29 May 2007 21:03:35 -0000\r\nReceived: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta12.grp.scd.yahoo.com with SMTP; 29 May 2007 21:03:34 -0000\r\nReceived: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1Ht8qn-0006Kd-Mw\n\tfor Read_Alphabet@yahoogroups.com; Tue, 29 May 2007 17:03:29 -0400\r\nDate: Tue, 29 May 2007 17:03:29 -0400\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20070529210329.GJ2746@...&gt;\r\nReferences: &lt;f3f568+nsc0@...&gt; &lt;005001c7a1b3$7811d140$0300000a@ulb1i&gt; &lt;p06240803c2818c5ca767@[192.168.1.134]&gt; &lt;465C5F17.3030400@...&gt; &lt;20070529202657.GI2746@...&gt; &lt;465C93FA.7070108@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;465C93FA.7070108@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Unicode proposal again.\r\nX-Yahoo-Group-Post: member; u=212516; y=bu0XzNYbVTAcONDMPtGKCwWQuyhUR1LsZnvh1kB2U5nSJ-ddpg\r\nX-Yahoo-Profile: johnwcowan\r\n\r\namd64_hacker scripsit:\n\n&gt; For example Quikscript Letter No followed by Variant Selector 1 would be\n&gt; the &#39;normal&#39; glyph with the join points at the top.\n&gt; Quikscript Letter No followed by Variant Selector 2 would select the\n&gt; &#39;alternate&#39; glyph with the joins at the bottom.\n\nAh.  Quite so.\n\n&gt; This isn&#39;t something I&#39;d recommend for day to day use and it certainly\n&gt; shouldn&#39;t be part of the proposal.\n\nActually it must; uses of variant selectors should be blessed by UTC.\n\n-- \nIn politics, obedience and support      John Cowan &lt;cowan@...&gt;\nare the same thing.  --Hannah Arendt    http://www.ccil.org/~cowan\n\n"
+}

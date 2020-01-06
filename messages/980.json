@@ -1,0 +1,33 @@
+{
+  "userId": 180175951,
+  "authorName": "amd64_hacker",
+  "from": "amd64_hacker &lt;amd64_hacker@...&gt;",
+  "profile": "amd64_hacker",
+  "replyTo": "LIST",
+  "senderId": "N7WwP7gOuKsE4xzrgto53QLmwdX4tCHqY6BjFyu_LN0xCURViMGH2AAGhgrD1jgs_oQJwqyRJj9tF-JRBr2XeeWNE_jwGBSzpim6Pq6B",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Unicode proposal again.",
+  "postDate": "1180630093",
+  "msgId": 980,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ2NUVGQzRELjkwMjA1MDhAeWFob28uY28udWs+",
+    "inReplyToHeader": "PDAwOTgwMWM3YTM4NCQ4N2JkNzcyMCQwMzAwMDAwYUB1bGIxaT4=",
+    "referencesHeader": "PGYzZjU2OCtuc2MwQGVHcm91cHMuY29tPiA8MDA1MDAxYzdhMWIzJDc4MTFkMTQwJDAzMDAwMDBhQHVsYjFpPiA8cDA2MjQwODAzYzI4MThjNWNhNzY3QFsxOTIuMTY4LjEuMTM0XT4gPDQ2NUM2Rjg3LjcwNzA4QG1lbHJvY2guc2U+IDxwMDYyNDA4MDhjMjgyNDUzZjIwN2NAWzEwLjAuMS4yXT4gPDQ2NUQ2NjE2LjYwNTAwMDVAbWVscm9jaC5zZT4gPDQ2NURCOTg3LjEwMzAzMDZAeWFob28uY28udWs+IDwyMDA3MDUzMDIxMTAzOS5HRzk3MTJAbWVyY3VyeS5jY2lsLm9yZz4gPDQ2NURFQUU3LjgwNTA1MDZAeWFob28uY28udWs+IDwyMDA3MDUzMDIxMjc0MC5HQjExODYyQG1lcmN1cnkuY2NpbC5vcmc+IDwwMDk4MDFjN2EzODQkODdiZDc3MjAkMDMwMDAwMGFAdWxiMWk+"
+  },
+  "prevInTopic": 979,
+  "nextInTopic": 981,
+  "prevInTime": 979,
+  "nextInTime": 981,
+  "topicId": 947,
+  "numMessagesInTopic": 45,
+  "msgSnippet": "Yes, Quikscript is a B1 script so realistically it ll have to go in the SMP. Shavian already has code points assigned there (10450-1047F).",
+  "messageBody": "<div id=\"ygrps-yiv-15864006\">Yes, Quikscript is a B1 script so realistically it&#39;ll have to go in the SMP.<br/>\nShavian already has code points assigned there (10450-1047F).<br/>\n<br/>\nPh.D. wrote:<br/>\n<blockquote><span title=\"qreply\"> &gt;<br/>\n&gt; Just to be sure I&#39;m clear on this:<br/>\n&gt; We&#39;re talking about assigning QS and Shavian<br/>\n&gt; to code points in Plane 1, right?<br/>\n&gt;<br/>\n&gt; --Ph. D.<br/>\n&gt;<br/>\n&gt; </span></blockquote></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;amd64_hacker@...&gt;\r\nX-Sender: amd64_hacker@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 75210 invoked from network); 31 May 2007 16:45:36 -0000\r\nReceived: from unknown (66.218.66.166)\n  by m36.grp.scd.yahoo.com with QMQP; 31 May 2007 16:45:36 -0000\r\nReceived: from unknown (HELO smtp005.mail.ukl.yahoo.com) (217.12.11.36)\n  by mta5.grp.scd.yahoo.com with SMTP; 31 May 2007 16:45:36 -0000\r\nReceived: (qmail 89357 invoked from network); 31 May 2007 16:45:27 -0000\r\nReceived: from unknown (HELO ?192.168.0.1?) (amd64_hacker@82.19.52.162 with plain)\n  by smtp005.mail.ukl.yahoo.com with SMTP; 31 May 2007 16:45:26 -0000\r\nX-YMail-OSG: IGI7_WAVM1lXkhRAAT2oPecDltbOj.T1gDA8wXJA8hoHqIhzMHLBlW38Urc6Atq5HiRvkS2kWmQV0F8OMBe.ZZejlrwcDPb8wlCyel62Y01bKvvW8nUpBO1TKro-\r\nMessage-ID: &lt;465EFC4D.9020508@...&gt;\r\nDate: Thu, 31 May 2007 17:48:13 +0100\r\nUser-Agent: Thunderbird 1.5.0.10 (X11/20070306)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nReferences: &lt;f3f568+nsc0@...&gt; &lt;005001c7a1b3$7811d140$0300000a@ulb1i&gt; &lt;p06240803c2818c5ca767@[192.168.1.134]&gt; &lt;465C6F87.70708@...&gt; &lt;p06240808c282453f207c@[10.0.1.2]&gt; &lt;465D6616.6050005@...&gt; &lt;465DB987.1030306@...&gt; &lt;20070530211039.GG9712@...&gt; &lt;465DEAE7.8050506@...&gt; &lt;20070530212740.GB11862@...&gt; &lt;009801c7a384$87bd7720$0300000a@ulb1i&gt;\r\nIn-Reply-To: &lt;009801c7a384$87bd7720$0300000a@ulb1i&gt;\r\nX-Enigmail-Version: 0.94.0.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: amd64_hacker &lt;amd64_hacker@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Unicode proposal again.\r\nX-Yahoo-Group-Post: member; u=180175951; y=6d6ui2VZLBZQ650v4J6gytg6RuvAj1uiNecpNNABHC97ZtNahek0\r\nX-Yahoo-Profile: amd64_hacker\r\n\r\nYes, Quikscript is a B1 script so realistically it&#39;ll have to go in the SMP.\nShavian already has code points assigned there (10450-1047F).\n\nPh.D. wrote:\n&gt;\n&gt; Just to be sure I&#39;m clear on this:\n&gt; We&#39;re talking about assigning QS and Shavian\n&gt; to code points in Plane 1, right?\n&gt;\n&gt; --Ph. D.\n&gt;\n&gt;  \n\n\n"
+}

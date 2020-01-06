@@ -1,0 +1,32 @@
+{
+  "userId": 92671976,
+  "authorName": "Chuck Peck",
+  "from": "Chuck Peck &lt;chuck091956@...&gt;",
+  "profile": "chuck091956",
+  "replyTo": "LIST",
+  "senderId": "tgG01UaalO_YlosYDXIOkUk5IUdJcb7M56onFGyxv8aNejErkDeNAcNHpX1wR5hKWyEq49_tgt0JzeqZ1w8LgjEG2rmIMS5Bbw",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Update on intelligent Senior QS Font.",
+  "postDate": "1059055606",
+  "msgId": 355,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDMwNzI0MTQwNjQ2LjE3MjA1LnFtYWlsQHdlYjEyNTAzLm1haWwueWFob28uY29tPg==",
+    "inReplyToHeader": "PGJmbXVtbCtmNmlzQGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 354,
+  "nextInTopic": 356,
+  "prevInTime": 354,
+  "nextInTime": 356,
+  "topicId": 350,
+  "numMessagesInTopic": 11,
+  "msgSnippet": "You re right, most font editing tools either have not anough functions or cost a lot. Especialy since I would only be doing this as a hobby. And yes it would ",
+  "messageBody": "<div id=\"ygrps-yiv-439496809\">You&#39;re right, most font editing tools either have not<br/>\nanough functions or cost a lot. Especialy since I<br/>\nwould only be doing this as a hobby. And yes it would<br/>\nrequire both adjusting the kerning and playing with<br/>\neach chararter&#39;s shape. A lot of hand working.<br/>\n<br/>\nGood luck with your effort!<br/>\nChuck<br/>\n<br/>\n<br/>\n--- fctarbox3 &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:rtarbox@...\">rtarbox@...</a>&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Read_Alphabet@yahoogroups.com\">Read_Alphabet@yahoogroups.com</a>,<br/>\n&gt; <br/>\n&gt; Just because it looks like fun to me, I&#39;m probably<br/>\n&gt; going to code the <br/>\n&gt; Layout properties I think a QS font should have. <br/>\n&gt; The end result is <br/>\n&gt; a file that I can use to turn practically any<br/>\n&gt; existing TrueType QS <br/>\n&gt; font into an OpenType font that intelligently<br/>\n&gt; produces Senior QS.<br/>\n&gt; <br/>\n&gt; FYI.  No expected delivery date; might be vaporware.<br/>\n&gt; <br/>\n&gt; I&#39;d contribute on the kerning, but that would<br/>\n&gt; require actually <br/>\n&gt; drawing or modifying glyphs, which I&#39;m disinclined<br/>\n&gt; to do (I can&#39;t <br/>\n&gt; find a glyph-editing tool that I both like and can<br/>\n&gt; afford).<br/>\n&gt; <br/>\n&gt; (For example, I tried just adding kerning to<br/>\n&gt; Jerome.ttf, and I found <br/>\n&gt; that s and t -- the first one I tried -- just won&#39;t<br/>\n&gt; line up, the <br/>\n&gt; angles of the strokes are too different, and I don&#39;t<br/>\n&gt; have any tools <br/>\n&gt; to &quot;bulk them up.&quot;<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n<br/>\n<br/>\n </span></blockquote>__________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! SiteBuilder - Free, easy-to-use web site design software<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://sitebuilder.yahoo.com\">http://sitebuilder.yahoo.com</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;chuck091956@...&gt;\r\nX-Sender: chuck091956@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 77704 invoked from network); 24 Jul 2003 14:06:46 -0000\r\nReceived: from unknown (66.218.66.216)\n  by m13.grp.scd.yahoo.com with QMQP; 24 Jul 2003 14:06:46 -0000\r\nReceived: from unknown (HELO web12503.mail.yahoo.com) (216.136.173.195)\n  by mta1.grp.scd.yahoo.com with SMTP; 24 Jul 2003 14:06:46 -0000\r\nMessage-ID: &lt;20030724140646.17205.qmail@...&gt;\r\nReceived: from [192.128.134.68] by web12503.mail.yahoo.com via HTTP; Thu, 24 Jul 2003 07:06:46 PDT\r\nDate: Thu, 24 Jul 2003 07:06:46 -0700 (PDT)\r\nSubject: Re: [Read_Alphabet] Re: Update on intelligent Senior QS Font.\r\nTo: Read_Alphabet@yahoogroups.com\r\nIn-Reply-To: &lt;bfmuml+f6is@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nFrom: Chuck Peck &lt;chuck091956@...&gt;\r\nX-Yahoo-Group-Post: member; u=92671976\r\nX-Yahoo-Profile: chuck091956\r\n\r\nYou&#39;re right, most font editing tools either have not\nanough functions or cost a lot. Especialy since I\nwould only be doing this as a hobby. And yes it would\nrequire both adjusting the kerning and playing with\neach chararter&#39;s shape. A lot of hand working.\n\nGood luck with your effort!\nChuck\n\n\n--- fctarbox3 &lt;rtarbox@...&gt; wrote:\n&gt; --- In Read_Alphabet@yahoogroups.com,\n&gt; \n&gt; Just because it looks like fun to me, I&#39;m probably\n&gt; going to code the \n&gt; Layout properties I think a QS font should have. \n&gt; The end result is \n&gt; a file that I can use to turn practically any\n&gt; existing TrueType QS \n&gt; font into an OpenType font that intelligently\n&gt; produces Senior QS.\n&gt; \n&gt; FYI.  No expected delivery date; might be vaporware.\n&gt; \n&gt; I&#39;d contribute on the kerning, but that would\n&gt; require actually \n&gt; drawing or modifying glyphs, which I&#39;m disinclined\n&gt; to do (I can&#39;t \n&gt; find a glyph-editing tool that I both like and can\n&gt; afford).\n&gt; \n&gt; (For example, I tried just adding kerning to\n&gt; Jerome.ttf, and I found \n&gt; that s and t -- the first one I tried -- just won&#39;t\n&gt; line up, the \n&gt; angles of the strokes are too different, and I don&#39;t\n&gt; have any tools \n&gt; to &quot;bulk them up.&quot;\n&gt; \n&gt; \n&gt; \n\n\n__________________________________\nDo you Yahoo!?\nYahoo! SiteBuilder - Free, easy-to-use web site design software\nhttp://sitebuilder.yahoo.com\n\n"
+}

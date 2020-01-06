@@ -1,0 +1,33 @@
+{
+  "userId": 149542193,
+  "authorName": "Benct Philip Jonsson",
+  "from": "Benct Philip Jonsson &lt;bpj@...&gt;",
+  "profile": "melroch",
+  "replyTo": "LIST",
+  "senderId": "ua46s9v6E-drlbXhE6i-fikrrX8jhl0AKyMbUxmPaTGQJUxhgxd_3AJKudZcTwS-I2U9PQMzO2cfGYdhY8mwMVWZ6goGTVOjFs1kIQ",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] keyboard/lexical set proposal",
+  "postDate": "1197791349",
+  "msgId": 1866,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ3NjREODc1LjEwMTA0MDdAbWVscm9jaC5zZT4=",
+    "inReplyToHeader": "PDVkODcyOWYwMDcxMjE0MTQxMm4xNmJmM2NkYW85OGFiMzM3MDMxMWRjZmVlQG1haWwuZ21haWwuY29tPg==",
+    "referencesHeader": "PDQ3NjE3RDMwLjgwMjA5MDBAaWdsb3UuY29tPgkgPDIwMDcxMjE0MjEwNTQ2LkdNMTUwNzlAbWVyY3VyeS5jY2lsLm9yZz4gPDVkODcyOWYwMDcxMjE0MTQxMm4xNmJmM2NkYW85OGFiMzM3MDMxMWRjZmVlQG1haWwuZ21haWwuY29tPg=="
+  },
+  "prevInTopic": 1864,
+  "nextInTopic": 1867,
+  "prevInTime": 1865,
+  "nextInTime": 1867,
+  "topicId": 1855,
+  "numMessagesInTopic": 17,
+  "msgSnippet": "... It isn t. It s an Excel file. You ll have to open it in Excel and save it as CSV with File - Save As - File format - CSV (fairly far down in the list of",
+  "messageBody": "<div id=\"ygrps-yiv-365425964\">On 2007-12-14 Ted Larson Freeman wrote:<br/>\n<blockquote><span title=\"ireply\">  &gt; I&#39;ve been tracking the proposals in a spreadsheet. I&#39;ve<br/>\n &gt; just put a copy here:<br/>\n &gt;<br/>\n &gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://staff.washington.edu/freeman/qs/qs_keybd_propo-\">http://staff.washington.edu/freeman/qs/qs_keybd_propo-</a><br/>\n &gt; sals.xls<br/>\n &gt;<br/>\n &gt; This is just a tab-delimited text file--it should be fine<br/>\n &gt; in any spreadsheet program or text editor.<br/>\n<br/>\n </span></blockquote>It isn&#39;t. It&#39;s an Excel file. You&#39;ll have to open it in<br/>\nExcel and save it as CSV with File -&gt; Save As -&gt; File format<br/>\n-&gt; CSV (fairly far down in the list of available formats in<br/>\nmy version of Excel...)<br/>\n<br/>\n<blockquote><span title=\"ireply\">  &gt; The assignments must be to 7-bit ASCII characters, i.e.<br/>\n &gt; the first 128 characters is this table:<br/>\n &gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.asciitable.com/\">http://www.asciitable.com/</a> (the printable ones, of<br/>\n &gt; course).<br/>\n<br/>\n </span></blockquote>That will be the following characters:<br/>\n<br/>\n\t  ! &quot; # $ % & &#39; ( ) * + , - . /<br/>\n\t0 1 2 3 4 5 6 7 8 9 : ; &lt; = &gt; ?<br/>\n\t@ A B C D E F G H I J K L M N O<br/>\n\tP Q R S T U V W X Y Z [ &#92; ] ^ _<br/>\n\t` a b c d e f g h i j k l m n o<br/>\n\tp q r s t u v w x y z { | } ~<br/>\n<br/>\n/BP 8^)&gt;<br/>\n--<br/>\nBenct Philip Jonsson -- melroch atte melroch dotte se<br/>\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br/>\nNo man forgets his original trade: the rights of<br/>\nnations and of kings sink into questions of grammar,<br/>\nif grammarians discuss them.<br/>\n-Dr. Samuel Johnson (1707 - 1784)</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;bpj@...&gt;\r\nX-Sender: bpj@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 12204 invoked from network); 16 Dec 2007 07:49:09 -0000\r\nX-Received: from unknown (66.218.67.94)\n  by m55.grp.scd.yahoo.com with QMQP; 16 Dec 2007 07:49:09 -0000\r\nX-Received: from unknown (HELO mta2.glocalnet.net) (213.163.128.209)\n  by mta15.grp.scd.yahoo.com with SMTP; 16 Dec 2007 07:49:09 -0000\r\nX-Received: from [127.0.0.1] (84.217.231.66) by mta2.glocalnet.net (7.3.130) (authenticated as bpj@...)\n        id 4728649200673E71 for Read_Alphabet@yahoogroups.com; Sun, 16 Dec 2007 08:49:08 +0100\r\nMessage-ID: &lt;4764D875.1010407@...&gt;\r\nDate: Sun, 16 Dec 2007 08:49:09 +0100\r\nOrganization: http://melroch.se\r\nUser-Agent: Thunderbird 2.0.0.9 (Windows/20071031)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nReferences: &lt;47617D30.8020900@...&gt;\t &lt;20071214210546.GM15079@...&gt; &lt;5d8729f00712141412n16bf3cdao98ab3370311dcfee@...&gt;\r\nIn-Reply-To: &lt;5d8729f00712141412n16bf3cdao98ab3370311dcfee@...&gt;\r\nContent-Type: text/plain; charset=UTF-8; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\nX-Antivirus: avast! (VPS 071215-0, 2007-12-15), Outbound message\r\nX-Antivirus-Status: Clean\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Benct Philip Jonsson &lt;bpj@...&gt;\r\nSubject: Re: [Read_Alphabet] keyboard/lexical set proposal\r\nX-Yahoo-Group-Post: member; u=149542193; y=ytwim3tu3GuNjUbXhT4BQK_2kkiTCAc59cwaJo3xMxx3ww\r\nX-Yahoo-Profile: melroch\r\n\r\nOn 2007-12-14 Ted Larson Freeman wrote:\n &gt; I&#39;ve been tracking the proposals in a spreadsheet. I&#39;ve\n &gt; just put a copy here:\n &gt;\n &gt; http://staff.washington.edu/freeman/qs/qs_keybd_propo-\n &gt; sals.xls\n &gt;\n &gt; This is just a tab-delimited text file--it should be fine\n &gt; in any spreadsheet program or text editor.\n\nIt isn&#39;t. It&#39;s an Excel file. You&#39;ll have to open it in\nExcel and save it as CSV with File -&gt; Save As -&gt; File format\n-&gt; CSV (fairly far down in the list of available formats in\nmy version of Excel...)\n\n &gt; The assignments must be to 7-bit ASCII characters, i.e.\n &gt; the first 128 characters is this table:\n &gt; http://www.asciitable.com/ (the printable ones, of\n &gt; course).\n\nThat will be the following characters:\n\n\t  ! &quot; # $ % & &#39; ( ) * + , - . /\n\t0 1 2 3 4 5 6 7 8 9 : ; &lt; = &gt; ?\n\t@ A B C D E F G H I J K L M N O\n\tP Q R S T U V W X Y Z [ &#92; ] ^ _\n\t` a b c d e f g h i j k l m n o\n\tp q r s t u v w x y z { | } ~\n\n/BP 8^)&gt;\n--\nBenct Philip Jonsson -- melroch atte melroch dotte se\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nNo man forgets his original trade: the rights of\nnations and of kings sink into questions of grammar,\nif grammarians discuss them.\n-Dr. Samuel Johnson (1707 - 1784)\n\n"
+}

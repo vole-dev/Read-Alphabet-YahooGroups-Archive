@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "cdh9Il6RZQaLhttC138NdMA8um9arspBJMv_1RAoHK35xpdailWy3_huu_kvknQ29Rmv89F2PIV2-vQgaNsrFP-Y",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Utter/Ado",
+  "postDate": "1196182596",
+  "msgId": 1673,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMTI3MTY1NjM2LkdSMTQyNDBAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PGZpaGJhYStub3FoQGVHcm91cHMuY29tPg==",
+    "referencesHeader": "PDIwMDcxMTI2MTU1ODIwLkdHMTQyNDBAbWVyY3VyeS5jY2lsLm9yZz4gPGZpaGJhYStub3FoQGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 1672,
+  "nextInTopic": 1674,
+  "prevInTime": 1672,
+  "nextInTime": 1674,
+  "topicId": 1571,
+  "numMessagesInTopic": 85,
+  "msgSnippet": "... I know nothing about modifying Uniscribe. -- John Cowan   cowan@ccil.org    http://ccil.org/~cowan I come from under the hill, and under the hills and over",
+  "messageBody": "<div id=\"ygrps-yiv-319554918\">Anthony Grahn scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; That&#39;s very flattering but if you have an idea about putting some<br/>\n&gt; hooks into the Uniscribe DLL  don&#39;t let me dissuade you. Indeed I have<br/>\n&gt; some QS handling java code that you may find useful and could be<br/>\n&gt; ported to C for the purpose if you&#39;re interested.<br/>\n<br/>\n </span></blockquote>I know nothing about modifying Uniscribe.<br/>\n<br/>\n-- <br/>\nJohn Cowan   <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>    <a rel=\"nofollow\" target=\"_blank\" href=\"http://ccil.org/~cowan\">http://ccil.org/~cowan</a><br/>\nI come from under the hill, and under the hills and over the hills my paths<br/>\nled. And through the air. I am he that walks unseen.  I am the clue-finder,<br/>\nthe web-cutter, the stinging fly. I was chosen for the lucky number.  --Bilbo</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 67206 invoked from network); 27 Nov 2007 16:56:38 -0000\r\nX-Received: from unknown (66.218.67.94)\n  by m48.grp.scd.yahoo.com with QMQP; 27 Nov 2007 16:56:38 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta15.grp.scd.yahoo.com with SMTP; 27 Nov 2007 16:56:38 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1Ix3jg-000485-NS\n\tfor Read_Alphabet@yahoogroups.com; Tue, 27 Nov 2007 11:56:36 -0500\r\nDate: Tue, 27 Nov 2007 11:56:36 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20071127165636.GR14240@...&gt;\r\nReferences: &lt;20071126155820.GG14240@...&gt; &lt;fihbaa+noqh@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;fihbaa+noqh@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Utter/Ado\r\nX-Yahoo-Group-Post: member; u=212516; y=NNlVZA5tNz4kOHN3-Ivp39ESr8qqic5o6uHrKhzCJvYx2ErBAg\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nAnthony Grahn scripsit:\n\n&gt; That&#39;s very flattering but if you have an idea about putting some\n&gt; hooks into the Uniscribe DLL  don&#39;t let me dissuade you. Indeed I have\n&gt; some QS handling java code that you may find useful and could be\n&gt; ported to C for the purpose if you&#39;re interested.\n\nI know nothing about modifying Uniscribe.\n\n-- \nJohn Cowan   cowan@...    http://ccil.org/~cowan\nI come from under the hill, and under the hills and over the hills my paths\nled. And through the air. I am he that walks unseen.  I am the clue-finder,\nthe web-cutter, the stinging fly. I was chosen for the lucky number.  --Bilbo\n\n"
+}

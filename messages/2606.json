@@ -1,0 +1,33 @@
+{
+  "userId": 553263562,
+  "authorName": "Nathan",
+  "from": "Nathan &lt;mailinglists@...&gt;",
+  "profile": "dipartite",
+  "replyTo": "LIST",
+  "senderId": "pJEIzZENLm14r-siHo4cGrq5T9sEDz38cCHN5U1ST7UfY42wqifoaNtPEeVjsQUodnn2rpCIBDWIoLVqsCaNfyVmILNpuw",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Keyboard Layouts",
+  "postDate": "1400620741",
+  "msgId": 2606,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PEE0NTExQ0QzLUQ2RDktNDQ0My04REVDLURDMkEyNjA1MkJDMkBuZ2FsdC5jb20+",
+    "inReplyToHeader": "PDIwMTQwNTIwMTUwMTU2LkdaOTI4M0BtZXJjdXJ5LmNjaWwub3JnPg==",
+    "referencesHeader": "PGxsZW9jZisxaGJxam05QFlhaG9vR3JvdXBzLmNvbT4gPDIwMTQwNTIwMTUwMTU2LkdaOTI4M0BtZXJjdXJ5LmNjaWwub3JnPg=="
+  },
+  "prevInTopic": 2605,
+  "nextInTopic": 0,
+  "prevInTime": 2605,
+  "nextInTime": 2607,
+  "topicId": 2604,
+  "numMessagesInTopic": 3,
+  "msgSnippet": "... Fair nuff. I don t want to maintain umpteen*2 semi-QWERTY layouts \u00f9 two should be enough.",
+  "messageBody": "<div id=\"ygrps-yiv-49762051\">On May 20, 2014, at 8:01 AM, John Cowan <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a> [Read_Alphabet] &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Read_Alphabet@yahoogroups.com\">Read_Alphabet@yahoogroups.com</a>&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:mailinglists@...\">mailinglists@...</a> [Read_Alphabet] scripsit:<br/>\n&gt; <br/>\n&gt; &gt; Thing is, I don&#39;t want to maintain umpteen semi-QWERTY layouts \u2014<br/>\n&gt; &gt; one should be enough.<br/>\n&gt; <br/>\n&gt; I&#39;m a keyboard maintainer too, but there really is no alternative to<br/>\n&gt; supporting both US and UK keyboard layouts.<br/>\n<br/>\n </span></blockquote>Fair &#39;nuff. I don&#39;t want to maintain umpteen*2 semi-QWERTY layouts \u2014 two should be enough.</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;mailinglists@...&gt;\r\nX-Sender: mailinglists@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 52654 invoked by uid 102); 20 May 2014 21:19:02 -0000\r\nX-Received: from unknown (HELO mtaq6.grp.bf1.yahoo.com) (10.193.84.37)\n  by m14.grp.bf1.yahoo.com with SMTP; 20 May 2014 21:19:02 -0000\r\nX-Received: (qmail 27663 invoked from network); 20 May 2014 21:19:02 -0000\r\nX-Received: from unknown (HELO out3-smtp.messagingengine.com) (66.111.4.27)\n  by mtaq6.grp.bf1.yahoo.com with SMTP; 20 May 2014 21:19:02 -0000\r\nX-Received: from compute4.internal (compute4.nyi.mail.srv.osa [10.202.2.44])\n\tby gateway1.nyi.mail.srv.osa (Postfix) with ESMTP id 1C6CE20DA9\n\tfor &lt;Read_Alphabet@yahoogroups.com&gt;; Tue, 20 May 2014 17:19:02 -0400 (EDT)\r\nX-Received: from frontend1 ([10.202.2.160])\n  by compute4.internal (MEProxy); Tue, 20 May 2014 17:19:02 -0400\r\nX-Sasl-enc: qD/7i0goIwo/otu2Gvbl0iWHoNaVEChg48FU5OKUQ5Mz 1400620741\r\nX-Received: from spreadthinly.localdomain (unknown [173.58.156.174])\n\tby mail.messagingengine.com (Postfix) with ESMTPA id 8D496C0000C\n\tfor &lt;Read_Alphabet@yahoogroups.com&gt;; Tue, 20 May 2014 17:19:01 -0400 (EDT)\r\nContent-Type: text/plain; charset=windows-1252\r\nMime-Version: 1.0 (Mac OS X Mail 7.3 &#92;(1878.2&#92;))\r\nIn-Reply-To: &lt;20140520150156.GZ9283@...&gt;\r\nDate: Tue, 20 May 2014 14:19:01 -0700\r\nContent-Transfer-Encoding: quoted-printable\r\nMessage-Id: &lt;A4511CD3-D6D9-4443-8DEC-DC2A26052BC2@...&gt;\r\nReferences: &lt;lleocf+1hbqjm9@...&gt; &lt;20140520150156.GZ9283@...&gt;\r\nTo: Read_Alphabet@yahoogroups.com\r\nX-Mailer: Apple Mail (2.1878.2)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nSubject: Re: [Read_Alphabet] Keyboard Layouts\r\nX-Yahoo-Group-Post: member; u=553263562; y=SBuvS4KvMAaKBtFL82a7emIwC3-8OXv438xlO8x4ZqCqob5S\r\nX-Yahoo-Profile: dipartite\r\nFrom: Nathan &lt;mailinglists@...&gt;\r\n\r\n\nOn May 20, 2014, at 8:01 AM, John Cowan cowan@... [Read_Alphabet] &lt;Re=\r\nad_Alphabet@yahoogroups.com&gt; wrote:\n\n&gt; mailinglists@... [Read_Alphabe=\r\nt] scripsit:\n&gt; \n&gt; &gt; Thing is, I don&#39;t want to maintain umpteen semi-QWERTY =\r\nlayouts =97\n&gt; &gt; one should be enough.\n&gt; \n&gt; I&#39;m a keyboard maintainer too, b=\r\nut there really is no alternative to\n&gt; supporting both US and UK keyboard l=\r\nayouts.\n\nFair &#39;nuff. I don&#39;t want to maintain umpteen*2 semi-QWERTY layouts=\r\n =97 two should be enough.\n"
+}

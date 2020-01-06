@@ -1,0 +1,31 @@
+{
+  "userId": 363366273,
+  "authorName": "superjoel",
+  "from": "superjoel &lt;superouioui@...&gt;",
+  "profile": "superouioui19",
+  "replyTo": "LIST",
+  "senderId": "zVsJ4goNYGR_pN3xiFMibqvXX3GsuXBChCFIh7WRQ_o6RIC0gxiQh7VVSWDGp5d7rnWHxT-eaZChDZzSpTkjPAzVkYkvrrHd",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "test hello world",
+  "postDate": "1434207452",
+  "msgId": 2629,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": true,
+  "headers": {
+    "messageIdInHeader": "PENBUEdxcDduUlViPUppYjlKMnJOK2JrTFZ5aml6VV9RbkZyck89OE9RbmNEK29SZnFtd0BtYWlsLmdtYWlsLmNvbT4="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 0,
+  "prevInTime": 2628,
+  "nextInTime": 2630,
+  "topicId": 2629,
+  "numMessagesInTopic": 1,
+  "msgSnippet": "\ue661\ue672\ue667\ue67c \ue661\ue67a\ue668\ue667\ue653",
+  "messageBody": "<div id=\"ygrps-yiv-1321162715\">\ue661\ue672\ue667\ue67c \ue661\ue67a\ue668\ue667\ue653</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;superouioui@...&gt;\r\nReceived: (qmail 8233 invoked by uid 102); 14 Jun 2015 16:00:06 -0000\r\nReceived: from unknown (HELO mtaq2.grp.bf1.yahoo.com) (10.193.84.33)\n  by m12.grp.bf1.yahoo.com with SMTP; 14 Jun 2015 16:00:06 -0000\r\nReceived: (qmail 31026 invoked from network); 14 Jun 2015 16:00:06 -0000\r\nReceived: from unknown (HELO n11-vm7.bullet.mail.bf1.yahoo.com) (98.139.170.167)\n  by mtaq2.grp.bf1.yahoo.com with SMTP; 14 Jun 2015 16:00:06 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=echoe; t=1434297606; bh=gygFhI/ejvHPgBsqDf8MbJhsA/3gz/+H+92pdPpTtSw=; h=Date:Subject:From:Reply-To:To:From:Subject; b=5LOFPD+9S1UPKJut2I6bAM4+n5VNBxU6IVaonj1oHcZOBn/1mDCsE2aJw9EwLmrUztUDbhEx18U+LqSxcPS5BknwMqo4LqKyk5zZdmOL0hzvm7KPvnjnlPadjNowlSn9/gAdABkjfYly3LnExwmPAo3z715pZ9lsgY7sFAnrEdI=\r\nReceived: from [72.30.235.67] by n11.bullet.mail.bf1.yahoo.com with NNFMP; 14 Jun 2015 16:00:06 -0000\r\nReceived: from [10.193.242.235] by t4.bullet.mail.bf1.yahoo.com with NNFMP; 14 Jun 2015 16:00:06 -0000\r\nReceived: from [127.0.0.1] by gapi8.grp.bf1.yahoo.com with NNFMP; 14 Jun 2015 15:52:46 -0000\r\nX-Sender: superouioui@...\r\nX-Apparently-To: read_alphabet@yahoogroups.com\r\nX-Received: (qmail 50577 invoked by uid 102); 13 Jun 2015 14:57:34 -0000\r\nX-Received: from unknown (HELO mtaq3.grp.bf1.yahoo.com) (10.193.84.142)\n  by m17.grp.bf1.yahoo.com with SMTP; 13 Jun 2015 14:57:34 -0000\r\nX-Received: (qmail 614 invoked from network); 13 Jun 2015 14:57:33 -0000\r\nX-Received: from unknown (HELO mail-lb0-f169.google.com) (98.139.245.164)\n  by mtaq3.grp.bf1.yahoo.com with SMTP; 13 Jun 2015 14:57:33 -0000\r\nX-Received: by lbbtu8 with SMTP id tu8so32603853lbb.2\n        for &lt;read_alphabet@yahoogroups.com&gt;; Sat, 13 Jun 2015 07:57:32 -0700 (PDT)\r\nMIME-Version: 1.0\r\nX-Received: by 10.112.140.9 with SMTP id rc9mr19891290lbb.14.1434207452831;\n Sat, 13 Jun 2015 07:57:32 -0700 (PDT)\r\nX-Received: by 10.152.124.165 with HTTP; Sat, 13 Jun 2015 07:57:32 -0700 (PDT)\r\nDate: Sat, 13 Jun 2015 16:57:32 +0200\r\nMessage-ID: &lt;CAPGqp7nRUb=Jib9J2rN+bkLVyjizU_QnFrrO=8OQncD+oRfqmw@...&gt;\r\nContent-Transfer-Encoding: base64\r\nSubject: test hello world\r\nX-Yahoo-Group-Post: member; u=363366273; y=f1tOpRJmQcxeZQ8TXCkM0Kct2g8IU_RWPKP1H3-y0ZyA7obw0So\r\nX-Yahoo-Profile: superouioui19\r\nX-Original-From: superjoel &lt;superouioui@...&gt;\r\nReply-To: superjoel &lt;superouioui@...&gt;\r\nX-Original-Return-Path: superjoel &lt;superouioui@...&gt;\r\nTo: Read_Alphabet@yahoogroups.com\r\nX-Yahoo-Newman-Property: groups-system\r\nX-Yahoo-Newman-Id: groups-system\r\nX-eGroups-Approved-By: tinyallen via web; 14 Jun 2015 08:52:46 -0000\r\nContent-Type: text/plain; charset=&quot;UTF-8&quot;\r\nFrom: superjoel &lt;superouioui@...&gt;\r\n\r\n7pmh7pmy7pmn7pm8IO6Zoe6Zuu6ZqO6Zp+6Zkw0K\r\n\r\n"
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 458641688,
+  "authorName": "Nathan Sharfi",
+  "from": "Nathan Sharfi &lt;bonusfrogs@...&gt;",
+  "profile": "dipartite",
+  "replyTo": "LIST",
+  "senderId": "4F3I-xGiqZrt9YLlxjlFq1Rs9_D4YG62sNyatQLC3c0ancPooRr_t6K3PQtHkhWPGKloJVQUcbwVnX26oic6eKaZv73y14O53eZC",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "ANNOUNCE: Configuratronic Quikscript Cheat Sheet",
+  "postDate": "1290051187",
+  "msgId": 2172,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": true,
+  "headers": {
+    "messageIdInHeader": "PDNEQUYwQTM3LUI4MDctNEY2Ny1BRTM2LTNDMDRDMkRENzY3M0BnbWFpbC5jb20+"
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 2178,
+  "prevInTime": 2171,
+  "nextInTime": 2173,
+  "topicId": 2172,
+  "numMessagesInTopic": 3,
+  "msgSnippet": "... The IPA (and X-SAMPA) values might be contentious; I m simply going off message number [2017][] and the IPA-for-English Wikipedia page as best I can; I m",
+  "messageBody": "<div id=\"ygrps-yiv-424946701\">From the readme:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Can&#39;t remember what sort of sound .Ox makes? Forgetting whether it&#39;s .Foot or .Ooze that looks like a U? The Configuratronic Quikscript Cheat Sheet can help.<br/>\n&gt; <br/>\n&gt; Works in:<br/>\n&gt; <br/>\n&gt; * Safari<br/>\n&gt; * MobileSafari<br/>\n&gt; * Chrome<br/>\n&gt; * Firefox<br/>\n&gt; <br/>\n&gt; Planned features, *if* anyone asks:<br/>\n&gt; <br/>\n&gt; * fonts other than Jerome<br/>\n&gt; * IE 9 support<br/>\n&gt; * newfangled (not Read&#39;s) names<br/>\n<br/>\n </span></blockquote>The IPA (and X-SAMPA) values might be contentious; I&#39;m simply going off message number [2017][] and the IPA-for-English Wikipedia page as best I can; I&#39;m California-born and -raised. Similarly, I&#39;m not sure if I should be using brackets, slashes, or nothing at all there.<br/>\n<br/>\n[2017]: <a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/Read_Alphabet/message/2017\">http://groups.yahoo.com/group/Read_Alphabet/message/2017</a><br/>\n<br/>\nHope this is useful to someone other than me.<br/>\n<br/>\nCheers,<br/>\n<br/>\nNathan</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;bonusfrogs@...&gt;\r\nReceived: (qmail 25435 invoked from network); 18 Nov 2010 04:47:48 -0000\r\nReceived: from unknown (66.196.94.105)\n  by m17.grp.re1.yahoo.com with QMQP; 18 Nov 2010 04:47:48 -0000\r\nReceived: from unknown (HELO n46b.bullet.mail.sp1.yahoo.com) (66.163.168.160)\n  by mta1.grp.re1.yahoo.com with SMTP; 18 Nov 2010 04:47:48 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1290055667; bh=aYu6PxpB7De73r3NHKDE987umyaJ1N4+uCVPb+KezK4=; h=Received:Received:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:Content-Type:Content-Transfer-Encoding:Date:Message-Id:To:Mime-Version:X-Mailer:X-Originating-IP:From:Subject:X-Yahoo-Group-Post:X-Yahoo-Profile:X-YGroups-SubInfo:Sender:X-Yahoo-Newman-Property:X-eGroups-Approved-By:X-eGroups-Auth; b=WG5iutrAhwP+Pd/IWgapD2MfEXQxzJWmMFvpoMAekH7bvKqJ5gZ4eGus4xvT2pwiXcN62Dckor91hV4YGIWyYfk8X1QRhpYbDufMkp5iBGAbeEoGdVfoaF07XYCba9cB\r\nReceived: from [69.147.65.148] by n46.bullet.mail.sp1.yahoo.com with NNFMP; 18 Nov 2010 04:47:47 -0000\r\nReceived: from [98.137.34.73] by t11.bullet.mail.sp1.yahoo.com with NNFMP; 18 Nov 2010 04:47:47 -0000\r\nX-Sender: bonusfrogs@...\r\nX-Apparently-To: Read_Alphabet@egroups.com\r\nX-Received: (qmail 15662 invoked from network); 18 Nov 2010 03:33:12 -0000\r\nX-Received: from unknown (66.196.94.105)\n  by m14.grp.re1.yahoo.com with QMQP; 18 Nov 2010 03:33:12 -0000\r\nX-Received: from unknown (HELO mail-gw0-f45.google.com) (74.125.83.45)\n  by mta1.grp.re1.yahoo.com with SMTP; 18 Nov 2010 03:33:12 -0000\r\nX-Received: by gwb19 with SMTP id 19so1319101gwb.4\n        for &lt;Read_Alphabet@egroups.com&gt;; Wed, 17 Nov 2010 19:33:11 -0800 (PST)\r\nX-Received: by 10.151.15.12 with SMTP id s12mr207203ybi.407.1290051191477;\n        Wed, 17 Nov 2010 19:33:11 -0800 (PST)\r\nX-Received: from [192.168.0.100] (dsl-206-55-130-248.tstonramp.com [206.55.130.248])\n        by mx.google.com with ESMTPS id q41sm5157388ybk.1.2010.11.17.19.33.09\n        (version=TLSv1/SSLv3 cipher=RC4-MD5);\n        Wed, 17 Nov 2010 19:33:10 -0800 (PST)\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Transfer-Encoding: quoted-printable\r\nDate: Wed, 17 Nov 2010 19:33:07 -0800\r\nMessage-Id: &lt;3DAF0A37-B807-4F67-AE36-3C04C2DD7673@...&gt;\r\nTo: Read_Alphabet@yahoogroups.com\r\nMime-Version: 1.0 (Apple Message framework v1082)\r\nX-Mailer: Apple Mail (2.1082)\r\nFrom: Nathan Sharfi &lt;bonusfrogs@...&gt;\r\nSubject: ANNOUNCE: Configuratronic Quikscript Cheat Sheet\r\nX-Yahoo-Group-Post: member; u=458641688; y=WJH7f0dd1znMYgs_Wd_8FwT5qnQGO56ObevsUk8KeUlHZaXb\r\nX-Yahoo-Profile: dipartite\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Approved-By: tinyallen &lt;Tinyallen@...&gt; via web; 18 Nov 2010 04:47:46 -0000\r\n\r\nFrom the readme:\n\n&gt; Can&#39;t remember what sort of sound .Ox makes? Forgetting=\r\n whether it&#39;s .Foot or .Ooze that looks like a U? The Configuratronic Quiks=\r\ncript Cheat Sheet can help.\n&gt; \n&gt; Works in:\n&gt; \n&gt; * Safari\n&gt; * MobileSafari\n&gt;=\r\n * Chrome\n&gt; * Firefox\n&gt; \n&gt; Planned features, *if* anyone asks:\n&gt; \n&gt; * fonts=\r\n other than Jerome\n&gt; * IE 9 support\n&gt; * newfangled (not Read&#39;s) names\n\nThe =\r\nIPA (and X-SAMPA) values might be contentious; I&#39;m simply going off message=\r\n number [2017][] and the IPA-for-English Wikipedia page as best I can; I&#39;m =\r\nCalifornia-born and -raised. Similarly, I&#39;m not sure if I should be using b=\r\nrackets, slashes, or nothing at all there.\n\n[2017]: http://groups.yahoo.com=\r\n/group/Read_Alphabet/message/2017\n\nHope this is useful to someone other tha=\r\nn me.\n\nCheers,\n\nNathan\n\n"
+}

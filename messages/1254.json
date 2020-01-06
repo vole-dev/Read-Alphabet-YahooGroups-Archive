@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "BH840cUfPfv52fzVgrjESUo7pom--7-WoBVIWudTHe02x-Dpn_SNt205Omo7lFOtYGMz1a3p9vdPObHsg1X4-VmT",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Review charts for Shavian Quikscript Extensions",
+  "postDate": "1193979195",
+  "msgId": 1254,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMTAyMDQ1MzE1LkdBMjEzODlAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PDREODY2QTk5LTgzMDEtNDg0MS04OUQxLTBENEEwODgxRjQ4MkBsYW5nYW4ubmV0Pg==",
+    "referencesHeader": "PGZnODdjaSt1b3BAZUdyb3Vwcy5jb20+IDw0NzI5MDE4Ni4zMDMwMjA2QHlhaG9vLmNvLnVrPiA8N0Y2NTNBNzctNUQwRi00Q0JBLTlGOTItQjQwODI5NTYyNUVEQGxhbmdhbi5uZXQ+IDxwMDYyNDA4MDJjMzRmOGRiOWY0YTlAWzE5Mi4xNjguMS4xMjZdPiA8MkEzREI3QUEtRDQ0RS00MjdGLThDNzktMEJEQjBBRjFGMTI4QGxhbmdhbi5uZXQ+IDxwMDYyNDA4MDljMzRmZDI0NDA1MjJAWzE5Mi4xNjguMS4xMjZdPiA8NEQ4NjZBOTktODMwMS00ODQxLTg5RDEtMEQ0QTA4ODFGNDgyQGxhbmdhbi5uZXQ+"
+  },
+  "prevInTopic": 1240,
+  "nextInTopic": 1256,
+  "prevInTime": 1253,
+  "nextInTime": 1255,
+  "topicId": 1164,
+  "numMessagesInTopic": 21,
+  "msgSnippet": "... Not in Unicode, where TO uses one set of codes and Shavian/QS use another. -- John Cowan  cowan@ccil.org   http://ccil.org/~cowan The exception proves the",
+  "messageBody": "<div id=\"ygrps-yiv-1154089569\">oliver langan scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Point taken.  I guess my confusion arose when I was thinking that  <br/>\n&gt; Shavian and QuickScript are essentially both English... but in fact  <br/>\n&gt; even mixing TO and QS on a page would be likely to confuse a text-to- <br/>\n&gt; speech system, to the point of requiring extra markup.<br/>\n<br/>\n </span></blockquote>Not in Unicode, where TO uses one set of codes and Shavian/QS use another.<br/>\n<br/>\n-- <br/>\nJohn Cowan  <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>   <a rel=\"nofollow\" target=\"_blank\" href=\"http://ccil.org/~cowan\">http://ccil.org/~cowan</a><br/>\n&quot;The exception proves the rule.&quot;  Dimbulbs think: &quot;Your counterexample proves<br/>\nmy theory.&quot;  Latin students think &quot;&#39;Probat&#39; means &#39;tests&#39;: the exception puts<br/>\nthe rule to the proof.&quot;  But legal historians know it means &quot;Evidence for an<br/>\nexception is evidence of the existence of a rule in cases not excepted from.&quot;</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 32729 invoked from network); 2 Nov 2007 04:53:16 -0000\r\nX-Received: from unknown (66.218.67.97)\n  by m55.grp.scd.yahoo.com with QMQP; 2 Nov 2007 04:53:16 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta18.grp.scd.yahoo.com with SMTP; 2 Nov 2007 04:53:16 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1InoWx-0002AA-KY\n\tfor Read_Alphabet@yahoogroups.com; Fri, 02 Nov 2007 00:53:15 -0400\r\nDate: Fri, 2 Nov 2007 00:53:15 -0400\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20071102045315.GA21389@...&gt;\r\nReferences: &lt;fg87ci+uop@...&gt; &lt;47290186.3030206@...&gt; &lt;7F653A77-5D0F-4CBA-9F92-B408295625ED@...&gt; &lt;p06240802c34f8db9f4a9@[192.168.1.126]&gt; &lt;2A3DB7AA-D44E-427F-8C79-0BDB0AF1F128@...&gt; &lt;p06240809c34fd2440522@[192.168.1.126]&gt; &lt;4D866A99-8301-4841-89D1-0D4A0881F482@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;4D866A99-8301-4841-89D1-0D4A0881F482@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Review charts for Shavian Quikscript Extensions\r\nX-Yahoo-Group-Post: member; u=212516; y=hT_9-BK5rbdViKRhw1eOXCcB-YTMIVQXqaPcRHtMVqlw47PUDg\r\nX-Yahoo-Profile: johnwcowan\r\n\r\noliver langan scripsit:\n\n&gt; Point taken.  I guess my confusion arose when I was thinking that  \n&gt; Shavian and QuickScript are essentially both English... but in fact  \n&gt; even mixing TO and QS on a page would be likely to confuse a text-to- \n&gt; speech system, to the point of requiring extra markup.\n\nNot in Unicode, where TO uses one set of codes and Shavian/QS use another.\n\n-- \nJohn Cowan  cowan@...   http://ccil.org/~cowan\n&quot;The exception proves the rule.&quot;  Dimbulbs think: &quot;Your counterexample proves\nmy theory.&quot;  Latin students think &quot;&#39;Probat&#39; means &#39;tests&#39;: the exception puts\nthe rule to the proof.&quot;  But legal historians know it means &quot;Evidence for an\nexception is evidence of the existence of a rule in cases not excepted from.&quot;\n\n"
+}

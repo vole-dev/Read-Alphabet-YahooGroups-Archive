@@ -1,0 +1,30 @@
+{
+  "userId": 0,
+  "authorName": "",
+  "from": "Read_Alphabet@yahoogroups.com",
+  "replyTo": "LIST",
+  "senderId": "2ycMLtUnVallK4HLB4hSuMSSM-l4bHoVjLhvX0n5QRxHcNUu4sLBtL1yfiMWP7jGDLsqOzfXWcr6YNobNqvvRZs_lUE",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "New file uploaded to Read_Alphabet",
+  "postDate": "1394413471",
+  "msgId": 2593,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGxmajMydisxMHA5OWNAWWFob29Hcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 2592,
+  "nextInTopic": 2596,
+  "prevInTime": 2592,
+  "nextInTime": 2594,
+  "topicId": 504,
+  "numMessagesInTopic": 32,
+  "msgSnippet": "Hello, This email message is a notification to let you know that a file has been uploaded to the Files area of the Read_Alphabet group. File        :",
+  "messageBody": "<div id=\"ygrps-yiv-539765479\">Hello,<br/>\n<br/>\nThis email message is a notification to let you know that<br/>\na file has been uploaded to the Files area of the Read_Alphabet<br/>\ngroup.<br/>\n<br/>\n  File        : /Fonts/Suave.sfd<br/>\n  Uploaded by : guanolto &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:scott@...\">scott@...</a>&gt;<br/>\n  Description : the Fontforge file for the Suave font -- so you can fiddle around with it yourself, if you want<br/>\n<br/>\nYou can access this file at the URL:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"https://groups.yahoo.com/group/Read_Alphabet/files/Fonts/Suave.sfd\">https://groups.yahoo.com/group/Read_Alphabet/files/Fonts/Suave.sfd</a><br/>\n<br/>\nTo learn more about file sharing for your group, please visit:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"https://help.yahoo.com/kb/index?page=content&y=PROD_GRPS&locale=en_US&id=SLN15398\">https://help.yahoo.com/kb/index?page=content&y=PROD_GRPS&locale=en_US&id=SLN15398</a><br/>\n<br/>\nRegards,<br/>\n<br/>\nguanolto &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:scott@...\">scott@...</a>&gt;</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;notify@yahoogroups.com&gt;\r\nReceived: (qmail 81429 invoked by uid 102); 10 Mar 2014 01:04:31 -0000\r\nReceived: from unknown (HELO mtaq5.grp.bf1.yahoo.com) (10.193.84.36)\n  by m12.grp.bf1.yahoo.com with SMTP; 10 Mar 2014 01:04:31 -0000\r\nReceived: (qmail 16203 invoked from network); 10 Mar 2014 01:04:31 -0000\r\nReceived: from unknown (HELO n5.bullet.mail.bf1.yahoo.com) (72.30.234.156)\n  by mtaq5.grp.bf1.yahoo.com with SMTP; 10 Mar 2014 01:04:31 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=echoe; t=1394413471; bh=zooekLkmyFj9qQQoPSOS63IZgnB1AVRFNgsV++tm1F8=; h=Received:Received:Date:Received:To:From:Subject:Message-ID:X-Yahoo-Newman-Property:X-eGroups-Auth:Content-Type; b=0gRLdaG/Crprz1MKmVRrHWQ9gXCtR85SU6tbyHwTbIXwISt54DLXPy2TxWasMz2ie4mwGJs9Cp32GyTujHJTjMfCmiW9eo1lH8nDYyoEiXEwCMqQBMIZs6i8T5b2md2Ct2J0Qv7NfPj2WlwUs35fb/+TlQ8gJxqDBCmsPJlMvDs=\r\nReceived: from [72.30.235.65] by n5.bullet.mail.bf1.yahoo.com with NNFMP; 10 Mar 2014 01:04:31 -0000\r\nReceived: from [10.193.74.53] by t2.bullet.mail.bf1.yahoo.com with NNFMP; 10 Mar 2014 01:04:31 -0000\r\nDate: 09 Mar 2014 18:04:31 -0700\r\nReceived: from [127.0.0.1] by gapi10.grp.bf1.yahoo.com with NNFMP; 10 Mar 2014 01:04:31 -0000\r\nTo: Read_Alphabet@yahoogroups.com\r\nFrom: Read_Alphabet@yahoogroups.com\r\nSubject: New file uploaded to Read_Alphabet\r\nMessage-ID:&lt;lfj32v+10p99c@...&gt;\r\nX-Yahoo-Newman-Property: groups-notify\r\nContent-Type: text/plain; charset=utf-8;\r\n\r\nHello,\n\nThis email message is a notification to let you know that\na file has been uploaded to the Files area of the Read_Alphabet\ngroup.\n\n  File        : /Fonts/Suave.sfd\n  Uploaded by : guanolto &lt;scott@...&gt;\n  Description : the Fontforge file for the Suave font -- so you can fiddle around with it yourself, if you want\n\nYou can access this file at the URL:\nhttps://groups.yahoo.com/group/Read_Alphabet/files/Fonts/Suave.sfd\n\nTo learn more about file sharing for your group, please visit:\nhttps://help.yahoo.com/kb/index?page=content&y=PROD_GRPS&locale=en_US&id=SLN15398\n\nRegards,\n\nguanolto &lt;scott@...&gt;\n\n"
+}

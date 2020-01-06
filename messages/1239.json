@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "eFvzOIY_98vuDnrK4eYh32-B2ObeLQIq0nW1O-z2NTBHbCY2pQf3jTjOGc9r-UNiVP4DQNaVjpavQNvrshtcaec6",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Review charts for Shavian Quikscript Extensions",
+  "postDate": "1193950162",
+  "msgId": 1239,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMTAxMjA0OTIyLkdJMTYyMDRAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PHAwNjI0MDgwOWMzNGZkMjQ0MDUyMkBbMTkyLjE2OC4xLjEyNl0+",
+    "referencesHeader": "PGZnODdjaSt1b3BAZUdyb3Vwcy5jb20+IDw0NzI5MDE4Ni4zMDMwMjA2QHlhaG9vLmNvLnVrPiA8N0Y2NTNBNzctNUQwRi00Q0JBLTlGOTItQjQwODI5NTYyNUVEQGxhbmdhbi5uZXQ+IDxwMDYyNDA4MDJjMzRmOGRiOWY0YTlAWzE5Mi4xNjguMS4xMjZdPiA8MkEzREI3QUEtRDQ0RS00MjdGLThDNzktMEJEQjBBRjFGMTI4QGxhbmdhbi5uZXQ+IDxwMDYyNDA4MDljMzRmZDI0NDA1MjJAWzE5Mi4xNjguMS4xMjZdPg=="
+  },
+  "prevInTopic": 1229,
+  "nextInTopic": 1240,
+  "prevInTime": 1238,
+  "nextInTime": 1240,
+  "topicId": 1164,
+  "numMessagesInTopic": 21,
+  "msgSnippet": "... I think that s a requirement, yes.  We don t want a reader to read theft as feft and vice versa (though some people can t tell the difference). I prefer",
+  "messageBody": "<div id=\"ygrps-yiv-2093877047\">Michael Everson scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; &gt;Would it be possible in that case to have both scripts on the same page?<br/>\n&gt; <br/>\n&gt; ... then it does seem that Shaw might be supplemented by a Shqw which <br/>\n&gt; the text reader would have to be able to parse. Ranges tagged en_Shaw <br/>\n&gt; and ranges tagged en_Shqw would invoke different speech modules.<br/>\n<br/>\n </span></blockquote>I think that&#39;s a requirement, yes.  We don&#39;t want a reader to read<br/>\ntheft as feft and vice versa (though some people can&#39;t tell the<br/>\ndifference).<br/>\n<br/>\nI prefer Shaq to Shqw on established principles of tagging script variation.<br/>\n<br/>\n-- <br/>\nJohn Cowan              <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a>      <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a><br/>\n&quot;After all, would you consider a man without honor wealthy, even if his<br/>\nDinar laid end to end would reach from here to the Temple of Toplat?&quot;<br/>\n&quot;No, I wouldn&#39;t&quot;, the beggar replied.  &quot;Why is that?&quot; the Master asked.<br/>\n&quot;A Dinar doesn&#39;t go very far these days, Master.        --Kehlog Albran<br/>\nBesides, the Temple of Toplat is across the street.&quot;      The Profit</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 63501 invoked from network); 1 Nov 2007 20:49:25 -0000\r\nX-Received: from unknown (66.218.67.94)\n  by m57.grp.scd.yahoo.com with QMQP; 1 Nov 2007 20:49:25 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta15.grp.scd.yahoo.com with SMTP; 1 Nov 2007 20:49:25 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1Ingyh-0004he-0H; Thu, 01 Nov 2007 16:49:23 -0400\r\nDate: Thu, 1 Nov 2007 16:49:22 -0400\r\nTo: Read_Alphabet@yahoogroups.com\r\nCc: oliver langan &lt;oliver@...&gt;\r\nMessage-ID: &lt;20071101204922.GI16204@...&gt;\r\nReferences: &lt;fg87ci+uop@...&gt; &lt;47290186.3030206@...&gt; &lt;7F653A77-5D0F-4CBA-9F92-B408295625ED@...&gt; &lt;p06240802c34f8db9f4a9@[192.168.1.126]&gt; &lt;2A3DB7AA-D44E-427F-8C79-0BDB0AF1F128@...&gt; &lt;p06240809c34fd2440522@[192.168.1.126]&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;p06240809c34fd2440522@[192.168.1.126]&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Review charts for Shavian Quikscript Extensions\r\nX-Yahoo-Group-Post: member; u=212516; y=qmz2tVOsk_jZg_HRAoYLdDQD6coyqxEUnDPLVIXZTXLbLSghaQ\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nMichael Everson scripsit:\n\n&gt; &gt;Would it be possible in that case to have both scripts on the same page?\n&gt; \n&gt; ... then it does seem that Shaw might be supplemented by a Shqw which \n&gt; the text reader would have to be able to parse. Ranges tagged en_Shaw \n&gt; and ranges tagged en_Shqw would invoke different speech modules.\n\nI think that&#39;s a requirement, yes.  We don&#39;t want a reader to read\ntheft as feft and vice versa (though some people can&#39;t tell the\ndifference).\n\nI prefer Shaq to Shqw on established principles of tagging script variation.\n\n-- \nJohn Cowan              http://www.ccil.org/~cowan      cowan@...\n&quot;After all, would you consider a man without honor wealthy, even if his\nDinar laid end to end would reach from here to the Temple of Toplat?&quot;\n&quot;No, I wouldn&#39;t&quot;, the beggar replied.  &quot;Why is that?&quot; the Master asked.\n&quot;A Dinar doesn&#39;t go very far these days, Master.        --Kehlog Albran\nBesides, the Temple of Toplat is across the street.&quot;      The Profit\n\n"
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 240408765,
+  "authorName": "Paige Gabhart",
+  "from": "Paige Gabhart &lt;pgabhart@...&gt;",
+  "profile": "pgabhart",
+  "replyTo": "LIST",
+  "senderId": "5d8s4LcJARc2gnHBEvGhvgYHpel10PQD4IgFe171bMZ900mJgu3Wgab6myZP-ySbIJ2BQ67kwuexaIJk_9-l722sCVdahAu76cwq_5Q",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Milligan poems",
+  "postDate": "1187462783",
+  "msgId": 1014,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ2QzczRTdGLjQwNTA2MDJAc2JjZ2xvYmFsLm5ldD4="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 1018,
+  "prevInTime": 1013,
+  "nextInTime": 1015,
+  "topicId": 1014,
+  "numMessagesInTopic": 28,
+  "msgSnippet": "amd64_hacker You requested corrections to the poems you uploaded recently.  I have attached a pdf file with your original version in the left column and my ",
+  "messageBody": "<div id=\"ygrps-yiv-1638633957\">amd64_hacker<br/>\n<br/>\nYou requested corrections to the poems you uploaded recently.  I have <br/>\nattached a pdf file with your original version in the left column and my <br/>\nsuggested changes in the right column in red.  I put this in pdf format <br/>\nsince it maintains the QS letters without any problem (at least it <br/>\nappears to.)<br/>\n<br/>\nThere are also some brief notes in blue at the bottom.<br/>\n<br/>\nHope you find this helpful, and it may be helpful to others who are <br/>\nfairly new to QS.<br/>\n<br/>\nPaige Gabhart</div>",
+  "specialLinks": [],
+  "attachmentsInfo": [],
+  "rawEmail": "Return-Path: &lt;pgabhart@...&gt;\r\nX-Sender: pgabhart@...\r\nX-Apparently-To: Read_alphabet@yahoogroups.com\r\nReceived: (qmail 99931 invoked from network); 18 Aug 2007 19:17:26 -0000\r\nReceived: from unknown (66.218.67.35)\n  by m50.grp.scd.yahoo.com with QMQP; 18 Aug 2007 19:17:26 -0000\r\nReceived: from unknown (HELO smtp113.sbc.mail.mud.yahoo.com) (68.142.198.212)\n  by mta9.grp.scd.yahoo.com with SMTP; 18 Aug 2007 19:17:25 -0000\r\nReceived: (qmail 77770 invoked from network); 18 Aug 2007 18:47:29 -0000\r\nReceived: from unknown (HELO ?12.74.53.81?) (pgabhart@...@12.74.53.81 with plain)\n  by smtp113.sbc.mail.mud.yahoo.com with SMTP; 18 Aug 2007 18:46:47 -0000\r\nX-YMail-OSG: tWQ3xFAVM1l6OGiAP9AjIHN_f9YNrAOj.BeoKZLw.rBP7H0mvEeBJbAgC8zf3QGLawLMDZHYbw--\r\nMessage-ID: &lt;46C73E7F.4050602@...&gt;\r\nDate: Sat, 18 Aug 2007 14:46:23 -0400\r\nUser-Agent: Mozilla Thunderbird 1.0.6 (Windows/20050716)\r\nX-Accept-Language: en-us, en\r\nMIME-Version: 1.0\r\nTo: Read_alphabet@yahoogroups.com\r\nContent-Type: multipart/mixed;\n boundary=&quot;------------020706040205040809080602&quot;\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: Paige Gabhart &lt;pgabhart@...&gt;\r\nSubject: Milligan poems\r\nX-Yahoo-Group-Post: member; u=240408765; y=Ry7uyiJQoBaU_uiMnO3FiRwikeLxcRiuBW-uGbdfMaCsPcA\r\nX-Yahoo-Profile: pgabhart\r\n\r\n\r\n--------------020706040205040809080602\r\nContent-Type: text/plain; charset=ISO-8859-1; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\n\r\namd64_hacker\n\nYou requested corrections to the poems you uploaded recently.  I have \nattached a pdf file with your original version in the left column and my \nsuggested changes in the right column in red.  I put this in pdf format \nsince it maintains the QS letters without any problem (at least it \nappears to.)\n\nThere are also some brief notes in blue at the bottom.\n\nHope you find this helpful, and it may be helpful to others who are \nfairly new to QS.\n\nPaige Gabhart\n\r\n--------------020706040205040809080602\r\nContent-Type: application/pdf;\n name=&quot;milligan.pdf&quot;\r\nContent-Disposition: inline;\n filename=&quot;milligan.pdf&quot;\r\n\r\n[ Attachment content not displayed ]\r\n--------------020706040205040809080602--\r\n\n"
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 214981082,
+  "authorName": "Paul Tremblay",
+  "from": "Paul Tremblay &lt;phthenry@...&gt;",
+  "profile": "paulhtremblay",
+  "replyTo": "LIST",
+  "senderId": "xVtECBWGP5AqSabM_a8FnfUBxbKwtrDorKo8hemS1QRFx0h8PAPX3zuKg7G5vhULrCxAiJ3Hb2X4M5aPes9YvJe_bsR8u17PYA",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] QS-SAMPA: a proposed format for plain-text Quickscript",
+  "postDate": "1196546960",
+  "msgId": 1718,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ3NTFEQjkwLjMwNTA1MDBAaWdsb3UuY29tPg==",
+    "inReplyToHeader": "PDVkODcyOWYwMDcxMTMwMjEwNnA1N2M2MDJlYnFiMWRjY2UxMjljMjliNGYyQG1haWwuZ21haWwuY29tPg==",
+    "referencesHeader": "PDVkODcyOWYwMDcxMTI4MTUxMmo0NGE3NjM1Y3hiMjM1Mzk0NTAyMjM3MjAyQG1haWwuZ21haWwuY29tPgkgPDQ3NEY3OUNDLjIwMzA4MDVAaWdsb3UuY29tPiA8NWQ4NzI5ZjAwNzExMzAyMTA2cDU3YzYwMmVicWIxZGNjZTEyOWMyOWI0ZjJAbWFpbC5nbWFpbC5jb20+"
+  },
+  "prevInTopic": 1717,
+  "nextInTopic": 1722,
+  "prevInTime": 1717,
+  "nextInTime": 1719,
+  "topicId": 1690,
+  "numMessagesInTopic": 46,
+  "msgSnippet": "... Okay, the new font is created and will be called ThothSampa. I think if we want to go with the Sampa encoding, I will eventually change the name of",
+  "messageBody": "<div id=\"ygrps-yiv-84120498\">Ted Larson Freeman wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; <br/>\n&gt; I actually suggested releasing a new version of Thoth that uses the<br/>\n&gt; QS-SAMPA mapping. Let&#39;s call it Thoth No. 2 for the moment. This would<br/>\n&gt; allow people to install and use the new version side-by-side with the<br/>\n&gt; old one, leaving any documents that were created with the original<br/>\n&gt; Thoth unaffected. It would make sense for new development to continue<br/>\n&gt; with Thoth No. 2, while Thoth would remain in its present state.<br/>\n&gt; <br/>\n<br/>\n </span></blockquote>Okay, the new font is created and will be called ThothSampa. I think if <br/>\nwe want to go with the Sampa encoding, I will eventually change the name <br/>\nof ThothSampa to plain old Thoth, and change what is now Thoth to Thoth <br/>\nlegacy. I don&#39;t want to have conflicting encoding schemes, so I hope to <br/>\nphase out the old encoding scheme if we accept the new one.<br/>\n<br/>\nI just need to know where to put the ligatures. Here are the options.<br/>\n<br/>\n1. Only reserve a place for Earth /3r/, because unlike the other <br/>\nligatures, it represents a phoneme not really represented by the other <br/>\ncombined letters. For the other ligatures, I will build a ligature <br/>\ntable. The advantage of this method is we use ligatures as they were <br/>\nmeant and reserve spaces for other half letters in senior QS.<br/>\n<br/>\n2. Reserve a place for all ligatures. The advantage of this method is <br/>\nthat one can choose to use or not use a ligature, and one need only <br/>\npress one key to trigger the ligature.<br/>\n<br/>\nLet me know. As soon as we decide, I can release the font.<br/>\n<br/>\nPaul</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;phthenry@...&gt;\r\nX-Sender: phthenry@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 89087 invoked from network); 1 Dec 2007 22:09:17 -0000\r\nX-Received: from unknown (66.218.67.97)\n  by m57.grp.scd.yahoo.com with QMQP; 1 Dec 2007 22:09:17 -0000\r\nX-Received: from unknown (HELO rdsmtp.iglou.com) (192.107.41.63)\n  by mta18.grp.scd.yahoo.com with SMTP; 1 Dec 2007 22:09:17 -0000\r\nX-Received: from iglou2.iglou.com ([192.107.41.8] helo=mail.iglou.com)\n\tby rdsmtp.iglou.com with esmtpa (Exim MTA/8.19.3)\n\t(envelope-from &lt;phthenry@...&gt;)\n\tid 1IyaWP-00035e-OE by authid &lt;igloumta&gt; with igloumta_auth\n\tfor Read_Alphabet@yahoogroups.com; Sat, 01 Dec 2007 17:09:13 -0500\r\nX-Received: from loudsl01-253-111-18.iglou.com ([64.253.111.18] helo=Enid-Johnsons-Computer.local)\n\tby smtp.iglou.com with esmtp (Exim MTA/8.19.3)\n\t(envelope-from &lt;phthenry@...&gt;)\n\tid 1IyaWP-0005OB-Fa\n\tfor Read_Alphabet@yahoogroups.com; Sat, 01 Dec 2007 17:09:13 -0500\r\nMessage-ID: &lt;4751DB90.3050500@...&gt;\r\nDate: Sat, 01 Dec 2007 17:09:20 -0500\r\nUser-Agent: Thunderbird 2.0.0.9 (Macintosh/20071031)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nReferences: &lt;5d8729f00711281512j44a7635cxb235394502237202@...&gt;\t &lt;474F79CC.2030805@...&gt; &lt;5d8729f00711302106p57c602ebqb1dcce129c29b4f2@...&gt;\r\nIn-Reply-To: &lt;5d8729f00711302106p57c602ebqb1dcce129c29b4f2@...&gt;\r\nContent-Type: text/plain; charset=ISO-8859-1; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\nX-IgLou-Customer: 6ab7d2bd86677d7d54d075759b28f06c\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Paul Tremblay &lt;phthenry@...&gt;\r\nSubject: Re: [Read_Alphabet] QS-SAMPA: a proposed format for plain-text Quickscript\r\nX-Yahoo-Group-Post: member; u=214981082; y=A770Lc1XC4VO4yV_lPbaCs1DweHKuFtPNXwYVgk7uclKQ3daTTzleg\r\nX-Yahoo-Profile: paulhtremblay\r\n\r\nTed Larson Freeman wrote:\n&gt; \n&gt; \n&gt; I actually suggested releasing a new version of Thoth that uses the\n&gt; QS-SAMPA mapping. Let&#39;s call it Thoth No. 2 for the moment. This would\n&gt; allow people to install and use the new version side-by-side with the\n&gt; old one, leaving any documents that were created with the original\n&gt; Thoth unaffected. It would make sense for new development to continue\n&gt; with Thoth No. 2, while Thoth would remain in its present state.\n&gt; \n\nOkay, the new font is created and will be called ThothSampa. I think if \nwe want to go with the Sampa encoding, I will eventually change the name \nof ThothSampa to plain old Thoth, and change what is now Thoth to Thoth \nlegacy. I don&#39;t want to have conflicting encoding schemes, so I hope to \nphase out the old encoding scheme if we accept the new one.\n\nI just need to know where to put the ligatures. Here are the options.\n\n1. Only reserve a place for Earth /3r/, because unlike the other \nligatures, it represents a phoneme not really represented by the other \ncombined letters. For the other ligatures, I will build a ligature \ntable. The advantage of this method is we use ligatures as they were \nmeant and reserve spaces for other half letters in senior QS.\n\n2. Reserve a place for all ligatures. The advantage of this method is \nthat one can choose to use or not use a ligature, and one need only \npress one key to trigger the ligature.\n\nLet me know. As soon as we decide, I can release the font.\n\nPaul\n\n"
+}

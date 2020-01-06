@@ -1,0 +1,31 @@
+{
+  "userId": 221991241,
+  "authorName": "Robert \u5578\u98ce Will",
+  "from": "=?UTF-8?B?Um9iZXJ0IOWVuOmjjiBXaWxs?= &lt;willitheowl@...&gt;",
+  "profile": "conseil_it",
+  "replyTo": "LIST",
+  "senderId": "2--hPz-tn1Hw0ByXsN8BPSWerQALD7GD5NaHv_W1ErCoFC0_x7uCM0MkmLDFlO6oBjT5hasEIU_cIURfzGYi5YP5Yrkj4Uy0FyodjR6q7fam4yhECCVXkn72gKnCJ93Qvl7q",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Online English/Latin to Quikscript transliteration",
+  "postDate": "1248199907",
+  "msgId": 2116,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PGZmNjVjNDdiMDkwNzIxMTExMWc0OTg0MTNicjFjOWExY2UxN2EwNWRhMWJAbWFpbC5nbWFpbC5jb20+"
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 2117,
+  "prevInTime": 2115,
+  "nextInTime": 2117,
+  "topicId": 2116,
+  "numMessagesInTopic": 2,
+  "msgSnippet": "Hi fans of Quikscript, I decided that I need some reading material in Quikscript and since I spend half my life reading things on the Internet, I made myself a",
+  "messageBody": "<div id=\"ygrps-yiv-2114981287\">Hi fans of Quikscript,<br/>\nI decided that I need some reading material in Quikscript and since I<br/>\nspend half my life reading things on the Internet, I made myself a<br/>\nlittle filter that turns English spelled with the Latin alphabet into<br/>\nQuikscript. It&#39;s online now for everybody to use:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.cs.toronto.edu/~robertw/QS/\">http://www.cs.toronto.edu/~robertw/QS/</a><br/>\nThe transliteration uses the dictionary found on the &#39;files&#39; section<br/>\nof our group. It has lots of bugs and sharp edges, but I wanted to see<br/>\nif anybody likes the principle of it before I spend more time<br/>\nimproving it.<br/>\nCan anybody tell me what the copyright status of the fonts from this<br/>\ngroup&#39;s file section is? Can I offer one of the fonts for download on<br/>\nthe transliterator&#39;s web page, so that people can use the<br/>\ntransliterator without going to the Yahoo group first?<br/>\ncheers & have fun,<br/>\nJack</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;willitheowl@...&gt;\r\nX-Sender: willitheowl@...\r\nX-Apparently-To: read_alphabet@yahoogroups.com\r\nX-Received: (qmail 4371 invoked from network); 21 Jul 2009 18:13:07 -0000\r\nX-Received: from unknown (69.147.108.201)\n  by m7.grp.re1.yahoo.com with QMQP; 21 Jul 2009 18:13:07 -0000\r\nX-Received: from unknown (HELO mail-qy0-f195.google.com) (209.85.221.195)\n  by mta2.grp.re1.yahoo.com with SMTP; 21 Jul 2009 18:13:07 -0000\r\nX-Received: by qyk33 with SMTP id 33so2860770qyk.0\n        for &lt;read_alphabet@yahoogroups.com&gt;; Tue, 21 Jul 2009 11:12:07 -0700 (PDT)\r\nMIME-Version: 1.0\r\nX-Received: by 10.224.37.134 with SMTP id x6mr4047273qad.100.1248199927192; Tue, \n\t21 Jul 2009 11:12:07 -0700 (PDT)\r\nDate: Tue, 21 Jul 2009 14:11:47 -0400\r\nMessage-ID: &lt;ff65c47b0907211111g498413br1c9a1ce17a05da1b@...&gt;\r\nTo: read_alphabet@yahoogroups.com\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: =?UTF-8?B?Um9iZXJ0IOWVuOmjjiBXaWxs?= &lt;willitheowl@...&gt;\r\nSubject: Online English/Latin to Quikscript transliteration\r\nX-Yahoo-Group-Post: member; u=221991241; y=HYTq0uXWSLuk_ZNNulzgdqEyJwdDN4gHDNds2qoMSV-_zyn6-g\r\nX-Yahoo-Profile: conseil_it\r\n\r\nHi fans of Quikscript,\nI decided that I need some reading material in Quikscript and since I\nspend half my life reading things on the Internet, I made myself a\nlittle filter that turns English spelled with the Latin alphabet into\nQuikscript. It&#39;s online now for everybody to use:\nhttp://www.cs.toronto.edu/~robertw/QS/\nThe transliteration uses the dictionary found on the &#39;files&#39; section\nof our group. It has lots of bugs and sharp edges, but I wanted to see\nif anybody likes the principle of it before I spend more time\nimproving it.\nCan anybody tell me what the copyright status of the fonts from this\ngroup&#39;s file section is? Can I offer one of the fonts for download on\nthe transliterator&#39;s web page, so that people can use the\ntransliterator without going to the Yahoo group first?\ncheers & have fun,\nJack\n\n"
+}

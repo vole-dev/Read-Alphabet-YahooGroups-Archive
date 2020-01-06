@@ -1,0 +1,31 @@
+{
+  "userId": 149542193,
+  "authorName": "Benct Philip Jonsson",
+  "from": "Benct Philip Jonsson &lt;bpj@...&gt;",
+  "profile": "melroch",
+  "replyTo": "LIST",
+  "senderId": "_FrgTvwUZk82ZYfkOf0FuriEiHKmlmcTRjiEIOArAn2q-aowWbfIWBVES6XgZwCz9fkhNQNJ1eF-eebpGQXiIeQhDu-J-S-nDYzgnw",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Attention Unicode pundits: Half-letters etc. in Unicode",
+  "postDate": "1199286918",
+  "msgId": 1922,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ3N0JBQTg2LjcwNTAwMDdAbWVscm9jaC5zZT4="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 1923,
+  "prevInTime": 1921,
+  "nextInTime": 1923,
+  "topicId": 1922,
+  "numMessagesInTopic": 2,
+  "msgSnippet": "Technically Unicode allows the insertion of invisible characters to enforce or prevent joining at any given point, but if I understand there must be a default",
+  "messageBody": "<div id=\"ygrps-yiv-143600651\">Technically Unicode allows the insertion of invisible<br/>\ncharacters to enforce or prevent joining at any given point,<br/>\nbut if I understand there must be a default of either<br/>\njoining or disjoining for any given script. Are there<br/>\nmarkers to indicate that joining should or should not take<br/>\nplace in a given stretch of text rather than at a particular<br/>\npoint in a text? Can joining or disjoining be set on a font<br/>\nbasis and thus display with half-letters and alternate<br/>\nletter forms be left to the discretion of the *reader*?<br/>\nThat would probably be ideal.<br/>\n<br/>\n/BP 8^)&gt;<br/>\n--<br/>\nBenct Philip Jonsson -- melroch atte melroch dotte se<br/>\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br/>\nNo man forgets his original trade: the rights of<br/>\nnations and of kings sink into questions of grammar,<br/>\nif grammarians discuss them.<br/>\n-Dr. Samuel Johnson (1707 - 1784)</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;bpj@...&gt;\r\nX-Sender: bpj@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 41244 invoked from network); 2 Jan 2008 15:15:14 -0000\r\nX-Received: from unknown (66.218.67.97)\n  by m45.grp.scd.yahoo.com with QMQP; 2 Jan 2008 15:15:14 -0000\r\nX-Received: from unknown (HELO mta2.glocalnet.net) (213.163.128.209)\n  by mta18.grp.scd.yahoo.com with SMTP; 2 Jan 2008 15:15:14 -0000\r\nX-Received: from [127.0.0.1] (84.217.241.24) by mta2.glocalnet.net (7.3.130) (authenticated as bpj@...)\n        id 472864920084D63D for Read_Alphabet@yahoogroups.com; Wed, 2 Jan 2008 16:15:13 +0100\r\nMessage-ID: &lt;477BAA86.7050007@...&gt;\r\nDate: Wed, 02 Jan 2008 16:15:18 +0100\r\nOrganization: http://melroch.se\r\nUser-Agent: Thunderbird 2.0.0.9 (Windows/20071031)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nContent-Type: text/plain; charset=UTF-8; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\nX-Antivirus: avast! (VPS 080101-0, 2008-01-01), Outbound message\r\nX-Antivirus-Status: Clean\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Benct Philip Jonsson &lt;bpj@...&gt;\r\nSubject: Attention Unicode pundits: Half-letters etc. in Unicode\r\nX-Yahoo-Group-Post: member; u=149542193; y=VPqND35DS5RjJqbvcCFtUdUXQxvh5RU0BBjV1OP_GvJZCg\r\nX-Yahoo-Profile: melroch\r\n\r\nTechnically Unicode allows the insertion of invisible\ncharacters to enforce or prevent joining at any given point,\nbut if I understand there must be a default of either\njoining or disjoining for any given script. Are there\nmarkers to indicate that joining should or should not take\nplace in a given stretch of text rather than at a particular\npoint in a text? Can joining or disjoining be set on a font\nbasis and thus display with half-letters and alternate\nletter forms be left to the discretion of the *reader*?\nThat would probably be ideal.\n\n/BP 8^)&gt;\n--\nBenct Philip Jonsson -- melroch atte melroch dotte se\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nNo man forgets his original trade: the rights of\nnations and of kings sink into questions of grammar,\nif grammarians discuss them.\n-Dr. Samuel Johnson (1707 - 1784)\n\n\n"
+}

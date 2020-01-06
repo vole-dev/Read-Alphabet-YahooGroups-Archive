@@ -1,0 +1,31 @@
+{
+  "userId": 31034496,
+  "authorName": "Ewout Stam",
+  "from": "&quot;Ewout Stam&quot; &lt;teraiten@...&gt;",
+  "profile": "teraiten",
+  "replyTo": "LIST",
+  "senderId": "r213PwZVCXSK6Uut85hDLufBpeEaViyH5JnwbeKn-_jE9r8HBtZNmrbTQEnZIwjwa5oedJOkACN4up-pP7g_IfVIuerm_kHA",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Macbeth",
+  "postDate": "1015440329",
+  "msgId": 101,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDAwOTMwMWMxYzUzZiRkYTllM2YyMCRkZDEzNjQzZUBiZXJ0aGE+"
+  },
+  "prevInTopic": 99,
+  "nextInTopic": 102,
+  "prevInTime": 100,
+  "nextInTime": 102,
+  "topicId": 60,
+  "numMessagesInTopic": 30,
+  "msgSnippet": "If you could kindly send me the whole list, my computer at home and the ones at school don t run IE 9.0 and installing the font didn t help. All I see is ",
+  "messageBody": "<div id=\"ygrps-yiv-1028544239\">If you could kindly send me the whole list, my computer at home and the ones<br/>\nat school don&#39;t run IE 9.0 and installing the font didn&#39;t help. All I see is<br/>\nsquare blocks.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;  A good place to start might be the Shavian Letter Frequency Analysis<br/>\n&gt;for Scott&#39;s Shavian Documents<br/>\n&gt;&lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.mithrandir.com/Shavian/ShavianFrequencyCount.html\">http://www.mithrandir.com/Shavian/ShavianFrequencyCount.html</a>&gt;.  The<br/>\n&gt;frequency analysis covers the texts transliterated by Scott Harrison<br/>\n&gt;available at his site<br/>\n&gt;&lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.mithrandir.com/Shavian/Shavian.html\">http://www.mithrandir.com/Shavian/Shavian.html</a>&gt;.<br/>\n&gt;<br/>\n&gt;  The sample size is ~150,000 characters, so the trends should be<br/>\n&gt;clear.  Surprisingly, schwa (ado) is 7th on the list.  Perhaps this is<br/>\n&gt;due to a bias of the author&#39;s spelling?...  Here&#39;s the (pruned) list:<br/>\n&gt;<br/>\n&gt;   9.18%  Nun<br/>\n&gt;   9.07%  Tot<br/>\n&gt;   8.24%  If<br/>\n&gt;   6.56%  So<br/>\n&gt;   5.40%  Dead<br/>\n&gt;   5.17%  Loll<br/>\n&gt;   4.96%  Ado<br/>\n&gt;   4.19%  THey<br/>\n&gt;   ...<br/>\n&gt;   ...<br/>\n&gt;   0.33%  Yea<br/>\n&gt;   0.00%  Ah<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;   With the appropriate corpus of texts, the frequency analysis should<br/>\n&gt;be fairly simple.  A simple Perl script would do the job (perl -e<br/>\n&gt;&#39;while(&lt;&gt;){chomp; for(split/&#92;s*/){$f{$_}++}} for(keys %f) { print &quot;$_ =<br/>\n&gt;$f{$_} &#92;n&quot;; }&#39;)....<br/>\n<br/>\n </span></blockquote>I have no idea how to run perl, let alone program in perl. Perhaps somebody<br/>\nelse&#39;s interested.<br/>\n<br/>\n<blockquote><span title=\"qreply\"> &gt;<br/>\n&gt;Regards,<br/>\n&gt;<br/>\n&gt;  Brian Roberts </span></blockquote></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;teraiten@...&gt;\r\nX-Sender: teraiten@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (EGP: unknown); 6 Mar 2002 18:51:39 -0000\r\nReceived: (qmail 35014 invoked from network); 6 Mar 2002 18:51:38 -0000\r\nReceived: from unknown (216.115.97.172)\n  by m2.grp.snv.yahoo.com with QMQP; 6 Mar 2002 18:51:38 -0000\r\nReceived: from unknown (HELO mint.nl.gxn.net) (62.100.30.37)\n  by mta2.grp.snv.yahoo.com with SMTP; 6 Mar 2002 18:51:38 -0000\r\nReceived: from bertha (asd-tel-ap02-d06-221.dial.freesurf.nl [62.100.19.221])\n\tby mint.nl.gxn.net (Postfix) with SMTP id 442523BC11\n\tfor &lt;Read_Alphabet@yahoogroups.com&gt;; Wed,  6 Mar 2002 19:51:24 +0100 (MET)\r\nMessage-ID: &lt;009301c1c53f$da9e3f20$dd13643e@bertha&gt;\r\nTo: &lt;Read_Alphabet@yahoogroups.com&gt;\r\nSubject: Re: [Read_Alphabet] Macbeth\r\nDate: Wed, 6 Mar 2002 19:45:29 +0100\r\nMIME-Version: 1.0\r\nContent-Type: text/plain;\n\tcharset=&quot;iso-8859-1&quot;\r\nContent-Transfer-Encoding: 7bit\r\nX-Priority: 3\r\nX-MSMail-Priority: Normal\r\nX-Mailer: Microsoft Outlook Express 4.72.3110.5\r\nX-MimeOLE: Produced By Microsoft MimeOLE V4.72.3110.3\r\nFrom: &quot;Ewout Stam&quot; &lt;teraiten@...&gt;\r\nX-Yahoo-Group-Post: member; u=31034496\r\nX-Yahoo-Profile: teraiten\r\n\r\nIf you could kindly send me the whole list, my computer at home and the ones\nat school don&#39;t run IE 9.0 and installing the font didn&#39;t help. All I see is\nsquare blocks.\n\n&gt;  A good place to start might be the Shavian Letter Frequency Analysis\n&gt;for Scott&#39;s Shavian Documents\n&gt;&lt;http://www.mithrandir.com/Shavian/ShavianFrequencyCount.html&gt;.  The\n&gt;frequency analysis covers the texts transliterated by Scott Harrison\n&gt;available at his site\n&gt;&lt;http://www.mithrandir.com/Shavian/Shavian.html&gt;.\n&gt;\n&gt;  The sample size is ~150,000 characters, so the trends should be\n&gt;clear.  Surprisingly, schwa (ado) is 7th on the list.  Perhaps this is\n&gt;due to a bias of the author&#39;s spelling?...  Here&#39;s the (pruned) list:\n&gt;\n&gt;   9.18%  Nun\n&gt;   9.07%  Tot\n&gt;   8.24%  If\n&gt;   6.56%  So\n&gt;   5.40%  Dead\n&gt;   5.17%  Loll\n&gt;   4.96%  Ado\n&gt;   4.19%  THey\n&gt;   ...\n&gt;   ...\n&gt;   0.33%  Yea\n&gt;   0.00%  Ah\n&gt;\n&gt;\n&gt;   With the appropriate corpus of texts, the frequency analysis should\n&gt;be fairly simple.  A simple Perl script would do the job (perl -e\n&gt;&#39;while(&lt;&gt;){chomp; for(split/&#92;s*/){$f{$_}++}} for(keys %f) { print &quot;$_ =\n&gt;$f{$_} &#92;n&quot;; }&#39;)....\n\nI have no idea how to run perl, let alone program in perl. Perhaps somebody\nelse&#39;s interested.\n\n&gt;\n&gt;Regards,\n&gt;\n&gt;  Brian Roberts\n\n\n"
+}

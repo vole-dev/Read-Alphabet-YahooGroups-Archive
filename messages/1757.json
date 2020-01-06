@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "-w9WA-iqKuvIePXYwFd07-mINeR0BDkyHcFw2M192J_sQ9N1W0b56RqtXof4K5-VPSux_CTY-G4V-CNPhQu6o5nV",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] how to spell words with /tS/",
+  "postDate": "1196833917",
+  "msgId": 1757,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcxMjA1MDU1MTU3LkdFMTA4MDdAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PDQ3NTYzOENFLjkwNTA3MDdAaWdsb3UuY29tPg==",
+    "referencesHeader": "PDQ3NTYxMjM2LjMwODA1MDNAaWdsb3UuY29tPiA8MjAwNzEyMDUwMzMyNDYuR0IxMDgwN0BtZXJjdXJ5LmNjaWwub3JnPiA8NDc1NjM4Q0UuOTA1MDcwN0BpZ2xvdS5jb20+"
+  },
+  "prevInTopic": 1756,
+  "nextInTopic": 1760,
+  "prevInTime": 1756,
+  "nextInTime": 1758,
+  "topicId": 1752,
+  "numMessagesInTopic": 6,
+  "msgSnippet": "... Sorry.  I forgot to clean up the HTML, since I do email directly in plain text. -- John Cowan  cowan@ccil.org   http://ccil.org/~cowan It s the old, old",
+  "messageBody": "<div id=\"ygrps-yiv-1883569174\">Paul Tremblay scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Thanks. I see that my QS is not coming through for all as QS, but as <br/>\n&gt; &lt;font face=...&gt;. It came through for me, at least.<br/>\n<br/>\n </span></blockquote>Sorry.  I forgot to clean up the HTML, since I do email directly in plain text.<br/>\n<br/>\n-- <br/>\nJohn Cowan  <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>   <a rel=\"nofollow\" target=\"_blank\" href=\"http://ccil.org/~cowan\">http://ccil.org/~cowan</a><br/>\nIt&#39;s the old, old story.  Droid meets droid.  Droid becomes chameleon.<br/>\nDroid loses chameleon, chameleon becomes blob, droid gets blob back<br/>\nagain.  It&#39;s a classic tale.  --Kryten, Red Dwarf</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 88411 invoked from network); 5 Dec 2007 05:51:58 -0000\r\nX-Received: from unknown (66.218.67.97)\n  by m47.grp.scd.yahoo.com with QMQP; 5 Dec 2007 05:51:58 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta18.grp.scd.yahoo.com with SMTP; 5 Dec 2007 05:51:58 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1IznAr-0006f8-Pj\n\tfor Read_Alphabet@yahoogroups.com; Wed, 05 Dec 2007 00:51:57 -0500\r\nDate: Wed, 5 Dec 2007 00:51:57 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20071205055157.GE10807@...&gt;\r\nReferences: &lt;47561236.3080503@...&gt; &lt;20071205033246.GB10807@...&gt; &lt;475638CE.9050707@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;475638CE.9050707@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] how to spell words with /tS/\r\nX-Yahoo-Group-Post: member; u=212516; y=DHEDWjPKORHZ_NL4TVG1lrpkw1zwsjyOtaCfttyY9VJAZSeCig\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nPaul Tremblay scripsit:\n\n&gt; Thanks. I see that my QS is not coming through for all as QS, but as \n&gt; &lt;font face=...&gt;. It came through for me, at least.\n\nSorry.  I forgot to clean up the HTML, since I do email directly in plain text.\n\n-- \nJohn Cowan  cowan@...   http://ccil.org/~cowan\nIt&#39;s the old, old story.  Droid meets droid.  Droid becomes chameleon.\nDroid loses chameleon, chameleon becomes blob, droid gets blob back\nagain.  It&#39;s a classic tale.  --Kryten, Red Dwarf\n\n"
+}

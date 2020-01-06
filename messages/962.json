@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "JAH12i07PiBGG3QZN4SAeTgW-LLya_fJec2XJj0txM84cPJLD1p3kIlEYiLIQ6NN96FqILoUQ2o3oBuMHgdwmI2f",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Re: Unicode proposal again.",
+  "postDate": "1180473413",
+  "msgId": 962,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMDcwNTI5MjExNjUzLkdOMjc0NkBtZXJjdXJ5LmNjaWwub3JnPg==",
+    "inReplyToHeader": "PDQ2NUM2Rjg3LjcwNzA4QG1lbHJvY2guc2U+",
+    "referencesHeader": "PGYzZjU2OCtuc2MwQGVHcm91cHMuY29tPiA8MDA1MDAxYzdhMWIzJDc4MTFkMTQwJDAzMDAwMDBhQHVsYjFpPiA8cDA2MjQwODAzYzI4MThjNWNhNzY3QFsxOTIuMTY4LjEuMTM0XT4gPDQ2NUM2Rjg3LjcwNzA4QG1lbHJvY2guc2U+"
+  },
+  "prevInTopic": 961,
+  "nextInTopic": 963,
+  "prevInTime": 961,
+  "nextInTime": 963,
+  "topicId": 947,
+  "numMessagesInTopic": 45,
+  "msgSnippet": "... That is, if anything, in favor of unification.  Estrangela, Western, and Eastern Syriac are unified partly because any given document is in only one of",
+  "messageBody": "<div id=\"ygrps-yiv-1848860629\">Benct Philip Jonsson scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Also people don&#39;t pick and choose among the Shavian or QS characters,<br/>\n&gt; but use either the one or the other system.<br/>\n<br/>\n </span></blockquote>That is, if anything, in favor of unification.  Estrangela, Western,<br/>\nand Eastern Syriac are unified partly because any given document is in<br/>\nonly one of them, and so a mere font change does the right thing.<br/>\n<br/>\n-- <br/>\nIn politics, obedience and support      John Cowan &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>&gt;<br/>\nare the same thing.  --Hannah Arendt    <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ccil.org/~cowan\">http://www.ccil.org/~cowan</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 57750 invoked from network); 29 May 2007 21:16:56 -0000\r\nReceived: from unknown (66.218.67.33)\n  by m40.grp.scd.yahoo.com with QMQP; 29 May 2007 21:16:56 -0000\r\nReceived: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta7.grp.scd.yahoo.com with SMTP; 29 May 2007 21:16:56 -0000\r\nReceived: from cowan by earth.ccil.org with local (Exim 4.63)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1Ht93l-0007D2-GY\n\tfor Read_Alphabet@yahoogroups.com; Tue, 29 May 2007 17:16:53 -0400\r\nDate: Tue, 29 May 2007 17:16:53 -0400\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20070529211653.GN2746@...&gt;\r\nReferences: &lt;f3f568+nsc0@...&gt; &lt;005001c7a1b3$7811d140$0300000a@ulb1i&gt; &lt;p06240803c2818c5ca767@[192.168.1.134]&gt; &lt;465C6F87.70708@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;465C6F87.70708@...&gt;\r\nUser-Agent: Mutt/1.5.13 (2006-08-11)\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: Unicode proposal again.\r\nX-Yahoo-Group-Post: member; u=212516; y=oRt7kZA1dP_To1kZ8rGaHw36PkVTFCrTP7LjpQMnji73oO6QKQ\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nBenct Philip Jonsson scripsit:\n\n&gt; Also people don&#39;t pick and choose among the Shavian or QS characters,\n&gt; but use either the one or the other system.\n\nThat is, if anything, in favor of unification.  Estrangela, Western,\nand Eastern Syriac are unified partly because any given document is in\nonly one of them, and so a mere font change does the right thing.\n\n-- \nIn politics, obedience and support      John Cowan &lt;cowan@...&gt;\nare the same thing.  --Hannah Arendt    http://www.ccil.org/~cowan\n\n"
+}

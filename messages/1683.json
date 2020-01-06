@@ -1,0 +1,31 @@
+{
+  "userId": 134841503,
+  "authorName": "Ted Larson Freeman",
+  "from": "&quot;Ted Larson Freeman&quot; &lt;freeman@...&gt;",
+  "profile": "tedf255",
+  "replyTo": "LIST",
+  "senderId": "qj59crdZWydmZS0Yhob3_EC1mpz1rivSPs7Si8Dz1NKmHl7of1gXJGXQnkxfV-jrNivgRAb3nMmPJq5yv0o_u_nElnDptulZwsridVhlmhfKMioPrXleBw",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Question about alternate letters in the Unicode proposal",
+  "postDate": "1196234252",
+  "msgId": 1683,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDVkODcyOWYwMDcxMTI3MjMxN2k0MDY2ZmUyZnEyNzU4MThmZGE0ODg2ZWQ3QG1haWwuZ21haWwuY29tPg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 1684,
+  "prevInTime": 1682,
+  "nextInTime": 1684,
+  "topicId": 1683,
+  "numMessagesInTopic": 4,
+  "msgSnippet": "I have a quick question about the Unicode proposal. In the document Files- Unicode Proposal- proposal.txt it says: The following letters have alternate forms: ",
+  "messageBody": "<div id=\"ygrps-yiv-1577030355\">I have a quick question about the Unicode proposal. In the document<br/>\nFiles-&gt;Unicode Proposal-&gt;proposal.txt it says:<br/>\n<br/>\nThe following letters have alternate forms:<br/>\n<br/>\n\tQUIKSCRIPT LETTER THEY<br/>\n\tQUIKSCRIPT LETTER MAY<br/>\n\tQUIKSCRIPT LETTER NO<br/>\n\tQUIKSCRIPT LETTER UTTER<br/>\n<br/>\nCould someone please point me to an example of the alternate letter<br/>\nfor May? I can&#39;t find it in the QM, and I don&#39;t see it in any of the<br/>\nQS fonts.<br/>\n<br/>\nRegarding the alternate letter for They, the QM only says &quot;Letter No.8<br/>\nmay connect on the writing-line by an allowable extension upward and<br/>\nforward...&quot; This is on page 13 in &quot;SECTION II: HOW LETTERS MAY BE<br/>\nJOINED&quot;. This seems to me to be a senior QS connection style, not an<br/>\nalternate letter. True alternate letters are introduced on page 14<br/>\nunder &quot;4 ALTERNATIVE LETTER-SYMBOLS&quot;.<br/>\n<br/>\nI&#39;d be happier if we dropped May and They from this list.<br/>\n<br/>\nThanks.<br/>\n<br/>\nTed</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;tedf255@...&gt;\r\nX-Sender: tedf255@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 17547 invoked from network); 28 Nov 2007 07:17:33 -0000\r\nX-Received: from unknown (66.218.67.95)\n  by m49.grp.scd.yahoo.com with QMQP; 28 Nov 2007 07:17:33 -0000\r\nX-Received: from unknown (HELO ug-out-1314.google.com) (66.249.92.170)\n  by mta16.grp.scd.yahoo.com with SMTP; 28 Nov 2007 07:17:33 -0000\r\nX-Received: by ug-out-1314.google.com with SMTP id y2so1786281uge\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Tue, 27 Nov 2007 23:17:32 -0800 (PST)\r\nX-Received: by 10.78.172.20 with SMTP id u20mr5102810hue.1196234252134;\n        Tue, 27 Nov 2007 23:17:32 -0800 (PST)\r\nX-Received: by 10.78.48.11 with HTTP; Tue, 27 Nov 2007 23:17:32 -0800 (PST)\r\nMessage-ID: &lt;5d8729f00711272317i4066fe2fq275818fda4886ed7@...&gt;\r\nDate: Tue, 27 Nov 2007 23:17:32 -0800\r\nTo: read_alphabet &lt;Read_Alphabet@yahoogroups.com&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Transfer-Encoding: 7bit\r\nContent-Disposition: inline\r\nX-Google-Sender-Auth: d8eb4d35f95bec08\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: &quot;Ted Larson Freeman&quot; &lt;freeman@...&gt;\r\nSubject: Question about alternate letters in the Unicode proposal\r\nX-Yahoo-Group-Post: member; u=134841503; y=gqZ70KNHm2EDukawxRGHE-RwFFSY1FxxDpCzcFf3VYI_xg\r\nX-Yahoo-Profile: tedf255\r\n\r\nI have a quick question about the Unicode proposal. In the document\nFiles-&gt;Unicode Proposal-&gt;proposal.txt it says:\n\nThe following letters have alternate forms:\n\n\tQUIKSCRIPT LETTER THEY\n\tQUIKSCRIPT LETTER MAY\n\tQUIKSCRIPT LETTER NO\n\tQUIKSCRIPT LETTER UTTER\n\nCould someone please point me to an example of the alternate letter\nfor May? I can&#39;t find it in the QM, and I don&#39;t see it in any of the\nQS fonts.\n\nRegarding the alternate letter for They, the QM only says &quot;Letter No.8\nmay connect on the writing-line by an allowable extension upward and\nforward...&quot; This is on page 13 in &quot;SECTION II: HOW LETTERS MAY BE\nJOINED&quot;. This seems to me to be a senior QS connection style, not an\nalternate letter. True alternate letters are introduced on page 14\nunder &quot;4 ALTERNATIVE LETTER-SYMBOLS&quot;.\n\nI&#39;d be happier if we dropped May and They from this list.\n\nThanks.\n\nTed\n\n"
+}

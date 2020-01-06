@@ -1,0 +1,33 @@
+{
+  "userId": 82638473,
+  "authorName": "Michael Everson",
+  "from": "Michael Everson &lt;everson@...&gt;",
+  "profile": "evertype",
+  "replyTo": "LIST",
+  "senderId": "2KsTBKB3LL0zZj1Fjxj9aSqmuHtJFwlGH71_5mXiJcw-mZOKQmBEUDUCA0U9hBZpFBi9D2y773mAkD7Uu6veGgBFJUf7MtIAYctOo9E",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: Quickscript Unicode Proposal",
+  "postDate": "1148998387",
+  "msgId": 733,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PHAwNjIzMDkxNmMwYTIwMGVlODg5NkBbMTAuMC4xLjddPg==",
+    "inReplyToHeader": "PDExNDc3MDAzNDkuMTk1LjY4MTIyLm0yMEB5YWhvb2dyb3Vwcy5jb20+",
+    "referencesHeader": "PDExNDc3MDAzNDkuMTk1LjY4MTIyLm0yMEB5YWhvb2dyb3Vwcy5jb20+"
+  },
+  "prevInTopic": 730,
+  "nextInTopic": 734,
+  "prevInTime": 732,
+  "nextInTime": 734,
+  "topicId": 706,
+  "numMessagesInTopic": 16,
+  "msgSnippet": "Well, the thing is... Nobody s using Shavian already, and that was encoded. http://www.shavian.org/hugh/ikonboard/ikonboard.cgi gives fonts which are ASCII",
+  "messageBody": "<div id=\"ygrps-yiv-995634135\">Well, the thing is...<br/>\n<br/>\nNobody&#39;s using Shavian already, and that was encoded. <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shavian.org/hugh/ikonboard/ikonboard.cgi\">http://www.shavian.org/hugh/ikonboard/ikonboard.cgi</a> gives fonts which <br/>\nare ASCII hacks. And it does the same for QuickScript, which might <br/>\nfor instance use Private Use codes. So.... you&#39;ll need a stronger <br/>\ncase I think.<br/>\n<br/>\nAnd why isn&#39;t it a font variant of Shavian, or a variant with extensions?<br/>\n-- <br/>\nMichael Everson * <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.evertype.com\">http://www.evertype.com</a></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;everson@...&gt;\r\nX-Sender: everson@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 35247 invoked from network); 30 May 2006 14:17:46 -0000\r\nReceived: from unknown (66.218.66.167)\n  by m34.grp.scd.yahoo.com with QMQP; 30 May 2006 14:17:46 -0000\r\nReceived: from unknown (HELO white.dnsireland.com) (67.15.182.33)\n  by mta6.grp.scd.yahoo.com with SMTP; 30 May 2006 14:17:45 -0000\r\nReceived: from [88.81.100.234] (helo=[10.0.1.7])\n\tby white.dnsireland.com with esmtpa (Exim 4.52)\n\tid 1Fl51j-0003av-5d\n\tfor Read_Alphabet@yahoogroups.com; Tue, 30 May 2006 15:16:55 +0100\r\nMime-Version: 1.0\r\nMessage-Id: &lt;p06230916c0a200ee8896@[10.0.1.7]&gt;\r\nIn-Reply-To: &lt;1147700349.195.68122.m20@yahoogroups.com&gt;\r\nReferences: &lt;1147700349.195.68122.m20@yahoogroups.com&gt;\r\nDate: Tue, 30 May 2006 15:13:07 +0100\r\nTo: Read_Alphabet@yahoogroups.com\r\nContent-Type: text/plain; charset=&quot;us-ascii&quot; ; format=&quot;flowed&quot;\r\nX-AntiAbuse: This header was added to track abuse, please include it with any abuse report\r\nX-AntiAbuse: Primary Hostname - white.dnsireland.com\r\nX-AntiAbuse: Original Domain - yahoogroups.com\r\nX-AntiAbuse: Originator/Caller UID/GID - [0 0] / [47 12]\r\nX-AntiAbuse: Sender Address Domain - evertype.com\r\nX-Source: \r\nX-Source-Args: \r\nX-Source-Dir: \r\nX-eGroups-Msg-Info: 1:12:0:0\r\nFrom: Michael Everson &lt;everson@...&gt;\r\nSubject: Re: Quickscript Unicode Proposal\r\nX-Yahoo-Group-Post: member; u=82638473; y=qD9zeYnTFboTQBx9t75jcnzKKa95RuGDbUtWXDCnKwYb7dQ\r\nX-Yahoo-Profile: evertype\r\n\r\nWell, the thing is...\n\nNobody&#39;s using Shavian already, and that was encoded. \nhttp://www.shavian.org/hugh/ikonboard/ikonboard.cgi gives fonts which \nare ASCII hacks. And it does the same for QuickScript, which might \nfor instance use Private Use codes. So.... you&#39;ll need a stronger \ncase I think.\n\nAnd why isn&#39;t it a font variant of Shavian, or a variant with extensions?\n-- \nMichael Everson * http://www.evertype.com\n\n"
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 214981082,
+  "authorName": "Paul Tremblay",
+  "from": "Paul Tremblay &lt;phthenry@...&gt;",
+  "profile": "paulhtremblay",
+  "replyTo": "LIST",
+  "senderId": "aWUYGfkgJ22OGf_HsA9ETb08UMAaq1-K7hnSZXjZYcgsp8BKEkTJhqiDct9ZbZuO803-dOgad7kMSuml1yxTuOK0Vg0F6u1H4A",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "how to use Unicode",
+  "postDate": "1190952193",
+  "msgId": 1081,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ2RkM3RDAxLjgwNjA0MDJAaWdsb3UuY29tPg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 1082,
+  "prevInTime": 1080,
+  "nextInTime": 1082,
+  "topicId": 1081,
+  "numMessagesInTopic": 4,
+  "msgSnippet": "I installed the fonts in the fonts file and created a an example file with both Latin1 and UTF8 encoding, and low and behold, the text appeared perfectly in my",
+  "messageBody": "<div id=\"ygrps-yiv-1498190398\">I installed the fonts in the fonts file and created a an example file <br/>\nwith both Latin1 and UTF8 encoding, and low and behold, the text <br/>\nappeared perfectly in my browser! The only problem occurred when I <br/>\ndidn&#39;t specify the Kinsley font for the text in Unicode, and the <br/>\ncharacters did not appear correctly. Likewise, when I opened the test <br/>\npage from the files section of this mailing list on by browser, the <br/>\nfirst test appeared correctly, but the second appeared as a mix of Asian <br/>\nand QuickScript (QS) characters. If I want to  mix Traditional <br/>\nOrthography (TO) and QS, I don&#39;t want to specify the Kingsley code, <br/>\nbecause then the text in TO will appear wrong.<br/>\n<br/>\nAlso, how exactly does one use the Unicode fonts? Though they appear <br/>\ncorrect in an HTML browser, one can&#39;t type it in directly in any program <br/>\nthat I know of. I wish I could type QS Unicode in a text editor like VIM <br/>\ninstead of having to used an RTF editor and then paste it into the <br/>\ndocument I need.<br/>\n<br/>\nAt any rate, I can write documents in HTML, format them with a print CSS <br/>\nstylesheet, and then convert them to PDF, which anyone can read, and <br/>\nwhich allows me to have a print copy in front of me. I prefer reading a <br/>\npiece of paper instead of a screen. So thanks amd64 for the hints, and <br/>\nthank you all who created the QS fonts.<br/>\n<br/>\nPaul</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;phthenry@...&gt;\r\nX-Sender: phthenry@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 35581 invoked from network); 28 Sep 2007 04:03:28 -0000\r\nReceived: from unknown (69.147.108.200)\n  by m42.grp.scd.yahoo.com with QMQP; 28 Sep 2007 04:03:28 -0000\r\nReceived: from unknown (HELO rdsmtp.iglou.com) (192.107.41.63)\n  by mta1.grp.re1.yahoo.com with SMTP; 28 Sep 2007 04:03:28 -0000\r\nReceived: from [192.107.41.39] (helo=iglou4.iglou.com)\n\tby rdsmtp.iglou.com with esmtp (8.12.5/8.12.5)\n\t(envelope-from &lt;phthenry@...&gt;)\n\tid 1Ib74N-0005pO-DR\n\tfor Read_Alphabet@yahoogroups.com; Fri, 28 Sep 2007 00:03:15 -0400\r\nReceived: from [64.253.111.18] (helo=Enid-Johnsons-Computer.local)\n\tby iglou4.iglou.com with esmtp (8.12.5/8.12.5)\n\t(envelope-from &lt;phthenry@...&gt;)\n\tid 1Ib74L-0005p0-RH\n\tfor Read_Alphabet@yahoogroups.com; Fri, 28 Sep 2007 00:03:15 -0400\r\nMessage-ID: &lt;46FC7D01.8060402@...&gt;\r\nDate: Fri, 28 Sep 2007 00:03:13 -0400\r\nUser-Agent: Thunderbird 2.0.0.6 (Macintosh/20070728)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nContent-Type: text/plain; charset=ISO-8859-1; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\nX-IgLou-Customer: 6ab7d2bd86677d7d54d075759b28f06c\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Paul Tremblay &lt;phthenry@...&gt;\r\nSubject: how to use Unicode\r\nX-Yahoo-Group-Post: member; u=214981082; y=yTR71fGrqqH2Qwnb5dn0zFbRGP5qCxCs6ZIfptVtxIfXm08dHb_fDQ\r\nX-Yahoo-Profile: paulhtremblay\r\n\r\nI installed the fonts in the fonts file and created a an example file \nwith both Latin1 and UTF8 encoding, and low and behold, the text \nappeared perfectly in my browser! The only problem occurred when I \ndidn&#39;t specify the Kinsley font for the text in Unicode, and the \ncharacters did not appear correctly. Likewise, when I opened the test \npage from the files section of this mailing list on by browser, the \nfirst test appeared correctly, but the second appeared as a mix of Asian \nand QuickScript (QS) characters. If I want to  mix Traditional \nOrthography (TO) and QS, I don&#39;t want to specify the Kingsley code, \nbecause then the text in TO will appear wrong.\n\nAlso, how exactly does one use the Unicode fonts? Though they appear \ncorrect in an HTML browser, one can&#39;t type it in directly in any program \nthat I know of. I wish I could type QS Unicode in a text editor like VIM \ninstead of having to used an RTF editor and then paste it into the \ndocument I need.\n\nAt any rate, I can write documents in HTML, format them with a print CSS \nstylesheet, and then convert them to PDF, which anyone can read, and \nwhich allows me to have a print copy in front of me. I prefer reading a \npiece of paper instead of a screen. So thanks amd64 for the hints, and \nthank you all who created the QS fonts.\n\nPaul\n\n"
+}

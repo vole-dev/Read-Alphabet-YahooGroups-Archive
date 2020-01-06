@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "a1-vAea87Gsi1wmf-RUaGx8k0BlltMSH_5ob0R-Tvtg2P2tX7tXqKuPiamk4U5fRgv0msoj9CqrSJHgsAhYbAG-_",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] What language tags for Quikscript?",
+  "postDate": "1367652360",
+  "msgId": 2482,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMTMwNTA0MDcyNjAwLkdRMjg5OTlAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PDU3QzdCRDY4LTcxMzQtNEZFMy1BQzNDLUVGNjIxNDA4NjIwOUBldmVydHlwZS5jb20+",
+    "referencesHeader": "PDcyQjhDNDYyLUVBMDQtNDBEMi04N0I4LUU1NUFBRjFDQUFDMkBnbWFpbC5jb20+IDwyMDEzMDUwNDAyMjcyOS5HRjI4OTk5QG1lcmN1cnkuY2NpbC5vcmc+IDw1N0M3QkQ2OC03MTM0LTRGRTMtQUMzQy1FRjYyMTQwODYyMDlAZXZlcnR5cGUuY29tPg=="
+  },
+  "prevInTopic": 2481,
+  "nextInTopic": 2483,
+  "prevInTime": 2481,
+  "nextInTime": 2483,
+  "topicId": 2478,
+  "numMessagesInTopic": 5,
+  "msgSnippet": "... In English or German or Danish, maybe.  In French, no.  In Vietnamese, fuggedaboudit. -- You re a brave man! Go and break through the            John Cowan",
+  "messageBody": "<div id=\"ygrps-yiv-853403014\">Michael Everson scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; A restaurant menu can be printed in Fraktur and people are expected<br/>\n&gt; to be able to read it.<br/>\n<br/>\n </span></blockquote>In English or German or Danish, maybe.  In French, no.  In Vietnamese,<br/>\nfuggedaboudit.<br/>\n<br/>\n-- <br/>\nYou&#39;re a brave man! Go and break through the            John Cowan<br/>\nlines, and remember while you&#39;re out there              <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a><br/>\nrisking life and limb through shot and shell,           <a rel=\"nofollow\" target=\"_blank\" href=\"http://ccil.org/~cowan\">http://ccil.org/~cowan</a><br/>\nwe&#39;ll be in here thinking what a sucker you are!<br/>\n        --Rufus T. Firefly</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 59860 invoked from network); 4 May 2013 07:26:00 -0000\r\nX-Received: from unknown (10.193.84.131)\n  by m2.grp.bf1.yahoo.com with QMQP; 4 May 2013 07:26:00 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mta4.grp.bf1.yahoo.com with SMTP; 4 May 2013 07:26:00 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.72)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1UYWr2-0007iC-8O\n\tfor Read_Alphabet@yahoogroups.com; Sat, 04 May 2013 03:26:00 -0400\r\nDate: Sat, 4 May 2013 03:26:00 -0400\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20130504072600.GQ28999@...&gt;\r\nReferences: &lt;72B8C462-EA04-40D2-87B8-E55AAF1CAAC2@...&gt;\n &lt;20130504022729.GF28999@...&gt;\n &lt;57C7BD68-7134-4FE3-AC3C-EF6214086209@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;57C7BD68-7134-4FE3-AC3C-EF6214086209@...&gt;\r\nUser-Agent: Mutt/1.5.20 (2009-06-14)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nX-eGroups-From: John Cowan &lt;cowan@...&gt;\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] What language tags for Quikscript?\r\nX-Yahoo-Group-Post: member; u=212516; y=YiAXI-umTjNdZ-Q7z1Z4m-UVWK5mZkWVAZU-Mv_MWccK-QhtfA\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nMichael Everson scripsit:\n\n&gt; A restaurant menu can be printed in Fraktur and people are expected\n&gt; to be able to read it.\n\nIn English or German or Danish, maybe.  In French, no.  In Vietnamese,\nfuggedaboudit.\n\n-- \nYou&#39;re a brave man! Go and break through the            John Cowan\nlines, and remember while you&#39;re out there              cowan@...\nrisking life and limb through shot and shell,           http://ccil.org/~cowan\nwe&#39;ll be in here thinking what a sucker you are!\n        --Rufus T. Firefly\n\n"
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 214981082,
+  "authorName": "Paul Tremblay",
+  "from": "Paul Tremblay &lt;phthenry@...&gt;",
+  "profile": "paulhtremblay",
+  "replyTo": "LIST",
+  "senderId": "wU5N81h1YZPFUcPcV5dr-8Z1SD1_yTlspP-ItH0ExPI2k6uOd01llpyg0Wi9cpyS24EM_8p5nCkbifoD62t5tkcbLJEpHRQd1A",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Thoth font updated",
+  "postDate": "1194977479",
+  "msgId": 1442,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ3MzlFOEM3LjgwMDAwMDBAaWdsb3UuY29tPg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 0,
+  "prevInTime": 1441,
+  "nextInTime": 1443,
+  "topicId": 1442,
+  "numMessagesInTopic": 1,
+  "msgSnippet": "Hi group, The Thoth font has been updated. You can find this font in the  usual place (at least for now), in the files = fonts section on the yahoo webpage",
+  "messageBody": "<div id=\"ygrps-yiv-654371654\">Hi group,<br/>\n<br/>\nThe Thoth font has been updated. You can find this font in the  usual <br/>\nplace (at least for now), in the files =&gt; fonts section on the yahoo <br/>\nwebpage for this mailing list.<br/>\n<br/>\nI have added some kerning, so that some pairs of letters, which had a <br/>\nbit too much space between them, now should fit right. In addition, I <br/>\nchanged the shape of Yo-yo. Several QS users noted that this letter <br/>\nlooked too much like the traditional orthography &quot;P.&quot; I had to guess <br/>\nwhat the shape should look like by looking at older fonts. If it needs <br/>\nto change, let me know.<br/>\n<br/>\nI think the font is ready for an official release, meaning I will upload <br/>\nit to the open fonts library, if no one else thinks there is anything <br/>\nmajor that needs improving. (I will continue to make small changes, <br/>\nparticularly fixing bad kerning.)<br/>\n<br/>\nPaul</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;phthenry@...&gt;\r\nX-Sender: phthenry@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 1619 invoked from network); 13 Nov 2007 18:11:25 -0000\r\nX-Received: from unknown (66.218.67.94)\n  by m46.grp.scd.yahoo.com with QMQP; 13 Nov 2007 18:11:25 -0000\r\nX-Received: from unknown (HELO rdsmtp.iglou.com) (192.107.41.63)\n  by mta15.grp.scd.yahoo.com with SMTP; 13 Nov 2007 18:11:25 -0000\r\nX-Received: from iglou4.iglou.com ([192.107.41.39] helo=mail.iglou.com)\n\tby rdsmtp.iglou.com with esmtpa (Exim MTA/8.19.3)\n\t(envelope-from &lt;phthenry@...&gt;)\n\tid 1Is0EO-0005Dr-Rn by authid &lt;igloumta&gt; with igloumta_auth\n\tfor Read_Alphabet@yahoogroups.com; Tue, 13 Nov 2007 13:11:24 -0500\r\nX-Received: from loudsl01-253-111-18.iglou.com ([64.253.111.18] helo=Enid-Johnsons-Computer.local)\n\tby smtp.iglou.com with esmtpa (Exim MTA/8.19.3)\n\t(envelope-from &lt;phthenry@...&gt;)\n\tid 1Is0EO-0004py-HC by authid &lt;phthenry@...&gt; with auth_plain\n\tfor Read_Alphabet@yahoogroups.com; Tue, 13 Nov 2007 13:11:24 -0500\r\nMessage-ID: &lt;4739E8C7.8000000@...&gt;\r\nDate: Tue, 13 Nov 2007 13:11:19 -0500\r\nUser-Agent: Thunderbird 2.0.0.6 (Macintosh/20070728)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nContent-Type: text/plain; charset=ISO-8859-1; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\nX-IgLou-Customer: 6ab7d2bd86677d7d54d075759b28f06c\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Paul Tremblay &lt;phthenry@...&gt;\r\nSubject: Thoth font updated\r\nX-Yahoo-Group-Post: member; u=214981082; y=QuKpVmpiIBvW2DcjolAWzeSzRZS2Mwz6uLgZT33V_WWJy4K7YBhFPg\r\nX-Yahoo-Profile: paulhtremblay\r\n\r\nHi group,\n\nThe Thoth font has been updated. You can find this font in the  usual \nplace (at least for now), in the files =&gt; fonts section on the yahoo \nwebpage for this mailing list.\n\nI have added some kerning, so that some pairs of letters, which had a \nbit too much space between them, now should fit right. In addition, I \nchanged the shape of Yo-yo. Several QS users noted that this letter \nlooked too much like the traditional orthography &quot;P.&quot; I had to guess \nwhat the shape should look like by looking at older fonts. If it needs \nto change, let me know.\n\nI think the font is ready for an official release, meaning I will upload \nit to the open fonts library, if no one else thinks there is anything \nmajor that needs improving. (I will continue to make small changes, \nparticularly fixing bad kerning.)\n\nPaul\n\n"
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "Za-9t3lhEmDJYsT2MQNPYMTJHTPwyLWAq0OV5afyBjnWNmLeNlo9ByW4tdJ_V_3CLeba-sHeSlrxHVNN0EkBCr4o",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] regional accents",
+  "postDate": "1384195518",
+  "msgId": 2575,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMTMxMTExMTg0NTE4LkdCODk5OUBtZXJjdXJ5LmNjaWwub3JnPg==",
+    "inReplyToHeader": "PGw1bm1uYSt2cmNqOHNAWWFob29Hcm91cHMuY29tPg==",
+    "referencesHeader": "PGw1bm1uYSt2cmNqOHNAWWFob29Hcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 2574,
+  "nextInTopic": 2576,
+  "prevInTime": 2574,
+  "nextInTime": 2576,
+  "topicId": 2574,
+  "numMessagesInTopic": 14,
+  "msgSnippet": "... This is a long-running debate on this list: whether to use the QS letters to represent the writer s accent, or to use them in a generalized way to ",
+  "messageBody": "<div id=\"ygrps-yiv-1226735053\"><a rel=\"nofollow\" target=\"_blank\" href=\"mailto:weshdim@...\">weshdim@...</a> scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Once I realized I was reading American pronunciation, things fell into<br/>\n&gt; place. (My accent is Australian.)<br/>\n<br/>\n </span></blockquote>This is a long-running debate on this list: whether to use the QS letters<br/>\nto represent the writer&#39;s accent, or to use them in a generalized way to<br/>\nrepresent (insofar as possible) all accents simultaneously, by making all<br/>\nthe distinctions that any living accent makes.  Traditional orthography,<br/>\ndespite its innumerable faults, actually succeeds at this quite well:<br/>\nit represents a roughly 14th-century pronunciation from which almost<br/>\nall living accents are descended.<br/>\n<br/>\nI say &quot;insofar as possible&quot; because QS fundamentally represents<br/>\nconservative RP, with concessions to American accents in the matter of<br/>\n&quot;r&quot;.  As a result, there are distinctions it cannot represent, most<br/>\nnotably the difference between &quot;horse&quot; and &quot;hoarse&quot; among those who<br/>\ndo not pronounce them the same.  (Traditional orthography mostly nails<br/>\nthis one, with the usual depressing list of exceptions: &quot;pork&quot; would<br/>\nbe better spelled &quot;poark&quot;, for example.)<br/>\n<br/>\nIn addition, there are three groups of words that vary fundamentally<br/>\nbetween accents, the BATH set, the DANCE set, and the CLOTH set.<br/>\nMy personal view is that the first two groups should be written with<br/>\n30 At and not 32 Ah, and the last with 34 Ox and not 33 Awe.  This does<br/>\nnot represent my own pronunciation!<br/>\n<br/>\n-- <br/>\nJohn Cowan    <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>    <a rel=\"nofollow\" target=\"_blank\" href=\"http://ccil.org/~cowan\">http://ccil.org/~cowan</a><br/>\nNobody expects the RESTifarian Inquisition!  Our chief weapon is<br/>\nsurprise ... surprise and tedium  ... tedium and surprise ....<br/>\nOur two weapons are tedium and surprise ... and ruthless disregard<br/>\nfor unpleasant facts....  Our three weapons are tedium, surprise, and<br/>\nruthless disregard ... and an almost fanatical devotion to Roy Fielding....</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 78277 invoked by uid 102); 11 Nov 2013 18:45:18 -0000\r\nX-Received: from unknown (HELO mtaq5.grp.bf1.yahoo.com) (10.193.84.36)\n  by m12.grp.bf1.yahoo.com with SMTP; 11 Nov 2013 18:45:18 -0000\r\nX-Received: (qmail 28790 invoked from network); 11 Nov 2013 18:45:18 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mtaq5.grp.bf1.yahoo.com with SMTP; 11 Nov 2013 18:45:18 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.72)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1VfwUA-0000gM-7k\n\tfor Read_Alphabet@yahoogroups.com; Mon, 11 Nov 2013 13:45:18 -0500\r\nDate: Mon, 11 Nov 2013 13:45:18 -0500\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20131111184518.GB8999@...&gt;\r\nReferences: &lt;l5nmna+vrcj8s@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;l5nmna+vrcj8s@...&gt;\r\nUser-Agent: Mutt/1.5.20 (2009-06-14)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nX-eGroups-From: John Cowan &lt;cowan@...&gt;\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] regional accents\r\nX-Yahoo-Group-Post: member; u=212516; y=4FrrUAyi9TQnD2NnmXFfWDNVkMjafst9skvJmTPlJb9bPCIUFA\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nweshdim@... scripsit:\n\n&gt; Once I realized I was reading American pronunciation, things fell into\n&gt; place. (My accent is Australian.)\n\nThis is a long-running debate on this list: whether to use the QS letters\nto represent the writer&#39;s accent, or to use them in a generalized way to\nrepresent (insofar as possible) all accents simultaneously, by making all\nthe distinctions that any living accent makes.  Traditional orthography,\ndespite its innumerable faults, actually succeeds at this quite well:\nit represents a roughly 14th-century pronunciation from which almost\nall living accents are descended.\n\nI say &quot;insofar as possible&quot; because QS fundamentally represents\nconservative RP, with concessions to American accents in the matter of\n&quot;r&quot;.  As a result, there are distinctions it cannot represent, most\nnotably the difference between &quot;horse&quot; and &quot;hoarse&quot; among those who\ndo not pronounce them the same.  (Traditional orthography mostly nails\nthis one, with the usual depressing list of exceptions: &quot;pork&quot; would\nbe better spelled &quot;poark&quot;, for example.)\n\nIn addition, there are three groups of words that vary fundamentally\nbetween accents, the BATH set, the DANCE set, and the CLOTH set.\nMy personal view is that the first two groups should be written with\n30 At and not 32 Ah, and the last with 34 Ox and not 33 Awe.  This does\nnot represent my own pronunciation!\n\n-- \nJohn Cowan    cowan@...    http://ccil.org/~cowan\nNobody expects the RESTifarian Inquisition!  Our chief weapon is\nsurprise ... surprise and tedium  ... tedium and surprise ....\nOur two weapons are tedium and surprise ... and ruthless disregard\nfor unpleasant facts....  Our three weapons are tedium, surprise, and\nruthless disregard ... and an almost fanatical devotion to Roy Fielding....\n\n"
+}

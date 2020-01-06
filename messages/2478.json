@@ -1,0 +1,31 @@
+{
+  "userId": 458641688,
+  "authorName": "Nathan Sharfi",
+  "from": "Nathan Sharfi &lt;bonusfrogs@...&gt;",
+  "profile": "dipartite",
+  "replyTo": "LIST",
+  "senderId": "D9-XuvwzIac07XIEoUzB9oB5cQF8tE6iwH5t1V5rKWy4V9j-19CFJEg7z8zwX5-IyAWHwbCYOONzEsGeawzfvKrkvxGqhT5YhOGz",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "What language tags for Quikscript?",
+  "postDate": "1367633164",
+  "msgId": 2478,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDcyQjhDNDYyLUVBMDQtNDBEMi04N0I4LUU1NUFBRjFDQUFDMkBnbWFpbC5jb20+"
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 2479,
+  "prevInTime": 2477,
+  "nextInTime": 2479,
+  "topicId": 2478,
+  "numMessagesInTopic": 5,
+  "msgSnippet": "I ve been looking over script tags and how to mint them, especially the instructions for private use on  Do",
+  "messageBody": "<div id=\"ygrps-yiv-950334393\">I&#39;ve been looking over script tags and how to mint them, especially the instructions for private use on &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"https://tools.ietf.org/html/bcp47#section-2.2.3\">https://tools.ietf.org/html/bcp47#section-2.2.3</a>&gt; Do en-Qaas, en-Qaas-US, en-Qaas-GB, and so on look reasonable?</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;bonusfrogs@...&gt;\r\nX-Sender: bonusfrogs@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 22755 invoked from network); 4 May 2013 02:06:08 -0000\r\nX-Received: from unknown (10.193.84.168)\n  by m8.grp.bf1.yahoo.com with QMQP; 4 May 2013 02:06:08 -0000\r\nX-Received: from unknown (HELO mail-pb0-f46.google.com) (209.85.160.46)\n  by mta6.grp.bf1.yahoo.com with SMTP; 4 May 2013 02:06:08 -0000\r\nX-Received: by mail-pb0-f46.google.com with SMTP id rq8so1158648pbb.33\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Fri, 03 May 2013 19:06:07 -0700 (PDT)\r\nX-Received: by 10.69.3.65 with SMTP id bu1mr16216980pbd.107.1367633167482;\n        Fri, 03 May 2013 19:06:07 -0700 (PDT)\r\nReturn-Path: &lt;bonusfrogs@...&gt;\r\nX-Received: from spreadthinly.localdomain (pool-72-67-36-2.lsanca.fios.verizon.net. [72.67.36.2])\n        by mx.google.com with ESMTPSA id az5sm11580449pbc.18.2013.05.03.19.06.05\n        for &lt;Read_Alphabet@yahoogroups.com&gt;\n        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);\n        Fri, 03 May 2013 19:06:06 -0700 (PDT)\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Transfer-Encoding: quoted-printable\r\nMessage-Id: &lt;72B8C462-EA04-40D2-87B8-E55AAF1CAAC2@...&gt;\r\nDate: Fri, 3 May 2013 19:06:04 -0700\r\nTo: &quot;Read_Alphabet@yahoogroups.com&quot; &lt;Read_Alphabet@yahoogroups.com&gt;\r\nMime-Version: 1.0 (Mac OS X Mail 6.3 &#92;(1503&#92;))\r\nX-Mailer: Apple Mail (2.1503)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Nathan Sharfi &lt;bonusfrogs@...&gt;\r\nSubject: What language tags for Quikscript?\r\nX-Yahoo-Group-Post: member; u=458641688; y=yWT8siDdEWo72rM0Ns9wH05fbX6edPlTzFr4hodYYCWPRq8P\r\nX-Yahoo-Profile: dipartite\r\n\r\nI&#39;ve been looking over script tags and how to mint them, especially the ins=\r\ntructions for private use on &lt;https://tools.ietf.org/html/bcp47#section-2.2=\r\n.3&gt; Do en-Qaas, en-Qaas-US, en-Qaas-GB, and so on look reasonable?\n"
+}

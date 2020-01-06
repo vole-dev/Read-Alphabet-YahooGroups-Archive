@@ -1,0 +1,31 @@
+{
+  "userId": 458641688,
+  "authorName": "Nathan Sharfi",
+  "from": "Nathan Sharfi &lt;bonusfrogs@...&gt;",
+  "profile": "dipartite",
+  "replyTo": "LIST",
+  "senderId": "jWQJ13Fe8S1eVjzOSbAJMlGycKqzTd23mBAbxdU3liK3EO-dfyL7UR-pVkluMjrO5bYk_kBzMPvmZrrUAEHVH-kIkLLUxGBXl7Er",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Cthulhu updates and name-dot parsimony",
+  "postDate": "1371454323",
+  "msgId": 2546,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PEFBQjlDOTE0LTQ0RUMtNEZCRC1BREY4LTAxQjk3Q0VGQzAzN0BnbWFpbC5jb20+"
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 0,
+  "prevInTime": 2545,
+  "nextInTime": 2547,
+  "topicId": 2546,
+  "numMessagesInTopic": 1,
+  "msgSnippet": "I pushed a pile of changes; they re all under the June 16 heading on . Simply click on the",
+  "messageBody": "<div id=\"ygrps-yiv-1707540234\">I pushed a pile of changes; they&#39;re all under the &quot;June 16&quot; heading on &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"https://github.com/adiabatic/qs-literature/commits/gh-pages\">https://github.com/adiabatic/qs-literature/commits/gh-pages</a>&gt;. Simply click on the ellipses to get the list of changes for that particular commit.<br/>\n<br/>\nIncidentally, is there a consensus on how to name-dot organizations like &quot;the American Archaeological Society&quot; and its abbreviation &quot;A. A. S.&quot;? I&#39;m uncomfortable with anything less dotted than &quot;\u00b7american \u00b7archaeological \u00b7society&quot; and &quot;\u00b7a. \u00b7a. \u00b7s&quot;, but Read prefers to play faster and looser with ending delimiters than I do\u2026<br/>\n<br/>\nI suppose I&#39;m just worried that I might introduce a giant pile of ambiguity by not explicitly identifying the tail end of a proper noun. Writing names of people surnamed &quot;Wood&quot; might show how Read&#39;s parsimony might trip up a reader, but a fully illustrated example of &quot;\u00b7bianca \u00b7wood&quot; vs. &quot;\u00b7bianca wood&quot; vs. &quot;\u00b7bianca would&quot; isn&#39;t coming to me at this hour.<br/>\n<br/>\nThoughts?</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;bonusfrogs@...&gt;\r\nX-Sender: bonusfrogs@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 47770 invoked by uid 102); 17 Jun 2013 07:32:06 -0000\r\nX-Received: from unknown (HELO mtaq5.grp.bf1.yahoo.com) (10.193.84.36)\n  by m5.grp.bf1.yahoo.com with SMTP; 17 Jun 2013 07:32:06 -0000\r\nX-Received: (qmail 25894 invoked from network); 17 Jun 2013 07:32:06 -0000\r\nX-Received: from unknown (HELO mail-ye0-f177.google.com) (209.85.213.177)\n  by mtaq5.grp.bf1.yahoo.com with SMTP; 17 Jun 2013 07:32:06 -0000\r\nX-Received: by mail-ye0-f177.google.com with SMTP id q11so846528yen.36\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Mon, 17 Jun 2013 00:32:05 -0700 (PDT)\r\nX-Received: by 10.236.126.174 with SMTP id b34mr7564474yhi.73.1371454325846;\n        Mon, 17 Jun 2013 00:32:05 -0700 (PDT)\r\nReturn-Path: &lt;bonusfrogs@...&gt;\r\nX-Received: from spreadthinly.localdomain (pool-74-100-97-239.lsanca.fios.verizon.net. [74.100.97.239])\n        by mx.google.com with ESMTPSA id 62sm22958278yhi.10.2013.06.17.00.32.04\n        for &lt;Read_Alphabet@yahoogroups.com&gt;\n        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);\n        Mon, 17 Jun 2013 00:32:05 -0700 (PDT)\r\nContent-Type: text/plain; charset=windows-1252\r\nContent-Transfer-Encoding: quoted-printable\r\nMessage-Id: &lt;AAB9C914-44EC-4FBD-ADF8-01B97CEFC037@...&gt;\r\nDate: Mon, 17 Jun 2013 00:32:03 -0700\r\nTo: &quot;Read_Alphabet@yahoogroups.com&quot; &lt;Read_Alphabet@yahoogroups.com&gt;\r\nMime-Version: 1.0 (Mac OS X Mail 6.5 &#92;(1508&#92;))\r\nX-Mailer: Apple Mail (2.1508)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Nathan Sharfi &lt;bonusfrogs@...&gt;\r\nSubject: Cthulhu updates and name-dot parsimony\r\nX-Yahoo-Group-Post: member; u=458641688; y=N2pH6E_n3vtBFQbsqCppx82mJR-EESnaArM4MU7WEMng3eG_\r\nX-Yahoo-Profile: dipartite\r\n\r\nI pushed a pile of changes; they&#39;re all under the &quot;June 16&quot; heading on &lt;htt=\r\nps://github.com/adiabatic/qs-literature/commits/gh-pages&gt;. Simply click on =\r\nthe ellipses to get the list of changes for that particular commit.\n\nIncide=\r\nntally, is there a consensus on how to name-dot organizations like &quot;the Ame=\r\nrican Archaeological Society&quot; and its abbreviation &quot;A. A. S.&quot;? I&#39;m uncomfor=\r\ntable with anything less dotted than &quot;=B7american =B7archaeological =B7soci=\r\nety&quot; and &quot;=B7a. =B7a. =B7s&quot;, but Read prefers to play faster and looser wit=\r\nh ending delimiters than I do=85\n\nI suppose I&#39;m just worried that I might i=\r\nntroduce a giant pile of ambiguity by not explicitly identifying the tail e=\r\nnd of a proper noun. Writing names of people surnamed &quot;Wood&quot; might show how=\r\n Read&#39;s parsimony might trip up a reader, but a fully illustrated example o=\r\nf &quot;=B7bianca =B7wood&quot; vs. &quot;=B7bianca wood&quot; vs. &quot;=B7bianca would&quot; isn&#39;t comi=\r\nng to me at this hour.\n\nThoughts?\n"
+}

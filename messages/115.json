@@ -1,0 +1,32 @@
+{
+  "userId": 31034496,
+  "authorName": "Ewout Stam",
+  "from": "&quot;Ewout Stam&quot; &lt;teraiten@...&gt;",
+  "profile": "teraiten",
+  "replyTo": "LIST",
+  "senderId": "1LysIbdxNzv45q66XQgSnNU1JEleHhy1Rf4Ny90AmDvxHNhauhZ5tbN19KEU1pJhZvGNN_-9HGfayvwnzS5Smi-b3GHJBvpL",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "A more efficient keyboard driver",
+  "postDate": "1015758066",
+  "msgId": 115,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDAwMWYwMWMxYzgyMyQzZjI1M2M2MCQwNTBiNjQzZUBiZXJ0aGE+"
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 0,
+  "prevInTime": 114,
+  "nextInTime": 116,
+  "topicId": 115,
+  "numMessagesInTopic": 1,
+  "msgSnippet": "Okay, I messed around a bit with Brian Roberts frequency list, available at http://www.wpi.edu/~flicken/language/shavian/freq.php . This driver should be a",
+  "messageBody": "<div id=\"ygrps-yiv-1195586714\">Okay, I messed around a bit with Brian Roberts&#39; frequency list, available at<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.wpi.edu/~flicken/language/shavian/freq.php\">http://www.wpi.edu/~flicken/language/shavian/freq.php</a> . This driver should<br/>\nbe a lot more efficient, but it will take some time to learn. I tried to put<br/>\nas many letters under single keys, based on their usage. Included in the zip<br/>\nis also a short manual. I might even publish this on my website someday.<br/>\nWe&#39;ll see.<br/>\n<br/>\nJust take a look and tell me what you think.<br/>\n<br/>\nEwout</div>",
+  "specialLinks": [],
+  "attachmentsInfo": [],
+  "rawEmail": "Return-Path: &lt;teraiten@...&gt;\r\nX-Sender: teraiten@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (EGP: unknown); 10 Mar 2002 11:04:32 -0000\r\nReceived: (qmail 19517 invoked from network); 10 Mar 2002 11:04:32 -0000\r\nReceived: from unknown (216.115.97.172)\n  by m2.grp.snv.yahoo.com with QMQP; 10 Mar 2002 11:04:32 -0000\r\nReceived: from unknown (HELO mint.nl.gxn.net) (62.100.30.37)\n  by mta2.grp.snv.yahoo.com with SMTP; 10 Mar 2002 11:04:32 -0000\r\nReceived: from bertha (asd-tel-ap01-d12-005.dial.freesurf.nl [62.100.11.5])\n\tby mint.nl.gxn.net (Postfix) with SMTP id A7D353BA93\n\tfor &lt;Read_Alphabet@yahoogroups.com&gt;; Sun, 10 Mar 2002 12:04:27 +0100 (MET)\r\nMessage-ID: &lt;001f01c1c823$3f253c60$050b643e@bertha&gt;\r\nTo: &quot;Read Alphabet&quot; &lt;Read_Alphabet@yahoogroups.com&gt;\r\nSubject: A more efficient keyboard driver\r\nDate: Sun, 10 Mar 2002 12:01:06 +0100\r\nMIME-Version: 1.0\r\nContent-Type: multipart/mixed;\n\tboundary=&quot;----=_NextPart_000_0011_01C1C82B.428EFAA0&quot;\r\nX-Priority: 3\r\nX-MSMail-Priority: Normal\r\nX-Mailer: Microsoft Outlook Express 4.72.3110.5\r\nX-MimeOLE: Produced By Microsoft MimeOLE V4.72.3110.3\r\nFrom: &quot;Ewout Stam&quot; &lt;teraiten@...&gt;\r\nX-Yahoo-Group-Post: member; u=31034496\r\nX-Yahoo-Profile: teraiten\r\n\r\n\r\n------=_NextPart_000_0011_01C1C82B.428EFAA0\r\nContent-Type: text/plain;\n\tcharset=&quot;iso-8859-1&quot;\r\nContent-Transfer-Encoding: 7bit\r\n\r\nOkay, I messed around a bit with Brian Roberts&#39; frequency list, available at\nhttp://www.wpi.edu/~flicken/language/shavian/freq.php . This driver should\nbe a lot more efficient, but it will take some time to learn. I tried to put\nas many letters under single keys, based on their usage. Included in the zip\nis also a short manual. I might even publish this on my website someday.\nWe&#39;ll see.\n\nJust take a look and tell me what you think.\n\nEwout\n\r\n------=_NextPart_000_0011_01C1C82B.428EFAA0\r\nContent-Type: application/x-zip-compressed;\n\tname=&quot;efficient.zip&quot;\r\nContent-Disposition: attachment;\n\tfilename=&quot;efficient.zip&quot;\r\n\r\n[ Attachment content not displayed ]\r\n------=_NextPart_000_0011_01C1C82B.428EFAA0--\r\n\n"
+}

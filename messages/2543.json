@@ -1,0 +1,33 @@
+{
+  "userId": 212516,
+  "authorName": "John Cowan",
+  "from": "John Cowan &lt;cowan@...&gt;",
+  "profile": "johnwcowan",
+  "replyTo": "LIST",
+  "senderId": "PwfbjOZ163PZ1E0DsxRwVHNDlsfxrFcsG0J1EZecrPrQm3IujNzWPbMlQwfWrh0723ihJDLAIbcPnT6yvV8RQJkD",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Re: thoughts on Shavian/Quikscript unification",
+  "postDate": "1369968578",
+  "msgId": 2543,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDIwMTMwNTMxMDI0OTM3LkdBMjE1MDFAbWVyY3VyeS5jY2lsLm9yZz4=",
+    "inReplyToHeader": "PEI5REU4NTYwLUYwNUUtNDE4MC1COTQ3LTdEMTRCQ0EyMDk3MEBnbWFpbC5jb20+",
+    "referencesHeader": "PEZEMTYxNEUxLTQ5MjgtNDE3NS1BREJCLUE5M0Q0OUIwNDYxNUBnbWFpbC5jb20+IDxCOURFODU2MC1GMDVFLTQxODAtQjk0Ny03RDE0QkNBMjA5NzBAZ21haWwuY29tPg=="
+  },
+  "prevInTopic": 2542,
+  "nextInTopic": 0,
+  "prevInTime": 2542,
+  "nextInTime": 2544,
+  "topicId": 2536,
+  "numMessagesInTopic": 5,
+  "msgSnippet": "... Can t hurt, might help. -- John Cowan   cowan@ccil.org    http://ccil.org/~cowan The known is finite, the unknown infinite; intellectually we stand on an",
+  "messageBody": "<div id=\"ygrps-yiv-276180838\">Nathan Sharfi scripsit:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Would it help clarify my position to the UTC and any other<br/>\n&gt; interested party if I were to prepare a page in the style of<br/>\n&gt; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.evertype.com/standards/cy/coptic.html\">http://www.evertype.com/standards/cy/coptic.html</a>&gt; that highlights the<br/>\n&gt; differences between Quikscript and Shavian? This would be in addition<br/>\n&gt; to my more interactive page, of course.<br/>\n<br/>\n </span></blockquote>Can&#39;t hurt, might help.<br/>\n<br/>\n-- <br/>\nJohn Cowan   <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cowan@...\">cowan@...</a>    <a rel=\"nofollow\" target=\"_blank\" href=\"http://ccil.org/~cowan\">http://ccil.org/~cowan</a><br/>\nThe known is finite, the unknown infinite; intellectually we stand<br/>\non an islet in the midst of an illimitable ocean of inexplicability.<br/>\nOur business in every generation is to reclaim a little more land,<br/>\nto add something to the extent and the solidity of our possessions.<br/>\n        --Thomas Henry Huxley</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;cowan@...&gt;\r\nX-Sender: cowan@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 67263 invoked by uid 102); 31 May 2013 02:49:38 -0000\r\nX-Received: from unknown (HELO mtaq3.grp.bf1.yahoo.com) (10.193.84.142)\n  by m11.grp.bf1.yahoo.com with SMTP; 31 May 2013 02:49:38 -0000\r\nX-Received: (qmail 27777 invoked from network); 31 May 2013 02:49:38 -0000\r\nX-Received: from unknown (HELO earth.ccil.org) (192.190.237.11)\n  by mtaq3.grp.bf1.yahoo.com with SMTP; 31 May 2013 02:49:38 -0000\r\nX-Received: from cowan by earth.ccil.org with local (Exim 4.72)\n\t(envelope-from &lt;cowan@...&gt;)\n\tid 1UiFPO-0007uV-3O\n\tfor Read_Alphabet@yahoogroups.com; Thu, 30 May 2013 22:49:38 -0400\r\nDate: Thu, 30 May 2013 22:49:38 -0400\r\nTo: Read_Alphabet@yahoogroups.com\r\nMessage-ID: &lt;20130531024937.GA21501@...&gt;\r\nReferences: &lt;FD1614E1-4928-4175-ADBB-A93D49B04615@...&gt;\n &lt;B9DE8560-F05E-4180-B947-7D14BCA20970@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nContent-Disposition: inline\r\nIn-Reply-To: &lt;B9DE8560-F05E-4180-B947-7D14BCA20970@...&gt;\r\nUser-Agent: Mutt/1.5.20 (2009-06-14)\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nX-eGroups-From: John Cowan &lt;cowan@...&gt;\r\nFrom: John Cowan &lt;cowan@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: thoughts on Shavian/Quikscript unification\r\nX-Yahoo-Group-Post: member; u=212516; y=lJZsHgOvBLVTRK4DT1h4uL6sQtelTyA2OtbbnTtvduTM1qsi1A\r\nX-Yahoo-Profile: johnwcowan\r\n\r\nNathan Sharfi scripsit:\n\n&gt; Would it help clarify my position to the UTC and any other\n&gt; interested party if I were to prepare a page in the style of\n&gt; &lt;http://www.evertype.com/standards/cy/coptic.html&gt; that highlights the\n&gt; differences between Quikscript and Shavian? This would be in addition\n&gt; to my more interactive page, of course.\n\nCan&#39;t hurt, might help.\n\n-- \nJohn Cowan   cowan@...    http://ccil.org/~cowan\nThe known is finite, the unknown infinite; intellectually we stand\non an islet in the midst of an illimitable ocean of inexplicability.\nOur business in every generation is to reclaim a little more land,\nto add something to the extent and the solidity of our possessions.\n        --Thomas Henry Huxley\n\n"
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 106270364,
+  "authorName": "Jean-Fran\ufffdois Colson",
+  "from": "&quot;Jean-Fran\u00e7ois Colson&quot; &lt;jfcolson@...&gt;",
+  "profile": "j_f_colson",
+  "replyTo": "LIST",
+  "senderId": "UaPzMPM_Rb4cBPmBQ_gulKM8shlbf4QMXN4r_dd-3524MYeyuRSg-4IIFbAKVX4LPKnrknhW3pGPMPXR8q9vgxmMV3q2n9sTJsIYQWfXe8mlcnupnZM",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] how to use Unicode",
+  "postDate": "1190967611",
+  "msgId": 1082,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDAyNDEwMWM4MDFhOCQ2ZWEwMWVhMCQwMjAyYThjMEB3aW4+",
+    "referencesHeader": "PDQ2RkM3RDAxLjgwNjA0MDJAaWdsb3UuY29tPg=="
+  },
+  "prevInTopic": 1081,
+  "nextInTopic": 1083,
+  "prevInTime": 1081,
+  "nextInTime": 1083,
+  "topicId": 1081,
+  "numMessagesInTopic": 4,
+  "msgSnippet": "Paul Tremblay wrote: how to use Unicode With an appropriate keyboard driver.",
+  "messageBody": "<div id=\"ygrps-yiv-179880507\">Paul Tremblay wrote:<br/>\n&quot;how to use Unicode&quot;<br/>\n<br/>\nWith an appropriate keyboard driver.<br/>\n<br/>\n<br/>\n<br/>\nPaul Tremblay wrote:<br/>\n<blockquote><span title=\"qreply\"> &gt; I installed the fonts in the fonts file and created a an example file<br/>\n&gt; with both Latin1 and UTF8 encoding, and low and behold, the text<br/>\n&gt; appeared perfectly in my browser! The only problem occurred when I<br/>\n&gt; didn&#39;t specify the Kinsley font for the text in Unicode, and the<br/>\n&gt; characters did not appear correctly. Likewise, when I opened the test<br/>\n&gt; page from the files section of this mailing list on by browser, the<br/>\n&gt; first test appeared correctly, but the second appeared as a mix of<br/>\n&gt; Asian and QuickScript (QS) characters. If I want to  mix Traditional<br/>\n&gt; Orthography (TO) and QS, I don&#39;t want to specify the Kingsley code,<br/>\n&gt; because then the text in TO will appear wrong.<br/>\n&gt; <br/>\n&gt; Also, how exactly does one use the Unicode fonts? Though they appear<br/>\n&gt; correct in an HTML browser, one can&#39;t type it in directly in any<br/>\n&gt; program that I know of. I wish I could type QS Unicode in a text<br/>\n&gt; editor like VIM instead of having to used an RTF editor and then<br/>\n&gt; paste it into the document I need.<br/>\n&gt; <br/>\n&gt; At any rate, I can write documents in HTML, format them with a print<br/>\n&gt; CSS stylesheet, and then convert them to PDF, which anyone can read,<br/>\n&gt; and which allows me to have a print copy in front of me. I prefer<br/>\n&gt; reading a piece of paper instead of a screen. So thanks amd64 for the<br/>\n&gt; hints, and thank you all who created the QS fonts.<br/>\n&gt; <br/>\n&gt; Paul<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; Yahoo! Groups Links<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; __________ Information NOD32 2553 (20070926) __________<br/>\n&gt; <br/>\n&gt; Ce message a ete verifie par NOD32 Antivirus System.<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nod32.com\">http://www.nod32.com</a> </span></blockquote></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;jfcolson@...&gt;\r\nX-Sender: jfcolson@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 27022 invoked from network); 28 Sep 2007 08:18:30 -0000\r\nReceived: from unknown (69.147.108.201)\n  by m48.grp.scd.yahoo.com with QMQP; 28 Sep 2007 08:18:30 -0000\r\nReceived: from unknown (HELO mailrelay003.isp.belgacom.be) (195.238.6.53)\n  by mta2.grp.re1.yahoo.com with SMTP; 28 Sep 2007 08:18:29 -0000\r\nReceived: from 149.58-177-91.adsl-dyn.isp.belgacom.be (HELO win) ([91.177.58.149])\n  by mailrelay003.isp.belgacom.be with SMTP; 28 Sep 2007 10:18:27 +0200\r\nX-Belgacom-Dynamic: yes\r\nMessage-ID: &lt;024101c801a8$6ea01ea0$0202a8c0@win&gt;\r\nTo: &lt;Read_Alphabet@yahoogroups.com&gt;\r\nReferences: &lt;46FC7D01.8060402@...&gt;\r\nDate: Fri, 28 Sep 2007 10:20:11 +0200\r\nMIME-Version: 1.0\r\nContent-Type: text/plain;\n\tformat=flowed;\n\tcharset=&quot;iso-8859-1&quot;;\n\treply-type=original\r\nContent-Transfer-Encoding: 7bit\r\nX-Priority: 3\r\nX-MSMail-Priority: Normal\r\nX-Mailer: Microsoft Outlook Express 6.00.2900.3138\r\nX-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.3138\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: &quot;Jean-Fran\ufffdois Colson&quot; &lt;jfcolson@...&gt;\r\nSubject: Re: [Read_Alphabet] how to use Unicode\r\nX-Yahoo-Group-Post: member; u=106270364; y=F4zQ2S9gy2ScGSZSCl4S2jdohoQIbNPOxLwPQlmhsRa9pph-gQ\r\nX-Yahoo-Profile: j_f_colson\r\n\r\nPaul Tremblay wrote:\n&quot;how to use Unicode&quot;\n\nWith an appropriate keyboard driver.\n\n\n\nPaul Tremblay wrote:\n&gt; I installed the fonts in the fonts file and created a an example file\n&gt; with both Latin1 and UTF8 encoding, and low and behold, the text\n&gt; appeared perfectly in my browser! The only problem occurred when I\n&gt; didn&#39;t specify the Kinsley font for the text in Unicode, and the\n&gt; characters did not appear correctly. Likewise, when I opened the test\n&gt; page from the files section of this mailing list on by browser, the\n&gt; first test appeared correctly, but the second appeared as a mix of\n&gt; Asian and QuickScript (QS) characters. If I want to  mix Traditional\n&gt; Orthography (TO) and QS, I don&#39;t want to specify the Kingsley code,\n&gt; because then the text in TO will appear wrong.\n&gt; \n&gt; Also, how exactly does one use the Unicode fonts? Though they appear\n&gt; correct in an HTML browser, one can&#39;t type it in directly in any\n&gt; program that I know of. I wish I could type QS Unicode in a text\n&gt; editor like VIM instead of having to used an RTF editor and then\n&gt; paste it into the document I need.\n&gt; \n&gt; At any rate, I can write documents in HTML, format them with a print\n&gt; CSS stylesheet, and then convert them to PDF, which anyone can read,\n&gt; and which allows me to have a print copy in front of me. I prefer\n&gt; reading a piece of paper instead of a screen. So thanks amd64 for the\n&gt; hints, and thank you all who created the QS fonts.\n&gt; \n&gt; Paul\n&gt; \n&gt; \n&gt; \n&gt; Yahoo! Groups Links\n&gt; \n&gt; \n&gt; \n&gt; \n&gt; __________ Information NOD32 2553 (20070926) __________\n&gt; \n&gt; Ce message a ete verifie par NOD32 Antivirus System.\n&gt; http://www.nod32.com\n\n"
+}

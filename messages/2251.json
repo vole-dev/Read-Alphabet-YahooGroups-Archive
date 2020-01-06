@@ -1,0 +1,30 @@
+{
+  "userId": 0,
+  "authorName": "Read_Alphabet@yahoogroups.com",
+  "from": "Read_Alphabet@yahoogroups.com ",
+  "replyTo": "LIST",
+  "senderId": "U3oFA6vV8t-rApuwbnhJVFEMEmtAa9mhOX59SYnCXnyBaZrELWraowzjgMifocvQXxziVGdocVVD7jvvpVuMGIkjcOQ9",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "New file uploaded to Read_Alphabet",
+  "postDate": "1315984189",
+  "msgId": 2251,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": true,
+  "headers": {
+    "messageIdInHeader": "PDEzMTU5ODQxODkuMTYzMTMuNTEwNzYudzExQHlhaG9vZ3JvdXBzLmNvbT4="
+  },
+  "prevInTopic": 2227,
+  "nextInTopic": 2256,
+  "prevInTime": 2250,
+  "nextInTime": 2252,
+  "topicId": 3,
+  "numMessagesInTopic": 91,
+  "msgSnippet": "Hello, This email message is a notification to let you know that a file has been uploaded to the Files area of the Read_Alphabet group. File        :",
+  "messageBody": "<div id=\"ygrps-yiv-1281480124\">Hello,<br/>\n<br/>\nThis email message is a notification to let you know that<br/>\na file has been uploaded to the Files area of the Read_Alphabet <br/>\ngroup.<br/>\n<br/>\n  File        : /Texts/wizard_of_oz-1-0-0.pdf <br/>\n  Uploaded by : peter_r_guinness &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:bacedif@...\">bacedif@...</a>&gt; <br/>\n  Description : &quot;The Wonderful Wizard Of Oz&quot;  - international QS version <br/>\n<br/>\nYou can access this file at the URL:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/Read_Alphabet/files/Texts/wizard_of_oz-1-0-0.pdf\">http://groups.yahoo.com/group/Read_Alphabet/files/Texts/wizard_of_oz-1-0-0.pdf</a> <br/>\n<br/>\nTo learn more about file sharing for your group, please visit:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://help.yahoo.com/l/us/yahoo/groups/original/members/web/index.html\">http://help.yahoo.com/l/us/yahoo/groups/original/members/web/index.html</a><br/>\nRegards,<br/>\n<br/>\npeter_r_guinness &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:bacedif@...\">bacedif@...</a>&gt;</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;notify@yahoogroups.com&gt;\r\nReceived: (qmail 15181 invoked from network); 14 Sep 2011 07:09:50 -0000\r\nReceived: from unknown (98.137.34.45)\n  by m12.grp.sp2.yahoo.com with QMQP; 14 Sep 2011 07:09:50 -0000\r\nReceived: from unknown (HELO n4-vm6.bullet.mail.sp2.yahoo.com) (67.195.135.100)\n  by mta2.grp.sp2.yahoo.com with SMTP; 14 Sep 2011 07:09:50 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1315984190; bh=LZPr9OYcQ14oRUYqVq2z0gwDpAL6hICfu5R8pMI1Xxs=; h=Received:Received:Received:Date:Message-ID:X-Yahoo-Newman-Property:X-eGroups-Auth:X-eGroups-Application:X-Yahoo-Group-Post:From:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding; b=LfjK5Q+DCPJzbBAZJuROIBWV+J4cKqaf3hXdxpyEiwKObzCVmvGxxrxC4rOivTZjZmHOAfT6OcsPj9U6lOEv2x3f0iw/dt7FvHmAVk5FRYfrdXq/xyeSWpQz1SruXR6b\r\nReceived: from [67.195.134.49] by n4.bullet.mail.sp2.yahoo.com with NNFMP; 14 Sep 2011 07:09:50 -0000\r\nReceived: from [69.147.65.147] by t2.bullet.mail.sp2.yahoo.com with NNFMP; 14 Sep 2011 07:09:50 -0000\r\nReceived: from [98.137.34.119] by t10.bullet.mail.sp1.yahoo.com with NNFMP; 14 Sep 2011 07:09:50 -0000\r\nDate: 14 Sep 2011 07:09:49 -0000\r\nMessage-ID: &lt;1315984189.16313.51076.w11@yahoogroups.com&gt;\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Application: files \r\nX-Yahoo-Group-Post: system\r\nFrom: Read_Alphabet@yahoogroups.com \r\nTo: Read_Alphabet@yahoogroups.com \r\nSubject: New file uploaded to Read_Alphabet \r\nMIME-Version: 1.0\r\nContent-Type: text/plain\r\nContent-Transfer-Encoding: 7bit\r\n\r\n\nHello,\n\nThis email message is a notification to let you know that\na file has been uploaded to the Files area of the Read_Alphabet \ngroup.\n\n  File        : /Texts/wizard_of_oz-1-0-0.pdf \n  Uploaded by : peter_r_guinness &lt;bacedif@...&gt; \n  Description : &quot;The Wonderful Wizard Of Oz&quot;  - international QS version \n\nYou can access this file at the URL:\nhttp://groups.yahoo.com/group/Read_Alphabet/files/Texts/wizard_of_oz-1-0-0.pdf \n\nTo learn more about file sharing for your group, please visit:\nhttp://help.yahoo.com/l/us/yahoo/groups/original/members/web/index.html\nRegards,\n\npeter_r_guinness &lt;bacedif@...&gt;\n \n\n\n\n\n"
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 134841503,
+  "authorName": "Ted Larson Freeman",
+  "from": "&quot;Ted Larson Freeman&quot; &lt;freeman@...&gt;",
+  "profile": "tedf255",
+  "replyTo": "LIST",
+  "senderId": "lG6pmKbNnz8VyOTXT6ASHdnmczSu4NJQ4T7RPFGCxq0CJlSuKNf8YSRY-Z8IA8ikJ6vr6BQOFL6sn3QyUuBWGt_tlCGSSoau69y4hPBLPSIizo3SAtNcoA",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Updated keyboard mappings, and examples for Out and Ooze",
+  "postDate": "1199861869",
+  "msgId": 1951,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDVkODcyOWYwMDgwMTA4MjI1N200M2UxNDQ5OHFmYzlkOGM0MjE2NmZhYjZmQG1haWwuZ21haWwuY29tPg=="
+  },
+  "prevInTopic": 0,
+  "nextInTopic": 1952,
+  "prevInTime": 1950,
+  "nextInTime": 1952,
+  "topicId": 1951,
+  "numMessagesInTopic": 7,
+  "msgSnippet": "I ve updated the spreadsheet with the keyboard mapping proposals, this time calling it qs_keybd_proposals2.csv . From now on, I ll indicate a version number",
+  "messageBody": "<div id=\"ygrps-yiv-2072346356\">I&#39;ve updated the spreadsheet with the keyboard mapping proposals, this<br/>\ntime calling it &#39;qs_keybd_proposals2.csv&#39;. From now on, I&#39;ll indicate<br/>\na version number both in the file name and in the first line of the<br/>\nfile. I hope that will make it easier to track changes. It&#39;s nice to<br/>\nretain some history, but I won&#39;t leave more than two old versions of<br/>\nthe file on the site. This version includes the swap of #37 and #40 in<br/>\nBPJ2, and the swap of #10 and #39 in QS-Nu. Benct explained his change<br/>\nearlier. The change to QS-Nu brings it in line with the other<br/>\nproposals for those letters.<br/>\n<br/>\nFor comparison of the assignments of #37 and #40, here are the<br/>\nexamples Benct came up with earlier (if I remember correctly):<br/>\n<br/>\nHow is your house in town?<br/>\nFew humane beauties are fooled by cute dudes in suits.<br/>\n<br/>\nUsing each proposal:<br/>\n<br/>\nJerome kbd:<br/>\n{hQ z jr hQs iG tQn?<br/>\nfjM hjMmEG bjMtIz r fMld bF kjMt dMdz iG sMts.}<br/>\n<br/>\nQS-SAMPA:<br/>\n{hH z jr hHs Iq tHn?<br/>\nfju hjumeq bjutiz r fuld bY kjut dudz Iq suts.}<br/>\n<br/>\nPeter Guinness:<br/>\n{hW z yr hWs iM tWn?<br/>\nfyU hyUmAM byUtEz r fUld bI kyUt dUdz iM sUts.}<br/>\n<br/>\nBPJ2:<br/>\n{hU z yr hUs iN tUn?<br/>\nfyB hyBmEN byBtIz r fBld bY kyBt dBdz iN sBts.}<br/>\n<br/>\nQS-Nu:<br/>\n{hP z yr hPs iN tPn?<br/>\nfyU hyUmEN byUtIz r fUld bY kyUt dUdz iN sUts.}<br/>\n<br/>\nMoira:<br/>\n{hQ z Yr hQs iM tQn?<br/>\nfYU hYUmAM bYUtEz r fUld bI kYUt dUdz iM sUts.}<br/>\n<br/>\nComments:<br/>\n1) I think I like Q for #37 after looking at the mappings of the first<br/>\nsentence...<br/>\n2) I don&#39;t like B for #40 at all. Please, Benct, let&#39;s revert that one.<br/>\n<br/>\nTed</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;tedf255@...&gt;\r\nX-Sender: tedf255@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 14063 invoked from network); 9 Jan 2008 06:57:50 -0000\r\nX-Received: from unknown (66.218.67.94)\n  by m57.grp.scd.yahoo.com with QMQP; 9 Jan 2008 06:57:50 -0000\r\nX-Received: from unknown (HELO fg-out-1718.google.com) (72.14.220.156)\n  by mta15.grp.scd.yahoo.com with SMTP; 9 Jan 2008 06:57:50 -0000\r\nX-Received: by fg-out-1718.google.com with SMTP id e21so123637fga.11\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Tue, 08 Jan 2008 22:57:49 -0800 (PST)\r\nX-Received: by 10.78.155.4 with SMTP id c4mr80281hue.79.1199861869283;\n        Tue, 08 Jan 2008 22:57:49 -0800 (PST)\r\nX-Received: by 10.78.48.11 with HTTP; Tue, 8 Jan 2008 22:57:49 -0800 (PST)\r\nMessage-ID: &lt;5d8729f00801082257m43e14498qfc9d8c42166fab6f@...&gt;\r\nDate: Tue, 8 Jan 2008 22:57:49 -0800\r\nTo: read_alphabet &lt;Read_Alphabet@yahoogroups.com&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Transfer-Encoding: 7bit\r\nContent-Disposition: inline\r\nX-Google-Sender-Auth: 2f4609d271a1bad9\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: &quot;Ted Larson Freeman&quot; &lt;freeman@...&gt;\r\nSubject: Updated keyboard mappings, and examples for Out and Ooze\r\nX-Yahoo-Group-Post: member; u=134841503; y=0EesEow8y2EwV9MfqMTSSgN6P6mGnuIMx2Ds6QX3d5x72A\r\nX-Yahoo-Profile: tedf255\r\n\r\nI&#39;ve updated the spreadsheet with the keyboard mapping proposals, this\ntime calling it &#39;qs_keybd_proposals2.csv&#39;. From now on, I&#39;ll indicate\na version number both in the file name and in the first line of the\nfile. I hope that will make it easier to track changes. It&#39;s nice to\nretain some history, but I won&#39;t leave more than two old versions of\nthe file on the site. This version includes the swap of #37 and #40 in\nBPJ2, and the swap of #10 and #39 in QS-Nu. Benct explained his change\nearlier. The change to QS-Nu brings it in line with the other\nproposals for those letters.\n\nFor comparison of the assignments of #37 and #40, here are the\nexamples Benct came up with earlier (if I remember correctly):\n\nHow is your house in town?\nFew humane beauties are fooled by cute dudes in suits.\n\nUsing each proposal:\n\nJerome kbd:\n{hQ z jr hQs iG tQn?\nfjM hjMmEG bjMtIz r fMld bF kjMt dMdz iG sMts.}\n\nQS-SAMPA:\n{hH z jr hHs Iq tHn?\nfju hjumeq bjutiz r fuld bY kjut dudz Iq suts.}\n\nPeter Guinness:\n{hW z yr hWs iM tWn?\nfyU hyUmAM byUtEz r fUld bI kyUt dUdz iM sUts.}\n\nBPJ2:\n{hU z yr hUs iN tUn?\nfyB hyBmEN byBtIz r fBld bY kyBt dBdz iN sBts.}\n\nQS-Nu:\n{hP z yr hPs iN tPn?\nfyU hyUmEN byUtIz r fUld bY kyUt dUdz iN sUts.}\n\nMoira:\n{hQ z Yr hQs iM tQn?\nfYU hYUmAM bYUtEz r fUld bI kYUt dUdz iM sUts.}\n\nComments:\n1) I think I like Q for #37 after looking at the mappings of the first\nsentence...\n2) I don&#39;t like B for #40 at all. Please, Benct, let&#39;s revert that one.\n\nTed\n\n"
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 128801813,
+  "authorName": "Ewout Stam",
+  "from": "Ewout Stam &lt;teraiten@...&gt;",
+  "profile": "teraiten",
+  "replyTo": "LIST",
+  "senderId": "HYlOZfVmcoIpIeLJ3bJjnyhe9z8rgFEfVUqSyz6cxw7cN4xFXc-o1Nh5MYR3QRZFPYQ_vAgiB-8-Zd01cs24i7JCbLcM0g",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Re: My layout",
+  "postDate": "1059474989",
+  "msgId": 364,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PFhTM1ZTMDA4M1hQT0hGRk5LVFJJQ0szV0dMRi4zZjI2NGUyZEBiZXJ0aGE+",
+    "inReplyToHeader": "PGJmaDFscys3M2ljQGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 348,
+  "nextInTopic": 0,
+  "prevInTime": 363,
+  "nextInTime": 365,
+  "topicId": 321,
+  "numMessagesInTopic": 4,
+  "msgSnippet": "... [snip] I experimented with some of that stuff. It doesn t work properly, but it s using this idea: the computer interprets multiple keypresses into a",
+  "messageBody": "<div id=\"ygrps-yiv-1027285105\">21-7-03 17:42:52, &quot;fctarbox3&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:rtarbox@...\">rtarbox@...</a>&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;Sorry for the extremely delayed response.<br/>\n&gt;<br/>\n&gt;Why do the half letters need their own separate keys?  The qwerty <br/>\n&gt;keyboard has been pressed into service for writing Arabic, with <br/>\n&gt;final, medial, initial, and isolated versions of most graphemes, as <br/>\n&gt;well as numerous vocalic diacritics; and Kana, where long key <br/>\n&gt;sequences lead to single characters.  This has forced the advance of <br/>\n&gt;font technology where the exact glyph used in a word can be <br/>\n&gt;determined by the computer, not the author.<br/>\n&gt;<br/>\n&gt;Shouldn&#39;t a new font be taking advantage of this technology?<br/>\n<br/>\n </span></blockquote>[snip]<br/>\n<br/>\nI experimented with some of that stuff. It doesn&#39;t work properly, but it&#39;s using this idea: the computer <br/>\ninterprets multiple keypresses into a single character.<br/>\n<br/>\nCheck the keyboard mappings on <a rel=\"nofollow\" target=\"_blank\" href=\"http://quikscript.teraiten.cjb.net\">http://quikscript.teraiten.cjb.net</a> (watch out for the popup, it has been reported <br/>\nto try to install gator on English computers).<br/>\n<br/>\nEwout</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;teraiten@...&gt;\r\nX-Sender: teraiten@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nReceived: (qmail 48725 invoked from network); 29 Jul 2003 10:52:19 -0000\r\nReceived: from unknown (66.218.66.218)\n  by m5.grp.scd.yahoo.com with QMQP; 29 Jul 2003 10:52:19 -0000\r\nReceived: from unknown (HELO hnexfe06.hetnet.nl) (195.121.6.172)\n  by mta3.grp.scd.yahoo.com with SMTP; 29 Jul 2003 10:52:19 -0000\r\nReceived: from bertha ([195.121.131.85]) by hnexfe06.hetnet.nl with Microsoft SMTPSVC(5.0.2195.5329);\n\t Tue, 29 Jul 2003 12:52:17 +0200\r\nTo: Read_Alphabet@yahoogroups.com\r\nDate: Tue, 29 Jul 2003 12:36:29 +0200\r\nX-Priority: 3 (Normal)\r\nOrganization: http://teraiten.cjb.net\r\nIn-Reply-To: &lt;bfh1ls+73ic@...&gt;\r\nMessage-Id: &lt;XS3VS0083XPOHFFNKTRICK3WGLF.3f264e2d@bertha&gt;\r\nSubject: Re: [Read_Alphabet] Re: My layout\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=&quot;ISO-8859-1&quot;\r\nX-Mailer: Opera 6.03 build 1107\r\nReturn-Path: teraiten@...\r\nX-OriginalArrivalTime: 29 Jul 2003 10:52:18.0058 (UTC) FILETIME=[7A9AB6A0:01C355BF]\r\nFrom: Ewout Stam &lt;teraiten@...&gt;\r\nX-Yahoo-Group-Post: member; u=128801813\r\nX-Yahoo-Profile: teraiten\r\n\r\n\n\n21-7-03 17:42:52, &quot;fctarbox3&quot; &lt;rtarbox@...&gt; wrote:\n\n&gt;Sorry for the extremely delayed response.\n&gt;\n&gt;Why do the half letters need their own separate keys?  The qwerty \n&gt;keyboard has been pressed into service for writing Arabic, with \n&gt;final, medial, initial, and isolated versions of most graphemes, as \n&gt;well as numerous vocalic diacritics; and Kana, where long key \n&gt;sequences lead to single characters.  This has forced the advance of \n&gt;font technology where the exact glyph used in a word can be \n&gt;determined by the computer, not the author.\n&gt;\n&gt;Shouldn&#39;t a new font be taking advantage of this technology?\n\n[snip]\n\nI experimented with some of that stuff. It doesn&#39;t work properly, but it&#39;s using this idea: the computer \ninterprets multiple keypresses into a single character.\n\nCheck the keyboard mappings on http://quikscript.teraiten.cjb.net (watch out for the popup, it has been reported \nto try to install gator on English computers).\n\nEwout\n\n\n\n"
+}

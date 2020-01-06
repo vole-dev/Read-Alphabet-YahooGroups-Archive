@@ -1,0 +1,33 @@
+{
+  "userId": 221991241,
+  "authorName": "Robert Jack Will",
+  "from": "Robert Jack Will &lt;willitheowl@...&gt;",
+  "profile": "conseil_it",
+  "replyTo": "LIST",
+  "senderId": "lOkP8dCUdGSPpSfmNvKsfdpZmvYl6oxmiUspn7_giEnrNzG2o3Cwu0PeZwzlCqdPAzU98gPOv4vlO0VytUa3ZOLEGZlRrl9-ZlbJRuzC8w",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "0"
+  },
+  "subject": "Re: [Read_Alphabet] Re: May this not be kicking a dead horse...",
+  "postDate": "1281205353",
+  "msgId": 2157,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PEFBTkxrVGlrNDhMbkZBNURBSkh3c0VNWldqLWp6PXRucnpGSllwd2dpdmVoREBtYWlsLmdtYWlsLmNvbT4=",
+    "inReplyToHeader": "PDAwNDQwMWNiMzY1MSRiZTAyOGM0MCQwMTAxYThjMEBhbGZhbGZhPg==",
+    "referencesHeader": "PGkzZWd2cis3cW42QGVHcm91cHMuY29tPiA8MDA0NDAxY2IzNjUxJGJlMDI4YzQwJDAxMDFhOGMwQGFsZmFsZmE+"
+  },
+  "prevInTopic": 2156,
+  "nextInTopic": 2158,
+  "prevInTime": 2156,
+  "nextInTime": 2158,
+  "topicId": 2150,
+  "numMessagesInTopic": 9,
+  "msgSnippet": "Hi Brent, I use Thoth Uni which maps Quickscript in the private use area of Unicode and thereby allows to mix QS and Latin letters. I have also made a",
+  "messageBody": "<div id=\"ygrps-yiv-1756240039\">Hi Brent,<br/>\nI use Thoth Uni which maps Quickscript in the private use area of<br/>\nUnicode and thereby allows to mix QS and Latin letters.<br/>\nI have also made a specialized QS keyboard layout which has the<br/>\nmost-used letters on the easiest  to type keys. This makes it easier<br/>\nto learn and more ergonomic to use.<br/>\nI implemented it using xkb.<br/>\nRobert</div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;willitheowl@...&gt;\r\nX-Sender: willitheowl@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 54172 invoked from network); 7 Aug 2010 18:22:53 -0000\r\nX-Received: from unknown (98.137.34.44)\n  by m1.grp.sp2.yahoo.com with QMQP; 7 Aug 2010 18:22:53 -0000\r\nX-Received: from unknown (HELO mail-qw0-f45.google.com) (209.85.216.45)\n  by mta1.grp.sp2.yahoo.com with SMTP; 7 Aug 2010 18:22:53 -0000\r\nX-Received: by qwi4 with SMTP id 4so1027062qwi.4\n        for &lt;Read_Alphabet@yahoogroups.com&gt;; Sat, 07 Aug 2010 11:22:53 -0700 (PDT)\r\nX-Received: by 10.220.62.5 with SMTP id v5mr9027476vch.30.1281205373199; Sat, 07 \n\tAug 2010 11:22:53 -0700 (PDT)\r\nMIME-Version: 1.0\r\nX-Received: by 10.220.194.134 with HTTP; Sat, 7 Aug 2010 11:22:33 -0700 (PDT)\r\nIn-Reply-To: &lt;004401cb3651$be028c40$0101a8c0@alfalfa&gt;\r\nReferences: &lt;i3egvr+7qn6@...&gt; &lt;004401cb3651$be028c40$0101a8c0@alfalfa&gt;\r\nDate: Sat, 7 Aug 2010 20:22:33 +0200\r\nX-Google-Sender-Auth: QUtxL0Fd3AOskpzfQV5rY-MxmnU\r\nMessage-ID: &lt;AANLkTik48LnFA5DAJHwsEMZWj-jz=tnrzFJYpwgivehD@...&gt;\r\nTo: Read_Alphabet@yahoogroups.com\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nX-eGroups-From: Robert Jack Will &lt;matey.jack@...&gt;\r\nFrom: Robert Jack Will &lt;willitheowl@...&gt;\r\nSubject: Re: [Read_Alphabet] Re: May this not be kicking a dead horse...\r\nX-Yahoo-Group-Post: member; u=221991241; y=eZ-H5KP9ebe5r1nP-C8IZkGQhvgz5GCUQrSH6Yam0GRD-Cjtkw\r\nX-Yahoo-Profile: conseil_it\r\n\r\nHi Brent,\nI use Thoth Uni which maps Quickscript in the private use area of\nUnicode and thereby allows to mix QS and Latin letters.\nI have also made a specialized QS keyboard layout which has the\nmost-used letters on the easiest  to type keys. This makes it easier\nto learn and more ergonomic to use.\nI implemented it using xkb.\nRobert\n\n"
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 82638473,
+  "authorName": "Michael Everson",
+  "from": "Michael Everson &lt;everson@...&gt;",
+  "profile": "evertype",
+  "replyTo": "LIST",
+  "senderId": "5T7oFSYiX3ABYeil_h8aMPDXOgGgfzW6aPLY6MvuXos5aCzxlClSumBgjjq4dNbfnj0dS4X2oQFcEEg2uLu8ruXjv7hpEHDlnruyl-s",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Interim Font Code Standard",
+  "postDate": "1366109507",
+  "msgId": 2404,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDJCOTAzNkY2LTlFMzAtNDFCQS1CMDk4LTBDQUY4QUM0NEEwNkBldmVydHlwZS5jb20+",
+    "inReplyToHeader": "PGtraWM1bitqZHZ2QGVHcm91cHMuY29tPg==",
+    "referencesHeader": "PGtraWM1bitqZHZ2QGVHcm91cHMuY29tPg=="
+  },
+  "prevInTopic": 2402,
+  "nextInTopic": 2405,
+  "prevInTime": 2403,
+  "nextInTime": 2405,
+  "topicId": 2402,
+  "numMessagesInTopic": 6,
+  "msgSnippet": "You d be better off using what you are using now and then mapping directly to Unicode in due course. Otherwise you will be establishing three different",
+  "messageBody": "<div id=\"ygrps-yiv-1893607925\">You&#39;d be better off using what you are using now and then mapping directly to Unicode in due course. Otherwise you will be establishing three different standards. <br/>\n<br/>\n<blockquote><span title=\"qreply\"> On 16 Apr 2013, at 03:14, Zyggy2 &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:jayson@...\">jayson@...</a>&gt; wrote:<br/>\n<br/>\n&gt; While the Unicode thread works is way through consensus and appears to be the first step in a multi-year process, I&#39;m curious if there is interest in establishing a standard for Unicode Private Use . <br/>\n&gt; <br/>\n&gt; I&#39;ve looked at a few of the QuikScript fonts and see that they are bound to the Latin alphabet or to the U+E650-E692 range. That range conflicts with Ewellic and it would be best to play nice. Any interest in stabilizing a set for current and future font designs?<br/>\n&gt; <br/>\n&gt; I see Shavian has conveniently left the range E700&#8722;E72F available since their glyphs were fully adopted by Unicode in 2003...<br/>\n&gt; <br/>\n&gt; Jayson<br/>\n&gt; <br/>\n&gt; <br/>\n<br/>\nMichael Everson * <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.evertype.com/\">http://www.evertype.com/</a> </span></blockquote></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;everson@...&gt;\r\nX-Sender: everson@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 69728 invoked by uid 102); 16 Apr 2013 10:51:49 -0000\r\nX-Received: from unknown (HELO mta1.grp.bf1.yahoo.com) (10.193.84.135)\n  by m6.grp.bf1.yahoo.com with SMTP; 16 Apr 2013 10:51:49 -0000\r\nX-Received: (qmail 25875 invoked from network); 16 Apr 2013 10:51:48 -0000\r\nX-Received: from unknown (HELO lh19.dnsireland.com) (78.137.164.59)\n  by mta1.grp.bf1.yahoo.com with SMTP; 16 Apr 2013 10:51:48 -0000\r\nX-Received: from [77.107.209.124] (port=53378 helo=[192.168.10.11])\n\tby lh19.dnsireland.com with esmtpsa (TLSv1:AES128-SHA:128)\n\t(Exim 4.80)\n\t(envelope-from &lt;everson@...&gt;)\n\tid 1US3UD-0006eC-2N\n\tfor Read_Alphabet@yahoogroups.com; Tue, 16 Apr 2013 11:51:41 +0100\r\nContent-Type: text/plain; charset=windows-1252\r\nMime-Version: 1.0 (Mac OS X Mail 6.5 &#92;(1507&#92;))\r\nIn-Reply-To: &lt;kkic5n+jdvv@...&gt;\r\nDate: Tue, 16 Apr 2013 11:51:47 +0100\r\nContent-Transfer-Encoding: quoted-printable\r\nMessage-Id: &lt;2B9036F6-9E30-41BA-B098-0CAF8AC44A06@...&gt;\r\nReferences: &lt;kkic5n+jdvv@...&gt;\r\nTo: Read_Alphabet@yahoogroups.com\r\nX-Mailer: Apple Mail (2.1507)\r\nX-AntiAbuse: This header was added to track abuse, please include it with any abuse report\r\nX-AntiAbuse: Primary Hostname - lh19.dnsireland.com\r\nX-AntiAbuse: Original Domain - yahoogroups.com\r\nX-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]\r\nX-AntiAbuse: Sender Address Domain - evertype.com\r\nX-Source: \r\nX-Source-Args: \r\nX-Source-Dir: \r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Michael Everson &lt;everson@...&gt;\r\nSubject: Re: [Read_Alphabet] Interim Font Code Standard\r\nX-Yahoo-Group-Post: member; u=82638473; y=Wtmh7JVF9XbvknyoK-k9tHlXsePS3skamgwX_8VEjrWtDWI\r\nX-Yahoo-Profile: evertype\r\n\r\nYou&#39;d be better off using what you are using now and then mapping directly =\r\nto Unicode in due course. Otherwise you will be establishing three differen=\r\nt standards. \n\nOn 16 Apr 2013, at 03:14, Zyggy2 &lt;jayson@...&gt; wrote:\n=\r\n\n&gt; While the Unicode thread works is way through consensus and appears to b=\r\ne the first step in a multi-year process, I&#39;m curious if there is interest =\r\nin establishing a standard for Unicode Private Use . \n&gt; \n&gt; I&#39;ve looked at a=\r\n few of the QuikScript fonts and see that they are bound to the Latin alpha=\r\nbet or to the U+E650-E692 range. That range conflicts with Ewellic and it w=\r\nould be best to play nice. Any interest in stabilizing a set for current an=\r\nd future font designs?\n&gt; \n&gt; I see Shavian has conveniently left the range E=\r\n700&#8722;E72F available since their glyphs were fully adopted by Unicode i=\r\nn 2003...\n&gt; \n&gt; Jayson\n&gt; \n&gt; \n\nMichael Everson * http://www.evertype.com/\n\n\n"
+}

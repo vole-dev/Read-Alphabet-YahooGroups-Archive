@@ -1,0 +1,33 @@
+{
+  "userId": 180175951,
+  "authorName": "amd64_hacker",
+  "from": "amd64_hacker &lt;amd64_hacker@...&gt;",
+  "profile": "amd64_hacker",
+  "replyTo": "LIST",
+  "senderId": "cmYZSVFzmdG3JAY7OPTAKdpMX1CI97RQmIYkxdw7nSfk5ZVb6KQ9AXbBbRdkSwHXNtZq-zHEG47g8wxac8HliQ4vcSl3NUTF53ppv5Lh",
+  "spamInfo": {
+    "isSpam": false,
+    "reason": "12"
+  },
+  "subject": "Re: [Read_Alphabet] Review charts for Shavian Quikscript Extensions",
+  "postDate": "1193869702",
+  "msgId": 1204,
+  "canDelete": false,
+  "contentTrasformed": false,
+  "systemMessage": false,
+  "headers": {
+    "messageIdInHeader": "PDQ3MjkwMTg2LjMwMzAyMDZAeWFob28uY28udWs+",
+    "inReplyToHeader": "PGZnODdjaSt1b3BAZUdyb3Vwcy5jb20+",
+    "referencesHeader": "PGZnODdjaSt1b3BAZUdyb3Vwcy5jb20+"
+  },
+  "prevInTopic": 1183,
+  "nextInTopic": 1214,
+  "prevInTime": 1203,
+  "nextInTime": 1205,
+  "topicId": 1164,
+  "numMessagesInTopic": 21,
+  "msgSnippet": "I m a little confused by page 1. I see two tables which seem to show the same space but have different values, is that a typo? I omitted characters with",
+  "messageBody": "<div id=\"ygrps-yiv-760004222\">I&#39;m a little confused by page 1.<br/>\nI see two tables which seem to show the same space but have different<br/>\nvalues, is that a typo?<br/>\n<br/>\nI omitted characters with alternate forms (DAY, UTTER and similar) from<br/>\nthe draft.<br/>\nI thought they needed extra scrutiny since they don&#39;t always behaved in<br/>\nthe same way as their Shavian counterparts.<br/>\nFor example, UTTER&#39;s alternate form looks something like a reverse ROE<br/>\nor a Shavian LOLL, I think that makes it unsuitable for merging.<br/>\nDAY/DEAD, I&#39;m fairly certain, has the same alternate form in Shavian and<br/>\nQuikScript.<br/>\n<br/>\nThe glyphs for AH, AWE and MIME, NUN are identical, but the sounds are<br/>\nnot alike.<br/>\n<br/>\nOther than those minor points, I think that is what we want.<br/>\n<br/>\nWhat happens script wise if we merge Shavian and QuikScript?<br/>\nI presume a new Unicode block will be created for the &#39;QuikScript<br/>\nExtentions&#39;, but do we inherit the script code Shaw or do we get a new one?<br/>\n<br/>\nMichael Everson wrote:<br/>\n<blockquote><span title=\"qreply\"> &gt;<br/>\n&gt; Please review the charts I made to see if (at least) I understood the<br/>\n&gt; unification model.<br/>\n&gt;<br/>\n&gt; The letters AH and AWE are very very similar to Shavian MIME and NUN.<br/>\n&gt; Very similar.<br/>\n&gt;<br/>\n&gt; Michael<br/>\n&gt;<br/>\n&gt; </span></blockquote></div>",
+  "specialLinks": [],
+  "rawEmail": "Return-Path: &lt;amd64_hacker@...&gt;\r\nX-Sender: amd64_hacker@...\r\nX-Apparently-To: Read_Alphabet@yahoogroups.com\r\nX-Received: (qmail 61016 invoked from network); 1 Nov 2007 00:21:48 -0000\r\nX-Received: from unknown (66.218.67.96)\n  by m55.grp.scd.yahoo.com with QMQP; 1 Nov 2007 00:21:48 -0000\r\nX-Received: from unknown (HELO smtp009.mail.ukl.yahoo.com) (217.12.11.63)\n  by mta17.grp.scd.yahoo.com with SMTP; 1 Nov 2007 00:21:48 -0000\r\nX-Received: (qmail 54833 invoked from network); 31 Oct 2007 22:25:37 -0000\r\nX-Received: from unknown (HELO ?192.168.0.1?) (amd64_hacker@82.19.52.162 with plain)\n  by smtp009.mail.ukl.yahoo.com with SMTP; 31 Oct 2007 22:25:37 -0000\r\nX-YMail-OSG: ._maXpIVM1kgojKOUiWlV79sdVQa2rbUpSs3n9POsqUoV_PFzrHmw4xBnMuHgOBsnuxMN17LssjfXiH1AXRmK0Y4S8XfqaS3ZwiyGrKvAE6jz3FJ\r\nMessage-ID: &lt;47290186.3030206@...&gt;\r\nDate: Wed, 31 Oct 2007 22:28:22 +0000\r\nUser-Agent: Thunderbird 1.5.0.10 (X11/20070306)\r\nMIME-Version: 1.0\r\nTo: Read_Alphabet@yahoogroups.com\r\nReferences: &lt;fg87ci+uop@...&gt;\r\nIn-Reply-To: &lt;fg87ci+uop@...&gt;\r\nX-Enigmail-Version: 0.94.0.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: amd64_hacker &lt;amd64_hacker@...&gt;\r\nSubject: Re: [Read_Alphabet] Review charts for Shavian Quikscript Extensions\r\nX-Yahoo-Group-Post: member; u=180175951; y=5rRvBicSAKC8m52KvWuVDNoJL1sAwyymmizoNOEadL1xzwxjPjY8\r\nX-Yahoo-Profile: amd64_hacker\r\n\r\nI&#39;m a little confused by page 1.\nI see two tables which seem to show the same space but have different\nvalues, is that a typo?\n\nI omitted characters with alternate forms (DAY, UTTER and similar) from\nthe draft.\nI thought they needed extra scrutiny since they don&#39;t always behaved in\nthe same way as their Shavian counterparts.\nFor example, UTTER&#39;s alternate form looks something like a reverse ROE\nor a Shavian LOLL, I think that makes it unsuitable for merging.\nDAY/DEAD, I&#39;m fairly certain, has the same alternate form in Shavian and\nQuikScript.\n\nThe glyphs for AH, AWE and MIME, NUN are identical, but the sounds are\nnot alike.\n\nOther than those minor points, I think that is what we want.\n\nWhat happens script wise if we merge Shavian and QuikScript?\nI presume a new Unicode block will be created for the &#39;QuikScript\nExtentions&#39;, but do we inherit the script code Shaw or do we get a new one?\n\nMichael Everson wrote:\n&gt;\n&gt; Please review the charts I made to see if (at least) I understood the\n&gt; unification model.\n&gt;\n&gt; The letters AH and AWE are very very similar to Shavian MIME and NUN.\n&gt; Very similar.\n&gt;\n&gt; Michael\n&gt;\n&gt;  \n\n\n"
+}
