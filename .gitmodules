@@ -1,0 +1,4 @@
+[submodule "Read_Alphabet"]
+	path = Read_Alphabet
+	url = ./
+	branch = archive-download
